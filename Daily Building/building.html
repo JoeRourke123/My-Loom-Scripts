@@ -1,0 +1,212 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Building</title>
+
+<!--
+  The conceit: the sheet is a drawing sheet. Drafting paper in light mode, blueprint in dark, a
+  hairline construction grid under everything, monospace for anything a draughtsman would letter by
+  hand, and a title block instead of a byline. Sections are numbered like drawing sheets, A-01 up.
+
+  Served with bar: false so the page owns the full sheet — which costs the Done button, so the
+  masthead scrolls to top and a floating ↑ appears early. Both are the exit, not decoration.
+
+  No viewport-fit=cover and no env(safe-area-inset-*): the sheet still applies a top inset with the
+  bar hidden, and adding our own would double-count it.
+-->
+<style>
+  :root {
+    color-scheme: light dark;
+    --paper: #F2EFE7;          /* drafting paper */
+    --ink: #17181B;
+    --dim: #5E6167;
+    --rule: #C9C4B6;           /* pencil rule */
+    --grid: rgba(23,24,27,0.055);
+    --blue: #1F5FA9;           /* the one accent: drafting pen blue */
+    --plate: #E4E0D6;
+    --mono: ui-monospace, "SF Mono", Menlo, monospace;
+    --serif: ui-serif, "Iowan Old Style", Georgia, serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0D1520;        /* blueprint */
+      --ink: #E8EDF4;
+      --dim: #8C9AAC;
+      --rule: #2A3B52;
+      --grid: rgba(150,190,240,0.07);
+      --blue: #6FA8FF;
+      --plate: #0A1119;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; padding: 0 0 60px;
+    background: var(--paper); color: var(--ink);
+    font: 16px/1.5 var(--mono);
+    overflow-wrap: break-word;
+    /* The construction grid. 22px module, doubled every fifth line, exactly as squared paper. */
+    background-image:
+      linear-gradient(var(--grid) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+    background-size: 22px 22px, 22px 22px;
+  }
+
+  /* ── Masthead ────────────────────────────────────────────────────────────────────────────── */
+  #mast {
+    position: sticky; top: 0; z-index: 20;
+    display: flex; gap: 7px; align-items: center;
+    padding: 8px 14px;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--rule);
+  }
+  #mast .word {
+    font: 700 10px/1 var(--mono); letter-spacing: 0.2em; text-transform: uppercase;
+    background: none; border: 0; color: var(--ink); padding: 4px 0; margin-right: auto;
+    white-space: nowrap; flex: none;
+  }
+  #mast .word em { font-style: normal; color: var(--blue); }
+  #mast button, #mast input {
+    font: 12px/1 var(--mono); padding: 6px 9px; border-radius: 3px;
+    border: 1px solid var(--rule); background: transparent; color: var(--ink);
+  }
+  #mast input { max-width: 122px; }
+  #mast.htmx-request { opacity: 0.45; pointer-events: none; }
+  #mast { transition: opacity 0.15s; }
+
+  #totop {
+    position: fixed; right: 14px; bottom: 20px; z-index: 30;
+    width: 40px; height: 40px; border-radius: 3px;
+    border: 1px solid var(--rule); background: var(--paper); color: var(--ink); font-size: 17px;
+    /* Scroll-timeline driven, and defaults to VISIBLE so the escape hatch fails open. */
+    opacity: 1;
+    animation: reveal linear both;
+    animation-timeline: scroll(root block);
+    animation-range: 300px 400px;
+  }
+  @keyframes reveal { from { opacity: 0; pointer-events: none; } to { opacity: 1; pointer-events: auto; } }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  .wrap { padding: 0 16px; max-width: 44rem; margin: 0 auto; }
+
+  /* ── Drawing number + title ──────────────────────────────────────────────────────────────── */
+  .sheetno {
+    margin: 20px 0 10px; font: 700 10px/1 var(--mono);
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--blue);
+  }
+  h1.headline {
+    margin: 0 0 12px; font: 400 30px/1.14 var(--serif); letter-spacing: -0.012em;
+    text-wrap: balance;
+  }
+  .standfirst { margin: 0 0 20px; font: 400 17px/1.5 var(--serif); color: var(--dim); }
+
+  /* ── The plate: a photograph presented as a drawing, with corner ticks ───────────────────── */
+  .plate { position: relative; margin: 0 0 8px; padding: 9px; border: 1px solid var(--rule); background: var(--plate); }
+  .plate img { width: 100%; display: block; }
+  .plate i {
+    position: absolute; width: 9px; height: 9px; border: 0 solid var(--blue); opacity: 0.85;
+  }
+  .plate i:nth-child(1) { top: -1px; left: -1px; border-top-width: 2px; border-left-width: 2px; }
+  .plate i:nth-child(2) { top: -1px; right: -1px; border-top-width: 2px; border-right-width: 2px; }
+  .plate i:nth-child(3) { bottom: -1px; left: -1px; border-bottom-width: 2px; border-left-width: 2px; }
+  .plate i:nth-child(4) { bottom: -1px; right: -1px; border-bottom-width: 2px; border-right-width: 2px; }
+  .platecap {
+    margin: 0 0 22px; font: 10.5px/1.5 var(--mono); color: var(--dim);
+    display: flex; justify-content: space-between; gap: 10px; padding-top: 6px;
+  }
+  .platecap a { color: var(--dim); }
+
+  /* ── Title block: the metadata as a drawing's corner stamp ───────────────────────────────── */
+  .titleblock { border: 1px solid var(--rule); margin: 0 0 22px; }
+  .titleblock div { display: flex; border-bottom: 1px solid var(--rule); }
+  .titleblock div:last-child { border-bottom: 0; }
+  .titleblock dt {
+    flex: none; width: 96px; margin: 0; padding: 8px 10px;
+    font: 700 9.5px/1.5 var(--mono); letter-spacing: 0.13em; text-transform: uppercase;
+    color: var(--dim); border-right: 1px solid var(--rule);
+  }
+  .titleblock dd { margin: 0; padding: 8px 10px; font: 12.5px/1.5 var(--mono); flex: 1; min-width: 0; }
+
+  /* ── Timeline rule: where this building sits among all 487 ───────────────────────────────── */
+  .scale { margin: 0 0 26px; }
+  .scale .bar { position: relative; height: 30px; border-bottom: 1px solid var(--rule); }
+  .scale .tick { position: absolute; bottom: 0; width: 1px; height: 6px; background: var(--rule); }
+  .scale .tick.major { height: 11px; }
+  .scale .you {
+    position: absolute; bottom: 0; width: 2px; height: 26px; background: var(--blue);
+  }
+  .scale .you::after {
+    content: ""; position: absolute; top: -4px; left: -3px;
+    width: 8px; height: 8px; background: var(--blue); border-radius: 50%;
+  }
+  /* Each label is absolutely placed at its own scale position, so it sits under its own tick.
+     translateX(-50%) centres it; the first and last are nudged so they cannot overhang the rule. */
+  .scale .lbl { position: relative; height: 16px; font: 9.5px/1.6 var(--mono); color: var(--dim); }
+  .scale .lbl span { position: absolute; transform: translateX(-50%); white-space: nowrap; }
+  .scale .lbl span:first-child { transform: none; }
+  .scale .lbl span:last-child { transform: translateX(-100%); }
+  .scale .cap { font: 9.5px/1.6 var(--mono); color: var(--blue); letter-spacing: 0.1em; text-transform: uppercase; }
+
+  /* ── Sections ───────────────────────────────────────────────────────────────────────────── */
+  section.part { border-top: 1px solid var(--rule); padding-top: 18px; margin-top: 26px; }
+  .partno { font: 700 10px/1 var(--mono); letter-spacing: 0.18em; color: var(--blue); margin: 0 0 8px; }
+  section.part h2 { margin: 0 0 12px; font: 400 21px/1.25 var(--serif); }
+  section.part figure { margin: 0 0 14px; border: 1px solid var(--rule); padding: 7px; background: var(--plate); }
+  section.part figure img { width: 100%; display: block; }
+  section.part figcaption { margin-top: 6px; font: 10px/1.5 var(--mono); color: var(--dim); }
+  section.part figcaption a { color: inherit; }
+
+  .body { font: 400 16.5px/1.66 var(--serif); }
+  .body p { margin: 0 0 14px; }
+  .body p:last-child { margin-bottom: 0; }
+  .body a { color: var(--ink); text-decoration-color: var(--blue); text-underline-offset: 3px; }
+  .body blockquote {
+    margin: 15px 0; padding-left: 14px; border-left: 2px solid var(--blue); color: var(--dim);
+  }
+
+  .actions { display: flex; gap: 8px; margin: 34px 0 10px; }
+  .actions button {
+    flex: 1; font: 12px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 13px; border-radius: 3px; border: 1px solid var(--rule);
+    background: transparent; color: var(--ink);
+  }
+  .actions button.on { background: var(--blue); border-color: var(--blue); color: #fff; }
+
+  /* ── Panels ─────────────────────────────────────────────────────────────────────────────── */
+  .panel { padding: 80px 20px; text-align: center; }
+  .panel h2 { font: 400 22px/1.3 var(--serif); margin: 0 0 10px; }
+  .panel p { color: var(--dim); margin: 6px 0; font: 12px/1.6 var(--mono); }
+  .panel .err { color: #C0392B; }
+  @media (prefers-color-scheme: dark) { .panel .err { color: #FF8F83; } }
+  .panel progress { width: 100%; height: 4px; margin: 18px 0 10px; accent-color: var(--blue); }
+  .panel button {
+    font: 12px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase;
+    margin: 14px 5px 0; padding: 12px 18px; border-radius: 3px;
+    border: 1px solid var(--blue); background: var(--blue); color: #fff;
+  }
+  .panel button.ghost { background: transparent; color: var(--ink); border-color: var(--rule); }
+
+  .index { margin: 14px 0 0; padding: 0; list-style: none; }
+  .index li { border-top: 1px solid var(--rule); }
+  .index li:last-child { border-bottom: 1px solid var(--rule); }
+  .index button {
+    display: flex; gap: 12px; align-items: center; width: 100%; text-align: left;
+    background: none; border: 0; color: var(--ink); padding: 11px 0;
+  }
+  .index img { width: 66px; height: 46px; object-fit: cover; flex: none; border: 1px solid var(--rule); }
+  .index .lt { font: 400 16px/1.25 var(--serif); display: block; }
+  .index .lm { font: 10px/1.5 var(--mono); color: var(--dim); margin-top: 3px; display: block; letter-spacing: 0.06em; }
+</style>
+
+<nav id="mast">
+  <button class="word" onclick="scrollTo({top:0})">Daily <em>Building</em></button>
+  <button hx-get="/view" hx-target="#app" hx-swap="innerHTML">Today</button>
+  <button hx-get="/liked" hx-target="#app" hx-swap="innerHTML">Index</button>
+  <input type="date" name="date" hx-get="/view" hx-target="#app" hx-swap="innerHTML"
+         hx-trigger="change">
+</nav>
+
+<div id="app" class="wrap" hx-get="/view" hx-trigger="load"></div>
+
+<button id="totop" onclick="scrollTo({top:0})" aria-label="Back to top">↑</button>

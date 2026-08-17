@@ -1,0 +1,239 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Artwork</title>
+
+<!--
+  Served with bar: false, so this page owns the whole sheet and draws its own chrome. Loom shows
+  the grabber when there is no Done button, but the docs are explicit that swipe-to-dismiss is only
+  recognised near the top of the page — so the masthead is a scroll-to-top target and there is a
+  floating ↑ that appears early. Those are the exit, and they are not decoration.
+
+  Static assets are not served, so all styling is inline. Loom injects htmx itself.
+  No viewport-fit=cover and no env(safe-area-inset-*): the sheet still applies a top inset with the
+  bar hidden, and adding our own would double-count it.
+-->
+<style>
+  :root {
+    color-scheme: dark;
+    --accent: #6a6f7a;                 /* replaced per-artwork by an inline var on .feature */
+    --paper: #0d0d0f;
+    --ink: #f4f2ee;
+    --dim: rgba(244,242,238,0.62);
+    --faint: rgba(244,242,238,0.10);
+    --serif: ui-serif, "Iowan Old Style", Georgia, "Times New Roman", serif;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0; padding: 0;
+    background: var(--paper); color: var(--ink);
+    font: 17px/1.5 -apple-system, system-ui, sans-serif;
+    overflow-wrap: break-word;
+  }
+
+  /* ── The parallax backdrop ───────────────────────────────────────────────────────────────
+     position: fixed, NOT background-attachment: fixed — iOS WebKit has never honoured that and
+     paints it as `scroll`. The document is the scroller (the web view is sized to the whole
+     sheet), so a fixed layer here covers the full screen including behind the status bar, while
+     the content above it still receives the sheet's top inset.
+
+     The drift is a scroll-driven CSS animation, not a JS scroll listener: WKWebView scrolls on the
+     compositor thread, so a main-thread handler writing transform visibly lags during momentum.
+     Where scroll() timelines are unsupported the animation simply never applies and a static
+     fixed backdrop remains — which still reads as depth.
+
+     ⚠ Nothing wrapping .bg may set transform, filter, backdrop-filter or will-change. Any of them
+     makes that ancestor a containing block and `fixed` silently starts meaning "the ancestor". */
+  .bg {
+    position: fixed; inset: 0; z-index: 0; overflow: hidden;
+    background: var(--accent);          /* the painting's own colour, shown before it decodes */
+  }
+  .bg img {
+    position: absolute; left: 0; top: -6%;
+    width: 100%; height: 112%;          /* over-height so the drift never exposes an edge */
+    object-fit: cover;
+    animation: drift linear both;
+    animation-timeline: scroll(root block);
+  }
+  @keyframes drift {
+    from { transform: translate3d(0, 0, 0) scale(1.05); }
+    to   { transform: translate3d(0, -9%, 0) scale(1.13); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .bg img { animation: none; transform: scale(1.05); }
+    html { scroll-behavior: auto; }
+  }
+  /* Fixed scrim: a legibility floor for any painting, light or dark. Weighted to the bottom so
+     the opening screen stays as close to the bare picture as it can. */
+  .bg::after {
+    content: ""; position: absolute; inset: 0;
+    background:
+      linear-gradient(to bottom, rgba(0,0,0,0.34) 0, rgba(0,0,0,0.05) 26%,
+                                 rgba(0,0,0,0.30) 62%, rgba(0,0,0,0.86) 100%);
+  }
+
+  /* ── Chrome ─────────────────────────────────────────────────────────────────────────────── */
+  #mast {
+    position: sticky; top: 0; z-index: 20;
+    display: flex; gap: 8px; align-items: center;
+    padding: 9px 14px;
+    background: rgba(13,13,15,0.55);
+    backdrop-filter: saturate(160%) blur(18px);
+    border-bottom: 1px solid var(--faint);
+  }
+  #mast .word {
+    font: 800 10.5px/1 -apple-system, system-ui, sans-serif;
+    letter-spacing: 0.16em; text-transform: uppercase;
+    background: none; border: 0; color: var(--ink); padding: 4px 0; margin-right: auto;
+    white-space: nowrap;          /* two words, one line — it is a wordmark, not a paragraph */
+    flex: none;
+  }
+  #mast .word em { font-style: normal; color: var(--accent); filter: brightness(1.5); }
+  #mast button, #mast input {
+    font: inherit; font-size: 14px; padding: 5px 11px; border-radius: 999px;
+    border: 1px solid var(--faint); background: rgba(255,255,255,0.06); color: var(--ink);
+  }
+  #mast input { padding: 5px 8px; max-width: 128px; }
+  #mast.htmx-request { opacity: 0.45; pointer-events: none; }
+  #mast { transition: opacity 0.15s; }
+
+  /* The only reliable way back to a dismissable scroll position. Appears early — an artwork
+     article is long, and the Done button is gone. */
+  #totop {
+    position: fixed; right: 14px; bottom: 22px; z-index: 30;
+    width: 46px; height: 46px; border-radius: 50%;
+    border: 1px solid var(--faint); background: rgba(13,13,15,0.72);
+    backdrop-filter: blur(14px); color: var(--ink); font-size: 19px;
+    /* Driven by the scroll timeline, not a JS listener. This button is the only way back to a
+       position where the sheet can be swiped away, so it must not depend on main-thread work that
+       can be starved during momentum scrolling. Note the default is VISIBLE: if scroll timelines
+       are ever unsupported the animation never applies and the escape hatch simply stays on,
+       which is the correct way for this particular control to fail. */
+    opacity: 1;
+    animation: reveal linear both;
+    animation-timeline: scroll(root block);
+    animation-range: 340px 440px;
+  }
+  @keyframes reveal {
+    from { opacity: 0; pointer-events: none; }
+    to   { opacity: 1; pointer-events: auto; }
+  }
+
+  /* ── The deck of cards ──────────────────────────────────────────────────────────────────── */
+  .deck { position: relative; z-index: 1; }
+
+  /* Opening screen: bare painting. The only thing over it is the title block, at the bottom. */
+  .open {
+    min-height: 78vh; display: flex; flex-direction: column; justify-content: flex-end;
+    padding: 0 18px 30px;
+  }
+  .kicker {
+    margin: 0 0 9px; font: 700 10px/1.4 -apple-system, system-ui, sans-serif;
+    letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.72);
+    text-shadow: 0 1px 12px rgba(0,0,0,0.6);
+  }
+  .open h1 {
+    margin: 0; font: 500 33px/1.1 var(--serif); letter-spacing: -0.015em;
+    text-wrap: balance; text-shadow: 0 2px 22px rgba(0,0,0,0.55);
+  }
+  .open .by {
+    margin: 11px 0 0; font: 400 15px/1.4 var(--serif); color: rgba(255,255,255,0.85);
+    text-shadow: 0 1px 12px rgba(0,0,0,0.6);
+  }
+  .scrolltip {
+    margin: 22px 0 0; font: 600 9.5px/1 -apple-system, system-ui, sans-serif;
+    letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.5);
+  }
+
+  /* Cards float over the painting with gutters, so it stays present in the margins.
+     Blur radius is fixed and never animated — seven animated blur layers over a scrolling
+     composited image is the one real frame-rate risk on this page. */
+  .card {
+    margin: 0 12px 14px; padding: 22px 20px; border-radius: 22px;
+    background: rgba(16,16,19,0.80);
+    backdrop-filter: blur(22px) saturate(150%);
+    border: 1px solid rgba(255,255,255,0.09);
+    box-shadow: 0 18px 44px rgba(0,0,0,0.4);
+  }
+  .card.plate { padding: 14px; }
+  .card.lede { font: 400 19px/1.48 var(--serif); color: rgba(244,242,238,0.9); }
+
+  /* The one place the work is seen whole — the backdrop is cover-cropped, so this is not optional.
+     aspect-ratio comes from the dimensions measured at corpus-build time, so nothing reflows when
+     the image lands. */
+  .plate img { width: 100%; display: block; border-radius: 14px; background: var(--accent); }
+  .plate .cap {
+    margin: 11px 4px 2px; font: 400 12.5px/1.45 -apple-system, system-ui, sans-serif;
+    color: var(--dim); display: flex; gap: 8px; align-items: baseline;
+  }
+  .plate .cap a { color: var(--dim); }
+
+  .num {
+    font: 800 10px/1 -apple-system, system-ui, sans-serif; letter-spacing: 0.16em;
+    color: var(--accent); filter: brightness(1.55); margin: 0 0 9px;
+  }
+  .card h2 { margin: 0 0 12px; font: 500 23px/1.2 var(--serif); letter-spacing: -0.01em; }
+  .card figure { margin: 0 0 15px; }
+  .card figure img { width: 100%; border-radius: 13px; display: block; background: var(--faint); }
+  .card figcaption { margin-top: 7px; font-size: 11.5px; color: var(--dim); }
+  .card figcaption a { color: inherit; }
+
+  .body { font: 400 16.5px/1.62 var(--serif); color: rgba(244,242,238,0.88); }
+  .body p { margin: 0 0 14px; }
+  .body p:last-child { margin-bottom: 0; }
+  .body > p:first-of-type::first-letter {
+    float: left; font-size: 3.05em; line-height: 0.84; padding: 0.04em 0.09em 0 0;
+    font-weight: 500; color: var(--accent); filter: brightness(1.5);
+  }
+  .body a { color: var(--ink); text-decoration-color: var(--accent); text-underline-offset: 3px; }
+  .body blockquote {
+    margin: 15px 0; padding-left: 15px; color: var(--dim);
+    border-left: 2px solid var(--accent);
+  }
+
+  .actions { display: flex; gap: 9px; margin: 0 12px 40px; }
+  .actions button {
+    flex: 1; font: inherit; font-size: 15px; padding: 13px; border-radius: 16px;
+    border: 1px solid var(--faint); background: rgba(16,16,19,0.8);
+    backdrop-filter: blur(18px); color: var(--ink);
+  }
+  .actions button.on { background: var(--accent); border-color: transparent; font-weight: 600; }
+
+  /* ── Panels (progress / offer / failed / liked) ─────────────────────────────────────────── */
+  .panel { padding: 90px 26px; text-align: center; position: relative; z-index: 1; }
+  .panel h2 { font: 500 25px/1.25 var(--serif); margin: 0 0 10px; }
+  .panel p { color: var(--dim); margin: 7px 0; font-size: 15px; }
+  .panel .err { color: #ff8f83; font-size: 13.5px; }
+  .panel progress { width: 100%; height: 5px; margin: 20px 0 10px; accent-color: var(--ink); }
+  .panel button {
+    font: inherit; margin: 16px 6px 0; padding: 12px 22px; border-radius: 999px;
+    border: 0; background: var(--ink); color: #111; font-weight: 600;
+  }
+  .panel button.ghost {
+    background: rgba(255,255,255,0.08); color: var(--ink); border: 1px solid var(--faint);
+  }
+
+  .liked { margin: 0; padding: 0 12px; list-style: none; position: relative; z-index: 1; }
+  .liked li { margin-bottom: 10px; }
+  .liked button {
+    display: flex; gap: 13px; align-items: center; width: 100%; text-align: left; font: inherit;
+    background: rgba(16,16,19,0.8); backdrop-filter: blur(18px); color: var(--ink);
+    border: 1px solid var(--faint); border-radius: 18px; padding: 11px;
+  }
+  .liked img { width: 62px; height: 62px; object-fit: cover; border-radius: 12px; flex: none; background: var(--faint); }
+  .liked .lt { font: 500 16px/1.25 var(--serif); display: block; }
+  .liked .lm { font-size: 12.5px; color: var(--dim); margin-top: 4px; display: block; }
+</style>
+
+<nav id="mast">
+  <button class="word" onclick="scrollTo({top:0})">Daily <em>Artwork</em></button>
+  <button hx-get="/view" hx-target="#app" hx-swap="innerHTML">Today</button>
+  <button hx-get="/liked" hx-target="#app" hx-swap="innerHTML">Saved</button>
+  <input type="date" name="date" hx-get="/view" hx-target="#app" hx-swap="innerHTML"
+         hx-trigger="change">
+</nav>
+
+<div id="app" hx-get="/view" hx-trigger="load"></div>
+
+<button id="totop" onclick="scrollTo({top:0})" aria-label="Back to top">↑</button>
