@@ -1,104 +1,53 @@
-// Daily Artwork — picks a painting each day, researches it on the web, writes an illustrated
-// feature about it, and shows it in a full-bleed parallax web sheet.
+// Daily Artwork — reads a feature about one poem each morning.
 //
-// The engine is pipeline.ts, copied unchanged from Daily Poem: the same resumable stage machine,
-// batched through Loom.network.fetchAll and Loom.ai.completeAll so a whole article costs ~28s of
-// wall clock instead of ~70s. Everything subject-specific lives in artworks.ts.
+// The article is researched and written overnight by a Claude cloud routine (see routines/artwork.md
+// in github.com/JoeRourke123/My-Loom-Scripts) and committed to that repo. This script downloads it
+// and shows it. That is the whole job.
+//
+// It used to build the article on the phone: a resumable stage machine with leases, retry policies
+// and batched model calls, all of it shaped by iOS giving background work ~30 seconds. Moving the
+// writing off the device deleted about a thousand lines from this project and fixed the thing the
+// machinery caused — sections written in separate calls that repeated each other.
 
 import { loom } from '@loom/core';
-import {
-  advance, listLiked, notifyOnce, progress, prune, read, remove, retry, setLiked, today,
-} from './pipeline';
-import { recipe } from './artworks';
-import {
-  articleView, errorView, failedView, likeButton, likedView, offerView, progressView,
-} from './views';
+import { ensure, listLiked, notifyOnce, prune, read, setLiked, sync, today } from './store';
+import { articleView, errorView, likeButton, likedView, pendingView } from './views';
 
 // Loom looks for a named export called `widget` on main.ts; re-exporting one from a sibling is
 // explicitly supported, and keeps the layout out of this file.
 export { widget } from './widget';
 
-const SLICE_BACKGROUND = 6_000;
-const SLICE_FOREGROUND = 20_000;
-const KEEP_DAYS = 7;
-
 export default loom(async (ctx) => {
-  // Clear a day's feature and stop, so the next run rebuilds it from scratch:
-  //   Shortcuts → "Run Daily Artwork with input in Loom" → Dictionary { "reset": true }
-  // Deliberately does NOT rebuild in the same run — the point is to watch a cold start on the
-  // *next* trigger, which is what a background or Shortcut refetch actually looks like.
-  if (isTruthy(ctx.input && (ctx.input as any).reset)) {
-    const target = clamp(String((ctx.input as any).date || today()));
-    await remove(recipe, target);
-    Loom.log.info(`Daily Artwork: cleared ${target} — next run rebuilds it`);
-    return { cleared: target };
-  }
+  // Only worth presenting when someone is looking at the screen — a widget tap is, since runOnTap
+  // opens Loom. On a background run Loom.ui.web returns immediately without presenting.
+  if (ctx.trigger === 'manual' || ctx.trigger === 'widget') return openSheet(today());
 
-  switch (ctx.trigger) {
-    case 'manual':
-    case 'widget':
-      return openSheet(today());
-
-    case 'urlScheme':
-      return headless(clamp(String((ctx.input && (ctx.input as any).date) || today())), SLICE_FOREGROUND);
-
-    case 'shortcut':
-    case 'siri':
-      return headless(today(), SLICE_FOREGROUND);
-
-    case 'backgroundProcessing': {
-      const status = await headless(today(), SLICE_FOREGROUND);
-      await prune(recipe, KEEP_DAYS);
-      return status;
-    }
-
-    case 'backgroundRefresh':
-      return headless(today(), SLICE_BACKGROUND);
-
-    default:
-      return { skipped: ctx.trigger };
-  }
+  const { fetched, missing } = await sync();
+  await notifyOnce(today());
+  await prune();
+  return { fetched, missing };
 }, {
   // Sliced out as verbatim source text and evaluated with nothing else in scope, so every value
   // here must be a literal — one free identifier silently blanks the whole config.
   name: 'Daily Artwork',
-  description: 'Researches and writes an illustrated feature about a painting each day.',
+  description: 'A researched feature about a painting, written overnight and waiting each morning.',
   permissions: ['network', 'notifications'],
   returnsResult: true,
-  triggers: { backgroundProcessing: true },
+  // backgroundRefresh, not backgroundProcessing: the work is one ~30 KB GET now, which fits a
+  // refresh window comfortably. It no longer has to wait for charging on wifi.
+  triggers: { backgroundRefresh: true },
   widget: { refreshAfter: 3600, runOnTap: true },
 });
 
 // ---------------------------------------------------------------------------------------------
 
-async function headless(date: string, deadlineMs: number) {
-  const status = await advance(recipe, date, { deadlineMs });
-  await notifyOnce(recipe, date);
-  const article = await read(recipe, date);
-  return {
-    date: status.date,
-    stage: status.stage,
-    artwork: article?.subject?.title || '',
-    artist: article?.subject?.author || '',
-    progress: `${status.unitsDone}/${status.unitsTotal}`,
-    done: status.done,
-    failed: status.failed,
-  };
-}
-
+// Never let a date the routine has not reached become a fetch for a day that cannot exist.
 function clamp(date: string): string {
   const t = today();
   return /^\d{4}-\d{2}-\d{2}$/.test(date) && date <= t ? date : t;
 }
 
-// A Shortcuts Dictionary sends everything through as text, and the URL scheme only ever has
-// strings, so a bare `=== true` would silently never fire from either.
-function isTruthy(value: any): boolean {
-  return value === true || value === 1 || /^(true|1|yes)$/i.test(String(value ?? ''));
-}
-
-// A throwing handler comes back as HTTP 200 carrying a red <pre> with no hx-trigger, which kills
-// the self-chaining build loop permanently.
+// A throwing handler comes back as HTTP 200 carrying a red <pre>, which reads as a broken app.
 function guard(fn: (req: any) => Promise<any>) {
   return async (req: any) => {
     try {
@@ -114,64 +63,30 @@ function guard(fn: (req: any) => Promise<any>) {
 async function openSheet(date: string) {
   await Loom.ui.web({
     template: 'artwork.html',
-    // bar: false — the painting runs edge to edge behind the status bar, and the page draws its
-    // own masthead. That costs the Done button, so artwork.html carries the two replacements the
-    // docs require: a masthead that scrolls to top, and a floating ↑ that appears at 400px.
+    // The page draws its own masthead, so the nav bar would just be a second one. Losing the Done
+    // button means losing the reliable way out — the page adds a sticky masthead and a floating ↑
+    // so swipe-to-dismiss is always one tap from reachable.
     bar: false,
     routes: {
+      // Fetches on demand, so opening the app works even if background refresh has not run today.
       'GET /view': guard(async (req) => {
         const d = clamp(String(req.query.date || date));
-        const article = await read(recipe, d);
-        if (!article) {
-          return d === today()
-            ? progressView(await advance(recipe, d, { maxUnits: 0 }))
-            : offerView(d);
-        }
-        if (article.failed) return failedView(article);
-        if (article.stage === 'done') return articleView(article);
-        return progressView((await progress(recipe, d))!);
-      }),
-
-      'GET /build': guard(async (req) => {
-        const d = clamp(String(req.query.date || date));
-        const status = await advance(recipe, d, { maxUnits: 1 });
-        if (status.done) {
-          await notifyOnce(recipe, d);
-          return articleView((await read(recipe, d))!);
-        }
-        if (status.failed) return failedView((await read(recipe, d))!);
-        return progressView(status);
-      }),
-
-      'POST /start': guard(async (req) => {
-        const d = clamp(String(req.query.date || date));
-        return progressView(await advance(recipe, d, { maxUnits: 0 }));
+        const article = await ensure(d);
+        return article ? articleView(article) : pendingView(d);
       }),
 
       'POST /like': guard(async (req) => {
         const d = clamp(String(req.query.date || date));
-        const article = await read(recipe, d);
-        const liked = await setLiked(recipe, d, !(article && article.liked));
+        const article = await read(d);
+        const liked = await setLiked(d, !(article && article.liked));
         return likeButton(d, liked);
       }),
 
-      'GET /liked': guard(async () => likedView(await listLiked(recipe))),
-
-      'POST /retry': guard(async (req) => {
-        const d = clamp(String(req.query.date || date));
-        await retry(recipe, d);
-        return progressView((await progress(recipe, d))!);
-      }),
-
-      'POST /rebuild': guard(async (req) => {
-        const d = clamp(String(req.query.date || date));
-        await remove(recipe, d);
-        return progressView(await advance(recipe, d, { maxUnits: 0 }));
-      }),
+      'GET /liked': guard(async () => likedView(await listLiked())),
     },
   });
 
   // Runs after the sheet is dismissed — Loom.ui.web keeps the run alive until then.
-  const article = await read(recipe, date);
-  return { date, artwork: article?.subject?.title || '', stage: article?.stage || 'pick' };
+  const article = await read(date);
+  return { date, title: article?.title || '', published: !!article };
 }

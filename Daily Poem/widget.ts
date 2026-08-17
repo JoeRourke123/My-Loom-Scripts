@@ -12,9 +12,8 @@
 // not twice everything.
 
 import { w } from '@loom/widget';
-import { progress, read, today } from './pipeline';
-import { recipe } from './poems';
-import type { Article, Status } from './pipeline';
+import { read, today } from './store';
+import type { Article } from './store';
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -84,39 +83,33 @@ function kicker(article: Article | null, date: string) {
 function byline(article: Article | null, font: string) {
   const poem = (article && article.subject) || ({} as any);
   return w.vstack([
-    w.text(poem.title || 'Choosing a poem…', { font, bold: true, alignment: 'leading', lineLimit: 2 }),
+    w.text(poem.title || 'Daily Poem', { font, bold: true, alignment: 'leading', lineLimit: 2 }),
     w.text(String(poem.author || '').toUpperCase(), {
       font: 'caption', color: accent(article), alignment: 'leading', lineLimit: 1,
     }),
   ], { alignment: 'leading', spacing: 3 });
 }
 
-// The one place the four states are decided, so every size tells the same story.
-function footer(article: Article | null, status: Status | null, deckLines: number) {
-  if (article && article.failed) {
-    return w.label({ icon: 'exclamationmark.triangle.fill', title: 'Stopped', subtitle: 'Tap to try again', color: 'red' });
+// The one place both states are decided, so every size tells the same story. There are only two
+// now: the feature is downloaded, or it is not. No progress bar — nothing is being built here, and
+// a bar that cannot move is worse than a sentence.
+function footer(article: Article | null, deckLines: number) {
+  if (!article) {
+    return w.label({
+      icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
+    });
   }
-  if (article && article.stage === 'done') {
-    const stack = [
-      w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
-    ];
-    // deckLines: 0 drops the standfirst entirely — medium is 364×170 and the headline plus even
-    // two lines of deck overflows it once the header and byline have taken their share.
-    if (deckLines > 0) {
-      stack.push(w.text(article.standfirst, {
-        font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
-      }));
-    }
-    return w.vstack(stack, { alignment: 'leading', spacing: 3 });
+  const stack = [
+    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
+  ];
+  // deckLines: 0 drops the standfirst entirely — medium is 364×170 and the headline plus even two
+  // lines of deck overflows it once the header and byline have taken their share.
+  if (deckLines > 0) {
+    stack.push(w.text(article.standfirst, {
+      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
+    }));
   }
-  const done = status ? status.unitsDone : 0;
-  const total = status && status.unitsTotal ? status.unitsTotal : 16;
-  return w.vstack([
-    w.progressBar({ value: done, total, color: accent(article), label: 'Writing' }),
-    w.text(status ? status.nextLabel : 'Waiting to start…', {
-      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: 2,
-    }),
-  ], { alignment: 'leading', spacing: 4 });
+  return w.vstack(stack, { alignment: 'leading', spacing: 3 });
 }
 
 const CARD = { alignment: 'leading', spacing: 9, padding: 4 };
@@ -125,8 +118,7 @@ const CARD = { alignment: 'leading', spacing: 9, padding: 4 };
 
 export const widget = async () => {
   const date = today();
-  const article = await read(recipe, date);
-  const status = await progress(recipe, date);
+  const article = await read(date);
   const hero = heroImage(article);
 
   return {
@@ -135,10 +127,9 @@ export const widget = async () => {
       w.spacer(),
       byline(article, 'headline'),
       w.spacer(),
-      article && article.stage === 'done'
+      article
         ? w.text(article.title, { font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: 3 })
-        : w.text(status ? `${status.unitsDone}/${status.unitsTotal}` : '…',
-                 { font: 'caption', bold: true, color: accent(article) }),
+        : w.text('Arriving overnight', { font: 'caption', color: 'secondary', lineLimit: 2 }),
     ], { ...CARD, spacing: 4 }),
 
     medium: w.hstack([
@@ -146,7 +137,7 @@ export const widget = async () => {
         header(article, date),
         byline(article, 'headline'),
         w.spacer(),
-        footer(article, status, 0),
+        footer(article, 0),
       ], { ...CARD, spacing: 7 }),
       hero ? w.image(hero, { width: 92, height: 92, cornerRadius: 12 }) : w.spacer({ minLength: 0 }),
     ], { spacing: 10 }),
@@ -159,7 +150,7 @@ export const widget = async () => {
       w.text(opening(article, 5), { font: 'footnote', alignment: 'leading', lineLimit: 5 }),
       w.spacer(),
       w.divider(),
-      footer(article, status, 3),
+      footer(article, 3),
     ], CARD),
 
     // The iPhone XL size, and the one this widget is designed for. 174pt taller than large, which
@@ -180,7 +171,7 @@ export const widget = async () => {
       w.text(opening(article, 14), { font: 'footnote', alignment: 'leading', lineLimit: 14 }),
       w.spacer(),
       w.divider(),
-      footer(article, status, 4),
+      footer(article, 4),
     ], CARD),
 
     // iPad landscape, 4×6: the hero earns its place beside the text rather than above it.
@@ -190,7 +181,7 @@ export const widget = async () => {
         byline(article, 'title2'),
         w.text(opening(article, 10), { font: 'footnote', alignment: 'leading', lineLimit: 10 }),
         w.spacer(),
-        footer(article, status, 3),
+        footer(article, 3),
       ], CARD),
       hero ? w.image(hero, { width: 260, cornerRadius: 14 }) : w.spacer({ minLength: 0 }),
     ], { spacing: 14 }),

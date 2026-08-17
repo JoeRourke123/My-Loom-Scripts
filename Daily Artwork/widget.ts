@@ -8,9 +8,8 @@
 // Daily Poem, where the image was a 92pt thumbnail beside the text.
 
 import { w } from '@loom/widget';
-import { progress, read, today } from './pipeline';
-import { recipe } from './artworks';
-import type { Article, Status } from './pipeline';
+import { read, today } from './store';
+import type { Article } from './store';
 
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
@@ -42,17 +41,6 @@ function plate(article: Article | null, box: number) {
   return w.image(art.imageUrl, { width, cornerRadius: 10 });
 }
 
-function stageLabel(status: Status | null): string {
-  if (!status) return 'Waiting to start…';
-  switch (status.stage) {
-    case 'pick': return 'Choosing today’s painting…';
-    case 'plan': return 'Planning the feature…';
-    case 'research': return 'Researching…';
-    case 'write': return 'Writing…';
-    case 'illustrate': return 'Finding pictures…';
-    default: return 'Ready';
-  }
-}
 
 // --- shared pieces -----------------------------------------------------------------------------
 
@@ -77,34 +65,28 @@ function byline(article: Article | null, font: string) {
   const art = (article && article.subject) || ({} as any);
   const meta = [art.year, art.movementLabel].filter(Boolean).join(' · ');
   return w.vstack([
-    w.text(art.title || 'Choosing a painting…', { font, bold: true, alignment: 'leading', lineLimit: 2 }),
+    w.text(art.title || 'Daily Artwork', { font, bold: true, alignment: 'leading', lineLimit: 2 }),
     w.text(art.author || '', { font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: 1 }),
     meta ? w.text(meta, { font: 'caption', color: 'tertiary', alignment: 'leading', lineLimit: 1 })
          : w.spacer({ minLength: 0 }),
   ], { alignment: 'leading', spacing: 2 });
 }
 
-function footer(article: Article | null, status: Status | null, deckLines: number, accent: string) {
-  if (article && article.failed) {
-    return w.label({ icon: 'exclamationmark.triangle.fill', title: 'Stopped', subtitle: 'Tap to try again', color: 'orange' });
+// Two states now, not four: the feature is downloaded, or it is not. No progress bar — nothing is
+// being built here, and a bar that cannot move is worse than a sentence.
+function footer(article: Article | null, deckLines: number, accent: string) {
+  if (!article) {
+    return w.label({
+      icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
+    });
   }
-  if (article && article.stage === 'done') {
-    const stack = [w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 })];
-    if (deckLines > 0) {
-      stack.push(w.text(article.standfirst, {
-        font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
-      }));
-    }
-    return w.vstack(stack, { alignment: 'leading', spacing: 3 });
+  const stack = [w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 })];
+  if (deckLines > 0) {
+    stack.push(w.text(article.standfirst, {
+      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
+    }));
   }
-  return w.vstack([
-    w.progressBar({
-      value: status ? status.unitsDone : 0,
-      total: status && status.unitsTotal ? status.unitsTotal : 16,
-      color: accent, label: 'Researching',
-    }),
-    w.text(stageLabel(status), { font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: 2 }),
-  ], { alignment: 'leading', spacing: 4 });
+  return w.vstack(stack, { alignment: 'leading', spacing: 3 });
 }
 
 const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
@@ -113,8 +95,7 @@ const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 
 export const widget = async () => {
   const date = today();
-  const article = await read(recipe, date);
-  const status = await progress(recipe, date);
+  const article = await read(date);
   const accent = accentOf(article);
 
   return {
@@ -132,7 +113,7 @@ export const widget = async () => {
         header(article, date, accent),
         byline(article, 'headline'),
         w.spacer(),
-        footer(article, status, 0, accent),
+        footer(article, 0, accent),
       ], { ...CARD, spacing: 6 }),
     ], { spacing: 11, alignment: 'top' }),
 
@@ -143,7 +124,7 @@ export const widget = async () => {
       w.spacer(),
       w.divider(),
       byline(article, 'title3'),
-      footer(article, status, 2, accent),
+      footer(article, 2, accent),
     ], { ...CARD, alignment: 'center' }),
 
     // The iPhone XL size (364×556) and the one this is designed for: the work large, then the
@@ -154,7 +135,7 @@ export const widget = async () => {
       w.divider(),
       byline(article, 'title2'),
       w.spacer(),
-      footer(article, status, 4, accent),
+      footer(article, 4, accent),
     ], { ...CARD, spacing: 11, alignment: 'center' }),
 
     // iPad landscape, 4×6: the work beside the words rather than above them.
@@ -164,7 +145,7 @@ export const widget = async () => {
         header(article, date, accent),
         byline(article, 'title2'),
         w.spacer(),
-        footer(article, status, 4, accent),
+        footer(article, 4, accent),
       ], { ...CARD, spacing: 9 }),
     ], { spacing: 16, alignment: 'top' }),
   };

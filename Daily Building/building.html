@@ -165,6 +165,17 @@
     margin: 15px 0; padding-left: 14px; border-left: 2px solid var(--blue); color: var(--dim);
   }
 
+  /* Sources — apparatus, not part of the read, but every link in the prose is checked
+     against it, so it should be there to check. */
+  .sources { margin: 32px 0 0; padding-top: 18px; border-top: 1px solid var(--rule, rgba(128,128,128,.3)); }
+  .sources h2 {
+    font: 600 11px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+    letter-spacing: .12em; text-transform: uppercase; opacity: .55; margin: 0 0 11px;
+  }
+  .sources ol { margin: 0; padding-left: 1.3em; }
+  .sources li { font: 400 13px/1.55 -apple-system, system-ui, sans-serif; margin: 0 0 7px; opacity: .75; }
+  .sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+
   .actions { display: flex; gap: 8px; margin: 34px 0 10px; }
   .actions button {
     flex: 1; font: 12px/1 var(--mono); letter-spacing: 0.1em; text-transform: uppercase;

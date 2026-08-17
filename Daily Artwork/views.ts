@@ -6,7 +6,7 @@
 
 import { html } from '@loom/core';
 import { marked } from 'marked';
-import type { Article, Section, Status } from './pipeline';
+import type { Article, Section } from './store';
 
 const MONTHS = [
   'January', 'February', 'March', 'April', 'May', 'June',
@@ -22,19 +22,6 @@ export function prettyDate(date: string): string {
 function shortDate(date: string): string {
   const [, m, d] = String(date).split('-').map(Number);
   return m && d ? `${d} ${MONTHS[m - 1].slice(0, 3)}` : date;
-}
-
-// Subject-specific wording, derived from the stage rather than from pipeline's generic
-// status.nextLabel — which is why the engine could stay subject-free.
-function stageLabel(s: Status): string {
-  switch (s.stage) {
-    case 'pick': return 'Choosing today’s painting…';
-    case 'plan': return 'Reading up and planning the feature…';
-    case 'research': return 'Researching six threads at once…';
-    case 'write': return 'Writing seven sections at once…';
-    case 'illustrate': return 'Finding pictures…';
-    default: return 'Ready';
-  }
 }
 
 // ---------------------------------------------------------------------------------------------
@@ -78,10 +65,17 @@ export function articleView(a: Article) {
 
         ${a.sections.filter((s) => s.body).map(sectionView)}
 
+        <!-- Every link in the prose is checked against this list before render, so publishing it
+             is both the honest thing and a way to see when a piece is thinly sourced. -->
+        ${a.sources.length
+          ? html`<div class="sources">
+              <h2>Sources</h2>
+              <ol>${a.sources.map((s) => html`<li><a href="${s.url}">${s.title}</a></li>`)}</ol>
+            </div>`
+          : ''}
+
         <div class="actions">
           ${likeButton(a.date, a.liked)}
-          <button hx-post="/rebuild?date=${a.date}" hx-target="#app" hx-swap="innerHTML"
-                  hx-confirm="Rebuild this article from scratch?">Rebuild</button>
         </div>
       </div>
     </article>
@@ -122,62 +116,28 @@ export function likeButton(date: string, liked: boolean) {
 // hx-trigger="every 1s" — the sheet's request loop is strictly serial FIFO and one batched unit
 // can take 20 seconds, so an interval trigger would pile up stale requests behind it.
 
-export function progressView(s: Status) {
-  const retrying = s.retryInMs > 0;
-  const delay = retrying ? 3000 : s.busy ? 2000 : 250;
-  const label = retrying
-    ? `Network hiccup — retrying in ${Math.ceil(s.retryInMs / 1000)}s…`
-    : s.busy ? 'Building in the background…' : stageLabel(s);
-  return html`
-    <div id="build" hx-get="/build?date=${s.date}" hx-trigger="load delay:${delay}ms"
-         hx-target="this" hx-swap="outerHTML" hx-indicator="#mast">
-      <div class="panel">
-        <h2>${prettyDate(s.date)}</h2>
-        <progress value="${s.unitsDone}" max="${s.unitsTotal}"></progress>
-        <p>${label}</p>
-        <p>${s.unitsDone} of ${s.unitsTotal} steps</p>
-        ${retrying && s.error ? html`<p class="err">${s.error}</p>` : ''}
-      </div>
-    </div>
-  `;
-}
+// There is no build to watch any more, so there is no progress bar and no self-replacing request
+// chain. A day is either downloaded or it is not, and "not" has two causes worth telling apart:
+// the routine has not published it, or the phone could not reach GitHub.
 
-export function offerView(date: string) {
+export function pendingView(date: string) {
   return html`
     <div class="panel">
       <h2>${prettyDate(date)}</h2>
-      <p>No feature for this day yet.</p>
-      <button hx-post="/start?date=${date}" hx-target="#app" hx-swap="innerHTML">Build it</button>
+      <p>Not written yet. Each morning's feature is researched overnight and usually lands before 5am.</p>
+      <button hx-get="/view?date=${date}" hx-target="#app" hx-swap="innerHTML">Check again</button>
     </div>
   `;
 }
 
-export function failedView(a: Article) {
-  return html`
-    <div class="panel">
-      <h2>${prettyDate(a.date)}</h2>
-      <p>This one stopped before it finished.</p>
-      <p class="err">${a.lastError}</p>
-      <button hx-post="/retry?date=${a.date}" hx-target="#app" hx-swap="innerHTML">Try again</button>
-      <button class="ghost" hx-post="/rebuild?date=${a.date}" hx-target="#app" hx-swap="innerHTML">
-        Start over
-      </button>
-    </div>
-  `;
-}
-
-// A throwing route handler comes back as HTTP 200 with a red <pre> and no hx-trigger, which would
-// strand the build chain until the sheet is closed and reopened. So the error fragment keeps
-// polling — one transient blip should not need a restart.
+// One tap to retry rather than an automatic poll: the failure is a network round trip, not a
+// half-finished build that needs nursing to completion.
 export function errorView(message: string, date: string) {
   return html`
-    <div id="build" hx-get="/build?date=${date}" hx-trigger="load delay:3s"
-         hx-target="this" hx-swap="outerHTML">
-      <div class="panel">
-        <h2>Hit a snag</h2>
-        <p class="err">${message}</p>
-        <p>Trying again…</p>
-      </div>
+    <div class="panel">
+      <h2>Could not reach it</h2>
+      <p class="err">${message}</p>
+      <button hx-get="/view?date=${date}" hx-target="#app" hx-swap="innerHTML">Try again</button>
     </div>
   `;
 }

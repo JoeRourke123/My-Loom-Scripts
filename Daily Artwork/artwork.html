@@ -192,6 +192,17 @@
     border-left: 2px solid var(--accent);
   }
 
+  /* Sources — apparatus, not part of the read, but every link in the prose is checked
+     against it, so it should be there to check. */
+  .sources { margin: 34px 12px 0; padding-top: 18px; border-top: 1px solid var(--rule, rgba(128,128,128,.3)); }
+  .sources h2 {
+    font: 600 12px/1 -apple-system, system-ui, sans-serif;
+    letter-spacing: .1em; text-transform: uppercase; opacity: .55; margin: 0 0 11px;
+  }
+  .sources ol { margin: 0; padding-left: 1.2em; }
+  .sources li { font: 400 14px/1.5 -apple-system, system-ui, sans-serif; margin: 0 0 7px; opacity: .75; }
+  .sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+
   .actions { display: flex; gap: 9px; margin: 0 12px 40px; }
   .actions button {
     flex: 1; font: inherit; font-size: 15px; padding: 13px; border-radius: 16px;
