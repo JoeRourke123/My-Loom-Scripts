@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-08-21",
+  "subject": {
+    "id": "220294",
+    "title": "Autumn Song",
+    "author": "Dante Gabriel Rossetti",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/45005/autumn-song-56d22452505f6",
+    "text": "Know'st thou not at the fall of the leaf\nHow the heart feels a languid grief\nLaid on it for a covering,\nAnd how sleep seems a goodly thing\nIn Autumn at the fall of the leaf?\n\nAnd how the swift beat of the brain\nFalters because it is in vain,\nIn Autumn at the fall of the leaf\nKnowest thou not? and how the chief\nOf joys seems-not to suffer pain?\n\nKnow'st thou not at the fall of the leaf\nHow the soul feels like a dried sheaf\nBound up at length for harvesting,\nAnd how death seems a comely thing\nIn Autumn at the fall of the leaf?",
+    "excerpt": "Know'st thou not at the fall of the leaf\nHow the heart feels a languid grief\nLaid on it for a covering,\nAnd how sleep seems a goodly thing\nIn Autumn at the fall of the leaf?\n\nAnd how the swift beat of the brain\nFalters because it is in vain,\nIn Autumn at the fall of the leaf\nKnowest thou not? and how the chief\nOf joys seems-not to suffer pain?\n\nKnow'st thou not at the fall of the leaf\nHow the soul feels like a dried sheaf\nBound up at length for harvesting,\nAnd how death seems a comely thing\nIn Autumn at the fall of the leaf?",
+    "truncated": false
+  },
+  "title": "The Death Wish He Wrote the Same Month He Founded a Movement",
+  "standfirst": "In September 1848, twenty-year-old Dante Gabriel Rossetti helped launch the Pre-Raphaelite Brotherhood, a manifesto aimed squarely at the future. Days later he sent his mother a private poem wishing, three times over, for sleep that would not end — and did not let it be published for the rest of his life.",
+  "sections": [
+    {
+      "heading": "The Same September",
+      "body": "On 4 September 1848, Dante Gabriel Rossetti wrote a short, three-stanza poem and sent it to his mother the next day. He called it \"The Fall of the Leaf\" and, in the covering letter, described it as [a howling canticle](https://rossettiarchive.iath.virginia.edu/docs/7-1848.raw.html), written, by his own account, in a fit of tears. It asks the same question three times, changing only what follows: know'st thou not, at the fall of the leaf, how sleep seems a goodly thing, how the mind falters because effort is in vain, how death seems a comely thing.\n\nThat same month, Rossetti was also a founding member of the Pre-Raphaelite Brotherhood, the group of young painters who set out to reject the polish of the Royal Academy and return English art to the detail and sincerity of painting before Raphael. One act was a manifesto aimed at remaking the future of British art. The other was a private letter asking whether death might be comely. He was twenty, doing both at once, in the same handful of weeks.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Household Built on Italian and Loss",
+      "body": "Rossetti was born in London on 12 May 1828 into a family fluent in exactly the kind of literary intensity his autumn poem trades in. His father, Gabriele Rossetti, was an Italian émigré scholar and Dante specialist; his mother, Frances Polidori, was of Anglo-Italian descent. Two of his siblings became writers in their own right — Christina Rossetti, whose own poetry returns often to death and renunciation, and William Michael Rossetti, who worked as a critic and, decades later, as his brother's editor.\n\nGrowing up in a house that treated verse-making as a family occupation gave the young Rossetti fluency young; it did not obviously give him cheerfulness. The poem he mailed his mother in 1848 reads like a child of that household testing how far a controlled form could carry an uncontrolled feeling.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Christina_Rossetti_3.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Christina_Rossetti"
+    },
+    {
+      "heading": "A Poem That Couldn't Settle on Its Own Name",
+      "body": "\"Autumn Song\" is a variation on the rondeau, built to repeat its own refrain — \"at the fall of the leaf\" — until the phrase stops sounding like weather and starts sounding like a countdown. But the poem's instability runs deeper than its form. Four manuscripts of it survive: two give the three-stanza version printed today, two give an expanded five-stanza version, and across the various copies the poem carries three different titles — \"The Fall of the Leaf,\" \"Autumn Song\" and, in one printing, \"The Angel of Death.\" A poem that cannot agree with itself on five lines out of fifteen, or on what to be called, is a fitting object for a poet who was, by his own account, in tears when he wrote it.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Brotherhood He Was Building in Public",
+      "body": "The Pre-Raphaelite Brotherhood came together at Gower Street, London, in September 1848, when Rossetti joined William Holman Hunt and John Everett Millais — accounts of exactly whose house it happened in vary, one placing it at Millais's family home, another in Rossetti's own bedroom, and neither side of that disagreement has ever fully settled it. Four more members joined shortly after: William Michael Rossetti, James Collinson, Frederic George Stephens and Thomas Woolner. Their shared aim was to strip away what they saw as the formulaic polish taught since Raphael and return to the abundant detail, intense colour and complex composition of earlier Italian and Flemish painting.\n\nIt was an ambitious, outward-facing project built on the confidence that art could be remade by seven young men with strong opinions. The autumn poem Rossetti was writing to his mother in the same weeks belongs to none of that confidence.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg/960px-Sir_John_Everett_Millais%2C_1st_Bt_by_Charles_Robert_Leslie.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/John_Everett_Millais"
+    },
+    {
+      "heading": "Kept Quiet, Then Sung",
+      "body": "Rossetti never published \"Autumn Song\" in any collection during his own lifetime. It surfaced only in 1877, printed privately for a London concert programme; the writer Moncure Daniel Conway later published it under the title \"The Angel of Death,\" and in 1883 the composer Edward Dannreuther [set it to music and published it as a song](https://rpo.library.utoronto.ca/content/autumn-song) — a year after Rossetti had died. It took his brother William Michael's 1886 edition of the *Poetical Works* to finally fix the poem's text and give it the title readers know now. A poem written in tears at twenty circulated, for nearly forty years, only as something to be sung by strangers before it was ever properly read.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Longer Fall",
+      "body": "Rossetti's later life gave the poem's imagery an afterlife he could not have intended at twenty. He married the artists' model Elizabeth Siddal in 1860, after a long and unfaithful engagement; when she died of a laudanum overdose in 1862, following a stillbirth, he buried the only manuscript of his unpublished poems in her coffin at Highgate Cemetery. Seven years later, in 1869, he had the grave opened to retrieve them, publishing *Poems by D. G. Rossetti* the following year — a book that drew a savage attack from the critic Robert Buchanan in 1871. A failed suicide attempt followed in 1872, then years of dependence on chloral hydrate and whisky, then a stroke in December 1881 that left him partly paralysed. He died of Bright's disease at Birchington-on-Sea on 9 April 1882, aged fifty-three.\n\nThe poems he exhumed from Siddal's grave were the ones he had once thought worth risking everything to recover. \"Autumn Song\" was not among them — it had simply waited, unclaimed and unpublished, in a drawer, until his brother decided, after his death, that it was time to let it be read.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Siddal-photo.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Elizabeth_Siddal"
+    }
+  ],
+  "sources": [
+    { "title": "Autumn Song / The Fall of the Leaf — The Rossetti Archive", "url": "https://rossettiarchive.iath.virginia.edu/docs/7-1848.raw.html" },
+    { "title": "Dante Gabriel Rossetti — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti" },
+    { "title": "Autumn Song — Representative Poetry Online, University of Toronto", "url": "https://rpo.library.utoronto.ca/content/autumn-song" }
+  ],
+  "generatedAt": "2026-08-17T23:32:19Z",
+  "model": "claude-sonnet-5"
+}
