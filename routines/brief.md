@@ -87,13 +87,20 @@ It reports every problem at once. Fix them all and run it again. Do not commit a
 passed. Do not edit `validate.mjs` to make your file pass — if you genuinely believe a rule is
 wrong, leave a note in the commit message and keep the rule.
 
-**7. Commit and push.**
+**7. Commit and push — to `main`, explicitly.**
 
 ```bash
-git add daily/ && git commit -m "<kind>: <date> — <subject title>" && git push
+git add daily/ && git commit -m "<kind>: <date> — <subject title>"
+git push origin HEAD:main
 ```
 
-One commit per feature. If the push is rejected, `git pull --rebase` and push again.
+**The `HEAD:main` refspec is not optional.** The session starts you on a working branch, so a bare
+`git push` publishes that branch instead, and the phone only ever reads `main` — a feature on a
+branch is a feature nobody sees.
+
+One commit per feature. If the push is rejected because `main` moved, `git pull --rebase origin
+main` and push again. If it is rejected for permissions, say so plainly in your final message
+rather than inventing a workaround — that is a repository setting only a human can change.
 
 ---
 
