@@ -49,9 +49,18 @@ individual piece.
 
 **4. Research it properly.**
 
-Search the web. Follow the good links and actually read them. Keep going until you could answer a
-sharp question about this subject, not just until you have enough to fill sections. Note the URL of
-everything you use — you will list them, and every link you write is checked against that list.
+Search from several angles rather than once, then **open the good results with `WebFetch` and read
+them properly**. A search summary is a pointer, not a source: the specifics that make a feature
+worth reading — the dated fact, the sum of money, the sentence someone actually wrote — are in the
+page, and paraphrasing a snippet is how thin pieces get written.
+
+Keep going until you could answer a sharp question about this subject, not just until you have
+enough to fill sections. Note the URL of every source you draw on: you will list them, and every
+link you write is checked against that list.
+
+If a fetch fails, try another source rather than writing around the gap from memory. If a date,
+figure or quotation is not clearly attested in something you actually read, leave it out or say the
+record is unclear.
 
 Prefer primary and specialist sources over content farms. If the record is genuinely thin, that is
 a finding, and saying so plainly is better writing than padding around it.
@@ -61,11 +70,10 @@ a finding, and saying so plainly is better writing than padding around it.
 - `title` — a headline for *your feature*, not the subject's own name. It should make someone want
   to read on, without overpromising.
 - `standfirst` — one or two sentences of deck under the headline. Say what this piece will show.
-- `sections[]` — five to eight, each `{ heading, body, imageUrl, imagePage }`.
+- `sections[]` — five to eight, each `{ heading, body, imageQuery }`.
   - `heading` is a real headline, not a label. "Background", "Analysis", "Overview" are rejected.
   - `body` is markdown. Prose. `##` headings are not needed — the heading is a separate field.
-  - Illustrate **two to four** sections, not all of them (see Images below). Leave `imageUrl` and
-    `imagePage` as empty strings on the rest.
+  - `imageQuery` on **two to four** sections only (see Images below); empty string on the rest.
 - `sources[]` — `{ title, url }` for every source you actually read.
 - `generatedAt` — ISO timestamp. `model` — the model you are.
 
@@ -130,20 +138,27 @@ unchanged in a feature about a different subject.
 
 ## Images
 
-Optional, and better sparse than complete — an image on every section is what makes a layout look
-automated.
+**You do not supply image URLs — you name a Wikipedia article, and the phone resolves it.** Set
+`imageQuery` to an article title and leave it at that. There is no `imageUrl` or `imagePage` for
+you to fill in: the reader's device looks the title up against the Wikipedia API when it downloads
+the feature.
 
-Find them on Wikipedia/Wikimedia. Resolve a page's lead image through the API rather than guessing
-a file URL:
+Late resolution is deliberate. A file URL captured tonight can rot before it is read, and a URL
+written from memory looks perfectly valid until it 404s in the sheet. A title either resolves at
+read time or the section quietly runs without a picture.
 
-```
-https://en.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=original&format=json&titles=PAGE_TITLE
-```
+What makes a good `imageQuery`:
 
-`imageUrl` is the `original.source` from that response; `imagePage` is the human article URL
-(`https://en.wikipedia.org/wiki/PAGE_TITLE`). Both must be on a wikimedia.org, wikipedia.org or
-wikiart.org host — the validator rejects anything else, because these are hotlinked straight into a
-web view.
+- **An exact article title**, as it appears on Wikipedia — `Isaac Rosenberg`, `Slade School of Fine
+  Art`, `Battle of the Somme`. Not a description, not a search phrase, not a file name. Redirects
+  and capitalisation differences are handled; an invented title simply resolves to nothing and that
+  section runs unillustrated.
+- **A subject likely to carry a lead photograph**: a person, a place, a movement, an event, a
+  building, an artwork.
+- **Never the subject of this feature itself.** For a painting or a building the reader is already
+  looking at it, and a Wikipedia copy is a different URL, so nothing downstream can catch the
+  duplication — only you can.
+- **Never the same title twice** in one feature.
 
-**Never invent an image URL.** If the API returns no image for a page, that section has no image.
-Do not reuse the same image for two sections.
+Two to four across the piece. Sparse beats complete: an image on every section is exactly what
+makes a layout look automated.
