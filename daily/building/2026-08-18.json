@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-18",
+  "subject": {
+    "id": "great-mosque-of-c-rdoba",
+    "name": "Great Mosque of Córdoba",
+    "architect": "Various",
+    "year": 987,
+    "location": "Córdoba, Spain",
+    "country": "Spain",
+    "city": "Córdoba",
+    "style": "Moorish",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/1920px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1063,
+    "source": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+    "title": "Great Mosque of Córdoba",
+    "author": "Various"
+  },
+  "title": "A Building Five Rulers Kept Undoing and Redoing",
+  "standfirst": "Córdoba's mosque was built on stone whose original owners are still disputed, expanded by rulers each trying to outdo the last, then had a cathedral cut straight through its middle. Who it belongs to is still being argued over in Spanish courts and city halls today.",
+  "sections": [
+    {
+      "heading": "Extra Height From Recycled Stone",
+      "body": "The columns holding up Córdoba's mosque were never made for this building. Most stand under three metres — Roman and Visigothic shafts and capitals pulled from earlier structures around the city, too short on their own to carry a monumental prayer hall's roof. The builders' solution, worked out in the 780s, was to stack a second tier of arches on masonry piers above the capitals: horseshoe arches at the lower level acting as ties between the columns, plain semicircular arches above them carrying the actual load. The alternating red brick and pale stone voussoirs that make the arcades famous were structural before they were decorative, a way of distinguishing brick centring from stone that has simply outlasted its original purpose.\n\nThe result was around 120 columns arranged across a near-square hall roughly 74 by 79 metres — modest by the standards of what the same site would later become, but already solving, out of stone taken from a conquered city, a height problem that reused stone does not usually let you solve.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Prince Who Had Nowhere Else to Rule From",
+      "body": "Abd al-Rahman I was not building from strength. In 750 the Abbasids overthrew the Umayyad caliphate in Damascus and killed most of the ruling family; he escaped, one of the few survivors, and spent years crossing North Africa before reaching Spain. There he exploited rivalries among the Arab factions already settled in the peninsula, defeated the sitting governor of al-Andalus in 755, and made Córdoba the capital of an emirate with no formal recognition from anyone — a rival Umayyad power surviving in exile against the new Abbasid caliphate in Baghdad. He began the mosque in 785 or 786, two years before his death; his successors carried the work on after him.\n\nBuilding on this scale was, among other things, an argument: that the dynasty driven out of Damascus still knew how to rule.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dirham_abd_al_rahman_i_21816.jpg/960px-Dirham_abd_al_rahman_i_21816.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Abd_al-Rahman_I"
+    },
+    {
+      "heading": "The Church That May Never Have Been There",
+      "body": "Tradition holds that a Visigothic basilica dedicated to St Vincent stood on this spot, that Muslims and Christians shared the building after the conquest of 711, and that Abd al-Rahman I bought out the Christian half for 100,000 dinars before demolishing it. The story's only source is a chronicle written by Ibn al-Qutiyya around 977 — nearly two centuries after the event it describes — and no document from the eighth century mentions any such transaction.\n\nExcavations beneath the mosque in the 1930s did turn up a building with an apse and a baptismal pool, along with sixth-century mosaic fragments. Whether that adds up to Córdoba's Visigothic cathedral is now a live argument among Spanish archaeologists: Fernando Arce-Sainz has argued there is no associated cemetery and too little Christian material to support the identification, while other historians read the remains as part of a smaller episcopal complex rather than a major church. The argument is not a purely academic one — the Catholic Church cites the purchase story to support its claim to the building today, and Spanish politicians have invoked it in election campaigns.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Two Rulers Who Kept Outbuilding Each Other",
+      "body": "Abd al-Rahman II extended the prayer hall eight bays south in the 830s and 840s, under work directed by the court eunuchs Nasr and then Masrur, roughly doubling the building's footprint and pushing the column count to around 200. It was still, formally, only an emirate.\n\nThat changed under his grandson Abd al-Rahman III, who declared himself caliph in 929 to counter the rival Fatimid claim to that title in North Africa and to assert Córdoba's standing against the Abbasid caliphs in Baghdad. It fell to his son, Al-Hakam II, to build a mosque equal to that claim. His expansion of 961–965 pushed the hall a further twelve bays south, added a screened royal enclosure beside the mihrab reserved for the caliph, and replaced the plain prayer niche with an octagonal chamber roofed in a carved shell dome and faced in gold mosaic. For that mosaic he asked the Byzantine emperor in Constantinople for help; the emperor sent a master craftsman along with roughly 1,600 kilograms of glass and gold tesserae — a diplomatic gift that told Córdoba's rivals it now dealt with Constantinople as an equal.\n\nThe last and least graceful expansion came under Almanzor, the regent who ruled in the name of a child caliph rather than in his own name. In 987–988, with the mosque already hemmed in by the Guadalquivir to the south, he could only widen it, adding roughly eight new aisles along the building's eastern side. It broke the mosque's central axis toward the mihrab for good, and it looked the part of an afterthought: cheaper grey jasper columns, and the famous striped voussoirs simply painted on rather than built from alternating stone.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/AlHakemII_dirhem_MedinaAzahara.jpg/960px-AlHakemII_dirhem_MedinaAzahara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Al-Hakam_II"
+    },
+    {
+      "heading": "A Cathedral Grown Inside the Mosque",
+      "body": "Ferdinand III of Castile took Córdoba in June 1236; within days the Bishop of Osma said the first Christian mass inside the mosque. For nearly three centuries afterwards, change came as addition rather than demolition — chapels, a bell tower fitted to the old minaret, the Villaviciosa chapel built into the hall in the 1480s and 90s.\n\nThen in 1523, Bishop Alonso Manrique won permission from Charles V to build a full Renaissance cathedral, nave and transept, in the literal centre of the hypostyle hall, cutting through work raised by Abd al-Rahman I and by Almanzor five centuries apart. Córdoba's city council formally objected; a contemporary account has them arguing that the workmanship being undone was of a quality that could not be remade with the same goodness and perfection. The bishop threatened excommunication, and the council backed down. Construction ran across three generations: architect Hernán Ruiz I died in 1547 still working on it, his son continued the project, and the dome was not completed until 1607.\n\nAccording to an anecdote repeated for centuries but traced by no source to anything Charles V is actually recorded as writing or saying at the time, the emperor visited the finished cathedral and told its builders: \"You have built what you or anyone else might have built anywhere; to do so you have destroyed something that was unique in the world.\" True or invented, it is the verdict the building has never quite shaken.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg/960px-Portrait_of_Charles_V%2C_Holy_Roman_Emperor%2C_seated_%281500%E2%80%931558%29%2C_formerly_attributed_to_Titian_%28Alte_Pinakothek%2C_Munich%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor"
+    },
+    {
+      "heading": "Who Owns It Now",
+      "body": "The dispute over who the building belongs to is not settled, and it is recent. In 2006 the Diocese of Córdoba registered the entire mosque-cathedral complex as its own property, using a since-discredited provision of Spanish mortgage law that let bishops certify Church ownership without producing conventional title documents, for an administrative fee of thirty euros. Andalusia's regional government and Córdoba's city council have since argued the registration has no legal basis, pointing to the site's status as a UNESCO World Heritage listing since 1984 and to constitutional protections for public heritage.\n\nMuslims have asked to pray there since at least 1974, when the bishop permitted it during an interfaith conference; further requests followed through the 1970s, 80s and 90s, and a formal petition to the Vatican in 2004 was refused. On 2 April 2010, during Holy Week, a group of Austrian Muslim tourists began praying inside; when guards objected, a scuffle with police left two men arrested and a security guard and a police officer with minor injuries. A petition demanding the building's return to public, shared ownership gathered more than 350,000 signatures in 2013. The Diocese remains the registered owner today, and Mass is said there daily.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Mosque-Cathedral of Córdoba — Britannica", "url": "https://www.britannica.com/topic/Mosque-Cathedral-of-Cordoba" },
+    { "title": "ʿAbd al-Raḥmān I — Britannica", "url": "https://www.britannica.com/biography/Abd-al-Rahman-I" },
+    { "title": "ʿAbd al-Raḥmān III — Britannica", "url": "https://www.britannica.com/biography/Abd-al-Rahman-III" },
+    { "title": "Mosque–Cathedral of Córdoba — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba" },
+    { "title": "Córdoba Before the Mezquita — explorecordoba.com", "url": "https://www.explorecordoba.com/articles/cordoba-before-the-mezquita" },
+    { "title": "Córdoba's Mosque-Cathedral dispute puts Spanish identity at centre stage — The Irish Times", "url": "https://www.irishtimes.com/news/world/europe/cordoba-s-mosque-cathedral-dispute-puts-spanish-identity-at-centre-stage-1.4195391" },
+    { "title": "First expansion by Abd ar-Rahman II — artencordoba.com", "url": "https://www.artencordoba.com/en/mosque-cordoba/first-extension-abd-al-rahman-ii/" },
+    { "title": "Second extension by al-Hakam II — artencordoba.com", "url": "https://www.artencordoba.com/en/mosque-cordoba/second-extension-abd-al-hakam-ii/" },
+    { "title": "Third and final expansion by Almanzor — artencordoba.com", "url": "https://www.artencordoba.com/en/mosque-cordoba/third-extension-almanzor-al-mansur/" },
+    { "title": "Original Mosque of Abd al-Rahman I — Mezquita-Catedral de Córdoba (official site)", "url": "https://mezquita-catedraldecordoba.es/en/descubre-el-monumento/el-edificio/mezquita-fundacional-de-abderraman-i/" },
+    { "title": "Córdoba's stunning mosque-cathedral showcases Spain's Muslim heritage — National Geographic", "url": "https://www.nationalgeographic.com/history/history-magazine/article/cordobas-mosque-cathedral-showcases-spains-muslim-heritage" },
+    { "title": "Who owns the mosque-cathedral of Córdoba? — Law & Religion UK", "url": "https://lawandreligionuk.com/2016/03/21/who-owns-the-mosque-cathedral-of-cordoba/" },
+    { "title": "The Battle Over the Córdoba Mosque-Cathedral and Spanish Identity — ICWA", "url": "https://www.icwa.org/the-battle-over-the-cordoba-mosque-cathedral-and-spanish-identity/" },
+    { "title": "Muslims Pray in Spanish Church; Scuffle Ensues — CBS News", "url": "https://www.cbsnews.com/news/muslims-pray-in-spanish-church-scuffle-ensues/" },
+    { "title": "A Centuries Old Dispute Over 'The Great Mosque of Córdoba' is Revived — Morocco World News", "url": "https://www.moroccoworldnews.com/2017/06/98168/centuries-old-dispute-great-mosque-cordoba-revived/" }
+  ],
+  "generatedAt": "2026-08-17T23:54:47Z",
+  "model": "claude-sonnet-5"
+}
