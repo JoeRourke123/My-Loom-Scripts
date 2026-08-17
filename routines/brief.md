@@ -87,20 +87,36 @@ It reports every problem at once. Fix them all and run it again. Do not commit a
 passed. Do not edit `validate.mjs` to make your file pass — if you genuinely believe a rule is
 wrong, leave a note in the commit message and keep the rule.
 
-**7. Commit and push — to `main`, explicitly.**
+**7. Get it onto `main`.**
+
+The phone reads `main` and nothing else, so a feature that stops anywhere short of it is a feature
+nobody sees. Run these in order:
 
 ```bash
-git add daily/ && git commit -m "<kind>: <date> — <subject title>"
-git push origin HEAD:main
+# 1. Never publish from a stale base. Your session's working branch can be older than main,
+#    and committing on top of it would revert whatever landed since.
+git fetch origin main
+git rebase origin/main
+
+# 2. Commit ONLY the article. Never repo config, tools, or these briefs.
+git add daily/
+git commit -m "<kind>: <date> — <subject title>"
+
+# 3. Straight to main if you are allowed; otherwise open a PR and merge it yourself.
+git push origin HEAD:main || {
+  git push -u origin HEAD
+  gh pr create --fill --base main
+  gh pr merge --merge --delete-branch
+}
 ```
 
-**The `HEAD:main` refspec is not optional.** The session starts you on a working branch, so a bare
-`git push` publishes that branch instead, and the phone only ever reads `main` — a feature on a
-branch is a feature nobody sees.
+The rebase in step 1 is the important one. It is what keeps a merge safe: without it your branch
+carries an old copy of every file in the repo, and merging it would quietly undo work.
 
-One commit per feature. If the push is rejected because `main` moved, `git pull --rebase origin
-main` and push again. If it is rejected for permissions, say so plainly in your final message
-rather than inventing a workaround — that is a repository setting only a human can change.
+One commit per feature. If the push is rejected because `main` moved while you were writing, rebase
+again and retry. If it is rejected for permissions and the PR path fails too, say so plainly in
+your final message rather than inventing a workaround — that is a repository setting only a human
+can change.
 
 ---
 
