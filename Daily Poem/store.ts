@@ -83,63 +83,6 @@ export function stripUnknownLinks(markdown: string, allowed: Source[]): string {
 }
 
 // ---------------------------------------------------------------------------------------------
-// Illustration
-//
-// The routine names a Wikipedia article per illustrated section; the phone resolves it to a picture
-// at download time. Resolving late rather than at publish time is the point: a file URL captured
-// last night can rot before it is read, and one written from memory looks valid right up until it
-// 404s in the sheet. A title either resolves now or the section quietly runs unillustrated.
-
-const WIKI_UA = 'LoomDaily/1.0 (personal Loom automation; github.com/JoeRourke123/My-Loom-Scripts)';
-
-// Every section's image in ONE request. The obvious implementation — a search then a summary, per
-// section — is 14 round trips and measured 3.8s. The Action API takes up to 50 titles at once and
-// returns pageimages for all of them: 0.19s. Bridge calls are strictly serial, so collapsing round
-// trips is the only speed-up available. A title the model invented comes back `missing` and that
-// section simply goes unillustrated.
-async function wikiImages(queries: string[]): Promise<Record<string, { url: string; page: string }>> {
-  const wanted = queries.map((q) => String(q || '').trim()).filter(Boolean).slice(0, 50);
-  if (!wanted.length) return {};
-
-  const res = await Loom.network.fetch(
-    'https://en.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=original%7Cthumbnail'
-      + '&pithumbsize=960&format=json&redirects=1&titles='
-      + wanted.map(encodeURIComponent).join('%7C'),
-    // Wikimedia 403s requests carrying a default user agent.
-    { headers: { 'User-Agent': WIKI_UA, Accept: 'application/json' } },
-  );
-  if (!res.ok) throw new Error(`wiki pageimages HTTP ${res.status}`);
-  const data = JSON.parse(res._body);
-
-  // The API normalises and follows redirects, so the title that comes back is often not the title
-  // that went in. Both maps have to be walked to get back to the caller's original string.
-  const alias: Record<string, string> = {};
-  for (const list of [data?.query?.normalized, data?.query?.redirects]) {
-    for (const entry of list || []) alias[String(entry.to)] = String(entry.from);
-  }
-  const original = (title: string): string => {
-    let name = title;
-    for (let hop = 0; hop < 4 && alias[name]; hop++) name = alias[name];
-    return name;
-  };
-
-  const out: Record<string, { url: string; page: string }> = {};
-  const used = new Set<string>();
-  for (const page of Object.values<any>(data?.query?.pages || {})) {
-    if (!page || page.missing !== undefined) continue;
-    // Prefer the 960px thumbnail: `original` can be a 40 MP scan that stalls the sheet.
-    const url = String((page.thumbnail && page.thumbnail.source) || (page.original && page.original.source) || '');
-    if (!url || used.has(url)) continue;
-    used.add(url);
-    out[original(String(page.title))] = {
-      url,
-      page: `https://en.wikipedia.org/wiki/${encodeURIComponent(String(page.title).replace(/ /g, '_'))}`,
-    };
-  }
-  return out;
-}
-
-// ---------------------------------------------------------------------------------------------
 // Rows
 //
 // TABLE is 'daily', deliberately not the old 'articles'. ScriptDB freezes column types on the
@@ -203,23 +146,9 @@ async function fetchDay(date: string): Promise<boolean> {
   const sections: Section[] = doc.sections.map((s: any) => ({
     heading: String(s.heading || ''),
     body: stripUnknownLinks(sanitiseMarkdown(String(s.body || '')), sources),
-    imageUrl: '',
-    imagePage: '',
+    imageUrl: String(s.imageUrl || ''),
+    imagePage: String(s.imagePage || ''),
   }));
-
-  // An unillustrated article is fine; failing one over missing pictures is not.
-  try {
-    const queries: string[] = doc.sections.map((s: any) => String(s.imageQuery || ''));
-    const found = await wikiImages(queries);
-    queries.forEach((q, i) => {
-      const hit = found[q.trim()];
-      if (!hit) return;
-      sections[i].imageUrl = hit.url;
-      sections[i].imagePage = hit.page;
-    });
-  } catch (e: any) {
-    Loom.log.warn(`Daily Poem: image lookup failed for ${date}: ${e.message}`);
-  }
 
   const row = {
     date,

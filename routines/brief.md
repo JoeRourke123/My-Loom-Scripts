@@ -70,10 +70,10 @@ a finding, and saying so plainly is better writing than padding around it.
 - `title` — a headline for *your feature*, not the subject's own name. It should make someone want
   to read on, without overpromising.
 - `standfirst` — one or two sentences of deck under the headline. Say what this piece will show.
-- `sections[]` — five to eight, each `{ heading, body, imageQuery }`.
+- `sections[]` — five to eight, each `{ heading, body, imageUrl, imagePage }`.
   - `heading` is a real headline, not a label. "Background", "Analysis", "Overview" are rejected.
   - `body` is markdown. Prose. `##` headings are not needed — the heading is a separate field.
-  - `imageQuery` on **two to four** sections only (see Images below); empty string on the rest.
+  - Illustrate **two to four** sections (see Images below). Empty strings on the rest.
 - `sources[]` — `{ title, url }` for every source you actually read.
 - `generatedAt` — ISO timestamp. `model` — the model you are.
 
@@ -138,27 +138,27 @@ unchanged in a feature about a different subject.
 
 ## Images
 
-**You do not supply image URLs — you name a Wikipedia article, and the phone resolves it.** Set
-`imageQuery` to an article title and leave it at that. There is no `imageUrl` or `imagePage` for
-you to fill in: the reader's device looks the title up against the Wikipedia API when it downloads
-the feature.
+You supply the URLs. The phone renders what you publish and looks nothing up.
 
-Late resolution is deliberate. A file URL captured tonight can rot before it is read, and a URL
-written from memory looks perfectly valid until it 404s in the sheet. A title either resolves at
-read time or the section quietly runs without a picture.
+**Resolve a page's lead image through the API — never guess or recall a file URL.** One request
+takes up to 50 titles at once, so ask for all of them together rather than one page at a time
+(Wikipedia rate-limits a rapid series of single lookups):
 
-What makes a good `imageQuery`:
+```bash
+curl -sS "https://en.wikipedia.org/w/api.php?action=query&prop=pageimages&piprop=original%7Cthumbnail&pithumbsize=960&format=json&redirects=1&titles=Isaac%20Rosenberg%7CSlade%20School%20of%20Fine%20Art"
+```
 
-- **An exact article title**, as it appears on Wikipedia — `Isaac Rosenberg`, `Slade School of Fine
-  Art`, `Battle of the Somme`. Not a description, not a search phrase, not a file name. Redirects
-  and capitalisation differences are handled; an invented title simply resolves to nothing and that
-  section runs unillustrated.
-- **A subject likely to carry a lead photograph**: a person, a place, a movement, an event, a
-  building, an artwork.
-- **Never the subject of this feature itself.** For a painting or a building the reader is already
-  looking at it, and a Wikipedia copy is a different URL, so nothing downstream can catch the
-  duplication — only you can.
-- **Never the same title twice** in one feature.
+- `imageUrl` — prefer `thumbnail.source` (960px) over `original.source`, which can be a 40 MP scan
+  that stalls the sheet.
+- `imagePage` — `https://en.wikipedia.org/wiki/Page_Title`, underscores for spaces.
+- A page that comes back `missing`, or with no image, gets no image. Leave both fields as empty
+  strings on that section and move on.
+
+Both URLs must be on a wikimedia.org, wikipedia.org or wikiart.org host — the validator rejects
+anything else, because these are hotlinked straight into a web view.
+
+**Never the same image twice** in one feature, and **never the subject of this feature itself** —
+for a painting or a building the reader is already looking at it.
 
 Two to four across the piece. Sparse beats complete: an image on every section is exactly what
 makes a layout look automated.

@@ -130,15 +130,8 @@ export function validate(path) {
     fail(`sections must number ${SECTIONS_MIN}–${SECTIONS_MAX}, got ${sections.length}`);
   }
 
-  // The feature's own subject, in the forms an imageQuery might name it.
-  const subjectNames = new Set(
-    [doc.subject?.title, doc.subject?.name]
-      .filter(Boolean)
-      .map((v) => String(v).toLowerCase()),
-  );
-
   let totalBody = 0;
-  const imageQueries = [];
+  const images = [];
   sections.forEach((s, i) => {
     const at = `sections[${i}]`;
     const heading = String((s && s.heading) || '');
@@ -158,29 +151,25 @@ export function validate(path) {
       if (!allowed.has(url)) fail(`${at}.body links ${url}, which is not in sources[] — cite only what you read`);
     }
 
-    // Illustration is a Wikipedia article title, resolved on the device — the sandbox cannot reach
-    // the Wikipedia API, so a URL written here would be guessed rather than looked up.
-    const query = String((s && s.imageQuery) || '').trim();
-    if (query) {
-      imageQueries.push(query);
-      if (query.length > 120) fail(`${at}.imageQuery is ${query.length} chars — use an article title, not a description`);
-      if (/^https?:\/\//i.test(query)) fail(`${at}.imageQuery must be a Wikipedia article title, not a URL`);
-      if (doc.subject && subjectNames.has(query.toLowerCase())) {
-        fail(`${at}.imageQuery is the subject of this feature — the reader is already looking at it`);
+    // Hotlinked straight into a web view, so the host list is a security control.
+    const img = String((s && s.imageUrl) || '').trim();
+    const page = String((s && s.imagePage) || '').trim();
+    if (img || page) {
+      images.push(img);
+      if (!img || !page) fail(`${at} needs both imageUrl and imagePage, or neither`);
+      if (img && !hostAllowed(img)) fail(`${at}.imageUrl host is not allowed: ${img}`);
+      if (page && !hostAllowed(page)) fail(`${at}.imagePage host is not allowed: ${page}`);
+      if (img && img === String(doc.subject?.imageUrl || '')) {
+        fail(`${at}.imageUrl is this feature's own subject — the reader is already looking at it`);
       }
-    }
-    // Tolerated if a run supplies them anyway, but then the host list applies: these are hotlinked
-    // straight into a web view.
-    for (const [field, url] of [['imageUrl', String((s && s.imageUrl) || '')], ['imagePage', String((s && s.imagePage) || '')]]) {
-      if (url && !hostAllowed(url)) fail(`${at}.${field} host is not allowed: ${url}`);
     }
   });
 
-  if (imageQueries.length > 4) {
-    fail(`${imageQueries.length} sections carry an imageQuery — use two to four, sparse beats complete`);
+  if (images.length > 4) {
+    fail(`${images.length} sections carry an image — use two to four, sparse beats complete`);
   }
-  const dupes = imageQueries.filter((q, i) => imageQueries.findIndex((o) => o.toLowerCase() === q.toLowerCase()) !== i);
-  if (dupes.length) fail(`imageQuery repeated: ${[...new Set(dupes)].join(', ')}`);
+  const dupes = images.filter((u, i) => u && images.indexOf(u) !== i);
+  if (dupes.length) fail(`the same image is used more than once: ${[...new Set(dupes)].join(', ')}`);
   if (totalBody > BODY_TOTAL_MAX) fail(`total body is ${totalBody} chars, over the ${BODY_TOTAL_MAX} ceiling`);
 
   // --- provenance --------------------------------------------------------------------------
