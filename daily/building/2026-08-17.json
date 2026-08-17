@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-17",
+  "subject": {
+    "id": "kilwa-kisiwani-ruins",
+    "name": "Kilwa Kisiwani Ruins",
+    "architect": "Various",
+    "year": 960,
+    "location": "Lindi, Tanzania",
+    "country": "Tanzania",
+    "city": "Lindi",
+    "style": "Swahili Coastal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Great_Mosque_Kilwa_Interior.jpg/1920px-Great_Mosque_Kilwa_Interior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2133,
+    "source": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani",
+    "title": "Kilwa Kisiwani Ruins",
+    "author": "Various"
+  },
+  "title": "The City That Coined Its Own Gold",
+  "standfirst": "A sultanate on a Tanzanian island grew rich enough to mint its own gold and build the grandest dome on the East African coast. The sultan who paid for both left his palace half-lived-in, and the record cannot agree on how his mosque roof came down.",
+  "sections": [
+    {
+      "heading": "A Sultan Who Struck His Own Gold",
+      "body": "By the 1320s the sultan ruling this island off the Tanzanian coast was doing something no other Swahili ruler managed: striking gold coins, on top of the silver and copper his predecessors had minted since the eleventh century. Kilwa's own chronicles cannot agree on exactly when al-Hasan ibn Sulaiman ruled — surviving accounts put his reign anywhere between 1310 and 1355 — but the coins he struck are the clearest fix historians have on him. Three gold pieces survive today, making him the only Kilwa sultan ever confirmed to have minted the metal, alongside a full run in silver and copper that put Kilwa alone among the Swahili city-states in issuing all three.\n\nThat money came from further south. Kilwa held Sofala, the Mozambican port through which gold from the interior reached the ocean, and taxed what passed through it. Controlling the outlet, not the mines, was what let a city on a small island behave like the capital of something much larger.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sofala1683.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Sofala"
+    },
+    {
+      "heading": "The Palace Nobody Finished Living In",
+      "body": "That wealth built a palace nobody finished using. Husuni Kubwa, on a bluff outside the town, covered roughly a hectare of courtyards, vaulted reception rooms and an octagonal swimming pool cut into the rock, with warehouse space clearly built for cargo rather than courtiers. Sources differ on the exact room count — from several dozen to more than a hundred, depending on which count you trust — but agree on the shape of the place: half palace, half trading depot. It received gold moving up from the Great Zimbabwe plateau and Chinese porcelain and Persian goods moving the other way, then sat mostly empty. Nothing in the surviving record explains why al-Hasan abandoned a palace he had the money to keep using.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg/960px-Conical_Tower_-_Great_Enclosure_III_%2833736918448%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Great_Zimbabwe"
+    },
+    {
+      "heading": "A Dome the Record Can't Agree on Losing",
+      "body": "Al-Hasan also extended Kilwa's Friday mosque, adding a new domed hall south of the original prayer space. The dome sat on a chamber not quite four metres square, carried on squinches and faced in dressed coral panels — coral rag and lime mortar rather than the fired brick or cut stone used elsewhere in the Islamic world, because that is what the island had to build with. The Moroccan traveller Ibn Battuta passed through in 1331 and thought Kilwa among the handsomest towns he had seen, though his account is not reliable in its particulars: he wrote that the mosque was built entirely of wood, which the standing coral walls contradict.\n\nWhat happened to that dome afterwards is genuinely disputed. One account holds that an earthquake in 1331 — the same year as Ibn Battuta's visit — brought down the mosque's roof and spared only the dome itself. Another places the dome's own collapse later, toward the end of the fourteenth century, blaming structural failure rather than any earthquake, with a rebuild in the early fifteenth century on new octagonal coral pillars. The two versions cannot both be exactly right, and nothing in the published record resolves which one is.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "When the Portuguese Ended the Gold Run",
+      "body": "In 1505 the Portuguese admiral Francisco de Almeida sacked Kilwa with a force of roughly two hundred soldiers, installed a puppet sultan named Mohamed Ancony, and set his men to building a fort. Construction began on 25 July — St James's Day, which gave the fort its name, the Gereza, from the Portuguese igreja. The Portuguese evacuated in 1512, but the interruption did lasting damage: over the following two centuries Kilwa's economy shifted from gold to ivory, control passed to Oman, and in 1842 Zanzibar's Omani rulers exiled Kilwa's last sultan, Hassan, ending the dynasty. Trade had already moved to the mainland settlement of Kilwa Kivinje; the island itself was left to shrink into a village.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Retrato_de_D._Francisco_de_Almeida_%28ap%C3%B3s_1545%29_-_Autor_desconhecido.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Francisco_de_Almeida"
+    },
+    {
+      "heading": "What the Bones Say About Who Built It",
+      "body": "For most of the twentieth century, Kilwa's own founding story — that a Persian prince named Ali ibn al-Hasan arrived with six sons and established the ruling dynasty around 1200 — was treated by colonial-era scholars as unlikely, a piece of self-flattering myth-making by a Swahili elite claiming foreign prestige. A 2023 study in Nature, analysing ancient DNA from eighty individuals buried at Swahili coastal sites including Kilwa and nearby Songo Mnara between 1250 and 1800, found the opposite. African women and Persian men were having children together on this coast from around 1000 CE onward, with eighty to ninety percent of the Asian-derived ancestry in the sample tracing to Persian men. Roughly five centuries later the balance shifted toward Arabian ancestry, tracking the region's move from Persian into Omani influence. The oral tradition colonial historians dismissed turns out to describe something that happened.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ruins_of_Songo_Mnara%2C_inside_the_main_building.jpg/960px-Ruins_of_Songo_Mnara%2C_inside_the_main_building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Songo_Mnara"
+    },
+    {
+      "heading": "An Island Losing Ground",
+      "body": "Kilwa's ruins are eroding faster than they can be read. Coral quarried locally for new building work and the clearance of mangroves that once buffered the shoreline have both accelerated the loss, and the World Monuments Fund put the site on its 2008 Watch List of the hundred most endangered places on Earth. In December 2018 the digital heritage group CyArk carried out a full 3D laser scan of the site, from the Gereza fort to the Great Mosque — a record made partly against the possibility that the buildings it documents will not survive to be measured again. About 1,150 people live on the island today, against a medieval population historians estimate at ten thousand or more.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Kilwa Kisiwani — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kilwa_Kisiwani" },
+    { "title": "Great Mosque of Kilwa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_Mosque_of_Kilwa" },
+    { "title": "Al-Hasan ibn Sulaiman — Wikipedia", "url": "https://en.wikipedia.org/wiki/Al-Hasan_ibn_Sulaiman" },
+    { "title": "Fort Santiago (Kilwa) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fort_Santiago_(Kilwa)" },
+    { "title": "Songo Mnara — Wikipedia", "url": "https://en.wikipedia.org/wiki/Songo_Mnara" },
+    { "title": "Kilwa — World History Encyclopedia", "url": "https://www.worldhistory.org/Kilwa/" },
+    { "title": "Great Mosque of Kilwa — Mosqpedia", "url": "https://mosqpedia.org/masajid/great-mosque-of-kilwa/" },
+    { "title": "Husuni Kubwa Palace — Islamic Architectural Heritage Database", "url": "https://www.islamicarchitecturalheritage.com/listings/husuni-kubwa-palace" },
+    { "title": "Kilwa, the complete chronological history of an East-African emporium: 800–1842 — African History Extra", "url": "https://www.africanhistoryextra.com/p/kilwa-the-complete-chronological" },
+    { "title": "Ancient DNA reveals African and Asian ancestry of medieval Swahili people — University of York", "url": "https://www.york.ac.uk/news-and-events/news/2023/research/ancient-dna-african-asian-ancestry-swahili-people/" },
+    { "title": "Ruins of Kilwa Kisiwani — MAEASaM", "url": "https://maeasam.org/ruins-of-kilwa-kisiwani-en/" },
+    { "title": "A Quick Guide to Kilwa Kisiwani's Climate Crisis — Google Arts & Culture / CyArk", "url": "https://artsandculture.google.com/story/a-quick-guide-to-kilwa-kisiwani-39-s-climate-crisis-cyark/9wWhOu5_LjevXg" }
+  ],
+  "generatedAt": "2026-08-17T23:50:36Z",
+  "model": "claude-sonnet-5"
+}
