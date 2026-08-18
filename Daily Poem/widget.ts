@@ -133,15 +133,34 @@ const CARD = { alignment: 'leading', spacing: 9, padding: 4 };
 // that is a slightly off-centre crop, not a broken layout. Lower it if you move phones.
 const PLATE_W = 364;
 
-const SCRIM = ['black', 'clear', 'clear', 'black'];
+// Dark at the very top so the wordmark reads, clear through the middle so the picture is a
+// picture, and dark from three-quarters down where the writing sits.
+const SCRIM = ['black', 'clear', 'clear', 'black', 'black'];
 
-function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
+// The whole card is the picture; everything else sits on top of it.
+//
+// The earlier version made the plate a band across the top with the text in a separate zone
+// underneath. That has a failure mode: a zstack sizes to its tallest child, and the overlay —
+// padding plus a wordmark row plus three lines of title block — can exceed a 172pt band, at which
+// point the image stops filling and dead space opens above it. Sizing the plate to the whole card
+// removes the failure rather than tuning around it: the image is always the tallest child.
+//
+// The heights are the real widget sizes on a 17 Pro Max, which is what PLATE_W assumes too. An
+// image shorter than the card would leave a gap at the bottom; one taller pushes the writing off
+// the end. There is no proposed-size to read at build time, so these are measurements, not maths.
+function heroCard(
+  article: Article | null,
+  date: string,
+  height: number,
+  titleFont: string,
+  deckLines: number,
+) {
   const poem = (article && article.subject) || ({} as any);
   const url = heroImage(article);
   const tint = accent(article);
 
-  // Everything over the picture is white or the strand tint. `primary` would follow the system
-  // appearance, not the photograph, and go black-on-black half the time.
+  // Everything over the picture is white or the strand tint. `primary` follows the system
+  // appearance rather than the photograph and would go black-on-black half the time.
   const overlay = w.vstack([
     w.vstack([
       w.hstack([
@@ -151,7 +170,7 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
         w.text(stamp(date), { font: 'caption', color: 'white' }),
         ...(article && article.liked ? [w.icon('heart.fill', { size: 11, color: 'white' })] : []),
       ], { spacing: 4 }),
-    ], { padding: 12 }),
+    ], { padding: 13 }),
 
     w.spacer(),
 
@@ -165,11 +184,31 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
       w.text(String(poem.author || '').toUpperCase(), {
         font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1,
       }),
-    ], { padding: 12, spacing: 2, alignment: 'leading' }),
+
+      ...(article
+        ? [
+            w.divider({ color: 'white' }),
+            w.text(article.title, {
+              font: 'subheadline', bold: true, color: 'white', alignment: 'leading', lineLimit: 2,
+            }),
+            // Wrapped rather than tinted: there is no per-text opacity, only the stack common prop,
+            // so the deck gets its own stack to sit back from the headline.
+            w.vstack([
+              w.text(article.standfirst, {
+                font: 'caption', color: 'white', alignment: 'leading', lineLimit: deckLines,
+              }),
+            ], { opacity: 0.78, alignment: 'leading' }),
+          ]
+        : [
+            w.text('Arriving overnight', {
+              font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1,
+            }),
+          ]),
+    ], { padding: 13, spacing: 4, alignment: 'leading' }),
   ], { background: w.gradient({ colors: SCRIM }) });
 
-  // No picture yet: a tinted block the same height, so the card keeps its shape rather than
-  // collapsing into a different layout on the days illustration failed.
+  // No picture: a tinted block the same size, so the card keeps its shape on the days illustration
+  // failed rather than collapsing into a different layout.
   const plate = url
     ? w.image(url, { width: PLATE_W, height })
     : w.vstack([w.hstack([w.spacer()]), w.spacer({ minLength: height })], {
@@ -177,24 +216,6 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
       });
 
   return w.zstack([plate, overlay], { alignment: 'bottom' });
-}
-
-// What the routine wrote, under the picture.
-function details(article: Article | null, deckLines: number, extra: any[] = []) {
-  if (!article) {
-    return w.vstack([
-      w.label({
-        icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
-      }),
-    ], { padding: 13 });
-  }
-  return w.vstack([
-    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
-    w.text(article.standfirst, {
-      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
-    }),
-    ...extra,
-  ], { padding: 13, spacing: 5, alignment: 'leading' });
 }
 
 // --- the export ---------------------------------------------------------------------------------
@@ -229,23 +250,13 @@ export const widget = async () => {
     //
     // No outer padding on these two: the hero is meant to run to the edges, and WidgetKit clips
     // the card's own corners. The text blocks below carry their own inset instead.
-    large: w.vstack([
-      heroPanel(article, date, 168, 'title3'),
-      details(article, 3),
-      w.spacer(),
-    ], { alignment: 'leading', spacing: 0 }),
+    large: heroCard(article, date, 382, 'title3', 2),
 
     // The iPhone XL size (364×556) and the one this widget is designed for. 174pt taller than
     // large, which buys a taller plate and the poem's opening lines under the deck — not a second
     // copy of everything.
-    extraLargePortrait: w.vstack([
-      heroPanel(article, date, 252, 'title2'),
-      details(article, 3, article ? [
-        w.divider(),
-        w.text(opening(article, 6), { font: 'footnote', alignment: 'leading', lineLimit: 6 }),
-      ] : []),
-      w.spacer(),
-    ], { alignment: 'leading', spacing: 0 }),
+    // 364×556 — the same card, taller, so the deck gets two more lines.
+    extraLargePortrait: heroCard(article, date, 556, 'title2', 4),
 
     // iPad landscape, 4×6: the hero earns its place beside the text rather than above it.
     extraLarge: w.hstack([

@@ -119,9 +119,29 @@ const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 // that is a slightly off-centre crop, not a broken layout. Lower it if you move phones.
 const PLATE_W = 364;
 
-const SCRIM = ['black', 'clear', 'clear', 'black'];
+// Dark at the very top so the header reads, clear through the middle so the picture is a picture,
+// and dark from three-quarters down where the writing sits.
+const SCRIM = ['black', 'clear', 'clear', 'black', 'black'];
 
-function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
+// The whole card is the picture; everything else sits on top of it.
+//
+// The earlier version made the plate a band across the top with the text in a separate zone
+// underneath. That has a failure mode: a zstack sizes to its tallest child, and the overlay —
+// padding plus a header row plus three lines of label — can exceed a 172pt band, at which point
+// the image stops filling and dead space opens above it. Sizing the plate to the whole card
+// removes the failure rather than tuning around it: the image is always the tallest child.
+//
+// The heights are the real widget sizes on a 17 Pro Max, which is what PLATE_W assumes too. An
+// image shorter than the card would leave a gap at the bottom; one taller pushes the writing off
+// the end. There is no proposed-size to read at build time, so these are measurements, not maths.
+
+function heroCard(
+  article: Article | null,
+  date: string,
+  height: number,
+  titleFont: string,
+  deckLines: number,
+) {
   const art = (article && article.subject) || ({} as any);
   const tint = accentOf(article);
   const meta = [art.year, art.movementLabel].filter(Boolean).join(' · ');
@@ -136,7 +156,7 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
         w.spacer(),
         ...(article && article.liked ? [w.icon('heart.fill', { size: 11, color: 'white' })] : []),
       ], { spacing: 5 }),
-    ], { padding: 12 }),
+    ], { padding: 13 }),
 
     w.spacer(),
 
@@ -150,7 +170,27 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
       meta
         ? w.text(meta, { font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1 })
         : w.spacer({ minLength: 0 }),
-    ], { padding: 12, spacing: 2, alignment: 'leading' }),
+
+      ...(article
+        ? [
+            w.divider({ color: 'white' }),
+            w.text(article.title, {
+              font: 'subheadline', bold: true, color: 'white', alignment: 'leading', lineLimit: 2,
+            }),
+            // Wrapped rather than tinted: there is no per-text opacity, only the stack common
+            // prop, so the deck gets its own stack to sit back from the headline.
+            w.vstack([
+              w.text(article.standfirst, {
+                font: 'caption', color: 'white', alignment: 'leading', lineLimit: deckLines,
+              }),
+            ], { opacity: 0.78, alignment: 'leading' }),
+          ]
+        : [
+            w.text('Arriving overnight', {
+              font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1,
+            }),
+          ]),
+    ], { padding: 13, spacing: 4, alignment: 'leading' }),
   ], { background: w.gradient({ colors: SCRIM }) });
 
   const plate = art.imageUrl
@@ -162,21 +202,6 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
   return w.zstack([plate, overlay], { alignment: 'bottom' });
 }
 
-function details(article: Article | null, deckLines: number) {
-  if (!article) {
-    return w.vstack([
-      w.label({
-        icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
-      }),
-    ], { padding: 13 });
-  }
-  return w.vstack([
-    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
-    w.text(article.standfirst, {
-      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
-    }),
-  ], { padding: 13, spacing: 5, alignment: 'leading' });
-}
 
 // --- the export ---------------------------------------------------------------------------------
 
@@ -208,19 +233,11 @@ export const widget = async () => {
     //
     // No outer padding on these two — the plate is meant to bleed, and WidgetKit rounds the card's
     // own corners. The text below carries its own inset.
-    large: w.vstack([
-      heroPanel(article, date, 172, 'title3'),
-      details(article, 3),
-      w.spacer(),
-    ], { alignment: 'leading', spacing: 0 }),
+    large: heroCard(article, date, 382, 'title3', 2),
 
     // The iPhone XL size (364×556). The band is deliberately deeper than half here — this is the
     // one publication where the picture IS the subject, and a portrait canvas needs the height.
-    extraLargePortrait: w.vstack([
-      heroPanel(article, date, 300, 'title2'),
-      details(article, 4),
-      w.spacer(),
-    ], { alignment: 'leading', spacing: 0 }),
+    extraLargePortrait: heroCard(article, date, 556, 'title2', 4),
 
     // iPad landscape, 4×6: the work beside the words rather than above them.
     extraLarge: w.hstack([
