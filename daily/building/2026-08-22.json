@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-22",
+  "subject": {
+    "id": "brihadeeswara-temple-gangaikondacholapuram",
+    "name": "Brihadeeswara Temple Gangaikondacholapuram",
+    "architect": "Various",
+    "year": 1025,
+    "location": "Tamil Nadu, India",
+    "country": "India",
+    "city": "Tamil Nadu",
+    "style": "Dravidian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_different_view_of_Airavatesvara_Temple.jpg/1920px-A_different_view_of_Airavatesvara_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1200,
+    "source": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
+    "title": "Brihadeeswara Temple Gangaikondacholapuram",
+    "author": "Various"
+  },
+  "title": "A Capital City Reduced to One Building",
+  "standfirst": "Rajendra Chola built this temple to anchor a new capital named for his conquest of the Ganges. The temple survived; the city around it did not, and what is left of the palace is only now coming out of the ground, ivory carvings and Chinese porcelain and all. (The photograph above, worth saying plainly, is of the third of these temples, at Darasuram — not this one.)",
+  "sections": [
+    {
+      "heading": "A City That Isn't There Anymore",
+      "body": "Gangaikondacholapuram was a capital for around 250 years, seat of the Chola empire from roughly 1025 until the dynasty's end in the late thirteenth century. Today it is a village in Tamil Nadu's Ariyalur district, and the temple is essentially all that remains standing of it. No palace walls rise above ground, no city gate, no street grid — a working capital of one of medieval India's largest empires has been reduced to a single religious building and the fields around it. That gap, between what the place administered and what survives of it, is the whole story here.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Water Carried on the Heads of Defeated Kings",
+      "body": "The city and temple both take their name from a military campaign. Around 1023, Rajendra I sent an army up the eastern seaboard through Kalinga and into the Ganges plain, defeating the Pala ruler Mahipala of Bengal along the way. The Thiruvalangadu copper plates record that the defeated rulers were made to carry pots of Ganges water north to south on their own heads, back to Rajendra's territory. He had the water poured into a newly dug tank beside his new capital — the plates call it a \"liquid pillar of victory\" — and took the title Gangaikonda Chola, the Chola who took the Ganga. The tank, later known as Cholaganga and today called Ponneri, still exists west of the temple, a lake made to commemorate a river two thousand kilometres away.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rajendra_Chola_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Rajendra_I"
+    },
+    {
+      "heading": "A Son's Answer to His Father's Tower",
+      "body": "Rajendra's temple, completed around 1035, was always going to be measured against his father Rajaraja I's Brihadisvara temple at Thanjavur, finished a generation earlier. He did not simply repeat it. Where Thanjavur's tower is a straight-sided, four-sided pyramid built to be seen as sheer height, Gangaikondacholapuram's vimana is octagonal, its tiers recessed and gently curving rather than stacked flat, on a wider base but a shorter tower — sources put it at roughly 55 to 56 metres against Thanjavur's 63. Writers describing the two towers side by side have long reached for the same contrast: Thanjavur's as masculine and severe, Gangaikondacholapuram's as softer and more curvilinear. Whether or not those are the right words for stone, the architectural choice behind them is real — a king building in his father's shadow chose refinement over trying to out-build him on height alone.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What's Coming Out of the Ground",
+      "body": "Because nothing of the city stands above the surface, most of what is known about Gangaikondacholapuram as a working capital comes from digging. The Tamil Nadu state archaeology department has excavated the site periodically since 1980, most recently in 2021 and 2022, concentrating on a mound at Maligaimedu identified as the royal palace. The finds include brick walls up to four feet thick, foundations sunk some six feet below the current ground level, iron nails, ivory objects, glass and shell bangles, gold foil, copper coins, a terracotta seal and a coin mould. One recent season alone recovered roughly 650 individual artefacts, including broken pieces of Chinese celadon and porcelain — trade goods that had travelled a very long way to end up in a Chola king's household rubbish. Inscriptions found nearby date the palace's use to between 1031 and 1119, under Rajendra I and several of his successors, before it went out of use entirely.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Foliate_Dish_with_Bovine_%28Xiniu%29_Gazing_at_a_Crescent_Moon.jpg/960px-Foliate_Dish_with_Bovine_%28Xiniu%29_Gazing_at_a_Crescent_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Longquan_celadon"
+    },
+    {
+      "heading": "Why the Capital Didn't Last",
+      "body": "What ended the city is not settled with certainty. The standard account points to Pandya rulers destroying the Chola palace after the dynasty's decline in the late thirteenth century, with further damage attributed to Delhi Sultanate raids into the Tamil country between 1311 and 1327. Most of the city's structures are believed to have gone in that window. Thanjavur, by contrast, stayed a functioning city under later Nayak and Maratha rulers and remains one today. The difference was not the temples — both survived — but everything built of brick and timber around them, which had no dynasty left to maintain it once the Cholas were gone.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Map_of_Pandya_dynasty_at_its_apex.png/960px-Map_of_Pandya_dynasty_at_its_apex.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Pandya_dynasty"
+    },
+    {
+      "heading": "Three Temples, One Misattributed Photograph",
+      "body": "This temple is one of three now grouped together as the Great Living Chola Temples, a UNESCO listing since 1987 and extended in 2004: Rajaraja I's Thanjavur temple, this one at Gangaikondacholapuram, and the Airavatesvara temple at Darasuram, completed in 1166 under Rajaraja II, over a century later still. The photograph running with this piece is in fact the Airavatesvara temple, not the Gangaikondacholapuram building it is meant to illustrate — worth stating outright rather than writing around, since the two are easy to mix up even in reference material. All three share ancestry and a listing; none of them are interchangeable. The temple this piece is actually about was reconsecrated in 2017 after restoration work, still standing over a capital city that has otherwise gone entirely.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/A_different_view_of_Airavatesvara_Temple.jpg/960px-A_different_view_of_Airavatesvara_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Airavatesvara_Temple"
+    }
+  ],
+  "sources": [
+    { "title": "Gangaikonda Cholapuram — Wikipedia", "url": "https://en.wikipedia.org/wiki/Gangaikonda_Cholapuram" },
+    { "title": "Gangaikondacholapuram and Porpanaikottai Excavations — PL Raj IAS Academy", "url": "https://www.plrajiasacademy.com/current-affairs-details/upsc/english/gangaikondacholapuram-and-porpanaikottai-excavations-art-culture" },
+    { "title": "Maligaimedu Chola Palace Excavation Site, Gangaikonda Chozhapuram — Veludharan (temple-visit field notes)", "url": "https://veludharan.blogspot.com/2024/11/maligaimedu-chola-palace-excavation.html" },
+    { "title": "Gangaikonda Cholapuram – Architecture — Tamilnadu Favourite Tourism", "url": "https://tamilnadu-favtourism.blogspot.com/2015/11/gangaikonda-cholapuram-architecture.html" },
+    { "title": "Airavatesvara Temple — Wikipedia", "url": "https://en.wikipedia.org/wiki/Airavatesvara_Temple" }
+  ],
+  "generatedAt": "2026-08-18T04:18:05Z",
+  "model": "claude-sonnet-5"
+}
