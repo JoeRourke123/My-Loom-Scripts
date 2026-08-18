@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-24",
+  "subject": {
+    "id": "monastery-of-the-caves",
+    "name": "Monastery of the Caves",
+    "architect": "Various",
+    "year": 1073,
+    "location": "Kyiv, Ukraine",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "style": "Eastern Orthodox",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Vardzia_from_bell_tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 600,
+    "height": 800,
+    "source": "https://en.wikipedia.org/wiki/List_of_cave_monasteries",
+    "title": "Monastery of the Caves",
+    "author": "Various"
+  },
+  "title": "A Cave Dug in 1051, Still Being Fought Over",
+  "standfirst": "Kyiv Pechersk Lavra survived the Mongols, a fifteenth-century khan, and a 1941 explosion nobody has fully explained. In 2023 Ukraine expelled the monks loyal to Moscow. In June 2026 a Russian drone burned most of the roof off its cathedral.",
+  "sections": [
+    {
+      "heading": "One Monk's Cave",
+      "body": "Before it was a monastery it was a hole in a hillside. Anthony, a Kyivan who had taken monastic vows on Mount Athos in Greece, returned home around 1051 and settled into a cave overlooking the Dnipro river, living as a hermit until other men came to dig cells of their own alongside his. His successor as leader, Theodosius, turned the growing community into a formally organised monastery and began building the Dormition Cathedral above ground. The tunnels the two of them started — corridors barely a metre and a half wide, cut through the hillside and lined with cells and underground chapels — are still there, and still hold the mummified remains of monks buried in them across the centuries, including the chronicler Nestor and the semi-legendary warrior-monk Ilya Muromets. The photograph running with this piece is not, in fact, this monastery: it is Vardzia, a cave monastery cut into a cliff face in Georgia roughly a century and a half later. The mix-up is easy to understand, because what Anthony started here was exactly that kind of place, long before any of the buildings now standing above the caves existed.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mt._Athos_%283939757657%29.jpg/960px-Mt._Athos_%283939757657%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Mount_Athos"
+    },
+    {
+      "heading": "The Monk Who Wrote the Country's Founding Story",
+      "body": "A monk of this community, Nestor, is credited as the principal author of the Primary Chronicle — the Tale of Bygone Years, completed under the monastery's hegumen Prokhor in the early twelfth century — the chronicle that gives Kyivan Rus' its founding narrative and remains a primary source for the period to this day. The monastery also produced the Kyiv Caves Patericon, a collection of the community's own miracle stories and biographies that circulated as popular reading across Eastern Europe. A cave dug by a returning pilgrim had, within two generations, become the place where an entire civilisation's history of itself got written down.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Nestor_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Nestor_the_Chronicler"
+    },
+    {
+      "heading": "Sacked Four Times, Rebuilt Every Time",
+      "body": "The Cumans plundered the monastery in 1096. The Mongols struck it during their assault on Kyiv in 1240. In 1416, Edigu, khan of the Golden Horde, destroyed it again, and this time it stayed in ruins for more than fifty years before rebuilding finally began around 1470. Each cycle of destruction and slow reconstruction left the monastery poorer in the short term and, apparently, no less central to the region's religious life in the long term — by the time it was rebuilt after Edigu, it had already outlasted three separate empires' attempts to erase it.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "When Kyiv, Not Moscow, Ran the Books",
+      "body": "In 1615 the archimandrite Eliseus Pletenetsky set up the first printing press in Kyiv at the monastery, and the press produced Ukraine's first printed book the following year. In 1631 the monastery's next major patron, Petro Mohyla, opened a school on the grounds that merged the following year into what became the Kyiv Mohyla Academy, built on the Latin and Greek humanist model then current in Europe. For a stretch of the seventeenth century this made Kyiv, not Moscow, the leading centre of East Slavic Orthodox scholarship. That balance shifted in 1686, when the Ecumenical Patriarchate transferred ecclesiastical jurisdiction over the Kyiv metropolis to the Patriarch of Moscow — an arrangement that put the monastery under Moscow's authority for the next three hundred and thirty-seven years, and that Ukraine would not formally end until 2023.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Petro_Mohyla-_big.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Petro_Mohyla"
+    },
+    {
+      "heading": "An Explosion Nobody Has Fully Explained",
+      "body": "Soviet authorities murdered the monastery's Metropolitan Volodymyr in 1918, later closed the community down, and in 1926 opened an anti-religious museum on the grounds. The NKVD mined the cathedral on 16–17 September 1941 before evacuating the city; the explosion itself came weeks later, on 3 November, with German troops already in occupation, and left only about a seventh of the building standing. Who actually triggered it is still disputed: Soviet authorities said in the 1960s that Soviet saboteurs under Ivan Kudrya were responsible, while the German architect Albert Speer wrote in his memoirs that the Reichskommissar for Ukraine, Erich Koch, had ordered the demolition. The dispute has never been conclusively settled either way. The cathedral stayed a ruin for fifty-four years, its restoration beginning only after Ukrainian independence in 1995 and finishing with a reconsecration in 2000.\n\nThe jurisdictional question resurfaced after Russia's 2022 invasion. In January 2023 the Ukrainian government terminated the lease under which monks of the Moscow Patriarchate-linked church had occupied part of the monastery for free, following an audit that found irregularities; Metropolitan Epiphanius of the independent Orthodox Church of Ukraine held a Christmas service in the Dormition Cathedral on 7 January that year. Not everyone left quietly — the monastery's abbot, Metropolitan Pavlo, was placed under house arrest that spring on charges connected to justifying the invasion — but by 2023 the arrangement Moscow had held since 1686 was over.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Epiphanius_portrait_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Epiphanius_of_Kyiv"
+    },
+    {
+      "heading": "What a Drone Did in June",
+      "body": "On 15 June 2026, during a large-scale Russian attack on Kyiv that killed five people and wounded thirty-five across the city, a Shahed-type drone struck the Dormition Cathedral's altar section and set the roof alight. Firefighters contained the blaze by late morning, but by then it had burned through roughly eighty percent of the roof structure — the worst damage the cathedral had suffered since 1941. Metropolitan Epiphanius called it an attack on \"one of the holiest places in the Christian world\"; Ukraine's culture minister, Tetyana Berezhna, said Russia \"attacks and destroys everything it cannot appropriate.\" The strike came weeks before the monastery's 975th anniversary. In August, Switzerland pledged roughly $730,000 toward restoration, channelled through UNESCO, whose enhanced protection under the 1954 Hague Convention the site formally carries. By that point Ukrainian officials counted nearly two thousand cultural heritage sites damaged or destroyed by Russian forces since the invasion began. This one had already outlasted the Mongols, a khan of the Golden Horde, and an unexplained fire in 1941.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Kyiv Pechersk Lavra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kyiv_Pechersk_Lavra" },
+    { "title": "Dormition Cathedral, Kyiv Pechersk Lavra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dormition_Cathedral,_Kyiv_Pechersk_Lavra" },
+    { "title": "'One of the holiest places' — Why Kyiv's ancient Pechersk monastery is so important for Ukraine — The Kyiv Independent", "url": "https://kyivindependent.com/from-soviet-explosives-to-russian-drones-the-long-assault-on-kyiv-pechersk-lavra/" },
+    { "title": "Kyiv's historic Pechersk Lavra burns as large-scale Russian strikes kill 5, injure 35 in capital — The Kyiv Independent", "url": "https://kyivindependent.com/russian-attack-june-14-2026/" },
+    { "title": "Russia burned 80% of this cathedral's roof at UNESCO site with 975 years of history. Switzerland is giving $730,000 to rebuild it — Euromaidan Press", "url": "https://euromaidanpress.com/2026/08/16/russia-burned-80-of-this-cathedrals-roof-at-unesco-site-with-975-years-of-history-switzerland-is-giving-730000-to-rebuild-it/" }
+  ],
+  "generatedAt": "2026-08-18T04:23:27Z",
+  "model": "claude-sonnet-5"
+}
