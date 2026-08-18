@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-21",
+  "subject": {
+    "id": "brihadisvara-temple",
+    "name": "Brihadisvara Temple",
+    "architect": "Kunjara Mallan",
+    "year": 1010,
+    "location": "Thanjavur, India",
+    "country": "India",
+    "city": "Thanjavur",
+    "style": "Dravidian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/1920px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1000,
+    "source": "https://en.wikipedia.org/wiki/Brihadisvara_Temple",
+    "title": "Brihadisvara Temple",
+    "author": "Kunjara Mallan"
+  },
+  "title": "The Temple That Named Itself After the King, Not the God",
+  "standfirst": "Rajaraja Chola called his new temple Rajarajesvaram — his own lordship, not Shiva's. The inscriptions running around its base explain why he could afford it, and how the building went on making money for centuries after the man who paid for it was dead.",
+  "sections": [
+    {
+      "heading": "A Shrine Called After Its Patron",
+      "body": "The temple now known as Brihadisvara, or simply the Big Temple, did not start with either name. Rajaraja Chola I called it Rajarajesvaram — the lordship of Rajaraja — a name that puts the king ahead of the god in the building's own title. By the sixteenth century it had become Peruvudaiyar Kovil in Tamil, and only later still did the Sanskrit Brihadishvara, \"great lord,\" attach itself, giving the temple the more pious-sounding name it carries today. Inscriptions credit the design to a named individual, Kunjara Mallan Raja Rama Perunthachan, at a moment when most South Asian temple building went unsigned. A king who put his own reign-name on the shrine was not being shy about who had commissioned it, or reluctant to have a builder's name recorded alongside his own.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What War Paid For",
+      "body": "The money behind the building has a traceable, and fairly recent, origin. In 993 Rajaraja's forces took the Anuradhapura kingdom in northern Sri Lanka; a court inscription later compared the crossing to Rama's legendary causeway to Lanka, boasting that where Rama needed monkeys to build a bridge, Rajaraja's army crossed by ship and burned out the Lankan king directly. A decade later, in 1003–04, his campaign against the Western Chalukya ruler Satyashraya at Annigeri brought back gold flowers and treasures that Rajaraja dedicated directly to the temple at Thanjavur. Temple inscriptions record villages assigned to fund the shrine as far away as Ceylon itself — conquered territory turned into an income stream for a building project at home. Construction ran from 1003 to 1010, tracking the campaigns almost exactly: the temple rose on money that was still arriving.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Raraja_detail.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Rajaraja_I"
+    },
+    {
+      "heading": "A Temple That Lent Money at 12½ Percent",
+      "body": "What survives on the temple's south wall is not devotional language but an account book cut into stone. One inscription records revenue in paddy and in gold owed from villages assigned to the temple through the twenty-ninth year of Rajaraja's reign. Others set out endowments made on fixed terms — three kuruni of paddy per kasu, a rate working out to roughly 12.5 percent annually — meaning the temple held capital and expected a return on it, functioning as a lender as much as a place of worship. Rajaraja's elder sister, the princess Kundavai, gave gold and thirteen ornaments of gems to the temple's images in her own right, recorded up to the third regnal year of Rajaraja's son and successor. Two centuries and more after Rajaraja died, the arrangement was still being administered: a fifteenth-century inscription on the same wall, dated 1455, exempts specific villages from taxation on the temple's behalf. The building outlived the dynasty that built it and kept running its books.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tanjore_sadir_temple_dancer_Gnyana_seated_-_L%E2%80%99Ancien_musee_des_colonies%2C_Fedor_Jagor%2C_ca._1850.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Devadasi"
+    },
+    {
+      "heading": "Stone From Fifty Kilometres Upriver",
+      "body": "Thanjavur sits on the flat alluvial delta of the Kaveri, ground that produces rice, not building stone. The temple's granite came from at least thirty miles upriver, quarried and floated or hauled down to a plain with no local source of it at all. The vimana above the sanctuary rises 63.4 metres over a base just over 30 metres square, tapering through thirteen tiers to a capstone cut from a single granite block weighing around 80 tonnes. Getting that block to the top meant building a ramp roughly six kilometres long, sloped gently enough for the stone to be dragged rather than lifted — an engineering answer to a problem the delta's geology created and its geography made worse.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Shivanasamudra_Falls_on_Kaveri.jpg/960px-Shivanasamudra_Falls_on_Kaveri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Kaveri"
+    },
+    {
+      "heading": "Painted Over for Four Hundred Years",
+      "body": "Sometime under the Nayak rulers of the sixteenth and seventeenth centuries, new murals were painted directly over the original Chola-era frescoes lining the temple's inner corridor, without anyone recording that anything lay underneath. They stayed hidden until 1931, when S. K. Govindaswami, a young history lecturer at Annamalai University, identified the older layer beneath the Nayak paint; the Archaeological Survey of India published his findings in its 1933 annual report, with a fuller study by C. Sivaramamurti following in 1939. By then the temple had already absorbed several centuries of addition and repair from rulers who were not Chola: Nayak-era shrines to Nandi, Amman and Subrahmanya; a Maratha restoration in 1801 under Serfoji II, repairing damage from earlier conflict between the Sultans of Madurai and the Hindu kings of Thanjavur; and, in 1777, an outer defensive wall with gun-holes, built by French colonial forces garrisoning the site. A temple named for one eleventh-century king's lordship spent the following eight centuries being maintained, repainted and fortified by everyone else who came to hold Thanjavur after him.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Serfoji_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Serfoji_II"
+    }
+  ],
+  "sources": [
+    { "title": "Brihadisvara Temple — Wikipedia", "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple" },
+    { "title": "Brihadishvara Temple — Britannica", "url": "https://www.britannica.com/place/Brihadishvara-temple" },
+    { "title": "Rajaraja I — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rajaraja_I" },
+    { "title": "Brihadisvara Temple: A King's Glory in Stone — Live History India", "url": "https://www.livehistoryindia.com/story/monuments/brihadisvara-temple" },
+    { "title": "Brihadishvara Temple Inscriptions — Indira Gandhi National Centre for the Arts", "url": "https://ignca.gov.in/brhadisvaratemple/VIMAN/INSCRIPTIONS/04.html" }
+  ],
+  "generatedAt": "2026-08-18T04:14:27Z",
+  "model": "claude-sonnet-5"
+}
