@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-20",
+  "subject": {
+    "id": "chola-bronze-nataraja-shrine-thanjavur",
+    "name": "Chola Bronze Nataraja Shrine Thanjavur",
+    "architect": "Various",
+    "year": 1000,
+    "location": "Tamil Nadu, India",
+    "country": "India",
+    "city": "Tamil Nadu",
+    "style": "Dravidian",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 870,
+    "height": 1171,
+    "source": "https://en.wikipedia.org/wiki/Nataraja_Temple%2C_Chidambaram",
+    "title": "Chola Bronze Nataraja Shrine Thanjavur",
+    "author": "Various"
+  },
+  "title": "A Shrine Named for the Wrong Town",
+  "standfirst": "The record calls this a Thanjavur shrine; the photograph above it is of a temple ninety kilometres away in Chidambaram. Untangling the mix-up leads into how Chola bronze gods were cast, why two of them ended up in foreign museums decades later, and what the real Thanjavur building looks like instead.",
+  "sections": [
+    {
+      "heading": "The Building in the Photograph Isn't in Thanjavur",
+      "body": "This record names its subject a Thanjavur shrine, but the photograph above it is of the Nataraja Temple in Chidambaram, a different Tamil Nadu town in a different district, roughly ninety to a hundred and ten kilometres away. The mismatch is worth stating plainly rather than writing around: what the reader is actually looking at is Chidambaram's temple, and its building history is documented well enough not to need Thanjavur's name borrowed for it.\n\nThe earliest confirmed inscriptions at the site date to the reign of Aditya Chola I, in the early tenth century. Parantaka Chola I, who came to power in 907, is recorded in copper-plate inscriptions gilding what the text calls \"the golden house for Shiva\" — the origin of the temple's signature gold-tiled roof. The site was expanded sixfold under Kulottunga Chola I in the late eleventh and early twelfth centuries, whose general built a stepped temple tank, a goddess shrine and a hymn hall; the great eastern gateway tower was added later still, under the Pandya king Jatavarman Sundara Pandya I in the mid-thirteenth century, after Chola power had already passed to others. What stands today is not one Chola building but three centuries of successive dynasties adding to a shrine none of them originated.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Golden Roof Over an Empty Room",
+      "body": "Chidambaram's most distinctive space is not large. The Chit Sabha, the \"hall of consciousness\" at the temple's heart, measures only about 3.5 by 1.5 metres, roofed in gilded copper tiles and, in the theology the temple is built around, containing no image at all — the sanctum represents Shiva in his formless aspect, a doctrine still referred to as the Chidambaram secret. Five silver steps lead from it to the adjoining Kanaka Sabha, the \"golden hall,\" where the temple's silver processional Nataraja image is kept and carried out for festivals.\n\nThat pairing, an empty stone sanctum for a god who cannot be depicted, beside a movable bronze figure for the god who is carried through the streets, is the architectural expression of a wider Chola practice: stone temples held the abstract, and bronze figures did the god's public work.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Casting a God So It Could Be Carried",
+      "body": "Producing an image that could travel required a different technology than carving stone. Chola bronze-casters worked in lost-wax: a full model built in beeswax, coated in clay, then fired so the wax ran out and left a cavity that was filled with molten bronze. Because the mould had to be broken to free the finished figure, every casting was a one-off — there was no repeating a successful Nataraja exactly, only starting again from wax.\n\nOne of the tradition's best-documented patrons was Sembiyan Mahadevi, a Chola queen widowed in the mid-tenth century, who spent roughly the next sixty years converting brick-and-timber shrines to stone and commissioning bronze icons, establishing a workshop whose output kept shaping temple bronze-casting after her death. Temple inscriptions from the following generation, under Rajaraja Chola I and his son Rajendra I, catalogue around sixty-six bronze icons in enough descriptive detail that they now serve as a documentary record of images since lost, stolen or dispersed.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Queen_Sembiyan_Mahadevi_as_the_Goddess_Parvati.jpg/960px-Queen_Sembiyan_Mahadevi_as_the_Goddess_Parvati.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Sembiyan_Mahadevi"
+    },
+    {
+      "heading": "The Bronze That Was Swapped for a Fake",
+      "body": "Not all of those catalogued images stayed where they were recorded. In 1973, India filed its first-ever foreign claim for the return of a looted antiquity: a tenth-century Nataraja bronze known as the Sivapuram Nataraja, which had gone missing from a Thanjavur-district temple and resurfaced, after passing through dealers, in the collection of the Norton Simon Foundation in California. The case settled in 1976, with the foundation formally recognising India's title to the bronze while keeping it on loan for a further decade; the piece was physically returned to India in 1986, and now stands in a temple in Chennai. It was not the last such case.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bronze_casting_by_the_Lost_Wax_Method.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Lost-wax_casting"
+    },
+    {
+      "heading": "The Bronze a Prime Minister Carried Home",
+      "body": "In 2006, thieves broke into the Brihadeeswarar temple complex at Sripuranthan and made off with another tenth-century Nataraja, part of a wider haul of temple bronzes moved through the smuggling network of the dealer Subhash Kapoor. Sold in 2008 to the National Gallery of Australia for 5.1 million US dollars on a fabricated provenance document dating the piece to 1970, the bronze hung on public display in Canberra until an investigative report in March 2014 traced its real origin. The gallery's director pulled it from the wall; Australia returned the statue to India that September, handed over by the Australian prime minister to his Indian counterpart in New Delhi, and in 2016 it was reunited with its consort image at a conservation centre in Kumbakonam. Investigators later linked Kapoor's network to thefts from several more temples in the same district, part of a trafficking operation tied, by the time of his prosecution, to thousands of stolen artefacts moved through the international art market.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Temple Built to Outdo This One",
+      "body": "Thanjavur's own Chola monument is a different building entirely, and arguably a more ambitious one. The Brihadeeswarar Temple was built there under Rajaraja Chola I between 1003 and 1010, its granite vimana rising some 66 metres in thirteen tapering tiers, capped by a single carved capstone weighing an estimated 80 tonnes, hauled to the top by a method no inscription or contemporary account fully explains; the popular story of a graded earthen ramp several kilometres long is a plausible reconstruction, not a documented one. The temple holds one of India's largest monolithic Shiva lingas and roughly 670 square metres of Chola-period frescoed wall.\n\nIt was inscribed as a UNESCO World Heritage Site in 1987, and the listing was extended in 2004 to cover two more Chola temples built by Rajaraja's descendants: Gangaikonda Cholapuram, raised by his son Rajendra I as the centrepiece of a new capital, and the Airavatesvara Temple at Darasuram, built roughly a century and a half later still. Read together with Chidambaram, the three describe a dynasty that kept building bigger monuments to the same god, in different towns, for two hundred years.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg/960px-Brihadisvara_Temple_during_Maha_Shivaratri-WUS03611_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Brihadisvara_Temple"
+    }
+  ],
+  "sources": [
+    { "title": "Nataraja Temple, Chidambaram — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nataraja_Temple,_Chidambaram" },
+    { "title": "Chola art and architecture — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chola_art_and_architecture" },
+    { "title": "Brihadisvara Temple — Wikipedia", "url": "https://en.wikipedia.org/wiki/Brihadisvara_Temple" },
+    { "title": "Sivapuram Nataraja Bronze Statue — Cultural Property Disputes Resource, Claremont Graduate University", "url": "https://research.cgu.edu/cultural-property-disputes-resource/cpdr/sivapuram-nataraja-bronze-statue/" },
+    { "title": "Great Living Chola Temples — Wikipedia", "url": "https://en.wikipedia.org/wiki/Great_Living_Chola_Temples" },
+    { "title": "Sripuranthan Natarajan Idol — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sripuranthan_Natarajan_Idol" },
+    { "title": "Lost-wax casting — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lost-wax_casting" }
+  ],
+  "generatedAt": "2026-08-18T00:05:13Z",
+  "model": "claude-sonnet-5"
+}
