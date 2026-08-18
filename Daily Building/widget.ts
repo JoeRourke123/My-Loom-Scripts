@@ -88,6 +88,16 @@ const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 // Cropping costs less here than it does for Daily Artwork: architecture photographs are
 // overwhelmingly landscape, so a band is close to their natural shape.
 
+// The card's own width. w.image needs BOTH dimensions to fill: imageView does
+// .scaledToFill().frame(width:height:).clipped(), and with a nil width the frame resolves its
+// width from the image's aspect at that height — which is fit, not fill, and leaves a portrait
+// picture as a narrow column. Pinning the width makes the crop happen horizontally instead.
+//
+// 364 is the large/XL widget width on a 17 Pro Max, which is what the rest of this file is
+// measured against. On a narrower device the plate overruns to the right and WidgetKit clips it;
+// that is a slightly off-centre crop, not a broken layout. Lower it if you move phones.
+const PLATE_W = 364;
+
 const SCRIM = ['black', 'clear', 'clear', 'black'];
 
 function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
@@ -124,8 +134,8 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
   ], { background: w.gradient({ colors: SCRIM }) });
 
   const plate = b.imageUrl
-    ? w.image(b.imageUrl, { height })
-    : w.vstack([w.spacer({ minLength: height })], {
+    ? w.image(b.imageUrl, { width: PLATE_W, height })
+    : w.vstack([w.hstack([w.spacer()]), w.spacer({ minLength: height })], {
         background: w.gradient({ colors: [INK, 'black'], direction: 'diagonal' }),
       });
 

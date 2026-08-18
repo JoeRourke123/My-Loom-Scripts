@@ -104,9 +104,20 @@ const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 //    optional, so a nil width keeps the proposed width and the plate fills whatever the device
 //    gives the widget.
 //
-// The cost, and it is a real one: .scaledToFill() crops to the band, and 358 of the 730 works are
-// portrait. A tall painting shows its middle slice here rather than the whole canvas — which is why
-// small/medium/extraLarge keep plate(), where the shipped dimensions preserve the aspect.
+// Filling is the point here, and the crop is accepted: .scaledToFill() with both frame dimensions
+// pinned means a tall canvas shows its middle slice rather than the whole work. If you ever want
+// the complete painting again, small/medium/extraLarge still use plate(), which reads the shipped
+// width/height off the corpus row and preserves each work's own aspect.
+
+// The card's own width. w.image needs BOTH dimensions to fill: imageView does
+// .scaledToFill().frame(width:height:).clipped(), and with a nil width the frame resolves its
+// width from the image's aspect at that height — which is fit, not fill, and leaves a portrait
+// picture as a narrow column. Pinning the width makes the crop happen horizontally instead.
+//
+// 364 is the large/XL widget width on a 17 Pro Max, which is what the rest of this file is
+// measured against. On a narrower device the plate overruns to the right and WidgetKit clips it;
+// that is a slightly off-centre crop, not a broken layout. Lower it if you move phones.
+const PLATE_W = 364;
 
 const SCRIM = ['black', 'clear', 'clear', 'black'];
 
@@ -143,8 +154,8 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
   ], { background: w.gradient({ colors: SCRIM }) });
 
   const plate = art.imageUrl
-    ? w.image(art.imageUrl, { height })
-    : w.vstack([w.spacer({ minLength: height })], {
+    ? w.image(art.imageUrl, { width: PLATE_W, height })
+    : w.vstack([w.hstack([w.spacer()]), w.spacer({ minLength: height })], {
         background: w.gradient({ colors: [tint, 'black'], direction: 'diagonal' }),
       });
 

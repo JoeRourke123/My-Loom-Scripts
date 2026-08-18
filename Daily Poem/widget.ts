@@ -123,6 +123,16 @@ const CARD = { alignment: 'leading', spacing: 9, padding: 4 };
 // Common props are applied in the order opacity → background → cornerRadius → padding, so padding
 // on the scrim would inset the gradient too. The text blocks carry their own padding instead.
 
+// The card's own width. w.image needs BOTH dimensions to fill: imageView does
+// .scaledToFill().frame(width:height:).clipped(), and with a nil width the frame resolves its
+// width from the image's aspect at that height — which is fit, not fill, and leaves a portrait
+// picture as a narrow column. Pinning the width makes the crop happen horizontally instead.
+//
+// 364 is the large/XL widget width on a 17 Pro Max, which is what the rest of this file is
+// measured against. On a narrower device the plate overruns to the right and WidgetKit clips it;
+// that is a slightly off-centre crop, not a broken layout. Lower it if you move phones.
+const PLATE_W = 364;
+
 const SCRIM = ['black', 'clear', 'clear', 'black'];
 
 function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
@@ -161,8 +171,8 @@ function heroPanel(article: Article | null, date: string, height: number, titleF
   // No picture yet: a tinted block the same height, so the card keeps its shape rather than
   // collapsing into a different layout on the days illustration failed.
   const plate = url
-    ? w.image(url, { height })
-    : w.vstack([w.spacer({ minLength: height })], {
+    ? w.image(url, { width: PLATE_W, height })
+    : w.vstack([w.hstack([w.spacer()]), w.spacer({ minLength: height })], {
         background: w.gradient({ colors: [tint, 'black'], direction: 'diagonal' }),
       });
 
