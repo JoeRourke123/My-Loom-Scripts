@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-08-20",
+  "subject": {
+    "id": "julian-alden-weir/a-follower-of-grolier",
+    "title": "A Follower of Grolier",
+    "artist": "Julian Alden Weir",
+    "artistSlug": "julian-alden-weir",
+    "year": null,
+    "movement": "Impressionism",
+    "movementLabel": "Impressionism",
+    "imageUrl": "https://uploads1.wikiart.org/images/julian-alden-weir/a-follower-of-grolier.jpg",
+    "source": "https://www.wikiart.org/en/julian-alden-weir/a-follower-of-grolier",
+    "width": 764,
+    "height": 978,
+    "accent": "#86B149",
+    "accentName": "yellow",
+    "author": "Julian Alden Weir"
+  },
+  "title": "The Dealer Who Painted a Fellow Collector",
+  "standfirst": "Late in his life J. Alden Weir painted an old-fashioned bibliophile in the manner of Jean Grolier, the Renaissance collector who lent his books to anyone who asked. Weir had spent decades in exactly that trade himself, buying pictures for other men's walls — including two Manets he privately thought were terrible.",
+  "sections": [
+    {
+      "heading": "The Collector Who Shared Everything He Owned",
+      "body": "Jean Grolier de Servières was treasurer general of France in the sixteenth century and one of the great bibliophiles of the age, famous less for hoarding his library than for lending it out. Many of his bindings carry the motto 'Io. Grolierii et amicorum' — of Grolier and his friends — stamped on books he expected to circulate rather than sit shelved. By the time American collectors founded a bibliophile club in New York in 1884 and named it after him, Grolier had become shorthand for a particular kind of connoisseur: generous, sociable, more interested in the culture of collecting than in private possession.\n\nWeir titled this canvas after that figure without, as far as the record shows, ever joining the club that bore his name. The choice reads less like homage to a club than like a private joke, because Weir had spent a working lifetime as exactly the kind of intermediary Grolier's motto describes — moving art from one man's hands into another's, on commission, for men whose taste he did not always share.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Called It Worse Than a Chamber of Horrors",
+      "body": "Weir trained at the National Academy of Design before going to the École des Beaux-Arts in Paris in 1873, to study under Jean-Léon Gérôme. When he first encountered Impressionist painting there, he wrote home in disgust: 'I never in my life saw more horrible things... They do not observe drawing nor form but give you an impression of what they call nature. It was worse than the Chamber of Horrors.' It is not a young man's throwaway line — he repeated the substance of it for years, and it took until around 1891, well over a decade later, for him to adopt the broken brushwork and lighter palette he had once dismissed outright.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Impressionist Who Sold Manets He Didn't Rate",
+      "body": "The irony sharpened before it resolved. In 1880 and 1881, while still hostile to Impressionism in his own painting, Weir bought two Édouard Manet canvases in Paris on behalf of the New York collector Erwin Davis — Woman with a Parrot and Boy with a Sword. He was, in other words, acting as exactly the kind of agent Grolier's motto imagines: moving major modern pictures into an American collection years before he would let anything resembling their style near his own canvases. Davis would later give both paintings to the Metropolitan Museum of Art, among the first Manets to enter an American museum, brought there by a man who, at the time he fetched them, thought the movement they belonged to was a horror show.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/960px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/%C3%89douard_Manet"
+    },
+    {
+      "heading": "Ten Dollars, a Flower Painting, and a Farm",
+      "body": "The same Erwin Davis features in the story of how Weir got the Connecticut farm that made his later career possible. By one widely repeated account, Davis wanted a small landscape from Weir's own collection badly enough to offer him ten dollars and a 155-acre farm in Branchville in exchange for it; Weir took the deal and moved there in 1883. Other sources credit the property to his wife's family instead, and nothing here settles which account is right. What both agree on is the result: Branchville became Weir Farm, a working retreat where Childe Hassam and John Twachtman came to paint alongside him, and eventually the anchor of what historians call the Cos Cob art colony. It is now a 60-acre National Historic Site, the only unit of the National Park System devoted to an American painter.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Weir_Farm_National_Historic_Site_-_front_of_the_house.jpg/960px-Weir_Farm_National_Historic_Site_-_front_of_the_house.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Weir_Farm_National_Historical_Park"
+    },
+    {
+      "heading": "Two Wives, Two Sisters, One House",
+      "body": "Weir married Anna Baker in 1883, the year he moved to Branchville; they had a daughter, Caroline. Anna died in 1892, and Weir married her sister Ella the same year, a match that also brought a second farm, in Windham, into the family. His and Anna's daughter Dorothy Weir Young grew up to become a painter herself and married the sculptor Mahonri Young, a grandson of Brigham Young. Weir doubted his own talent even as his reputation grew — 'I know not what I am best at,' he wrote. 'I believe I am a fisherman, dreamer and a lover of nature... and if I lived to 120 I might become an artist.' Whistler, whom his father had once taught to draw at West Point, ran into him again years later in Europe and offered a verdict Weir liked well enough to record: 'Not bad — not bad at all!'",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Whistler_Selbstportr%C3%A4t.jpg/960px-Whistler_Selbstportr%C3%A4t.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/James_McNeill_Whistler"
+    },
+    {
+      "heading": "A Late Portrait of the Job He'd Always Done",
+      "body": "No museum catalogue fixes a firm year for A Follower of Grolier the way one exists for The Red Bridge or Factory Village; print dealers place it in 1916, toward the very end of Weir's life, but nothing in the public record confirms that date independently. By then he was president of the National Academy of Design and sat on the U.S. Commission of Fine Arts — an establishment figure painting an establishment subject, a gentleman handling a book the way Weir himself had spent forty years handling other people's pictures. He died at Branchville in December 1919. The critic Hamilton Easter Field's tribute at the time was blunt about what the country had lost: 'America has lost its most beloved artist.'",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "J. Alden Weir — Wikipedia", "url": "https://en.wikipedia.org/wiki/J._Alden_Weir" },
+    { "title": "Julian Alden Weir: The 'Heart' of American Impressionism — Connecticut History", "url": "https://connecticuthistory.org/julian-alden-weir-the-heart-of-american-impressionism/" },
+    { "title": "J. Alden Weir, America's Most Beloved Impressionist — New England Historical Society", "url": "https://newenglandhistoricalsociety.com/j-alden-weir-americas-beloved-impressionist/" },
+    { "title": "Grolier Club — History", "url": "https://www.grolierclub.org/Default.aspx?p=dynamicmodule&pageid=384895&ssid=322516&vnf=1" }
+  ],
+  "generatedAt": "2026-08-17T07:00:00Z",
+  "model": "claude-sonnet-5"
+}
