@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-19",
+  "subject": {
+    "id": "el-castillo-chichen-itza",
+    "name": "El Castillo Chichen Itza",
+    "architect": "Unknown",
+    "year": 1000,
+    "location": "Yucatán, Mexico",
+    "country": "Mexico",
+    "city": "Yucatán",
+    "style": "Mayan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1920px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 851,
+    "source": "https://en.wikipedia.org/wiki/El_Castillo%2C_Chichen_Itza",
+    "title": "El Castillo Chichen Itza",
+    "author": "Unknown"
+  },
+  "title": "The Pyramid That Keeps Turning Out to Have Another One Inside",
+  "standfirst": "Every time archaeologists have looked closely at El Castillo — its famous equinox shadow, its Toltec-looking carvings, its interior — the tidy story has come apart. What's underneath is older and stranger than what's visible, and nobody agrees on who built either.",
+  "sections": [
+    {
+      "heading": "A Serpent That May Not Be a Design",
+      "body": "Twice a year, in the last hours of a spring or autumn afternoon, sunlight strikes the northwest corner of El Castillo and throws a run of triangular shadows down the balustrade of the north staircase, so that light and dark seem to slither toward the stone serpent's head carved at the bottom. It is the single most photographed thing about the pyramid, sold to visitors as an astronomical instrument tuned to the equinox to the day.\n\nThe record is more careful than the marketing. Nothing in the archaeology confirms the effect was deliberately engineered rather than a byproduct of the pyramid's general orientation and stepped geometry — and the effect itself undercuts the precision claim: it remains visible, largely unchanged, for several weeks either side of the equinox, not on one calculated date. A monument built to mark a single day would not behave that way.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg/960px-Quetzalc%C3%B3atl_como_la_serpiente_emplumada_y_el_dios_del_viento_Eh%C3%A9catl%2C_en_el_folio_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl"
+    },
+    {
+      "heading": "Three Pyramids, Nested",
+      "body": "What's visible today is at least the third attempt. Carnegie Institution archaeologists began tunnelling into El Castillo in April 1931 specifically to test whether the standing temple had been built over an older one, and by 1935 they had found it: a Chac Mool statue with nails, teeth and eyes inlaid in mother-of-pearl, inside a temple roughly 33 metres wide, reached by nine interior steps rising 17 metres. A second chamber turned up the following year, its back wall lined with two rows of human bone beside a red-painted jaguar throne.\n\nThat inner temple wasn't the first building on the site either. Electrical resistivity surveys by geophysicists at Mexico's national university, published in the journal Scientific Reports in 2018, mapped a water-filled karst cavity directly beneath the pyramid's base, and the same imaging work is credited with identifying a third, older structure buried further down, dated to somewhere between 550 and 800 CE — centuries before the visible pyramid's final phase. The pattern this describes isn't one construction project but a habit: each generation built over, rather than replaced, what came before, so that renewing the temple and burying its previous version were close to the same act.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "An Argument With No Ending",
+      "body": "Chichén Itzá looks, in places, like it was designed by two different cultures — parts of it resemble buildings at Tula, the Toltec capital more than a thousand kilometres away in central Mexico, closely enough that early excavators assumed direct contact. What that contact actually was has never been settled. Sylvanus Morley proposed the Itza people were driven from the city, encountered a renegade Toltec faction under a leader called Kukulcan, and returned to rebuild it in a mixed style. Alfred Tozzer elaborated this into three separate waves of conquest. J. Eric Thompson rejected both, arguing the Itza were successful enough on their own terms to host a Toltec ruler by invitation, making Chichén Itzá a new Toltec centre by alliance rather than invasion.\n\nRadiocarbon dating has since undercut all three theories: buildings in the 'Mexicanized' style and buildings in the 'pure Maya' style at the site turn out to have been built at the same time, and both predate when Toltec contact is supposed to have begun. There is, at present, no accepted account of what happened — only competing proposals involving trade contact, a mixed population living side by side, or influence running the other way, from Yucatán toward Tula rather than from Tula outward.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TulaSite81.JPG/960px-TulaSite81.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Tula_(Mesoamerican_site)"
+    },
+    {
+      "heading": "The Consul Who Dredged the Cenote",
+      "body": "Outside interest in the site predates serious archaeology by decades. John Lloyd Stephens's two-volume Incidents of Travel in Yucatán, published in 1843 with illustrations by his travelling companion Frederick Catherwood, did more than any single work to put Chichén Itzá in front of a foreign audience. But it was Edward Herbert Thompson, an American who bought the plantation containing the ruins in 1894, who did the most digging and caused the most argument. Over seven years, from 1904 to 1911, he dredged the site's Sacred Cenote and recovered gold, copper and carved jade, along with what were believed to be the first surviving examples of pre-Columbian Maya cloth and wooden weapons, all of it shipped to the Peabody Museum in the United States. In 1926 the Mexican government seized his plantation, accusing him of removing the finds unlawfully. Thompson died in 1935 with the matter unresolved; Mexico's Supreme Court did not rule until 1944, nine years later — and it ruled in his favour.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Edward_H._Thompson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Edward_Herbert_Thompson"
+    },
+    {
+      "heading": "What Stopped People Climbing",
+      "body": "El Castillo was inscribed as a UNESCO World Heritage Site in 1988. Nineteen years later, on 7 July 2007, it was named one of the New7Wonders of the World in a public vote organised by a Swiss foundation run by Bernard Weber — a popularity contest UNESCO went out of its way to disown, stating in a press release that same year that there was 'no comparison between Mr Weber's mediatised campaign and the scientific and educational work resulting from the inscription of sites on UNESCO's World Heritage List.' Both accolades came after decades in which millions of visitors climbed the pyramid's steep steps freely.\n\nThat ended, in stages, around 2006, after a visitor died falling from the staircase. Sources differ on the exact date and even the spelling of her name, and no contemporary report was available to check either against — only that the fall happened, and that Mexico's antiquities institute began closing monuments to climbers afterward. Some accounts place the full climbing ban in 2006, others in 2008; either way, erosion of thousand-year-old limestone under tourist traffic was cited alongside safety. Visitors now see El Castillo from the ground, the way the shadow serpent was presumably always meant to be watched — assuming anyone in the ninth century thought about it that way at all.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "El Castillo, Chichen Itza — Wikipedia", "url": "https://en.wikipedia.org/wiki/El_Castillo,_Chichen_Itza" },
+    { "title": "Maya–Toltec controversy at Chichen Itza — Wikipedia", "url": "https://en.wikipedia.org/wiki/Maya%E2%80%93Toltec_controversy_at_Chichen_Itza" },
+    { "title": "Karst Detection Beneath the Pyramid of El Castillo, Chichen Itza, Mexico, by Non-Invasive ERT-3D Methods — Scientific Reports (Nature) via PMC", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6194000/" },
+    { "title": "What's Inside the Pyramid at Chichén Itzá? — Britannica", "url": "https://www.britannica.com/story/whats-inside-the-pyramid-at-chichen-itza" },
+    { "title": "Chichen Itza – World Heritage Site — National Geographic", "url": "https://www.nationalgeographic.com/travel/world-heritage/article/chichen-itza" },
+    { "title": "Edward Herbert Thompson — Wikipedia", "url": "https://en.wikipedia.org/wiki/Edward_Herbert_Thompson" },
+    { "title": "John Lloyd Stephens — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Lloyd_Stephens" },
+    { "title": "New7Wonders of the World — Wikipedia", "url": "https://en.wikipedia.org/wiki/New7Wonders_of_the_World" }
+  ],
+  "generatedAt": "2026-08-18T00:02:39Z",
+  "model": "claude-sonnet-5"
+}
