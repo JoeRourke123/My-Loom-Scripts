@@ -91,6 +91,82 @@ function footer(article: Article | null, deckLines: number, accent: string) {
 
 const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 
+// --- the hero layout (large and extraLargePortrait) ---------------------------------------------
+//
+// The work across the top under a scrim, its label set on it, the feature's headline underneath.
+//
+// Three things make this work, none of them obvious:
+//
+// 1. `w.gradient` is NOT a renderable node — it only has meaning as a stack's `background`, so the
+//    scrim is a vstack laid over the image inside a zstack rather than a layer of its own.
+// 2. 'clear' is a real colour name in widgetColor(), which is the only reason a fade is possible.
+// 3. The image passes `height` and no `width`. imageView does .frame(width:height:) with both
+//    optional, so a nil width keeps the proposed width and the plate fills whatever the device
+//    gives the widget.
+//
+// The cost, and it is a real one: .scaledToFill() crops to the band, and 358 of the 730 works are
+// portrait. A tall painting shows its middle slice here rather than the whole canvas — which is why
+// small/medium/extraLarge keep plate(), where the shipped dimensions preserve the aspect.
+
+const SCRIM = ['black', 'clear', 'clear', 'black'];
+
+function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
+  const art = (article && article.subject) || ({} as any);
+  const tint = accentOf(article);
+  const meta = [art.year, art.movementLabel].filter(Boolean).join(' · ');
+
+  // Everything over the work is white or the shipped accent. `primary` would follow the system
+  // appearance rather than the painting and go black-on-black half the time.
+  const overlay = w.vstack([
+    w.vstack([
+      w.hstack([
+        w.icon('paintpalette.fill', { size: 12, color: tint }),
+        w.text(stamp(date), { font: 'caption', color: 'white' }),
+        w.spacer(),
+        ...(article && article.liked ? [w.icon('heart.fill', { size: 11, color: 'white' })] : []),
+      ], { spacing: 5 }),
+    ], { padding: 12 }),
+
+    w.spacer(),
+
+    w.vstack([
+      w.text(art.title || 'Daily Artwork', {
+        font: titleFont, bold: true, color: 'white', alignment: 'leading', lineLimit: 2,
+      }),
+      w.text(String(art.author || '').toUpperCase(), {
+        font: 'caption', bold: true, color: tint, alignment: 'leading', lineLimit: 1,
+      }),
+      meta
+        ? w.text(meta, { font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1 })
+        : w.spacer({ minLength: 0 }),
+    ], { padding: 12, spacing: 2, alignment: 'leading' }),
+  ], { background: w.gradient({ colors: SCRIM }) });
+
+  const plate = art.imageUrl
+    ? w.image(art.imageUrl, { height })
+    : w.vstack([w.spacer({ minLength: height })], {
+        background: w.gradient({ colors: [tint, 'black'], direction: 'diagonal' }),
+      });
+
+  return w.zstack([plate, overlay], { alignment: 'bottom' });
+}
+
+function details(article: Article | null, deckLines: number) {
+  if (!article) {
+    return w.vstack([
+      w.label({
+        icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
+      }),
+    ], { padding: 13 });
+  }
+  return w.vstack([
+    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
+    w.text(article.standfirst, {
+      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
+    }),
+  ], { padding: 13, spacing: 5, alignment: 'leading' });
+}
+
 // --- the export ---------------------------------------------------------------------------------
 
 export const widget = async () => {
@@ -117,26 +193,23 @@ export const widget = async () => {
       ], { ...CARD, spacing: 6 }),
     ], { spacing: 11, alignment: 'top' }),
 
-    // 4×4 — the painting gets the top two thirds, the words the rest.
+    // 4×4, roughly 364×382. The work runs to the edges across the top; the feature sits under it.
+    //
+    // No outer padding on these two — the plate is meant to bleed, and WidgetKit rounds the card's
+    // own corners. The text below carries its own inset.
     large: w.vstack([
-      header(article, date, accent),
-      plate(article, 300),
+      heroPanel(article, date, 172, 'title3'),
+      details(article, 3),
       w.spacer(),
-      w.divider(),
-      byline(article, 'title3'),
-      footer(article, 2, accent),
-    ], { ...CARD, alignment: 'center' }),
+    ], { alignment: 'leading', spacing: 0 }),
 
-    // The iPhone XL size (364×556) and the one this is designed for: the work large, then the
-    // byline, then the headline and deck the article generated.
+    // The iPhone XL size (364×556). The band is deliberately deeper than half here — this is the
+    // one publication where the picture IS the subject, and a portrait canvas needs the height.
     extraLargePortrait: w.vstack([
-      header(article, date, accent),
-      plate(article, 330),
-      w.divider(),
-      byline(article, 'title2'),
+      heroPanel(article, date, 300, 'title2'),
+      details(article, 4),
       w.spacer(),
-      footer(article, 4, accent),
-    ], { ...CARD, spacing: 11, alignment: 'center' }),
+    ], { alignment: 'leading', spacing: 0 }),
 
     // iPad landscape, 4×6: the work beside the words rather than above them.
     extraLarge: w.hstack([

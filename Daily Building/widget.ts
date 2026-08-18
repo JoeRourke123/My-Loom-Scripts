@@ -71,6 +71,83 @@ function footer(article: Article | null, deckLines: number) {
 
 const CARD = { alignment: 'leading', spacing: 8, padding: 4 };
 
+// --- the hero layout (large and extraLargePortrait) ---------------------------------------------
+//
+// The photograph across the top under a scrim, the title block set on it, the sheet's headline
+// underneath. Closer to a real drawing sheet than the stacked version it replaces.
+//
+// Three things make this work, none of them obvious:
+//
+// 1. `w.gradient` is NOT a renderable node — it only has meaning as a stack's `background`, so the
+//    scrim is a vstack laid over the image inside a zstack rather than a layer of its own.
+// 2. 'clear' is a real colour name in widgetColor(), which is the only reason a fade is possible.
+// 3. The image passes `height` and no `width`. imageView does .frame(width:height:) with both
+//    optional, so a nil width keeps the proposed width and the plate fills whatever the device
+//    gives the widget.
+//
+// Cropping costs less here than it does for Daily Artwork: architecture photographs are
+// overwhelmingly landscape, so a band is close to their natural shape.
+
+const SCRIM = ['black', 'clear', 'clear', 'black'];
+
+function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
+  const b = (article && article.subject) || ({} as any);
+  const named = b.architect && !/^(various|unknown)$/i.test(b.architect);
+  const line = [named ? b.architect : null, b.year !== undefined ? era(b.year) : null]
+    .filter(Boolean).join(' · ');
+
+  // Everything over the photograph is white or the drafting-pen blue. `primary` would follow the
+  // system appearance rather than the picture and go black-on-black half the time.
+  const overlay = w.vstack([
+    w.vstack([
+      w.hstack([
+        w.icon('ruler.fill', { size: 11, color: INK }),
+        w.text(b.style || 'Daily Building', { font: 'caption', color: 'white', lineLimit: 1 }),
+        w.spacer(),
+        ...(article && article.liked ? [w.icon('circle.fill', { size: 8, color: 'white' })] : []),
+      ], { spacing: 5 }),
+    ], { padding: 12 }),
+
+    w.spacer(),
+
+    w.vstack([
+      w.text(b.name || 'Daily Building', {
+        font: titleFont, bold: true, color: 'white', alignment: 'leading', lineLimit: 2,
+      }),
+      line
+        ? w.text(line, { font: 'caption', bold: true, color: INK, alignment: 'leading', lineLimit: 1 })
+        : w.spacer({ minLength: 0 }),
+      b.location
+        ? w.text(b.location, { font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1 })
+        : w.spacer({ minLength: 0 }),
+    ], { padding: 12, spacing: 2, alignment: 'leading' }),
+  ], { background: w.gradient({ colors: SCRIM }) });
+
+  const plate = b.imageUrl
+    ? w.image(b.imageUrl, { height })
+    : w.vstack([w.spacer({ minLength: height })], {
+        background: w.gradient({ colors: [INK, 'black'], direction: 'diagonal' }),
+      });
+
+  return w.zstack([plate, overlay], { alignment: 'bottom' });
+}
+
+function details(article: Article | null, deckLines: number) {
+  if (!article) {
+    return w.vstack([
+      w.label({
+        icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Drawn up before morning', color: 'secondary',
+      }),
+    ], { padding: 13 });
+  }
+  return w.vstack([
+    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
+    w.text(article.standfirst, {
+      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
+    }),
+  ], { padding: 13, spacing: 5, alignment: 'leading' });
+}
+
 export const widget = async () => {
   const date = today();
   const article = await read(date);
@@ -93,25 +170,21 @@ export const widget = async () => {
       ], { ...CARD, spacing: 6 }),
     ], { spacing: 11, alignment: 'top' }),
 
+    // 4×4, roughly 364×382. The photograph runs to the edges across the top, the title block set
+    // on it, the sheet underneath. No outer padding — the plate is meant to bleed, and WidgetKit
+    // rounds the card's own corners.
     large: w.vstack([
-      header(article, date),
-      plate(article, 330),
-      w.divider(),
-      block(article, 'title3'),
+      heroPanel(article, date, 172, 'title3'),
+      details(article, 3),
       w.spacer(),
-      footer(article, 2),
-    ], CARD),
+    ], { alignment: 'leading', spacing: 0 }),
 
-    // The iPhone XL size, 364×556 — the photograph, then the full title block, then the headline.
+    // The iPhone XL size, 364×556 — a deeper plate and one more line of deck.
     extraLargePortrait: w.vstack([
-      header(article, date),
-      plate(article, 344),
-      w.divider(),
-      block(article, 'title2'),
+      heroPanel(article, date, 268, 'title2'),
+      details(article, 4),
       w.spacer(),
-      w.divider(),
-      footer(article, 4),
-    ], { ...CARD, spacing: 10 }),
+    ], { alignment: 'leading', spacing: 0 }),
 
     extraLarge: w.hstack([
       plate(article, 340),

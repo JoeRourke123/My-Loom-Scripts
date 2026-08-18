@@ -71,15 +71,6 @@ function header(article: Article | null, date: string, compact = false) {
   return w.hstack(kids, { spacing: 4 });
 }
 
-// Strand label as its own line, letterspaced-caps in the accent — the widget's echo of the
-// sheet's .kicker.
-function kicker(article: Article | null, date: string) {
-  const label = (article && article.subject && article.subject.strandLabel) || stamp(date);
-  return w.text(String(label).toUpperCase(), {
-    font: 'caption', bold: true, color: accent(article), alignment: 'leading', lineLimit: 1,
-  });
-}
-
 function byline(article: Article | null, font: string) {
   const poem = (article && article.subject) || ({} as any);
   return w.vstack([
@@ -114,6 +105,88 @@ function footer(article: Article | null, deckLines: number) {
 
 const CARD = { alignment: 'leading', spacing: 9, padding: 4 };
 
+// --- the hero layout (large and extraLargePortrait) ---------------------------------------------
+//
+// Picture across the top, the poem's own identity set on it, the feature's headline underneath.
+//
+// Three things make this work, none of them obvious:
+//
+// 1. `w.gradient` is NOT a renderable node — it has no case in the render switch and draws as an
+//    EmptyView if you put it in a tree. It is only legal as a stack's `background`. So the scrim
+//    is a vstack laid over the image inside a zstack, not a layer in its own right.
+// 2. 'clear' is a real colour name in widgetColor(), which is the only reason a fade is possible
+//    at all — every other name is opaque.
+// 3. The image passes `height` and no `width`. imageView does .frame(width: width, height: height)
+//    with both optional, so a nil width keeps the proposed width: the picture fills whatever the
+//    device actually gives the widget instead of being pinned to a 17 Pro Max's 364pt.
+//
+// Common props are applied in the order opacity → background → cornerRadius → padding, so padding
+// on the scrim would inset the gradient too. The text blocks carry their own padding instead.
+
+const SCRIM = ['black', 'clear', 'clear', 'black'];
+
+function heroPanel(article: Article | null, date: string, height: number, titleFont: string) {
+  const poem = (article && article.subject) || ({} as any);
+  const url = heroImage(article);
+  const tint = accent(article);
+
+  // Everything over the picture is white or the strand tint. `primary` would follow the system
+  // appearance, not the photograph, and go black-on-black half the time.
+  const overlay = w.vstack([
+    w.vstack([
+      w.hstack([
+        w.text('DAILY', { font: 'caption', bold: true, color: 'white' }),
+        w.text('POEM', { font: 'caption', bold: true, color: tint }),
+        w.spacer(),
+        w.text(stamp(date), { font: 'caption', color: 'white' }),
+        ...(article && article.liked ? [w.icon('heart.fill', { size: 11, color: 'white' })] : []),
+      ], { spacing: 4 }),
+    ], { padding: 12 }),
+
+    w.spacer(),
+
+    w.vstack([
+      w.text(String(poem.strandLabel || '').toUpperCase(), {
+        font: 'caption', bold: true, color: tint, alignment: 'leading', lineLimit: 1,
+      }),
+      w.text(poem.title || 'Daily Poem', {
+        font: titleFont, bold: true, color: 'white', alignment: 'leading', lineLimit: 2,
+      }),
+      w.text(String(poem.author || '').toUpperCase(), {
+        font: 'caption', color: 'white', alignment: 'leading', lineLimit: 1,
+      }),
+    ], { padding: 12, spacing: 2, alignment: 'leading' }),
+  ], { background: w.gradient({ colors: SCRIM }) });
+
+  // No picture yet: a tinted block the same height, so the card keeps its shape rather than
+  // collapsing into a different layout on the days illustration failed.
+  const plate = url
+    ? w.image(url, { height })
+    : w.vstack([w.spacer({ minLength: height })], {
+        background: w.gradient({ colors: [tint, 'black'], direction: 'diagonal' }),
+      });
+
+  return w.zstack([plate, overlay], { alignment: 'bottom' });
+}
+
+// What the routine wrote, under the picture.
+function details(article: Article | null, deckLines: number, extra: any[] = []) {
+  if (!article) {
+    return w.vstack([
+      w.label({
+        icon: 'moon.stars', title: 'Arriving overnight', subtitle: 'Written before morning', color: 'secondary',
+      }),
+    ], { padding: 13 });
+  }
+  return w.vstack([
+    w.text(article.title, { font: 'subheadline', bold: true, alignment: 'leading', lineLimit: 2 }),
+    w.text(article.standfirst, {
+      font: 'caption', color: 'secondary', alignment: 'leading', lineLimit: deckLines,
+    }),
+    ...extra,
+  ], { padding: 13, spacing: 5, alignment: 'leading' });
+}
+
 // --- the export ---------------------------------------------------------------------------------
 
 export const widget = async () => {
@@ -142,37 +215,27 @@ export const widget = async () => {
       hero ? w.image(hero, { width: 92, height: 92, cornerRadius: 12 }) : w.spacer({ minLength: 0 }),
     ], { spacing: 10 }),
 
-    // 4×4. No hero — at this height the poem is worth more than the picture.
-    large: w.vstack([
-      header(article, date),
-      kicker(article, date),
-      byline(article, 'title3'),
-      w.text(opening(article, 5), { font: 'footnote', alignment: 'leading', lineLimit: 5 }),
-      w.spacer(),
-      w.divider(),
-      footer(article, 3),
-    ], CARD),
-
-    // The iPhone XL size, and the one this widget is designed for. 174pt taller than large, which
-    // buys the hero image and about six more lines of poem — not a second copy of everything.
+    // 4×4, roughly 364×382. The picture takes the top ~45%; the rest is the feature.
     //
-    // The hero sits beside the byline at 1:1 rather than as a full-width band. w.image is always
-    // .scaledToFill() with no fit option, so a 364×132 band on a typical 2:3 poet portrait crops
-    // to the middle quarter — chin and collar, no face. A square frame keeps the middle two
-    // thirds, which is where the face actually is.
-    extraLargePortrait: w.vstack([
-      header(article, date),
-      hero
-        ? w.hstack([
-            w.image(hero, { width: 118, height: 118, cornerRadius: 14 }),
-            byline(article, 'title2'),
-          ], { spacing: 12, alignment: 'top' })
-        : byline(article, 'title2'),
-      w.text(opening(article, 14), { font: 'footnote', alignment: 'leading', lineLimit: 14 }),
+    // No outer padding on these two: the hero is meant to run to the edges, and WidgetKit clips
+    // the card's own corners. The text blocks below carry their own inset instead.
+    large: w.vstack([
+      heroPanel(article, date, 168, 'title3'),
+      details(article, 3),
       w.spacer(),
-      w.divider(),
-      footer(article, 4),
-    ], CARD),
+    ], { alignment: 'leading', spacing: 0 }),
+
+    // The iPhone XL size (364×556) and the one this widget is designed for. 174pt taller than
+    // large, which buys a taller plate and the poem's opening lines under the deck — not a second
+    // copy of everything.
+    extraLargePortrait: w.vstack([
+      heroPanel(article, date, 252, 'title2'),
+      details(article, 3, article ? [
+        w.divider(),
+        w.text(opening(article, 6), { font: 'footnote', alignment: 'leading', lineLimit: 6 }),
+      ] : []),
+      w.spacer(),
+    ], { alignment: 'leading', spacing: 0 }),
 
     // iPad landscape, 4×6: the hero earns its place beside the text rather than above it.
     extraLarge: w.hstack([
