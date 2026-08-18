@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-08-24",
+  "subject": {
+    "id": "eric-fischl/a-visit-to-a-visit-from-the-island",
+    "title": "A Visit to - A Visit from the Island",
+    "artist": "Eric Fischl",
+    "artistSlug": "eric-fischl",
+    "year": null,
+    "movement": "Contemporary Realism",
+    "movementLabel": "Contemporary Realism",
+    "imageUrl": "https://uploads8.wikiart.org/images/eric-fischl/a-visit-to-a-visit-from-the-island.jpg",
+    "source": "https://www.wikiart.org/en/eric-fischl/a-visit-to-a-visit-from-the-island",
+    "width": 1208,
+    "height": 600,
+    "accent": "#68B64E",
+    "accentName": "green",
+    "author": "Eric Fischl"
+  },
+  "title": "A Promise Made at Twenty-Two",
+  "standfirst": "In 1969 Eric Fischl watched his mother die after she drove her car into a tree, the end of years of hidden alcoholism. He came out of it with a rule for his work: never let the unspeakable also be unshowable. This diptych, built from news photos of Haitian refugees beside vacationing tourists, is that rule turned outward — and it wasn't the only time it got him into public trouble.",
+  "sections": [
+    {
+      "heading": "A Vow Made in a Hospital Room",
+      "body": "Fischl's mother was an alcoholic whose behaviour, in the family's telling, had grown erratic enough to include walking naked through their Long Island neighbourhood; the household kept it strictly private. She told her son at one low point that she would rather be dead than face suburban life without a drink. In 1969, when Fischl was twenty-two, she drove her car into a tree. He got to the hospital in time to be with her at the end.\n\nWhat he [took from it](https://www.theartstory.org/artist/fischl-eric/) became the operating rule of his whole career: 'I vowed that I would never let the unspeakable also be unshowable.' Almost everything he painted afterward can be read as that promise being kept, one uncomfortable subject at a time.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Montauk_01.jpg/960px-Montauk_01.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Long_Island"
+    },
+    {
+      "heading": "Making a Name Out of What Suburbia Wouldn't Show",
+      "body": "Fischl moved back to New York in 1978 and married the painter April Gornik the same year. Sleepwalker, from 1979, painted a boy masturbating in a plastic wading pool; Bad Boy, in 1981, put a nude woman and an adolescent in the same charged domestic room. Both pictures did exactly what the vow demanded — they showed a version of suburban adolescence that everyone recognised and no one had been painting directly — and both helped make him one of the defining figurative painters of New York's early-1980s art scene.\n\nThe subject, at that point, was still his own world: family, sex, the specific dishonesty of a nice house with something wrong inside it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Back_of_the_Storm%2C_1985.jpg/960px-The_Back_of_the_Storm%2C_1985.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/April_Gornik"
+    },
+    {
+      "heading": "Turning the Same Rule on the Rest of the World",
+      "body": "By 1983 the rule had a bigger target. The right-hand panel of this diptych was built from news photographs of Haitian refugees reaching the Florida coast — not an invented crowd, but a [documented one](https://en.wikipedia.org/wiki/Haitian_boat_people), from a decade in which some 55,000 Haitians had officially landed in Florida by boat, and possibly closer to 100,000 counting arrivals nobody recorded. After 1981, Coast Guard policy had shifted to intercepting boats and sending them straight back; painted two years into that policy, Fischl's churning, half-drowned crowd on the right is set directly against a white, upper-middle-class family at ease in what the Whitney's own catalogue calls 'crystal-clear Caribbean waters' on the left.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/U.S._Coast_Guard_intercepting_Haitian_refugees.GIF",
+      "imagePage": "https://en.wikipedia.org/wiki/Haitian_boat_people"
+    },
+    {
+      "heading": "What Keeps It From Being a Lecture",
+      "body": "Fischl [described the intent](https://whitney.org/collection/works/5471) as capturing 'the horrible irony of the simultaneity of our world' — tragedy arriving nightly through the news into a life from which you can do nothing directly about it — and said he wanted to build 'a place that is emotionally uninhabitable.' The critic Robert Storr, naming the refugee subject in Art in America the following year, put the same point more bluntly: the white figures in the painting are oblivious to a reality playing out on the same sand.\n\nWhat keeps the picture from simply illustrating that point, the Whitney has argued, are its two central figures in white — one visibly anxious inside the resort scene, the other caught between his own safety and the people he can't quite reach. The rule from 1969 is still doing the work here: showing the ugly thing plainly, but not so plainly that it stops being a painting and becomes only an argument.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The One Time the Public Wouldn't Let Him",
+      "body": "In October 2002, a year after the September 11 attacks, Fischl installed a bronze called Tumbling Woman in the lower concourse of Rockefeller Center — a nude, falling figure meant as his response to the people who jumped or fell from the towers. Within about a week, public objection to it was severe enough that the sculpture was covered, then removed.\n\nFischl later [called it](https://www.27east.com/arts-living/article_a1b9105e-8c66-5693-b99e-b6c265827269.html) 'a rough experience for me because it was such a rejection,' and explained the choice of a naked rather than posed nude as a deliberate one, aimed at vulnerability rather than composure: 'It's meant to touch, in a way, to connect you on the inside, so you don't feel so alone.' He said the figure was also meant for the living, not only the dead: 'when I started making the sculpture, I needed a way to include us, who survived, as well as those who died.' Thirty-three years after the vow he made watching his mother die, the same commitment — show the thing everyone else has agreed not to look at — ran into a refusal that had nothing to do with critics or collectors. This time it was simply the public, declining, in the rawest year it could have happened, to be shown.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Eric Fischl — Wikipedia", "url": "https://en.wikipedia.org/wiki/Eric_Fischl" },
+    { "title": "Eric Fischl — TheArtStory", "url": "https://www.theartstory.org/artist/fischl-eric/" },
+    { "title": "A Visit To / A Visit From / The Island — Whitney Museum of American Art (collection)", "url": "https://whitney.org/collection/works/5471" },
+    { "title": "Eric Fischl, A Visit to / A Visit From / The Island (1983) — Whitney Museum of American Art (blog)", "url": "https://whitney.org/education/blog/eric-fischl" },
+    { "title": "The Story Behind Eric Fischl's 'Tumbling Woman' — 27east.com", "url": "https://www.27east.com/arts-living/article_a1b9105e-8c66-5693-b99e-b6c265827269.html" },
+    { "title": "Haitian boat people — Wikipedia", "url": "https://en.wikipedia.org/wiki/Haitian_boat_people" }
+  ],
+  "generatedAt": "2026-08-18T15:00:00Z",
+  "model": "claude-sonnet-5"
+}
