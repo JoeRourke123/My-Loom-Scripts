@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-23",
+  "subject": {
+    "id": "djemaa-el-fna",
+    "name": "Djemaa el-Fna",
+    "architect": "Various",
+    "year": 1050,
+    "location": "Marrakech, Morocco",
+    "country": "Morocco",
+    "city": "Marrakech",
+    "style": "Medieval",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/1920px-Djemaa_el_Fna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa",
+    "title": "Djemaa el-Fna",
+    "author": "Various"
+  },
+  "title": "Nobody Can Agree What This Square's Name Means",
+  "standfirst": "One reading of Jemaa el-Fna's name points to public executions under the Almoravids and Almohads. The other points to a sultan's mosque that was never finished. Both stories are still in circulation, and the space itself has survived a gunpowder disaster, a bombing, an earthquake and, in the 1990s, a glass office tower that a Spanish novelist talked the world into stopping.",
+  "sections": [
+    {
+      "heading": "A Name With Two Rival Explanations",
+      "body": "Jamaa can mean congregation or mosque in Arabic; fanaʼ can mean death, extinction, or simply the open ground in front of a building. Put together, those two words support two entirely different stories about the same square, and scholarship has not settled which one is right. The popular account holds that the name commemorates public executions carried out here under the Almoravid and Almohad dynasties in the eleventh and twelfth centuries — \"the assembly of the dead.\" The account historians treat as best-supported instead traces to the Saadian sultan Ahmad al-Mansur, who began building a monumental Friday mosque on the site around the turn of the seventeenth century, abandoned it during a plague outbreak, and left it to fall into ruin — earning it the ironic nickname jamaa al-fana, \"the mosque of ruination.\" The name was first written down in that sense by the West African chronicler Abderrahman as-Sa'idi in the 1600s. Both explanations are still repeated today, and nothing forces a choice between them.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ahmad_al-Mansur_by_Andr%C3%A9_Thevet.png/960px-Ahmad_al-Mansur_by_Andr%C3%A9_Thevet.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Ahmad_al-Mansur"
+    },
+    {
+      "heading": "Built to Watch, Not to Enclose",
+      "body": "Nobody designed Jemaa el-Fna as a single project; it took shape as open ground at the point where the royal citadel met the market town, after the Almoravid emir Ali ibn Yusuf built a palace here in the early twelfth century with a monumental stone gate facing the square, likely so rulers could sit enthroned and dispense justice in public view. When the Almohads took Marrakesh by force in 1147, they kept the square's role as a stage for state power rather than retiring it: convicted prisoners were executed here, and the severed heads of criminals and enemies of the state were displayed on poles around its edge as a warning to anyone passing through. A new royal citadel went up further south under Ya'qub al-Mansur after 1184, and the Almohads began the enormous Kutubiyya Mosque nearby the same year they took the city — but the open square at the medina's gate kept its older job of putting authority on public display.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Marokko0112_%28retouched%29.jpg/960px-Marokko0112_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Kutubiyya_Mosque"
+    },
+    {
+      "heading": "Five Hundred Quintals of Gunpowder",
+      "body": "On 24 January 1864, at sunset with the square full of people, a fire in a funduq — a merchants' warehouse and inn built around a courtyard — reached roughly 500 quintals of gunpowder stored inside it. The explosion killed an estimated 300 people and wrecked buildings across a wide radius around the square. Accounts from the time disagreed then and still disagree now about whether the fire was an accident or something closer to a cover-up, with some contemporaries alleging officials had stored the powder there to keep it out of sight of an inspection meant to catch misuse of public funds. Whichever account is true, the square that had spent centuries as a stage for state-ordered violence became, for one evening, the site of an entirely unplanned one.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Campaign to Protect Something With No Walls",
+      "body": "By the twentieth century the square's real distinction was what happened in it every evening: circles of listeners, halqa, gathering around storytellers, musicians, acrobats and snake charmers in a tradition of oral performance with no fixed script and no permanent stage. In the 1990s the Spanish novelist Juan Goytisolo, who had lived on and off in Marrakesh since the 1980s, grew alarmed at what he called building projects that flagrantly violated a Moroccan heritage law passed in 1922, on top of worsening traffic and environmental decline around the square. He mobilised a group of Moroccan intellectuals and pushed UNESCO to act, arguing, as he put it, that the square could be destroyed by decree but not created by one. UNESCO had already begun exploring the idea of protecting oral and intangible heritage — its General Conference adopted the concept in 1997 — and in 2001 Jemaa el-Fna was proclaimed one of the first Masterpieces of the Oral and Intangible Heritage of Humanity, a category built to answer exactly the problem Goytisolo had raised: heritage that has no single building to put a fence around. The listing was formalised in 2008 on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Juan-goytisolo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Juan_Goytisolo"
+    },
+    {
+      "heading": "What Keeps Happening to It",
+      "body": "The square has kept absorbing shocks since. On 28 April 2011, a bomb at the Café Argana on its edge killed seventeen people; early reports blamed a gas leak before investigators concluded it was a deliberate attack. On 8 September 2023, a magnitude-6.8 earthquake centred in the nearby Atlas Mountains brought down the minaret of the Kharbouch Mosque overlooking the square, and residents slept outdoors afterward rather than risk aftershocks indoors. In May 2025 the city began a 160-million-dirham infrastructure programme, roughly eighteen million dollars, meant to improve accessibility and reorganise the space without disturbing what happens in it after dark. Vehicles have been barred from the square since 2000. Whatever the name once meant, the place has spent the last thousand years being fought over, blown up, and rebuilt around the same open ground.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Jemaa el-Fnaa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa" },
+    { "title": "Jemaa-el-Fna's thousand and one nights — The UNESCO Courier", "url": "https://courier.unesco.org/en/articles/jemaa-el-fnas-thousand-and-one-nights" },
+    { "title": "Juan Goytisolo — Wikipedia", "url": "https://en.wikipedia.org/wiki/Juan_Goytisolo" },
+    { "title": "Jemaa el-Fna — Project for Public Spaces", "url": "https://www.pps.org/places/jemaa-el-fna" }
+  ],
+  "generatedAt": "2026-08-18T04:20:13Z",
+  "model": "claude-sonnet-5"
+}
