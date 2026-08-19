@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-08-25",
+  "subject": {
+    "id": "olga-rozanova/four-aces-simultaneous-composition-1916",
+    "title": "Four aces (Simultaneous Composition)",
+    "artist": "Olga Rozanova",
+    "artistSlug": "olga-rozanova",
+    "year": 1916,
+    "movement": "Cubism",
+    "movementLabel": "Cubism",
+    "imageUrl": "https://uploads6.wikiart.org/images/olga-rozanova/four-aces-simultaneous-composition-1916.jpg",
+    "source": "https://www.wikiart.org/en/olga-rozanova/four-aces-simultaneous-composition-1916",
+    "width": 751,
+    "height": 986,
+    "accent": "#D69AA4",
+    "accentName": "pink",
+    "author": "Olga Rozanova"
+  },
+  "title": "The Painting That Had a 140-Copy Paper Twin",
+  "standfirst": "In 1915 Olga Rozanova painted this card imagery in oil for a museum wall and cut the same figures into linoleum for a hand-stamped pamphlet of 140 copies, while showing pure abstraction in the same Petrograd rooms where Kazimir Malevich unveiled the Black Square. She died three years later, at thirty-two, filed ever since — including here — under a movement she had already left behind.",
+  "sections": [
+    {
+      "heading": "A Painting With a Cheap Paper Twin",
+      "body": "In 1915, working with the poet Aleksei Kruchenykh, Rozanova cut nine linocuts of playing-card figures — kings, queens, a jack — for *Zaumnaia gniga*, or *Transrational Boog*: a pamphlet of 140 copies, 22 by 20 centimetres, of poems written in *zaum*, the invented \"beyonsense\" language Kruchenykh built with the linguist Roman Jakobson, credited on the book as Aliagrov. [The text wasn't set in type](https://ivam.es/en/artwork/libro-transracional/8dfaa9da-18e2-45e6-a68b-8bc5657aaf20/) but stamped on by hand with rubber stamps, and the cover carried a heart cut from red paper with a white button sewn at its centre — a deliberate break, as the Valencia museum holding a copy argues, from the rule that a book's pictures should quietly illustrate its words rather than fight with them.\n\nThe card linocuts fused what that same museum calls Cubo-Futurist fracturing with the flat colour and stiff figures of the *lubok*, the cheap woodblock prints sold at Russian fairs for generations before the avant-garde took an interest in them. Rozanova was working the same imagery at a larger scale and in oil at almost exactly the same time: an eleven-canvas series usually catalogued simply as *Playing Cards*. This picture, dated to 1915 or 1916 and now in the State Russian Museum in St Petersburg, is one of them — a museum object with a scrappy, hand-stamped sibling a collector could once have bought for the price of a chapbook.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kruchenykh.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Aleksei_Kruchyonykh"
+    },
+    {
+      "heading": "A Word Borrowed From a Movement She Wasn't In",
+      "body": "\"Composition\" in the title is plainly Rozanova's own choice; \"Simultaneous\" arrives already carrying someone else's history. Robert Delaunay had coined [the term \"simultanism\"](https://www.tate.org.uk/art/art-terms/s/simultanism) around 1910 for paintings he and his wife Sonia built from interlocking patches of contrasting colour, developed out of the chemist Michel Eugène Chevreul's century-old finding that a colour looks different depending on what sits beside it. By 1912 the Delaunays had pushed the idea into fully abstract, circular canvases that the critic Guillaume Apollinaire, keen on a label of his own, renamed Orphism.\n\nRozanova had no direct line into that Paris argument. TheArtStory's own account of this series treats the Delaunay connection as only [a \"potential\" reference](https://www.theartstory.org/artist/rozanova-olga/artworks/), not a borrowed method — this canvas is built from the fractured, overlapping planes of Cubo-Futurism, the idiom her Moscow and Petrograd contemporaries were already using, not from the Delaunays' colour-contrast discs. What travelled from Paris was the word, put to work describing something closer to its plain English sense: several things insisted into one picture at the same time, however that picture happened to be built.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Robert_Delaunay_portrait_photograph.jpg/960px-Robert_Delaunay_portrait_photograph.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_Delaunay"
+    },
+    {
+      "heading": "Filed Under Cubism, Already Somewhere Else",
+      "body": "This feature's own catalogue calls the movement here Cubism, and there's a case for it in the fractured, faceted handling of the cards. But the date on the painting — 1915 to 1916 — sits right on top of the moment Rozanova was leaving that idiom behind. At [the 0,10 Exhibition](https://en.wikipedia.org/wiki/0,10_Exhibition) in Petrograd, running from 19 December 1915 to 17 January 1916, she showed a picture called *Metronome*, already fully non-representational; in the same rooms, Kazimir Malevich hung his *Black Square* for the first time, positioned in the corner where Russian households traditionally keep an icon. Whatever *Four Aces* still owes to Cubism, it was painted by a woman who was, at essentially the same moment, already showing work with no recognisable object left in it at all.\n\nShe joined Malevich's Suprematist circle formally the following year, but even inside it she didn't disappear into his system. [Malevich constructed his works](https://myweb.rollins.edu/aboguslawski/Ruspaint/rozanova.html) on the composition of the square, her contemporary Varvara Stepanova wrote, while Rozanova constructed hers on colour. She herself went further: by [TheArtStory's account](https://www.theartstory.org/artist/rozanova-olga/), she believed her own collages had inspired Malevich's turn toward abstraction in the first place, even as the two kept what the same source calls a \"close and productive professional relationship.\" A single Cubism tag on one card painting compresses all of that into a label she had, by every other account here, already grown past.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg/960px-Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Black_Square"
+    },
+    {
+      "heading": "Ill While Decorating the Revolution's First Birthday",
+      "body": "Rozanova died of diphtheria in Moscow on 7 November 1918 — [some accounts give the 8th](https://www.britannica.com/biography/Olga-Vladimirovna-Rozanova) — at thirty-two, after a cold she caught while working on decorations for the first anniversary of the October Revolution. The date is not incidental: under the new-style calendar the Bolsheviks had adopted, that anniversary fell on 7 November itself, which means, if [Wikipedia's dating](https://en.wikipedia.org/wiki/Olga_Rozanova) is the one to trust, she died on the very day the work that killed her was decorating.\n\nBy then she had already published theory as well as paint: an essay titled *The Bases of the New Creation and the Reasons Why It Is Misunderstood*, arguing that abstract creation passes through three stages — \"the intuitive principle,\" \"the individual transformation of the visible,\" and \"abstract creation\" itself — and had spent 1917 and 1918 on a series she called *tsvetopis*, or colour-painting, pushing further from any recognisable object than even *Metronome* had gone three years earlier. Whatever she would have painted next stopped there.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Rediscovery That Took a Century",
+      "body": "A posthumous show in 1919 drew some 7,000 visitors, by [TheArtStory's count](https://www.theartstory.org/artist/rozanova-olga/) — a real number for a Moscow immediately after a revolution and in the middle of a civil war. It didn't translate into the kind of reputation Malevich or even her friend Lyubov Popova kept: for most of the twentieth century Rozanova stayed a name mainly known inside Russian-language scholarship, her work split between the State Russian Museum, MoMA, the Philadelphia Museum of Art, and the Thyssen-Bornemisza in Madrid.\n\nThat has started to shift. She was featured in the Centre Pompidou's 2021 exhibition *Women in Abstraction*, a show built to correct exactly the kind of asymmetry her own case demonstrates — a painter whose own account has her ahead of the man now credited with the movement this feature files her under, who died at thirty-two before that account could be settled either way.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Rozanova_%28cropped%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Olga_Rozanova"
+    }
+  ],
+  "sources": [
+    { "title": "Olga Rozanova — Wikipedia", "url": "https://en.wikipedia.org/wiki/Olga_Rozanova" },
+    { "title": "Olga Rozanova — TheArtStory", "url": "https://www.theartstory.org/artist/rozanova-olga/" },
+    { "title": "Olga Rozanova: Key Works — TheArtStory", "url": "https://www.theartstory.org/artist/rozanova-olga/artworks/" },
+    { "title": "Olga Vladimirovna Rozanova — Britannica", "url": "https://www.britannica.com/biography/Olga-Vladimirovna-Rozanova" },
+    { "title": "Transrational Book — IVAM", "url": "https://ivam.es/en/artwork/libro-transracional/8dfaa9da-18e2-45e6-a68b-8bc5657aaf20/" },
+    { "title": "Simultanism — Tate", "url": "https://www.tate.org.uk/art/art-terms/s/simultanism" },
+    { "title": "0,10 Exhibition — Wikipedia", "url": "https://en.wikipedia.org/wiki/0,10_Exhibition" },
+    { "title": "Olga Rozanova — Rollins College (A. Bogusławski)", "url": "https://myweb.rollins.edu/aboguslawski/Ruspaint/rozanova.html" }
+  ],
+  "generatedAt": "2026-08-19T03:11:10Z",
+  "model": "claude-sonnet-5"
+}
