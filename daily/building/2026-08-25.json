@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-25",
+  "subject": {
+    "id": "canterbury-cathedral",
+    "name": "Canterbury Cathedral",
+    "architect": "Various",
+    "year": 1077,
+    "location": "Canterbury, UK",
+    "country": "UK",
+    "city": "Canterbury",
+    "style": "Romanesque and Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Canterbury_Cathedral_in_a_foggy_afternoon_2024-12-29_%28cropped%29.jpg/1920px-Canterbury_Cathedral_in_a_foggy_afternoon_2024-12-29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1246,
+    "source": "https://en.wikipedia.org/wiki/Canterbury_Cathedral",
+    "title": "Canterbury Cathedral",
+    "author": "Various"
+  },
+  "title": "A Cathedral the Crown Has Only Ever Taken From",
+  "standfirst": "Canterbury Cathedral has paid its own way since a Norman abbot floated Caen stone up the Stour in 1070. A murdered archbishop turned it into medieval Europe's most profitable shrine; a Tudor king carried the proceeds off in two chests. It still runs today, at roughly £30,000 a day, on almost nothing from the state.",
+  "sections": [
+    {
+      "heading": "Thirty Thousand Pounds a Day, and None of It From Westminster",
+      "body": "Canterbury Cathedral costs something in the region of £30,000 a day to keep running — heating an unheatable building, insuring it, replacing stone faster than anyone would like — and almost none of that is public money. The Church Commissioners pay the stipends of three clergy at the cathedral, and the government's one direct contribution is the Listed Places of Worship Grant Scheme, which refunds the VAT paid on repairs rather than funding them outright. Everything else has to come from what cathedrals rely on: \"donations, legacies and grants as well as the income they can generate for themselves,\" in the words of the Association of English Cathedrals — admissions, investment, property, trading. It is tempting to assume a building this central to the national story comes with a state cheque behind it. It never has. Not when a Norman archbishop paid for the first version out of his own authority, and not now.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Norman Abbot's Stone, Floated Up the River Stour",
+      "body": "The cathedral standing today began as a political project. William the Conqueror installed Lanfranc, formerly abbot of Saint-Étienne in Caen, as Archbishop of Canterbury in 1070, four years after the invasion and three after fire had gutted the Anglo-Saxon cathedral on the site. Lanfranc rebuilt it in the Norman style his old abbey used, for a monastic community of around seventy monks, and paid for it with authority as much as coin: Caen limestone was quarried in Normandy, brought over by sea, and rowed up the River Stour to the site — a supply line that only worked because the new archbishop controlled both ends of it. The work took seven years, and the cathedral was dedicated in 1077. Almost nothing of Lanfranc's own building is visible now; later fires and later fashions saw to that. But importing a Norman abbey's design and a Norman archbishop's own French quarry into a freshly conquered country was not incidental. It was the Conquest, built in limestone.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chevet_abbHommes.JPG/960px-Chevet_abbHommes.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Abbey_of_Saint-Étienne,_Caen"
+    },
+    {
+      "heading": "A Murder Made This the Most Profitable Church in England",
+      "body": "Thomas Becket, Lanfranc's eventual successor, was killed by four of Henry II's knights in the cathedral's north-west transept on 29 December 1170, after a long dispute over the church's independence from the crown that he had refused to back down from. He was canonised within three years, and pilgrims began arriving almost at once, drawn by reports of miracle cures at the tomb. By the time his remains were moved into a purpose-built shrine in the Trinity Chapel in 1220, Canterbury had become one of the great pilgrimage destinations of Christian Europe. The offerings kept coming for centuries. In 1179 King Louis VII of France crossed the Channel to pray at the shrine and left behind the Regale of France, a large ruby that a Venetian ambassador who saw the shrine in 1500 described as one gem among plates of gold \"scarcely visible for the number of sapphires, diamonds, emeralds and rubies it was encrusted with.\" A dead archbishop had become the cathedral's single most reliable source of income, and stayed that way for three hundred and fifty years.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/London._British_Library%2C_Cotton_MS_Claudius_B_II._f.341r_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Thomas_Becket"
+    },
+    {
+      "heading": "The Fire, the Frenchman and a New Way to Build",
+      "body": "Four years after Becket's death, in September 1174, a fire tore through the choir and left it too damaged to use. The monks brought in William of Sens, a French master mason who had worked on Sens Cathedral and knew the pointed-arch, rib-vaulted style spreading through northern France. What he built at Canterbury between 1175 and 1177 — pointed arcades, six-part rib vaults, flying buttresses copied from Notre-Dame, columns alternating pale Caen stone with dark Purbeck marble — is reckoned the first significant work of Gothic architecture in England. He never finished it. In 1177 he fell from the scaffolding, was badly injured, tried for a time to direct the remaining work from his sickbed, then gave up and went home to France, where he died in 1180. William the Englishman took over and completed the job by 1184, including a circular chapel at the building's eastern tip built specifically to hold a relic of Becket's skull — the Corona, engineered years before the shrine itself existed, for a saint whose cult was already the reason the choir was being rebuilt at all.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/AT_13763_Roof_figure_Wilhelm_von_Sens_at_the_Kunsthistorisches_Museum%2C_Vienna-64.jpg/960px-AT_13763_Roof_figure_Wilhelm_von_Sens_at_the_Kunsthistorisches_Museum%2C_Vienna-64.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/William_of_Sens"
+    },
+    {
+      "heading": "Two Chests, and a Trial for a Dead Man",
+      "body": "On 16 November 1538, Henry VIII issued a proclamation against his own murdered archbishop. It found \"nothing in his life and exterior conversation whereby he should be called a saint, but rather esteemed to be a rebel and traitor to his prince,\" and ordered that Becket's name be \"erased and put out of all books,\" his images pulled down across the country. Some contemporary accounts go further, describing a formal posthumous trial that spring in which the dead archbishop was summoned to Canterbury to answer a charge of treason and duly convicted in his absence — though the historian who has traced that story back furthest now believes it was invented by later Catholic propagandists rather than a real proceeding, which suggests even the record of this act of destruction attracted its own embellishment. What is certain is what became of the shrine. Its gold and jewels, gathered from three and a half centuries of pilgrims, were stripped out and carried off in two chests, each requiring six men to lift. The Regale of France, the ruby Louis VII had given in 1179, came out with the rest. Henry had it set into a thumb ring, and wore it openly.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/960px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Henry_VIII"
+    },
+    {
+      "heading": "What the State Has Actually Done for This Building",
+      "body": "The only other time the state came close to determining this cathedral's fate was the Baedeker Blitz of June 1942, when the Luftwaffe targeted English cathedral cities by their reputation rather than any military value. On the night of 1 June, a four-ton bomb — one of the heaviest dropped on Kent in the war — landed near enough to the cathedral to gouge a crater over twenty feet deep and blow out the nave's stained glass; forty-three people died in the city that night. The cathedral itself survived because a handful of named local men — Tom Hoare, Alfred Burden, Joe Wanstall and Tom Shaw among them — stayed on the roof through the raid, kicking incendiary bombs off the lead before they could catch. No government department did that; Hoare was given the British Empire Medal for it, two years later. Nine centuries after Lanfranc floated the first shipload of Caen stone up the Stour on his own authority, the pattern has barely changed: the state has taken from this building once, in 1538, protected it once by the courage of a few citizens rather than by design, and otherwise left it, as now, to pay its own way.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "How are our Cathedrals Funded? – The Association of English Cathedrals", "url": "https://englishcathedrals.co.uk/latest-news/how-are-our-cathedrals-funded/" },
+    { "title": "How is it financed? – The Association of English Cathedrals", "url": "https://englishcathedrals.co.uk/cathedrals/about-cathedrals/how-is-it-financed/" },
+    { "title": "Canterbury Cathedral – Wikipedia", "url": "https://en.wikipedia.org/wiki/Canterbury_Cathedral" },
+    { "title": "Lanfranc – A Walk Through Time, Canterbury Cathedral Learning Resources", "url": "https://learning.canterbury-cathedral.org/a-walk-through-time/lanfranc/" },
+    { "title": "Becket Shrine (Trinity Chapel) – Canterbury Historical and Archaeological Society", "url": "https://www.canterbury-archaeology.org.uk/becket-shrine-trinity-chapel" },
+    { "title": "William of Sens – Wikipedia", "url": "https://en.wikipedia.org/wiki/William_of_Sens" },
+    { "title": "Researchers Digitally Reconstruct Thomas Becket's Razed Canterbury Cathedral Shrine – Smithsonian Magazine", "url": "https://www.smithsonianmag.com/smart-news/researchers-digitally-reconstruct-thomas-beckets-lost-canterbury-cathedral-shrine-180975280/" },
+    { "title": "Henry VIII's Trial of St. Thomas Becket – Tudor Treasures & Medieval Musings", "url": "https://tudortreasures.net/henry-viiis-trial-of-st-thomas-becket/" },
+    { "title": "Henry VIII's Proclamation, 1538: The Unsainting of Thomas Becket – Constitutions of Clarendon", "url": "https://conclarendon.blogspot.com/2013/10/henry-viiis-proclamation-1538.html" },
+    { "title": "Did you know... Henry VIII vs. Thomas Becket – Portsmouth Cathedral", "url": "https://www.portsmouthcathedral.org.uk/portsmouth-cathedral-news/2020/11/17/did-you-know-henry-viii-vs-thomas-becket" },
+    { "title": "The Regale of France Ruby – English Monarchs", "url": "https://www.englishmonarchs.co.uk/plantagenet_66.html" },
+    { "title": "The heroes who saved Canterbury Cathedral from Hitler's terror attack – Kent Online", "url": "https://www.kentonline.co.uk/canterbury/news/the-heroes-who-saved-cathedral-from-hitlers-terror-attack-267737/" }
+  ],
+  "generatedAt": "2026-08-19T04:14:45Z",
+  "model": "claude-sonnet-5"
+}
