@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-08-25",
+  "subject": {
+    "id": "223160",
+    "title": "The Argument of his Book",
+    "author": "Robert Herrick",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/47282/the-argument-of-his-book",
+    "text": "I sing of brooks, of blossoms, birds, and bowers,\nOf April, May, of June, and July flowers.\nI sing of May-poles, hock-carts, wassails, wakes,\nOf bridegrooms, brides, and of their bridal-cakes.\nI write of youth, of love, and have access\nBy these to sing of cleanly wantonness.\nI sing of dews, of rains, and piece by piece\nOf balm, of oil, of spice, and ambergris.\nI sing of Time's trans-shifting; and I write\nHow roses first came red, and lilies white.\nI write of groves, of twilights, and I sing\nThe court of Mab, and of the fairy king.\nI write of Hell; I sing (and ever shall)\nOf Heaven, and hope to have it after all.",
+    "excerpt": "I sing of brooks, of blossoms, birds, and bowers,\nOf April, May, of June, and July flowers.\nI sing of May-poles, hock-carts, wassails, wakes,\nOf bridegrooms, brides, and of their bridal-cakes.\nI write of youth, of love, and have access\nBy these to sing of cleanly wantonness.\nI sing of dews, of rains, and piece by piece\nOf balm, of oil, of spice, and ambergris.\nI sing of Time's trans-shifting; and I write\nHow roses first came red, and lilies white.\nI write of groves, of twilights, and I sing\nThe court of Mab, and of the fairy king.\nI write of Hell; I sing (and ever shall)\nOf Heaven, and hope to have it after all.",
+    "truncated": false
+  },
+  "title": "The Poem That Comes With a Fact-Check Built In",
+  "standfirst": "Robert Herrick opened his only book with fourteen lines listing everything in it, down to two poems about how flowers got their colour. Followed through the roughly 1,400 poems that come after — and against a father's unexplained fall from a fourth-floor window — the list turns out to be exact, including its last and most personal item.",
+  "sections": [
+    {
+      "heading": "A List That Checks Out",
+      "body": "Two lines in the middle of this poem name works that do not exist yet, as far as a reader holding it for the first time knows: \"I sing of Time's trans-shifting; and I write / How roses first came red, and lilies white.\" Keep going through Hesperides — Herrick's only collection, some 1,200 poems long — and both turn up. \"How Roses Came Red\" explains the colour as a blush: the flower loses an argument with a woman's skin over which is whiter, and reddens. A companion piece does the same for lilies, tracing their white to a few drops spilled at the start of things.\n\nHerrick's opening poem is not a mood-setter or a boast about ambition. It reads like an index written before the book existed, and it holds up: noun by noun, checked against the works both human and divine that follow, it names things that are actually there.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/Hesperides_title_page_1648.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Hesperides_(poetry_collection)"
+    },
+    {
+      "heading": "A Harvest Poem, Written the Year His Own Living Ended",
+      "body": "\"I sing of May-poles, hock-carts, wassails, wakes\" names four stock occasions of the English agricultural calendar, and Herrick wrote a poem for at least one of them by name: \"The Hock-Cart, or Harvest Home,\" dedicated to Mildmay, Earl of Westmorland. It follows a decorated harvest cart home from the fields, laborers garlanded and led to a feast of beef, mutton, veal, bacon, pie and beer at the lord's table, before they go back to the plough once the feast ends — the pleasure offered as the kind of rain that lets next year's labour grow again. Herrick spells the arrangement out directly: \"Feed him ye must, whose food fills you.\" It is a poem that asks feudal obligation to look like a party.\n\nHe wrote it, and assembled the book around it, after 1647, the year a Parliamentary committee ejected him from his own vicarage at Dean Prior in Devon for refusing to sign the Solemn League and Covenant. He had held the living eighteen years. A poet who had just lost his own place in a rural social order was, at more or less the same moment, writing its defence.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Dean_Prior_Church_-_geograph.org.uk_-_1097670.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Dean_Prior"
+    },
+    {
+      "heading": "Cleanly Wantonness",
+      "body": "\"I write of youth, of love, and have access / By these to sing of cleanly wantonness\" is Herrick's own name for the largest single vein in the book: poems that flirt up to the edge of explicit and then stop, dressed in diminutives and classical costume. Their favourite subject is a woman named Julia, addressed across dozens of poems including \"Upon Julia's Clothes,\" who left no trace in any parish register or letter that biographers have found. Herrick was a bachelor his whole life, and most of the women he names, Julia included, are generally treated as invented rather than remembered.\n\nThat is the trick \"cleanly wantonness\" names without quite admitting to: desire with nobody real on the other end of it, safe enough for a clergyman to publish under his own name the year after Parliament had already found one reason to distrust him.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Fairy King Invented Whole Cloth",
+      "body": "\"The court of Mab, and of the fairy king\" closes out the poem's stanza on groves and twilights, and it is not decoration — Herrick built an entire miniature mythology to go with it. His Mab is an exacting monarch who inspects the household: \"Sluts are loathsome to the Fairies; / Sweep your house: / Who doth not so, / Mab will pinch her by the toe.\" Oberon gets his own feast and his own palace, waited on by elves serving meals scaled to insect size. None of it comes from Shakespeare's stage fairies or the folklore Herrick would have grown up on; it reads closer to a private world-building exercise, dressed in the same classical ornament — myrrh, ambergris, nectar — that runs through the rest of the book.\n\nThat ornament has a traceable source. Herrick counted himself one of the \"Sons of Ben,\" the circle of younger poets who gathered around Ben Jonson and treated him as a master to imitate rather than merely admire; he addressed at least five poems to Jonson directly. The polish that let a country vicar write convincingly about a fairy court came out of rooms in London he had sat in as a young man, long before Devon.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Ben_Jonson_by_George_Vertue_1730.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Ben_Jonson"
+    },
+    {
+      "heading": "The Last Couplet, Which the Book Actually Delivers On",
+      "body": "The final couplet reads like a throwaway pairing — \"I write of Hell; I sing (and ever shall) / Of Heaven, and hope to have it after all\" — but it is also a structural prediction that comes true. Hesperides proper is a secular book. Herrick then appended *His Noble Numbers*, a separate set of religious poems carrying its own title page dated a year earlier, 1647, moving through Christ's birth and suffering toward exactly the destinations the couplet names, in the same order: Hell, then Heaven. The joke of the list poem turns out to be the shape of the whole book, roughly 1,400 poems by the time both halves are counted together.\n\n\"Hope to have it after all\" is not a formality from a man in orders. Herrick's father, a London goldsmith named Nicholas, fell to his death from a fourth-floor window in November 1592, when Robert was a year old; whether it was an accident or, as has long been suspected, something else has never been settled. His mother never remarried. Herrick himself was ordained in 1623, spent eighteen years as a country vicar, lost the position to a Parliamentary committee in 1647, and by 1662 — Charles II restored, the Covenant no longer in force — had petitioned his way back into it, dying at Dean Prior in 1674, in his eighties, still in the job. A man who had watched a parish, a king, and quite possibly a father's fate all come apart and then reassemble had reasons of his own to end a list with hope rather than certainty.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Robert_Herrick_%28poet%29_%28cropped%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_Herrick_(poet)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Argument of His Book — Poetry Foundation",
+      "url": "https://www.poetryfoundation.org/poems/47282/the-argument-of-his-book"
+    },
+    {
+      "title": "How Roses Came Red — Wikisource",
+      "url": "https://en.wikisource.org/wiki/The_Hesperides_%26_Noble_Numbers/Hesperides/How_Roses_Came_Red"
+    },
+    {
+      "title": "The Hock-cart, or Harvest Home — Wikisource",
+      "url": "https://en.wikisource.org/wiki/The_Hesperides_&_Noble_Numbers/Hesperides/The_Hock-cart_or_Harvest_Home._To_the_Right_Honourable_Mildmay,_Earl_of_Westmoreland"
+    },
+    {
+      "title": "The Fairy References of Robert Herrick",
+      "url": "https://plover.net/~agarvin/faerie/poems/Literary/Herrick.html"
+    },
+    {
+      "title": "Robert Herrick (poet) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Herrick_(poet)"
+    },
+    {
+      "title": "Hesperides (poetry collection) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hesperides_(poetry_collection)"
+    },
+    {
+      "title": "Hesperides — work by Herrick — Britannica",
+      "url": "https://www.britannica.com/topic/Hesperides-by-Herrick"
+    },
+    {
+      "title": "Robert Herrick — English History",
+      "url": "https://englishhistory.net/poets/robert-herrick/"
+    },
+    {
+      "title": "The Hesperides and Noble Numbers, ed. Alfred Pollard — Project Gutenberg",
+      "url": "https://www.gutenberg.org/files/22421/22421-h/22421-h.htm"
+    }
+  ],
+  "generatedAt": "2026-08-19T02:08:21Z",
+  "model": "claude-sonnet-5"
+}
