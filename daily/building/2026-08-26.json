@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-26",
+  "subject": {
+    "id": "ely-cathedral",
+    "name": "Ely Cathedral",
+    "architect": "Various",
+    "year": 1083,
+    "location": "Cambridgeshire, UK",
+    "country": "UK",
+    "city": "Cambridgeshire",
+    "style": "Romanesque and Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ely_Cathedral_from_Quanea_Drove_F.jpg/1920px-Ely_Cathedral_from_Quanea_Drove_F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Ely_Cathedral",
+    "title": "Ely Cathedral",
+    "author": "Various"
+  },
+  "title": "A Tower Fell at Ely. What Replaced It, No One Can Build Again",
+  "standfirst": "In February 1322 the central tower of Ely Cathedral came down in the night, tearing a hole through the middle of the church. What went up over the gap — a stone octagon roofed in oak and lead, its timber hunted across England for twelve years — is unique among Europe's cathedrals, and it could not be built the same way today.",
+  "sections": [
+    {
+      "heading": "The Tower Came Down in the Small Hours",
+      "body": "Matins had just finished on the night of 12–13 February 1322 when the central tower of Ely Cathedral — Norman work, raised as part of a [rebuilding begun under Abbot Simeon](https://en.wikipedia.org/wiki/Ely_Cathedral) in 1083 — collapsed into the crossing. A chronicler recorded the crash as being made with such force that the monks thought [an earthquake had taken place](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Great_Britain/England/_Topics/churches/_Texts/KINCAT*/Ely/1.html). It left a hole some seventy feet wide through the heart of the church and brought the choir down with it. Nobody was killed, or even badly hurt: services had already been moved out of the quire and into St Catherine's Chapel, for reasons the surviving record does not give, and the tower fell into space nobody happened to be standing in.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Monk Who Had Been in the Job Ten Weeks",
+      "body": "Alan of Walsingham had been elected sacrist — the monk with sole charge of the cathedral's fabric — in December 1321, barely two months before the tower fell. The community's own record says he was [deeply shocked, grieving vehemently](https://en.wikipedia.org/wiki/Alan_of_Walsingham) and overcome with sorrow, and at first did not know which way to turn. What he built instead of a straight replacement was not the obvious choice. The four Norman piers that had failed sat, most likely, on ground too soft in the fens to carry that weight a second time, so rather than trust them again Walsingham pushed the supports outward into all four arms of the cross and [set the new crossing on eight piers instead of four](https://www.elycathedral.org/about/history-heritage/the-octagon). The result was an octagon — wider, lighter on any single patch of ground, and unlike anything on top of any other cathedral in Europe, then or since.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Twelve Years Spent Looking for a Tree Big Enough",
+      "body": "By 1328 the stone shell of the octagon was finished up to the vaulting, but its span — [about seventy-four feet](https://www.elycathedral.org/about/history-heritage/the-octagon) — was too wide to close with a stone roof of that period. The plan called for timber instead, disguised under lead, which meant finding eight posts [twenty-one yards long and a yard square](https://www.walkingenglishman.com/outandabout/east/28ely.html), sound the whole length, with no fault in the grain. England did not have trees like that standing anywhere convenient. The search ran for roughly twelve years, out as far as Hatfield Forest and [Chicksands Priory in Bedfordshire](https://shellydennison.substack.com/p/a-cathedral-for-bedfordshire), whose oak wood supplied the great posts; the priory's nuns were paid [just £9](https://www.elystandard.co.uk/news/22740839.the-whole-city-trembled---700-years-since-ely-cathedrals-tower-collapsed/) for timber that would end up holding up a cathedral roof. Getting the trees back to Ely meant reinforcing roads and bridges along the route, then floating them the last stretch down the Great Ouse.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chicksands_Priory.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Chicksands_Priory"
+    },
+    {
+      "heading": "The King's Own Carpenter Took Over From There",
+      "body": "William Hurley was [king's master carpenter to Edward III](https://en.wikipedia.org/wiki/William_Hurley_%28carpenter%29), on the royal payroll for work at the Tower of London, Windsor Castle and the Palace of Westminster. Ely brought him on for the lantern above the new octagon at a [fee of £8 a year plus board and lodging](https://www.british-history.ac.uk/vch/cambs/vol4/pp50-77), starting in 1334. What he built on Alan of Walsingham's stonework was not a straightforward roof: the timber lantern sits rotated against the octagon below it, so its eight corners land over the midpoints of the stone arches rather than lining up with them, and its bracing anticipated the [hammerbeam joint](https://en.wikipedia.org/wiki/William_Hurley_%28carpenter%29) by around fifty years — a technique better known from later halls than from any cathedral. A single oak boss [carved by John of Burwell](https://www.elycathedral.org/about/history-heritage/the-octagon), showing Christ in Majesty, was set at the crown of it. By the time the whole structure was finished, in 1341 or 1342, the cathedral had spent [£2,406 6s 11d](https://www.elystandard.co.uk/news/22740839.the-whole-city-trembled---700-years-since-ely-cathedrals-tower-collapsed/) on it — something like £3.5 million today, by one estimate.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Chambers_1908_Hammerbeam.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Hammerbeam_roof"
+    },
+    {
+      "heading": "A Roof That Can't Be Rebuilt With Today's Trees",
+      "body": "The finished octagon weighs around four hundred tons, most of it timber and lead, carried on stone piers that start seventy feet up. Nothing else on top of a European cathedral works quite like it, and nobody has tried to repeat it since: [recent structural surveys](https://en.wikipedia.org/wiki/Ely_Cathedral) note that it could not be built the same way today, because trees of the size Hurley's carpenters used are no longer there to find. It has stood for [more than seven hundred years](https://www.elystandard.co.uk/news/22740839.the-whole-city-trembled---700-years-since-ely-cathedrals-tower-collapsed/) now, on foundations nobody has needed to touch — longer, by some distance, than the Norman tower that came down in the night and made it necessary.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Ely Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ely_Cathedral" },
+    { "title": "The Octagon — Ely Cathedral", "url": "https://www.elycathedral.org/about/history-heritage/the-octagon" },
+    { "title": "William Hurley (carpenter) — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Hurley_%28carpenter%29" },
+    { "title": "Alan of Walsingham — Wikipedia", "url": "https://en.wikipedia.org/wiki/Alan_of_Walsingham" },
+    { "title": "'The whole city trembled' — 700 years since Ely Cathedral's tower collapsed — Ely Standard", "url": "https://www.elystandard.co.uk/news/22740839.the-whole-city-trembled---700-years-since-ely-cathedrals-tower-collapsed/" },
+    { "title": "City of Ely: Cathedral — Victoria County History of Cambridgeshire, vol. 4 — British History Online", "url": "https://www.british-history.ac.uk/vch/cambs/vol4/pp50-77" },
+    { "title": "A Cathedral for Bedfordshire — Shelly Dennison", "url": "https://shellydennison.substack.com/p/a-cathedral-for-bedfordshire" },
+    { "title": "A walk around Ely — The Walking Englishman", "url": "https://www.walkingenglishman.com/outandabout/east/28ely.html" },
+    { "title": "Ely Cathedral — King's Handbook to the Cathedrals of England", "url": "https://penelope.uchicago.edu/Thayer/E/Gazetteer/Places/Europe/Great_Britain/England/_Topics/churches/_Texts/KINCAT*/Ely/1.html" }
+  ],
+  "generatedAt": "2026-08-20T04:13:41Z",
+  "model": "claude-sonnet-5"
+}
