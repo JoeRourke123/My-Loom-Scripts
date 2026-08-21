@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-27",
+  "subject": {
+    "id": "durham-cathedral",
+    "name": "Durham Cathedral",
+    "architect": "Various",
+    "year": 1093,
+    "location": "Durham, UK",
+    "country": "UK",
+    "city": "Durham",
+    "style": "Romanesque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Durham_MMB_02_Cathedral.jpg/1920px-Durham_MMB_02_Cathedral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 965,
+    "source": "https://en.wikipedia.org/wiki/Durham_Cathedral",
+    "title": "Durham Cathedral",
+    "author": "Various"
+  },
+  "title": "Durham Cathedral Was Founded by an Exiled Rebel and Finished by an Escaped Prisoner",
+  "standfirst": "William de St-Calais had been tried for rebelling against the king and exiled to Normandy before he laid this cathedral's foundation stone in 1093; the King of Scots who helped him was dead within three months, killed invading the very border it was built to hold. Thirty years later, the bishop who finished the building had just broken out of the Tower of London.",
+  "sections": [
+    {
+      "heading": "The King Who Laid a Stone and Was Dead by November",
+      "body": "On 11 August 1093, Bishop William de St-Calais and Prior Turgot laid the foundation stone of the cathedral that stands today, on the site of the Saxon ['White Church'](https://www.durhamworldheritagesite.com/learn/architecture/cathedral/architectural-importance) it replaced. Malcolm III of Scotland was there too: he and his queen, Margaret, [helped lay a stone](https://en.wikipedia.org/wiki/William_de_St-Calais) alongside the bishop. Three months later Malcolm invaded Northumbria and laid siege to Alnwick Castle, where [Robert de Mowbray's forces caught the Scottish army by surprise](https://en.wikipedia.org/wiki/Battle_of_Alnwick_%281093%29) on 13 November; Malcolm was killed by Mowbray's steward, and his son Edward died in the same fighting. Margaret is said to have died within days of hearing the news. The king who had just helped bless a cathedral built partly to hold this border against Scotland had, within a season, become the reason it needed to.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Malcolm3Canmore.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland"
+    },
+    {
+      "heading": "The Bishop Who Was Rebuilding More Than a Church",
+      "body": "William de St-Calais had been Bishop of Durham for eight years when the trouble started. In 1088, with William Rufus newly on the throne, Odo of Bayeux and other Norman nobles rebelled in favour of the king's brother, Robert Curthose; St-Calais, for reasons historians still argue over, [shut himself in Durham Castle and deserted the king](https://en.wikipedia.org/wiki/William_de_St-Calais). He was tried at Salisbury that November, in a case now reckoned [the earliest surviving detailed account of an English state trial](https://en.wikipedia.org/wiki/William_de_St-Calais). He argued a bishop could not be judged in a secular court; Archbishop Lanfranc argued he could be tried as a vassal over his lands regardless; St-Calais appealed to Rome, lost, and his estates were declared forfeit. He spent three years in Normandy as Robert Curthose's chief administrator, until Rufus forgave him in 1091 and let him keep his lands without the feudal service normally owed in return. St-Calais came home with, in the words of his own community's record, substantial wealth and gifts for the church, and two years later broke ground on a cathedral so ambitious that thirty-seven years and two more bishops passed before it was finished. He died at Windsor on 2 January 1096, reconciled on his deathbed with Archbishop Anselm — the same man he had prosecuted for the king the year before — and was buried in the chapter house.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Bishop With His Own Mint, His Own Army, His Own Courts",
+      "body": "The building St-Calais broke ground on was never only a church. Since 1075, after two failed attempts to install a secular earl to govern this stretch of border, the Bishop of Durham had held [the right to raise an army, mint his own coin, and levy his own taxes](https://www.durhamworldheritagesite.com/learn/history/prince-bishops), later formalised into a palatine jurisdiction with its own courts, its own exchequer and its own sheriffs, mirroring the crown's own institutions in miniature. In exchange, the bishop owed one thing back: loyalty, and defence of England's northern frontier. The territory's people were known, in Old English, as the [haliwerfolc](https://en.wikipedia.org/wiki/County_Palatine_of_Durham) — 'the people of the saint' — a name that fused political autonomy directly to St Cuthbert's sanctity. [Durham Castle, begun in 1072](https://en.wikipedia.org/wiki/Durham_Castle) under William the Conqueror, stood across Palace Green from the cathedral on the same fortified peninsula, and for the next seven and a half centuries the two buildings worked as one seat of power — a diocese that was also, in practice, a small kingdom, answering to nobody nearby.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Durham_Castle_%2828180496735%29.jpg/960px-Durham_Castle_%2828180496735%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Durham_Castle"
+    },
+    {
+      "heading": "A Roof Nobody Had Built Before — and the First Version Failed",
+      "body": "The vaults raised over St-Calais's choir between 1093 and 1096 were, by one architectural historian's account, [probably the first high rib vaults in Europe](https://en.wikipedia.org/wiki/Early_Gothic_architecture) — stone ribs carrying the ceiling's weight down to the piers, a genuinely new way of building. They were also not very good: the panels between the ribs were made of plastered rubble, too heavy for the ribs to carry safely, and the whole choir vault had to be rebuilt in 1235. The version that actually mattered went up later, elsewhere in the building: pointed rib vaults over the nave and south transept, begun around 1130, transferring the roof's weight more efficiently than the rounded arches St-Calais's masons had used forty years earlier. The [nave walls reached full height in 1128, and the vault above them was finished by 1135](https://en.wikipedia.org/wiki/Durham_Cathedral). It is this later, pointed version — not the pioneering but flawed vault the cathedral is often credited with — that anticipated the Gothic architecture then just beginning in northern France, and [shaped how European churches were built for the next four centuries](https://www.durhamworldheritagesite.com/learn/architecture/cathedral/architectural-importance).",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Peterborough_Cathedral%2C_south_aisle_01.jpg/960px-Peterborough_Cathedral%2C_south_aisle_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Rib_vault"
+    },
+    {
+      "heading": "The Bishop Who Finished It Had Just Escaped the Tower of London",
+      "body": "Ranulf Flambard, who became bishop in 1099 and completed the cathedral, arrived with a reputation St-Calais never had. As William Rufus's chief financial administrator, he had managed the revenues of sixteen vacant bishoprics and abbeys for the crown, and the chronicler William of Malmesbury wrote that he ['skinned the rich, ground down the poor, and swept other men's inheritances into his net'](https://en.wikipedia.org/wiki/Ranulf_Flambard). In 1094 he mustered England's militia for a Normandy campaign, sent the men home, and pocketed their maintenance money; Malmesbury also accused him of paying £1,000 for the Durham bishopric itself — simony. When Henry I took the throne in 1100, Flambard became the new king's most convenient scapegoat: he was locked in the [Tower of London on 15 August, its first recorded prisoner](https://en.wikipedia.org/wiki/Ranulf_Flambard). He did not stay long. Friends smuggled him a rope hidden inside a flagon of wine; he got his guards drunk, climbed down the wall, and fled to Normandy on 3 February 1101. Pardoned again, he returned to Durham and spent the rest of his life building: he raised the nave walls to their full height by the time of his death in 1128, built Framwellgate Bridge, fortified the castle, and cleared and levelled Palace Green between the two. He was buried in the cathedral's chapter house, a few yards from St-Calais's grave — two bishops who had each, at different points, been the crown's declared enemy, buried inside the fortress-church their disgrace had helped build.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Durham Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Durham_Cathedral" },
+    { "title": "William de St-Calais — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_de_St-Calais" },
+    { "title": "Architectural Importance — Durham World Heritage Site", "url": "https://www.durhamworldheritagesite.com/learn/architecture/cathedral/architectural-importance" },
+    { "title": "Ranulf Flambard — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ranulf_Flambard" },
+    { "title": "William of St Calais — Durham World Heritage Site", "url": "https://www.durhamworldheritagesite.com/learn/history/prince-bishops/early-bishops/william-calais" },
+    { "title": "County Palatine of Durham — Wikipedia", "url": "https://en.wikipedia.org/wiki/County_Palatine_of_Durham" },
+    { "title": "Malcolm III of Scotland — Wikipedia", "url": "https://en.wikipedia.org/wiki/Malcolm_III_of_Scotland" },
+    { "title": "Battle of Alnwick (1093) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Alnwick_%281093%29" },
+    { "title": "Prince Bishops — Durham World Heritage Site", "url": "https://www.durhamworldheritagesite.com/learn/history/prince-bishops" },
+    { "title": "Early Gothic architecture — Wikipedia", "url": "https://en.wikipedia.org/wiki/Early_Gothic_architecture" },
+    { "title": "Durham Castle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Durham_Castle" }
+  ],
+  "generatedAt": "2026-08-21T04:16:28Z",
+  "model": "claude-sonnet-5"
+}
