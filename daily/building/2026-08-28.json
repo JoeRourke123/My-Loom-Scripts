@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-28",
+  "subject": {
+    "id": "basilica-di-sant-ambrogio",
+    "name": "Basilica di Sant'Ambrogio",
+    "architect": "Various",
+    "year": 1099,
+    "location": "Milan, Italy",
+    "country": "Italy",
+    "city": "Milan",
+    "style": "Romanesque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/San_Ambrosio_00.jpg/1920px-San_Ambrosio_00.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1319,
+    "source": "https://en.wikipedia.org/wiki/Basilica_of_Sant%27Ambrogio",
+    "title": "Basilica di Sant'Ambrogio",
+    "author": "Various"
+  },
+  "title": "Four Hundred Years of Argument, Built Into Two Bell Towers",
+  "standfirst": "At Sant'Ambrogio the monks and the canons disagreed about money for so long that they built two separate bell towers rather than share one, and did not fully settle it until 1201. In between, after an earthquake wrecked the roof, the basilica's own masons tried something that would later become Gothic architecture — and by most reckonings, never quite got it to work.",
+  "sections": [
+    {
+      "heading": "Two Bell Towers, Because Nobody Would Share One",
+      "body": "The two towers flanking Sant'Ambrogio's façade do not match, and the mismatch is not a matter of taste. The shorter, plainer one goes back to the eighth century, built by the [Benedictine monks](https://corvinus.nl/2016/08/23/milan-santambrogio/) who ran half of the complex. The taller, more decorated one only went up after 1128, when Archbishop Anselm V authorised a [second bell tower](https://www.basilicasantambrogio.it/en/storia) — for the canons, the separate community of secular priests who ran the other half and had apparently had enough of sharing a single tower with the monks. The two communities spent the following decades arguing over who received the offerings pilgrims left, who controlled the bells, and who had custody of the basilica's golden altar. According to the basilica's own historical account, that dispute was not formally settled until 1201.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "An Earthquake, and a Vault That Never Quite Worked",
+      "body": "Sant'Ambrogio's current nave went up from around 1080, and for its first decades it may have had no stone roof at all: the [vault was probably not attempted until after a serious earthquake](https://orthochristian.com/88974.html) struck northern Italy in 1117. When Milanese masons finally closed the nave, [around 1140](https://www.spottinghistory.com/view/8514/basilica-of-santambrogio/), they used a technique that was, for the moment, genuinely advanced: a vault carried on diagonal stone ribs rather than solid masonry, in principle letting the walls below take less weight. It was close to the same idea French and Anglo-Norman masons were turning, in those same decades, into what became Gothic architecture. The Lombard version never quite got there. Its ribs met at the crown of the vault without a stone keystone to lock them together, and the whole arrangement needed costly timber centring and scaffolding to hold it up while the mortar set. The standard account of the technique's history concludes that Lombardy's builders [never achieved a true rib vault](https://fr.wikipedia.org/wiki/Crois%C3%A9e_d%27ogives) at all, and that the type built here was abandoned rather than developed further.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saint-Denis_-_Fa%C3%A7ade.jpg/960px-Saint-Denis_-_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Denis"
+    },
+    {
+      "heading": "Nobody Agrees How Old the Atrium Actually Is",
+      "body": "In front of the church stands an atrium, a walled courtyard that once held the catechumens — people preparing for baptism who were not yet permitted inside for the Mass itself — before they could enter the basilica proper. On when it was built, the sources simply disagree. The [English-language Wikipedia account](https://en.wikipedia.org/wiki/Basilica_of_Sant%27Ambrogio) places the atrium in the ninth century. The [Encyclopaedia Britannica](https://www.britannica.com/topic/SantAmbrogio-Basilica) dates the same structure to about 1050 — two centuries later. Neither source explains the gap, and nothing in either account settles whether the atrium reflects an early Christian arrangement that survived the Romanesque rebuilding intact, or a Romanesque-era addition that later writers assumed was older than it is.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Altar Both Sides Were Fighting Over",
+      "body": "The object at the centre of the monks-and-canons dispute was worth fighting over. Archbishop Angilbert II commissioned it sometime between 824 and 859: a chest-sized altar with a [gold front and a silver back](https://www.wga.hu/html_m/zzdeco/1gold/09c/golden2.html), both faces worked in relief with scenes from the lives of Christ and of Ambrose, set with gems and enamel. It also served as a reliquary, standing directly over the remains of Ambrose and of the two martyrs he had reburied in the church in 386. The goldsmith who made it, a monk named [Vuolvino](https://en.wikipedia.org/wiki/Vuolvino), did something almost nobody in his trade did at the time: he signed his work, in a scene on the back that shows Ambrose personally crowning him. One account identifies him as a disciple of Einhard, the imperial silversmith at Charlemagne's court in Aachen — Milan, on this reading, reached all the way to the Carolingian capital for its craftsman. The altar survived a theft in 1590 that stripped three of its panels; it was [restored within a few years](https://www.basilicasantambrogio.it/en/storia), and it outlasted the custody dispute that had been fought over it for generations before that.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Altare_di_s._ambrogio%2C_824-859_ca.%2C_retro_di_vuolvino%2C_arcangeli_e_scene_di_omaggio_06_Ambrogio_che_incorona_Vuolvino_magister_phaber.jpg/960px-Altare_di_s._ambrogio%2C_824-859_ca.%2C_retro_di_vuolvino%2C_arcangeli_e_scene_di_omaggio_06_Ambrogio_che_incorona_Vuolvino_magister_phaber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Vuolvino"
+    },
+    {
+      "heading": "What the Bombs Missed",
+      "body": "None of that gold was in the building when Allied bombers hit Milan's historic centre in August 1943. Sant'Ambrogio took heavy damage to its apse, its clergy house and the [outer arcades of its quadriportico](https://it.wikipedia.org/wiki/Basilica_di_Sant%27Ambrogio). The golden altar itself went untouched, because it wasn't there: it had already been sent to the [Vatican for safekeeping](https://www.basilicasantambrogio.it/en/storia), a precaution the church had also taken during the First World War. Less portable treasures had to be protected in place — [sandbags and timber struts](https://www.storiemilanesi.org/en/insight/i-bombardamenti-ricostruzione/) shielded the ciborium over the high altar where it stood — and the early thirteenth-century apse mosaic of Christ enthroned, with saints Gervasius and Protasius at his sides, was too badly hit to save whole. It had to be substantially rebuilt afterward, using what medieval tesserae could be salvaged. Architect Ferdinando Reggiori oversaw the reconstruction and completed it in 1949, by which point he had also established the basilica's museum.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Milan_after_Bombing.jpg/960px-Milan_after_Bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Bombing_of_Milan_in_World_War_II"
+    }
+  ],
+  "sources": [
+    { "title": "Basilica of Sant'Ambrogio — Wikipedia", "url": "https://en.wikipedia.org/wiki/Basilica_of_Sant%27Ambrogio" },
+    { "title": "Milan: Sant'Ambrogio — Corvinus", "url": "https://corvinus.nl/2016/08/23/milan-santambrogio/" },
+    { "title": "History — Basilica di Sant'Ambrogio (official site)", "url": "https://www.basilicasantambrogio.it/en/storia" },
+    { "title": "Sant'Ambrogio Basilica — Encyclopaedia Britannica", "url": "https://www.britannica.com/topic/SantAmbrogio-Basilica" },
+    { "title": "Basilica di Sant'Ambrogio — Wikipedia (Italian)", "url": "https://it.wikipedia.org/wiki/Basilica_di_Sant%27Ambrogio" },
+    { "title": "Croisée d'ogives — Wikipédia", "url": "https://fr.wikipedia.org/wiki/Crois%C3%A9e_d%27ogives" },
+    { "title": "Basilica of Sant'Ambrogio, Milan — Spotting History", "url": "https://www.spottinghistory.com/view/8514/basilica-of-santambrogio/" },
+    { "title": "The Basilica of St. Ambrose in Milan, Italy — OrthoChristian", "url": "https://orthochristian.com/88974.html" },
+    { "title": "Golden Altar of Sant'Ambrogio — Web Gallery of Art", "url": "https://www.wga.hu/html_m/zzdeco/1gold/09c/golden2.html" },
+    { "title": "Vuolvino — Wikipedia", "url": "https://en.wikipedia.org/wiki/Vuolvino" },
+    { "title": "Bombing and reconstruction — Storie Milanesi", "url": "https://www.storiemilanesi.org/en/insight/i-bombardamenti-ricostruzione/" }
+  ],
+  "generatedAt": "2026-08-22T04:15:18Z",
+  "model": "claude-sonnet-5"
+}
