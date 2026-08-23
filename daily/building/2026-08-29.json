@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-29",
+  "subject": {
+    "id": "edinburgh-castle",
+    "name": "Edinburgh Castle",
+    "architect": "Various",
+    "year": 1103,
+    "location": "Edinburgh, UK",
+    "country": "UK",
+    "city": "Edinburgh",
+    "style": "Medieval",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg/1920px-City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1032,
+    "source": "https://en.wikipedia.org/wiki/Edinburgh_Castle",
+    "title": "Edinburgh Castle",
+    "author": "Various"
+  },
+  "title": "The Best-Defended Building in Scotland Couldn't Hold On to Anything",
+  "standfirst": "A 2014 study counted twenty-six sieges across Edinburgh Castle's eleven centuries. But the sharper story is what the fortress kept losing: a tower brought down by an ally's own artillery, a diplomatic gift cannon exiled for seventy-five years, royal regalia missing for over a century, and two goldsmiths hanged for coins truer than the government's own.",
+  "sections": [
+    {
+      "heading": "Robert the Bruce Captured the Castle, Then Tore It Down Himself",
+      "body": "On the night of 14 March 1314, Thomas Randolph, Earl of Moray and nephew of Robert the Bruce, led a party of around thirty men up the north face of Castle Rock on rope ladders, guided by William Francis, son of a former keeper of the castle who had learned the route as a young man. According to John Barbour's poem *The Brus*, the party surprised the English garrison in the dark and took the castle. Bruce's answer to winning it back was to have it pulled down: the walls and defences [slighted so thoroughly](https://en.wikipedia.org/wiki/Edinburgh_Castle) that no English force could use it as a base again, a policy he was applying to captured castles across Scotland. Only St Margaret's Chapel, the small oratory at the summit, was left standing. Four months later Bruce's army broke an English relief force at the Battle of Bannockburn. The fortress that gives the city its skyline today is not the one Randolph's men climbed into that night — Bruce made sure of that himself.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Medieval_coin%2C_Penny_of_Robert_the_Bruce_%28FindID_961323-1097387%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+    },
+    {
+      "heading": "The Gift Cannon That Outlived the King It Honoured",
+      "body": "Philip the Good, Duke of Burgundy, had helped broker James II's marriage to Mary of Guelders in 1449 after the French king declined to supply a bride himself. In 1457, as a further mark of support, Philip sent James a six-and-a-half-tonne bombard, [cast by his own artillery maker Jehan Cambier](https://en.wikipedia.org/wiki/Mons_Meg) and test-fired at Mons two years earlier — the gun still carries that town's name. James put it to work: later hauled to the siege of Norham Castle in 1497 and used to threaten Stirling Castle in 1515. James himself did not live to see most of that. In 1460, directing the siege of [Roxburgh Castle](https://en.wikipedia.org/wiki/James_II_of_Scotland), he was standing near one of his own bombards — not Mons Meg — when it burst on firing. A fragment shattered his thigh and he died within hours, aged twenty-nine. The siege he had been leading continued without him, and the castle fell five days later.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Castles_old_and_new_-_geograph.org.uk_-_163364.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Roxburgh_Castle"
+    },
+    {
+      "heading": "It Took a Novelist to Bring the Gun Home",
+      "body": "Mons Meg's own end came on 30 October 1680, when its barrel [burst during a ceremonial salute](https://en.wikipedia.org/wiki/Mons_Meg) fired for a visit by James, Duke of Albany and York, the future James VII and II. The gun was retired rather than repaired, and stayed at the castle as an ornament until 1754, when it was shipped south to the Tower of London along with other disused Scottish ordnance under the acts disarming the Highlands after the Jacobite risings. It sat there for seventy-five years. Its return was not the government's idea: Walter Scott and the Society of Antiquaries of Scotland campaigned for it, and in 1829 George IV ordered Mons Meg back to Edinburgh. It has stood outside St Margaret's Chapel, the one building Bruce spared in 1314, ever since.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Two-Year Siege London Paid For",
+      "body": "By 1571 the castle had become the last stronghold of the party still loyal to the deposed Mary, Queen of Scots, held by Sir William Kirkcaldy of Grange, who had [switched sides after the regent Moray's assassination](https://en.wikipedia.org/wiki/William_Kirkcaldy_of_Grange) in January 1570, persuaded by William Maitland of Lethington that a settlement with Mary was still possible. Kirkcaldy fortified the castle and set up a mint inside it, funding the garrison partly by pawning the queen's jewels. The regency government besieging him lacked the guns and money to finish the job, and appealed to Elizabeth I, who feared Kirkcaldy might otherwise draw help from France or Spain. English troops arrived under Sir William Drury in April 1573, roughly a thousand men and twenty-seven cannon brought up from Berwick, joining a King's party garrison in which Kirkcaldy had forty guns of his own but only seven trained gunners. Over the following weeks the English fired some three thousand shots; on 22 May the south wall of David's Tower came down, [taking the castle's only well with it](https://www.scotsman.com/arts-and-culture/lost-edinburgh-the-lang-siege-1526242), and the Constable's Tower followed the next day. Kirkcaldy surrendered on 28 May.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Goldsmiths Who Struck a Rival Currency Behind the Walls",
+      "body": "Among those who joined Kirkcaldy inside the besieged castle, on 11 May 1571, were two Edinburgh goldsmiths, James Mossman and James Cockie, made free men of their trade together in 1557. Mossman was no minor craftsman: he [served as an assay master at the Scottish mint](https://en.wikipedia.org/wiki/James_Mosman) and had made gold chains presented as diplomatic gifts. Inside the castle the two men ran a mint of their own, striking coin in Mary's name; by one account the coins they produced held more silver than the official 'Dalkeith money' issued by the regency government they were fighting. The regency called it counterfeiting all the same. After the surrender, Kirkcaldy, his brother James, Mossman and Cockie were tried and, on 3 August 1573, hanged at the Mercat Cross in Edinburgh. Mossman and Cockie were [driven up the High Street beforehand in a cart, seated facing backwards](https://en.wikipedia.org/wiki/James_Mosman); their heads were afterward displayed on spikes.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Crown Jewels Nobody Could Find for 111 Years",
+      "body": "After the Act of Union merged the Scottish and English parliaments in 1707, the Honours of Scotland — the crown, sceptre and sword of state — were wrapped in linen, locked inside an oak chest, and sealed behind two doors in the castle's Crown Room. Nobody opened them again for more than a century, and in the absence of any public sighting, rumour did what rumour does: many assumed the regalia had quietly been [removed to England](https://www.edinburghcastle.scot/see-and-do/highlights/honours-of-scotland/) as one more casualty of Union. That suspicion held until 4 February 1818, when the novelist Walter Scott, granted permission to search the castle, forced open the sealed doors with a group of officers of state and [found the chest still locked](https://en.wikipedia.org/wiki/Edinburgh_Castle). Inside, the Honours were exactly as they had been left, still wrapped in their original linen. They went on public display shortly afterward, at an entrance charge of one shilling.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sir_Thomas_Lawrence_%281769-1830%29_-_Sir_Walter_Scott_%281771-1832%29_-_RCIN_400644_-_Royal_Collection.jpg/960px-Sir_Thomas_Lawrence_%281769-1830%29_-_Sir_Walter_Scott_%281771-1832%29_-_RCIN_400644_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Walter_Scott"
+    },
+    {
+      "heading": "Paid for by the Public, in Shillings",
+      "body": "The castle's last major addition was funded the way almost nothing before it had been: by public subscription. After the First World War, the architect Robert Lorimer — already known for his war-grave work and for the castle's Thistle Chapel — was [appointed in 1919](https://www.snwm.org/about-history/) to design a national memorial. His first proposals for a grand new building were scaled back after objections from heritage campaigners including the Cockburn Association, and by 1923 the plan settled on converting an existing barrack block rather than building anew. The estimated cost, £250,000, was raised through a 'Shilling-a-head' fund, commemorative postage stamps and events such as 'Thistle Day', though a single gift of £50,000 from A. P. Lyle of Glen Delvine covered a fifth of it alone. The [Scottish National War Memorial opened on 14 July 1927](https://en.wikipedia.org/wiki/Scottish_National_War_Memorial), its walls eventually carrying around 135,000 names from the First World War and more than 50,000 from the Second — a monument to the dead financed, in the end, a shilling at a time, in a castle whose regalia had once been shown to the living for exactly the same price.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Edinburgh_Castle%2C_Scottish_National_War_Memorial_rear.jpg/960px-Edinburgh_Castle%2C_Scottish_National_War_Memorial_rear.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Scottish_National_War_Memorial"
+    }
+  ],
+  "sources": [
+    { "title": "Edinburgh Castle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Edinburgh_Castle" },
+    { "title": "Mons Meg — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mons_Meg" },
+    { "title": "James II of Scotland — Wikipedia", "url": "https://en.wikipedia.org/wiki/James_II_of_Scotland" },
+    { "title": "William Kirkcaldy of Grange — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_Kirkcaldy_of_Grange" },
+    { "title": "James Mosman — Wikipedia", "url": "https://en.wikipedia.org/wiki/James_Mosman" },
+    { "title": "Scottish National War Memorial — Wikipedia", "url": "https://en.wikipedia.org/wiki/Scottish_National_War_Memorial" },
+    { "title": "History — Scottish National War Memorial", "url": "https://www.snwm.org/about-history/" },
+    { "title": "Honours of Scotland — Edinburgh Castle", "url": "https://www.edinburghcastle.scot/see-and-do/highlights/honours-of-scotland/" },
+    { "title": "Lost Edinburgh: The Lang Siege — The Scotsman", "url": "https://www.scotsman.com/arts-and-culture/lost-edinburgh-the-lang-siege-1526242" }
+  ],
+  "generatedAt": "2026-08-23T04:12:37Z",
+  "model": "claude-sonnet-5"
+}
