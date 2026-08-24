@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-30",
+  "subject": {
+    "id": "sainte-foy-abbey",
+    "name": "Sainte-Foy Abbey",
+    "architect": "Various",
+    "year": 1120,
+    "location": "Conques, France",
+    "country": "France",
+    "city": "Conques",
+    "style": "Romanesque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Conques_JPG02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1200,
+    "height": 1600,
+    "source": "https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy",
+    "title": "Sainte-Foy Abbey",
+    "author": "Various"
+  },
+  "title": "It Took 1,013 Years to Give Back What Built This Church",
+  "standfirst": "Conques was a minor mountain oratory until a monk spent nearly a decade lying his way into a rival monastery, then stole a murdered teenager's skull. The theft paid for the Romanesque church below, its treasury and its judgment-scene tympanum — and Rodez's bishop did not send even part of her back to the city she was stolen from until 1879.",
+  "sections": [
+    {
+      "heading": "Conques Was Nobody, Until a Monk Stole a Skull",
+      "body": "The oratory that became this abbey started small enough that its founder is disputed. The English-language record credits monks fleeing Muslim Spain with building an eighth-century hermitage on this outcrop above the Dourdou gorge; the abbey's own tourist history instead names a single hermit, [Dadon](https://www.tourisme-conques.fr/en/en-conques/site-and-history), and dates the site to the same decades. Both agree that in 819 Louis the Pious, Charlemagne's son, granted the community a charter and gave it the name it still carries. What neither origin story explains is why the place mattered at all until 866, when [a monk from Conques](https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy) — his name is not recorded — spent close to ten years living inside the rival monastery at Agen, working his way up to guardian of its shrine before breaking open the marble tomb of a murdered teenage girl, Foy, and carrying her skull back over the hills. Medieval writers had a word ready for this kind of crime: *furtum sacrum*, holy theft, [justified after the fact](https://differentvisions.org/healing-old-wounds-forging-strong-alliances/) by the argument that a saint who did not want to be moved would simply have stopped it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Vue_Agen_3.JPG/960px-Vue_Agen_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Agen"
+    },
+    {
+      "heading": "The Sceptic Sent to Investigate Her Converted Instead",
+      "body": "For over a century after 866 the relic did little beyond sit in the church. What changed things was a specific miracle around 983: a man named Guibert had his eyesight restored at the shrine and was known afterward as [Guibert the Illuminated](https://thepilgrimsguide.com/projects/the-reliquary-of-sainte-foy/); the cure set off, in one account, 'a great flood of donations, grants of land and churches,' enough on its own to fund a new gold altar frontal. Word of a wonder-working girl-saint eventually reached Bernard of Angers, a master of the cathedral school at Angers who had studied under Fulbert of Chartres. He arrived at Conques around 1013 openly sceptical of what he took for a peasant cult built around a jewelled doll, then made [two more pilgrimages](https://en.wikipedia.org/wiki/Liber_miraculorum_sancte_Fidis) through the 1010s and 1020s gathering testimony. Rather than debunk the shrine, he wrote it up: the first two books of the *Liber miraculorum sancte Fidis*, with two further books added by anonymous authors after his death, organised not by date but by type of miracle — the blind healed, the imprisoned freed — turning Conques's local wonders into circulating, sermon-ready propaganda for the pilgrimage itself.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c5/BL%2C_Arundel_91%2C_f._78r.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Liber_miraculorum_sancte_Fidis"
+    },
+    {
+      "heading": "A Church the Pilgrims Effectively Commissioned",
+      "body": "The building above this text is not the one the relic arrived at. Growth came later, funded directly by the traffic the theft had created: the current Romanesque church was begun under Abbot [Odolric](https://www.tourisme-conques.fr/en/en-conques/site-and-history), who led the abbey from before 1031 until 1065, continued under Étienne II from 1065 to 1087, and pushed forward again under Begon III between 1087 and 1107. Each abbacy brought competing goldsmiths and pilgrim gifts into the same treasury: a small reliquary donated as though from Pepin, later reworked across the ninth to sixteenth centuries; a letter-shaped reliquary, reputedly one of a set Charlemagne sent to abbeys he had founded, which an inscription credits [Begon III himself with commissioning](https://www.tourisme-conques.fr/en/en-conques/the-treasure); and a chest-shaped reliquary of Begon's own, built to resemble an ancient mausoleum. None of this was paid for by a single patron. It accumulated, gift by gift, from the same route of travellers the stolen skull had first drawn off the road to Agen.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Judgment Scene Built Like a Puzzle, for an Audience That Believed It",
+      "body": "By the time Abbot Boniface commissioned the west portal, [between 1107 and 1125](https://www.tourisme-conques.fr/en/en-conques/the-tympanum), the workshop doing the carving had already proven itself elsewhere: the sculptor responsible had worked on the cathedral of Santiago de Compostela, the pilgrimage's own destination, before turning to one of its way-stations. The tympanum he produced packs at least 124 figures across roughly twenty limestone blocks, 6.7 metres wide and 3.6 metres high, each block carved on the ground and then hoisted into place so precisely that no joint cuts through a face or a limb. A Latin inscription along its base still warns whoever reads it — 'O PECCATORES TRANSMUTETIS NISI MORES / JUDICIUM DURUM VOBIS SCITOTE FUTURUM,' roughly, change your ways, sinners, or a harsh judgement awaits — and the whole scene was originally painted, blue dominating the saved and red the damned, most of it since worn away. It was the last thing pilgrims saw before stepping inside a church built, in large part, on the proceeds of exactly the kind of judgement it depicts.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santiago_cathedral_2021.jpg/960px-Santiago_cathedral_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral"
+    },
+    {
+      "heading": "Hidden in a Garden to Save It From the Republic",
+      "body": "The building did not survive smoothly to the present. In 1537 Bishop Georges d'Armagnac forced the Benedictine [community out](https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy) and took direct control of the abbey; in 1568, during the Wars of Religion, Protestant forces burned much of it. Worse came after 1789: the Revolution stripped the community of income and status, and villagers began quarrying the abandoned buildings for stone. At the end of 1793, rather than let the treasury be seized and melted down, [Conques's own residents hid the reliquary caskets](https://www.tourisme-conques.fr/en/en-conques/the-treasure) in their houses and gardens, retrieving them only once the danger had passed. By the 1830s the church itself was close to ruin, with part of its cloister already sold off. Prosper Mérimée, appointed [Inspector-General of Historical Monuments](https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e) on 27 May 1833, took up its case, and the abbey-church was classified a historic monument in [1838](https://www.monestirs.cat/monst/annex/fran/migdp/econque.htm). It stood empty of a resident community for decades after that, until Premonstratensian canons from Saint-Michel de Frigolet arrived in 1873 to occupy and restore it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Prosper_M%C3%A9rim%C3%A9e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e"
+    },
+    {
+      "heading": "Giving Part of Her Back, 1,013 Years Later",
+      "body": "The theft that built Conques was never fully undone, and even the partial undoing took over a thousand years. [Joseph-Christian-Ernest Bourret](https://differentvisions.org/healing-old-wounds-forging-strong-alliances/), bishop of Rodez, was looking for ways to demonstrate the Catholic Church as, in his own phrase, 'a living and active society' against the anticlerical pressure of the Third Republic after France's defeat by Prussia. Distributing relics to allied parishes with a historical claim on them was one such demonstration, and Agen — the city the ninth-century theft had originally robbed — had the strongest claim of any. On 25 May 1879 a fragment of Sainte Foy travelled back to Agen in procession, girls in white leading it through streets hung with decorations and bells ringing across the city. Agen's own bishop, Fonteneau, chose to frame the return diplomatically rather than as an admission of an old crime, urging his diocese not to resent the 'furtive translations' that medieval custom, and the miracles that followed it, were taken to have sanctioned. Conques kept the greater part of the relic. It had, after all, built a Romanesque church, a treasury and a market town on the strength of it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Abbey Church of Sainte-Foy — Wikipedia", "url": "https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy" },
+    { "title": "Site and History — Office de Tourisme Conques-Marcillac", "url": "https://www.tourisme-conques.fr/en/en-conques/site-and-history" },
+    { "title": "Abbazia di Conques — CulturalHeritageOnline", "url": "https://culturalheritageonline.com/places/conques-abbey/" },
+    { "title": "The Reliquary of Sainte Foy — The Pilgrim's Guide", "url": "https://thepilgrimsguide.com/projects/the-reliquary-of-sainte-foy/" },
+    { "title": "Liber miraculorum sancte Fidis — Wikipedia", "url": "https://en.wikipedia.org/wiki/Liber_miraculorum_sancte_Fidis" },
+    { "title": "The Treasure — Office de Tourisme Conques-Marcillac", "url": "https://www.tourisme-conques.fr/en/en-conques/the-treasure" },
+    { "title": "The Tympanum — Office de Tourisme Conques-Marcillac", "url": "https://www.tourisme-conques.fr/en/en-conques/the-tympanum" },
+    { "title": "Abbey of Sainte-Foy de Conques — Monestirs de Catalunya", "url": "https://www.monestirs.cat/monst/annex/fran/migdp/econque.htm" },
+    { "title": "Prosper Mérimée — Wikipedia", "url": "https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e" },
+    { "title": "Healing Old Wounds, Forging Strong Alliances: Transferring Sainte Foy's Relics from Conques to Agen in 1879 — Different Visions", "url": "https://differentvisions.org/healing-old-wounds-forging-strong-alliances/" }
+  ],
+  "generatedAt": "2026-08-24T04:15:03Z",
+  "model": "claude-sonnet-5"
+}
