@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-08-31",
+  "subject": {
+    "id": "angkor-wat",
+    "name": "Angkor Wat",
+    "architect": "Various",
+    "year": 1150,
+    "location": "Siem Reap, Cambodia",
+    "country": "Cambodia",
+    "city": "Siem Reap",
+    "style": "Khmer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1087,
+    "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "title": "Angkor Wat",
+    "author": "Various"
+  },
+  "title": "The Temple That Was Never Lost",
+  "standfirst": "Suryavarman II fought his way onto the throne and then spent decades building the largest religious monument on Earth to prove the killing was worth it. Angkor Wat went on to switch religions, house thousands of ordinary residents, and stay in continuous use for centuries — no matter how insistently nineteenth-century Europe claimed to have found it lost.",
+  "sections": [
+    {
+      "heading": "The Canal Nobody Found for Nearly Nine Hundred Years",
+      "body": "For decades the standard account of how Angkor Wat's stone reached the site ran like this: block quarried at Phnom Kulen, floated 25 miles down a canal to the Tonle Sap, rafted another 20 miles across the lake, then hauled 10 miles back up the Siem Reap River against the current — the better part of 55 miles, much of it upstream. In 2012, Waseda University researchers [used satellite imagery](https://www.upi.com/Science_News/2012/10/22/Angkor-Wat-builders-may-have-had-shortcut/14441350938876/) to trace a direct canal route bypassing the lake almost entirely, matching the mineral makeup of stone in more than fifty newly identified quarries at the foot of Phnom Kulen to specific blocks in the temple. The shortcut cut the journey to roughly twenty miles. Individual blocks ran up to 1.5 tons, and none of it moved by anything more powerful than a raft, a roller or an elephant. One number that keeps circulating — [300,000 workers](https://angkor.org/how-did-they-build-angkor-wat/), up to 6,000 elephants, over 35 years — traces back to construction-era inscriptions, but even the tourist literature that repeats it concedes the arithmetic is closer to an educated guess than a census.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Phnom_Kulen8.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Phnom_Kulen"
+    },
+    {
+      "heading": "The King Who Killed His Way Onto an Elephant, Then a Throne",
+      "body": "Suryavarman II was probably still young when he moved on power. An [inscription describing his path](https://en.wikipedia.org/wiki/Suryavarman_II) to it does not flatter him with subtlety: 'Bounding on the head of the elephant of the enemy king, he killed him, as Garuda on the edge of a mountain would kill a serpent.' The enemy king was his own great-uncle, Dharanindravarman I, whom he displaced after already seeing off a rival claimant in the south. He was enthroned in 1113, his guru Divakarapandita presiding. Angkor Wat was his answer to the question a usurper invites: sculpted galleries throughout the temple show Suryavarman as Vishnu himself, in the god's several sovereign roles, while the building's unusual westward orientation and counter-clockwise reliefs point to a second, quieter purpose — his own tomb, designed while he could still supervise it. He died around 1150, apparently mid-campaign against Champa, leaving an empire the record calls exhausted. His cousin and successor inherited feuding and weak rule in its place.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "An Economic Machine, Not a Monastery",
+      "body": "The old assumption was that only priests and their attendants lived inside Angkor Wat's moat. A [2013 airborne LiDAR survey](https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890) published in the journal Antiquity found otherwise: it mapped between 250 and 300 pond depressions within the enclosure, evidence of household plots supporting, the authors estimated, as many as 4,500 residents at once — more than double the population housed by the neighbouring temple of Ta Prohm. Extrapolating from surviving inscriptions, the same study put the temple's total working population, priests and dancers and servants together, at something like 25,000, drawn from a wider support economy of more than 125,000 people in the surrounding countryside. The authors' own phrase for the site was blunt: part of an immense economic machine. It is worth setting against the region as a whole, where [Greater Angkor supported an estimated 700,000 to 900,000 people](https://www.archaeology.org/news/9681-210510-cambodia-angkor-population) at its 13th-century peak — because it makes the same point at a smaller scale. Whatever Angkor Wat was for religiously, it ran on the logistics of a small city.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ta_Prohm_%28III%29.jpg/960px-Ta_Prohm_%28III%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Ta_Prohm"
+    },
+    {
+      "heading": "Fourteen Pilgrims Who Thought They'd Found India",
+      "body": "Angkor Wat's Vishnu never entirely left, but he had company from the late twelfth century onward. After the [Chams sacked Angkor in 1177](https://temples.org/stories/the-conversion-of-angkor-wat-from-hinduism-to-theravada-buddhism), Jayavarman VII fought back, took the throne, and — pushed in part by his devout Buddhist queen, Indradevi — made Mahayana Buddhism the kingdom's state religion. Over the following centuries, as Theravada Buddhism arrived from Sri Lanka and displaced Mahayana in turn, the temple's own imagery shifted with it: Vishnu figures removed or reworked, Buddha images added around and even into the original sanctuaries. None of it required the temple to empty out first. Japanese merchant-pilgrims kept visiting well into the 1600s, leaving [fourteen ink inscriptions](https://en.wikipedia.org/wiki/Ukondayu_Kazufusa) on its pillars between 1612 and 1632 alone — and they seem to have believed they were somewhere else entirely. One of them, the merchant Ukondayu Kazufusa, celebrated Khmer New Year at the temple in January 1632 and recorded prayers there for his dead mother and living father, in the apparent belief that he had reached the legendary Jetavana garden of the Buddha, in India, rather than a Khmer state temple built five centuries earlier for a different god.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JayavarmanVII.jpg/960px-JayavarmanVII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Jayavarman_VII"
+    },
+    {
+      "heading": "The Discovery That Nobody Actually Made",
+      "body": "The story usually told is of a French naturalist stumbling on a lost civilization swallowed by jungle. Henri Mouhot did visit Angkor, in January 1860, guided there by a French missionary who had already told him what to expect — missionaries had been working the region for decades by then, and a Portuguese friar, Antonio da Magdalena, had described the ruins as far back as the 1580s. Mouhot spent three weeks at the site, and what he wrote home was admiration, not discovery: one of the temples, he thought, was [a rival to that of Solomon](https://en.wikipedia.org/wiki/Henri_Mouhot) that might take an honourable place beside the finest buildings in Europe. He also, wrongly, assumed the ruins predated the Khmer people he could see farming and worshipping around him by many centuries — the one substantial error in an account that otherwise makes no claim to having found anything nobody knew about. He died of malarial fever in Laos in November 1861. It was the posthumous publication of his journals in Paris, [dramatized on the way to print](https://www.thecollector.com/was-angkor-lost-myth-french-discovery/), that turned an admiring travelogue into a sensation — and handed French colonial administrators a lost city they could be seen to have found, a few decades before they took the country it was in.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Henri_Mouhot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Henri_Mouhot"
+    },
+    {
+      "heading": "Twenty-Five Thousand Mines, Fifty Million Dollars, One Clean Bill",
+      "body": "The twentieth century did more damage to Angkor Wat than any single medieval war. [Restoration work begun in 1908](https://en.wikipedia.org/wiki/Angkor_Wat) by the French School of the Far East's Conservation d'Angkor stopped almost entirely during the Khmer Rouge years, when wood left inside the temple structures was burned for fuel; the lawlessness that followed let looters saw the heads and torsos off statues and reliefs across the wider site, leaving, by one estimate, roughly a fifth of Angkor's bas-reliefs in poor condition by the turn of this century. When UNESCO inscribed Angkor as a World Heritage Site in 1992, it placed the listing on the [Heritage in Danger register](https://www.rfa.org/english/news/arts/140235-20040705.html) in the same breath, citing looting and landmines. What followed was a genuinely large operation: more than 25,000 anti-personnel mines cleared, roughly 3,000 of them from the archaeological sites themselves, another 80,000 unexploded devices destroyed, a dedicated heritage police force stood up, and something over $50 million in international funding by the time Angkor came off the danger list in July 2004. What threatens the temple now is less dramatic and harder to police: groundwater pumped up to serve a tourist town that did not exist in 1992, drawn from under the same sandstone foundations the twelfth century floated into place by canal. The economic machine, it turns out, never really stopped running — it just changed who it employed.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Angkor Wat — Wikipedia", "url": "https://en.wikipedia.org/wiki/Angkor_Wat" },
+    { "title": "How Did They Build Angkor Wat? — Angkor.org", "url": "https://angkor.org/how-did-they-build-angkor-wat/" },
+    { "title": "Angkor Wat builders may have had shortcut — UPI", "url": "https://www.upi.com/Science_News/2012/10/22/Angkor-Wat-builders-may-have-had-shortcut/14441350938876/" },
+    { "title": "Suryavarman II — Wikipedia", "url": "https://en.wikipedia.org/wiki/Suryavarman_II" },
+    { "title": "Suryavarman II — Encyclopaedia Britannica", "url": "https://www.britannica.com/biography/Suryavarman-II" },
+    { "title": "The Landscape of Angkor Wat Redefined — Antiquity (Cambridge Core)", "url": "https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890" },
+    { "title": "Study Estimates Population Growth at Angkor Wat — Archaeology Magazine", "url": "https://www.archaeology.org/news/9681-210510-cambodia-angkor-population" },
+    { "title": "The Conversion of Angkor Wat from Hinduism to Theravada Buddhism — Temples.org", "url": "https://temples.org/stories/the-conversion-of-angkor-wat-from-hinduism-to-theravada-buddhism" },
+    { "title": "Ukondayu Kazufusa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ukondayu_Kazufusa" },
+    { "title": "Was Angkor Ever Lost? The Myth of French 'Discovery' — TheCollector", "url": "https://www.thecollector.com/was-angkor-lost-myth-french-discovery/" },
+    { "title": "Henri Mouhot — Wikipedia", "url": "https://en.wikipedia.org/wiki/Henri_Mouhot" },
+    { "title": "Cambodia's Angkor Wat Off UNESCO Danger List — Radio Free Asia", "url": "https://www.rfa.org/english/news/arts/140235-20040705.html" }
+  ],
+  "generatedAt": "2026-08-25T04:15:49Z",
+  "model": "claude-sonnet-5"
+}
