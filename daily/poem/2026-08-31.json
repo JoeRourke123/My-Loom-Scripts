@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-08-31",
+  "subject": {
+    "id": "219400",
+    "title": "Song: Fair Iris I love and hourly I die",
+    "author": "John Dryden",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/44176/song-fair-iris-i-love-and-hourly-i-die",
+    "text": "Fair Iris I love and hourly I die,\nBut not for a lip nor a languishing eye:\nShe's fickle and false, and there I agree;\nFor I am as false and as fickle as she:\nWe neither believe what either can say;\nAnd, neither believing, we neither betray.\n\n'Tis civil to swear and say things, of course;\nWe mean not the taking for better or worse.\nWhen present we love, when absent agree;\nI think not of Iris, nor Iris of me:\nThe legend of love no couple can find\nSo easy to part, or so equally join'd.",
+    "excerpt": "Fair Iris I love and hourly I die,\nBut not for a lip nor a languishing eye:\nShe's fickle and false, and there I agree;\nFor I am as false and as fickle as she:\nWe neither believe what either can say;\nAnd, neither believing, we neither betray.\n\n'Tis civil to swear and say things, of course;\nWe mean not the taking for better or worse.\nWhen present we love, when absent agree;\nI think not of Iris, nor Iris of me:\nThe legend of love no couple can find\nSo easy to part, or so equally join'd.",
+    "truncated": false
+  },
+  "title": "The One Oath John Dryden Wouldn't Swear",
+  "standfirst": "The song a scheming god sings to seduce a maid preaches an easy creed: love lightly, swear lightly, mean nothing you say. Three days after a London audience first heard it, Dryden signed his name to a dedication that broke every rule of it.",
+  "sections": [
+    {
+      "heading": "A God Stamps His Foot and Singers Rise From Under the Stage",
+      "body": "The song arrives mid-seduction. In Act IV, Scene I of Dryden's *Amphitryon*, Mercury has taken the shape of the household slave Sosia to court Alcmena's maid, Phaedra, and Phaedra is naming her price. She'll love him, she says, \"because indeed I dare do no other\" — and only if he can turn himself into \"a younger man, and be handsome too, and rich,\" since she will \"never be Constant to such an ugly old Sosia.\" Mercury doesn't argue the point. He stamps the ground, and dancers rise \"from under-ground\" and from the sides of the stage to a \"fantastic Dance\"; what they perform over that dance is the piece the [printed text of the play](https://archive.org/stream/worksofjohndryde08drydiala/worksofjohndryde08drydiala_djvu.txt) simply headers *Mercury's Song to Phaedra* — the poem on the page above.\n\nNone of that stagecraft is inherited. Editing Dryden's works more than a century later, Sir Walter Scott credited him with the whole Mercury–Phaedra courtship as an addition to his sources: Dryden \"enriched the plot by the intrigue of Mercury and Phaedra,\" material absent from both Plautus and Molière. The cynicism that follows isn't incidental colour dropped into a borrowed plot. Dryden built the scene this song needed, and put a trickster god and a mercenary maid on either side of it before a note was sung.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Symmetrical Little Machine for Meaning Nothing",
+      "body": "Nothing in the song is allowed to stand as an accusation for long. \"She's fickle and false, and there I agree; / For I am as false and as fickle as she\" doesn't rebut the charge, it matches it, fault for fault, inside a single couplet. The famous opening line — \"Fair Iris I love and hourly I die\" — borrows courtly poetry's stock figure of love-as-death and empties it in the same breath: nobody in these twelve lines is going to die of anything.\n\nThe couplet doing the real work is easy to read past:\n\n> We neither believe what either can say;\n> And, neither believing, we neither betray.\n\nIt runs disbelief forward into safety — a promise nobody trusted can't be broken — and offers that as a kind of peace rather than a loss. The second stanza pushes the same logic into the language of contract. \"'Tis civil to swear and say things, of course; / We mean not the taking for better or worse\" borrows marriage-vow wording, \"for better or worse,\" to describe two people who have agreed in advance not to mean it.\n\nThat line — an oath spoken without belief, because refusing to speak it would cost more — isn't only a joke about one fickle mistress. In October 1690, it was also close to a working description of what the English state had spent the previous two years demanding of anyone who wanted to keep a public post.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Swearing Was the Price of Keeping Your Post",
+      "body": "After William and Mary took the throne in early 1689, the new government required a fresh Oath of Allegiance from clergy and officeholders alike; the deadline for clergy was 1 August 1689, and refusal meant losing the position outright. Most people swore it. An estimated two per cent of Church of England clergy would not, [including nine bishops](https://en.wikipedia.org/wiki/Nonjuring_schism), and their refusal hardened over the following years into a breakaway Nonjuring church that survived, in shrinking congregations, into the 1770s.\n\nDryden was no clergyman, but the same test reached him anyway. He had converted to Roman Catholicism in 1685, not long after the Catholic James II took the throne, and he did not recant it when James fled three years later. Refusing the new oath cost him the [Poet Laureateship he had held since 1668](https://en.wikipedia.org/wiki/John_Dryden), and the post of Historiographer Royal alongside it — both handed, in March 1689, to Thomas Shadwell, a Whig playwright Dryden had already savaged by name in his 1682 satire *Mac Flecknoe*, a poem [Shadwell never lived down](https://en.wikipedia.org/wiki/Thomas_Shadwell). Stripped of both salaries, the fifty-nine-year-old former court poet turned to the one trade the Revolution hadn't touched: writing for a stage that would pay him for a comedy about a god who impersonates a household slave to get what he wants.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg/960px-William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Glorious_Revolution"
+    },
+    {
+      "heading": "A Dedication Signed Three Days After the Curtain Fell",
+      "body": "Amphitryon opened at the Theatre Royal, Drury Lane, on 21 October 1690. Three days later Dryden dated the play's printed dedication 24 October 1690, addressed to Sir William Leveson-Gower — a patron Walter Scott's edition describes, in a footnote, as \"a keen Whig\" who had \"distinguished himself... by his zeal for the Revolution\": the very settlement that had just cost Dryden his income.\n\nDryden doesn't dodge the mismatch; he makes it the subject of the letter. He thanks Gower because, since the late Revolution, Gower had \"not suffered the difference of opinions... to remove you from the settled basis of your good nature and good sense,\" and names the virtue outright: \"that of constancy to your former choice, and the pursuance of your first favours, are virtues not overcommon amongst Englishmen.\" Then he describes his own position in the same terms, without the song's evasions, writing that he pitches his dedications only at patrons \"who, though they are of a contrary opinion themselves, yet blame not me for adhering to a lost cause,\" and calling himself \"a patient sufferer, and no disturber of the government.\"\n\nRead against the song performed three days earlier, that sentence runs the trickster's ethic backwards. Mercury's stanza asks to be believed by nobody and forgiven for it in advance. Dryden's dedication asks the opposite: to be judged for having meant a costly thing, and for going on meaning it. He even refuses the self-pity the situation would license — \"I suffer no more than I can easily undergo... The merry philosopher is more to my humour than the melancholic\" — a lightness of tone not so different, on the surface, from Iris and her lover agreeing not to let each other's falseness matter. The difference is where the lightness comes from. One is a cover story. The other is a man declining to complain about a debt he is still, visibly, paying.\n\nWhether that debt was owed to conviction or to calculation has never been fully settled. Dryden's 1685 conversion was attacked in pamphlets during his own lifetime as opportunism wearing the clothes of faith; Scott, defending him more than a century later, described him as no less than \"a confessor,\" if not \"a martyr,\" of his adopted church, while the scholar Anne Barbeau Gardiner has more recently traced the conversion to a specific intellectual source — the [Oxford theologian Abraham Woodhead](https://www.srejournal.org/2019/09/16/new-light-on-drydens-conversion/), whose arguments for church authority Dryden's own defence of Catholicism closely follows. Whichever account is right, the refusal to recant in 1689, when recanting would have kept both his salary and his laurel, is harder to write off as convenience than the conversion itself ever was.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/John_Dryden_portrait_painting.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/John_Dryden"
+    },
+    {
+      "heading": "The Trickster's Song, Now Played Straight",
+      "body": "Dryden's dedication also settles who deserves credit for how the song sounds. \"What has been wanting on my part,\" he wrote, \"has been abundantly supplied by the excellent composition of Mr Purcell, in whose person we have at length found an Englishman, equal with the best abroad\" — high praise, seven years before Purcell's death, for a composer Dryden had only recently come to admire. He goes further, naming which of the play's songs the audience liked best: \"the numerous choir of fair ladies gave so just an applause on the third day\" to the music, \"particularly... the composition of the pastoral dialogue\" — the duet sung immediately after this one, by a second set of dancers Phaedra calls up herself, delighted to find she can work Mercury's trick too.\n\nThat detail is worth keeping, because it marks how thoroughly this song has since been pulled out of its scene. \"Fair Iris I love and hourly I die\" now circulates mainly as a Purcell setting on early-music recordings and as an anthology text on poetry websites, credited to Dryden alone, with no foot-stamp, no rising dancers, no Phaedra naming her price a moment before. Put back in Act IV, the cynicism stops sounding like a philosophy of love and starts sounding like exactly what it is: the pitch a con artist makes right before he closes the deal.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Portrait_of_Henry_Purcell_%28cropped%29.png/960px-Portrait_of_Henry_Purcell_%28cropped%29.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Henry_Purcell"
+    }
+  ],
+  "sources": [
+    { "title": "Song: Fair Iris I love and hourly I die — Poetry Foundation", "url": "https://www.poetryfoundation.org/poems/44176/song-fair-iris-i-love-and-hourly-i-die" },
+    { "title": "Amphitryon (Dryden play) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Amphitryon_(Dryden_play)" },
+    { "title": "Collection Highlight: Dryden's Amphitryon — River Campus Libraries", "url": "https://www.library.rochester.edu/rbscp/blog/amphitryon" },
+    { "title": "The Works of John Dryden, ed. Walter Scott, Vol. VIII — Internet Archive", "url": "https://archive.org/stream/worksofjohndryde08drydiala/worksofjohndryde08drydiala_djvu.txt" },
+    { "title": "John Dryden — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Dryden" },
+    { "title": "Thomas Shadwell — Wikipedia", "url": "https://en.wikipedia.org/wiki/Thomas_Shadwell" },
+    { "title": "Nonjuring schism — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nonjuring_schism" },
+    { "title": "John Dryden — Britannica", "url": "https://www.britannica.com/biography/John-Dryden" },
+    { "title": "New Light on Dryden's Conversion — Studies in Religion and the Enlightenment", "url": "https://www.srejournal.org/2019/09/16/new-light-on-drydens-conversion/" },
+    { "title": "Henry Purcell — Wikipedia", "url": "https://en.wikipedia.org/wiki/Henry_Purcell" },
+    { "title": "Glorious Revolution — Wikipedia", "url": "https://en.wikipedia.org/wiki/Glorious_Revolution" }
+  ],
+  "generatedAt": "2026-08-25T02:06:09Z",
+  "model": "claude-sonnet-5"
+}
