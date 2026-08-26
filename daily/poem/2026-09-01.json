@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-09-01",
+  "subject": {
+    "id": "177250",
+    "title": "When Rimbaud Came to Charleroi",
+    "author": "Arthur Rimbaud",
+    "strand": "european",
+    "strandLabel": "French Symbolist & European Romantic",
+    "source": "https://www.poetryfoundation.org/poetrymagazine/poems/22356/when-rimbaud-came-to-charleroi-tr-by-j-e-scruggs",
+    "text": "\n         Au Cabaret Vert: 5 p.m.\n\n     [From the French of Arthur Rimbaud]\nAfter a week of cuffing up my shoes\nOn flinty roads, I came to Charleroi old\nAnd sank down at the Green Café to choose\nSome butter-bread and ham not hot or cold.\nBlissful, my legs beneath the green cloth laid,\nI scanned the decorations: tapestries\nNaive-oh, splendid! when the bosomy maid\nLoomed up amongst them with her leering eyes\n(It's not a kiss, I wager, she would dread!)\nAnd grinned to put before me butter-bread\nAnd ham laid on a platter damask-lined-\nHam pink-and-white with garlic dressed; and filled\nMy glass to foam-top, shot aglow and frilled\nWith rays the golden sun had left behind.\n                    Translated by J. E. Scruggs\n\n",
+    "excerpt": "\n         Au Cabaret Vert: 5 p.m.\n\n     [From the French of Arthur Rimbaud]\nAfter a week of cuffing up my shoes\nOn flinty roads, I came to Charleroi old\nAnd sank down at the Green Café to choose\nSome butter-bread and ham not hot or cold.\nBlissful, my legs beneath the green cloth laid,\nI scanned the decorations: tapestries\nNaive-oh, splendid! when the bosomy maid\nLoomed up amongst them with her leering eyes\n(It's not a kiss, I wager, she would dread!)\nAnd grinned to put before me butter-bread\nAnd ham laid on a platter damask-lined-\nHam pink-and-white with garlic dressed; and filled\nMy glass to foam-top, shot aglow and frilled\nWith rays the golden sun had left behind.\n                    Translated by J. E. Scruggs\n\n",
+    "truncated": false
+  },
+  "title": "A Ham Sandwich Between Two European Wars",
+  "standfirst": "In October 1870 a sixteen-year-old runaway walked out of a region the war had just flattened and spent a whole poem on how good the ham tasted. Sixty-nine years later, in a magazine that also carried W. H. Auden, an American nobody can quite place translated it into English — three months before the next war began.",
+  "sections": [
+    {
+      "heading": "Five Weeks After Sedan, He Kept Walking",
+      "body": "\"Depuis huit jours, j'avais déchiré mes bottines / Aux cailloux des chemins. J'entrais à Charleroi.\" That is how the poem printed above actually opens in French — \"After a week of cuffing up my shoes / On flinty roads, I came to Charleroi old\" in Scruggs's English. Rimbaud was sixteen, and by his own count he had already been walking for a week when he crossed into Belgium. It was his second escape that autumn. He had run to Paris in August, been arrested for riding the train without a ticket, and been delivered home to Charleville by his teacher only about ten days before he set off again. He walked into an actual inn — the Maison Verte, in Charleroi's industrial district, renamed Cabaret-Vert for the poem — and asked for bread, butter and ham.\n\nHe was walking out of a region the war had just come through. Five weeks earlier the French army had [surrendered at Sedan](https://en.wikipedia.org/wiki/Battle_of_Sedan), in the same stretch of the Ardennes as his hometown: Napoleon III taken prisoner, roughly 104,000 French troops captured, the Second Empire finished within two days of the news reaching Paris. The worst hadn't reached his own home ground yet, either — Mézières, Charleville's twin town, wasn't [surrounded and shelled](https://en.wikipedia.org/wiki/Siege_of_M%C3%A9zi%C3%A8res_%281870%E2%80%931871%29) by German forces until that November, a month after Rimbaud crossed the border. None of it is in the poem. \"Au Cabaret-Vert\" doesn't mention the war once. It is entirely about arriving somewhere and being fed, and that omission is the whole argument.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nap_sedan_von_Wilhelm_Camphausen.jpg/960px-Nap_sedan_von_Wilhelm_Camphausen.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Battle_of_Sedan"
+    },
+    {
+      "heading": "A Sonnet That Refuses to Sit Still",
+      "body": "\"Au Cabaret-Vert\" is a sonnet, fourteen alexandrines split into two quatrains and two tercets, and at nearly every point where the form asks for a bow, Rimbaud declines it. Where the Petrarchan convention favoured by the Parnassian poets he was trying to impress wants embraced rhyme in the quatrains, he crosses them instead. Where a caesura should hold a line's two halves apart, he lets a parenthetical joke barge into the middle of the second quatrain — \"Celle-là, ce n'est pas un baiser qui l'épeure !\", which Scruggs renders as \"It's not a kiss, I wager, she would dread!\" — coarse, colloquial, dropped straight into a form built for elevated diction. Where the tercets are supposed to pause and turn, his run straight through without a full stop, so the poem's real climax, the beer and the sunlight, lands on the very last word rather than the formally correct one.\n\nThe second quatrain's opening word does the same work on its own: \"Bienheureux\" — blissful. Scruggs keeps it first in his own stanza too. In a literary culture that prized suffering as the mark of a serious poet, announcing bliss because your legs are stretched out and your ham has arrived amounts to a small manifesto. Even the room argues the point: Rimbaud describes the inn's wall-hangings as \"les sujets très naïfs / De la tapisserie\" — naive subjects on the wallpaper — and Scruggs's English turns that single tapisserie into \"tapestries,\" plural and grander than what Rimbaud actually described.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rimbaud.PNG",
+      "imagePage": "https://en.wikipedia.org/wiki/Arthur_Rimbaud"
+    },
+    {
+      "heading": "The Woman Doing the Actual Work in the Poem",
+      "body": "Rimbaud's real subject in the second half of the poem isn't the food, it's the woman who brings it: \"la fille aux tétons énormes, aux yeux vifs.\" Scruggs gives this as \"the bosomy maid\" with \"her leering eyes.\" She is laughing — \"Rieuse\" — and she is doing the only real action in the poem, setting down the bread, the ham, filling the glass. That substitution looks deliberate. The Romantic convention Rimbaud grew up reading put an unreachable, idealised woman at the emotional centre of a poem like this. He puts a working woman serving lunch there instead, and describes her with the same appetite he brings to the ham, which is named three times in four lines, each time more exact than the last: first \"du jambon qui fût à moitié froid,\" ham that was ordered half-cold; then \"du jambon tiède,\" ham that actually arrives lukewarm; then finally \"du jambon rose et blanc parfumé d'une gousse / D'ail,\" pink-and-white and scented with a clove of garlic. The poem gets more precise about the meat as it goes, not less. That isn't a poet running out of things to say. It's a poet insisting that this particular ham, this particular glass, this particular woman's eyes, matter more than any abstraction he could have reached for instead.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Translator Who Kept Circling the Same Notebook",
+      "body": "This translation ran under the title [\"When Rimbaud Came to Charleroi\"](https://www.poetryfoundation.org/poetrymagazine/poems/22356/when-rimbaud-came-to-charleroi-tr-by-j-e-scruggs) in Poetry, June 1939 — volume 54, issue 3, page 6 — credited to J. E. Scruggs as translator. The magazine's own [historical index](https://www.poetryfoundation.org/poetrymagazine/historical-index/s/sch-sha) shows Scruggs appearing in its pages across twenty-one years and hardly ever more than twice a decade: \"The Screech Owl\" in July 1918, \"Albatross\" and \"From a Train at Dusk\" in April 1930, \"My Bohemia\" and \"Blotted Out\" in April 1936, and then this Rimbaud translation in 1939. Nothing else about who Scruggs actually was turns up in the record searched here — no other biography, no other trace.\n\nOne of those 1936 titles is worth pausing on. [\"My Bohemia\"](https://www.poetryfoundation.org/poetrymagazine/poems/21232/my-bohemia) shares its name, almost exactly, with \"Ma Bohême,\" another sonnet Rimbaud wrote in the same October notebook, on the same walk, handed to his friend Paul Demeny within days of \"Au Cabaret-Vert.\" Whether Scruggs's 1936 poem was his own translation of that sonnet, or simply a title borrowed in tribute, the record doesn't settle: Poetry's index credits it to Scruggs as author, not as translator, unlike the 1939 Rimbaud piece, which is explicitly marked a translation. Three years before he is confirmed working on this cluster of Rimbaud's teenage sonnets, though, he was already writing under one of their titles. That's either a coincidence or the visible edge of a longer private attachment, and there's no way from here to say which.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Filed Three Months Before the Next War, Beside Auden",
+      "body": "The same issue of Poetry that carried Scruggs's Rimbaud also carried W. H. Auden's \"Voltaire at Ferney,\" alongside poems by Elizabeth Hollister Frost, Rolfe Humphries and several others now largely forgotten, plus a critical piece on Auden himself by David Daiches. It is genuinely strange company: a sixteen-year-old's sonnet about a good lunch, printed a few pages from a thirty-two-year-old Auden's deliberate, historically minded portrait of an old man arguing with his century from a chateau.\n\nThat [June 1939 issue](https://www.poetryfoundation.org/poetrymagazine/issue/70638/june-1939) reached readers three months before Germany invaded Poland and Europe went to war for the second time in Rimbaud's own century. Nobody assembling the issue could have known the date, but its contents sit there now as a kind of accidental time capsule regardless — a magazine full of writers about to live through exactly the sort of catastrophe that had already, once, driven a French teenager out of his hometown and into a roadside inn for bread and ham.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/AudenVanVechten1939.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/W._H._Auden"
+    },
+    {
+      "heading": "The Sun Still Caught in the Glass",
+      "body": "The poem ends on the glass, not the girl or the ham: \"Que dorait un rayon de soleil arriéré.\" In Scruggs's English, the beer \"filled / My glass to foam-top, shot aglow and frilled / With rays the golden sun had left behind.\" Late light through spilled froth is the last thing Rimbaud chose to leave the reader with, out of everything available to him that afternoon in Charleroi. It is a small, complete and entirely unembarrassed image of contentment, written by someone who had just spent a week wrecking his boots on the roads out of a war zone.\n\nThat, more than any single move of craft, is probably why an obscure American translator kept a version of this exact cluster of poems close for at least three years, and why a magazine reached for one of them again in a summer that turned out to be the last quiet one Europe would get for six. The war is never named in \"Au Cabaret-Vert.\" It didn't need to be. The whole poem is what a war leaves room for, in the hour after you have walked far enough away from it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "When Rimbaud Came to Charleroi, tr. J. E. Scruggs — Poetry, June 1939", "url": "https://www.poetryfoundation.org/poetrymagazine/poems/22356/when-rimbaud-came-to-charleroi-tr-by-j-e-scruggs" },
+    { "title": "Au Cabaret-Vert: text and analysis — Arthur Rimbaud", "url": "https://rimbaud-arthur.fr/en/works/poems/au-cabaret-vert/" },
+    { "title": "Au Cabaret-Vert, cinq heures du soir — Arthur Rimbaud", "url": "https://www.arthur-rimbaud.eu/p/au-cabaret-vert" },
+    { "title": "Arthur Rimbaud — Wikipedia", "url": "https://en.wikipedia.org/wiki/Arthur_Rimbaud" },
+    { "title": "June 1939 — Poetry magazine issue contents", "url": "https://www.poetryfoundation.org/poetrymagazine/issue/70638/june-1939" },
+    { "title": "Historical Index: S (SCH-SHA) — Poetry Magazine", "url": "https://www.poetryfoundation.org/poetrymagazine/historical-index/s/sch-sha" },
+    { "title": "My Bohemia — J. E. Scruggs, Poetry, April 1936", "url": "https://www.poetryfoundation.org/poetrymagazine/poems/21232/my-bohemia" },
+    { "title": "Siege of Mézières (1870–1871) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Siege_of_M%C3%A9zi%C3%A8res_%281870%E2%80%931871%29" },
+    { "title": "Battle of Sedan — Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan" },
+    { "title": "W. H. Auden — Wikipedia", "url": "https://en.wikipedia.org/wiki/W._H._Auden" }
+  ],
+  "generatedAt": "2026-08-26T02:11:32Z",
+  "model": "Claude Sonnet 5"
+}
