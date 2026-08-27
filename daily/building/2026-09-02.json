@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-02",
+  "subject": {
+    "id": "piazza-san-marco",
+    "name": "Piazza San Marco",
+    "architect": "Various",
+    "year": 1200,
+    "location": "Venice, Italy",
+    "country": "Italy",
+    "city": "Venice",
+    "style": "Byzantine and Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Piazza_San_Marco_%28Venice%29_at_night-msu-2021-6449-.jpg/1920px-Piazza_San_Marco_%28Venice%29_at_night-msu-2021-6449-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1151,
+    "source": "https://en.wikipedia.org/wiki/Piazza_San_Marco",
+    "title": "Piazza San Marco",
+    "author": "Various"
+  },
+  "title": "The Square That Kept Getting Rebuilt by Whoever Was in Charge",
+  "standfirst": "Piazza San Marco was paved over a canal to host a peace summit, decorated with a war trophy, cleared of a church for Napoleon's ballroom, and rebuilt brick by brick after it fell down overnight. The latest patron trying to keep it standing is a seven-billion-dollar sea gate.",
+  "sections": [
+    {
+      "heading": "A Doge Filled In a Canal to Host a Peace Summit",
+      "body": "Until 1177, Piazza San Marco was roughly a quarter of the size it is today, and closing that gap meant getting rid of a canal. Doge Sebastiano Ziani, in office from 1172 to 1178, [filled in the Rio Batario](https://en.wikipedia.org/wiki/Sebastiano_Ziani), the waterway that had run alongside the basilica, paved over the resulting ground together with the adjoining Piazzetta, moved the fish market off the site, and hired an engineer to raise two columns of disputed Greek origin at the head of the Piazzetta facing the lagoon. The occasion he was building toward arrived in July 1177, when Pope Alexander III, the Holy Roman Emperor Frederick Barbarossa, and envoys from William II of Sicily all met in Venice to sign the Treaty of Venice, closing decades of conflict between the papacy and the empire. Venice had no army to match either side at that table. What it offered instead was neutral, impressive ground to meet on — and Ziani had just quadrupled the ground in question.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Friedrich_I._Barbarossa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Frederick_Barbarossa"
+    },
+    {
+      "heading": "The Horses Arrived Fifty Years Before Anyone Put Them Up",
+      "body": "Not everything on the square was built here. The four bronze horses on the basilica's façade came from the Hippodrome in Constantinople, looted during the Fourth Crusade's sack of the city in 1204 — [their heads were cut](https://en.wikipedia.org/wiki/Horses_of_Saint_Mark) from their necks to get them onto ships, and collars were later added to the bronze to disguise the join. Doge Enrico Dandolo, who led the Venetian contingent that took the city, sent the horses home, but Venice did not put them up straight away: they were not installed on the basilica's loggia until 1254, half a century after they arrived. They stood there watching the square until Napoleon had them taken down and shipped to Paris in 1797, to decorate the Arc de Triomphe du Carrousel. After his defeat, Captain William Dumaresq retrieved them and brought them back to Venice in 1815; Austria's emperor gave him a gold snuff box for the job. The originals have not stood outside since the early 1980s, when air pollution forced their move indoors — the horses on the façade today are replicas.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Napoleon Needed a Ballroom, So a Sansovino Church Came Down",
+      "body": "The most complete building ever removed from the square was a church, and it went to make room for somewhere to dance. San Geminiano had stood on the site since at least the sixth century and had been rebuilt more than once; its final form was designed by Jacopo Sansovino, who finished its façade in 1557 and was buried inside it when he died in 1570. After Venice fell to Napoleon in 1797, the church was used as a barracks, and on 19 May 1807 [demolition began](https://en.wikipedia.org/wiki/San_Geminiano,_Venice) to make way for a new wing of Napoleon's Venetian palace — the Ala Napoleonica, built with a monumental staircase and a ballroom for public ceremonies, which swallowed not just the church but the buildings that had continued the Procuratie on either side of it. The critic Francis Palgrave called it Gallic vandalism that had done irreparable injury to the fine arts; the Venetian Leopoldo Cicognara opposed it at the time. Neither stopped it. The wing they objected to still closes the square's western end.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dionisio_Moretti_-_San_Geminiano.jpg/960px-Dionisio_Moretti_-_San_Geminiano.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/San_Geminiano,_Venice"
+    },
+    {
+      "heading": "It Collapsed in Under a Minute and Killed One Cat",
+      "body": "The campanile that had stood, in some form, since the tenth century gave almost no external warning before it came down. Workers repairing its loggetta roof in July 1902 had already cut into the tower's base and inserted tell-tale markers across a growing crack; several were found snapped within a day, and by 12 July a fissure ran almost the full height of the north face. On the morning of 14 July, at 9:53, [the whole tower fell](https://en.wikipedia.org/wiki/St_Mark%27s_Campanile) straight down, collapsing into its own footprint rather than toppling outward. The only casualty was the custodian's cat. Venice's communal council voted, unanimously and immediately, to rebuild it dov'era e com'era — where it was and how it was — over the objections of critics who argued a replica would have no historical value. The money came from several directions at once: 500,000 lire from the city, 200,000 from the province, 100,000 from King Victor Emmanuel III and the queen mother, and the rest from public subscription at home and abroad. The new foundations went three metres wider than the old ones, driven on 3,076 larch piles, with concrete reinforcement the original never had. It reopened on 25 April 1912 — the feast of St Mark, and, by the date the builders themselves claimed for the original tower, exactly one thousand years after the first foundations went in.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Anderson%2C_Domenico_%281854-1938%29_-_Venezia_-_Le_rovine_del_campanile_di_san_Marco_14_luglio_1902.jpg",
+      "imagePage": "https://commons.wikimedia.org/wiki/File:Anderson,_Domenico_(1854-1938)_-_Venezia_-_Le_rovine_del_campanile_di_san_Marco_14_luglio_1902.jpg"
+    },
+    {
+      "heading": "The Square's Real Enemy Now Is the Sea It Was Built Beside",
+      "body": "Piazza San Marco sits on some of the lowest ground in Venice, and it is [the first to flood](https://www.visitingvenice.net/acqua-alta-venice-practical-guide) when the tide rises: its lowest corners take on water at 80 to 90 centimetres, well before most other squares in the city get wet, and above about 90 centimetres the city lays out raised metal walkways, passerelle, across it so pedestrians can still cross. The engineering answer, a system of 78 mobile gates across the three inlets to the Venetian lagoon known as MOSE, [began construction in 2003](https://www.aljazeera.com/news/2014/6/4/venice-mayor-arrested-in-corruption-scandal), was meant to be finished by 2014, and ended up costing more than seven billion dollars — a project large enough that on 4 June 2014 the mayor of Venice and thirty-four other officials and contractors were arrested, accused of steering roughly 27 million dollars of public money into foreign accounts and party funds. The barrier was not actually raised for the first time until 2020. Since then it has kept San Marco dry through tides that, before MOSE, would have put half a metre of water inside the basilica. It has to be raised again every time the sea threatens to do what it has done to this square for eight hundred years.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/05_bocca_di_lido.jpg/960px-05_bocca_di_lido.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/MOSE"
+    }
+  ],
+  "sources": [
+    { "title": "Sebastiano Ziani — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sebastiano_Ziani" },
+    { "title": "Horses of Saint Mark — Wikipedia", "url": "https://en.wikipedia.org/wiki/Horses_of_Saint_Mark" },
+    { "title": "San Geminiano, Venice — Wikipedia", "url": "https://en.wikipedia.org/wiki/San_Geminiano,_Venice" },
+    { "title": "St Mark's Campanile — Wikipedia", "url": "https://en.wikipedia.org/wiki/St_Mark%27s_Campanile" },
+    { "title": "Venice mayor arrested in corruption scandal — Al Jazeera", "url": "https://www.aljazeera.com/news/2014/6/4/venice-mayor-arrested-in-corruption-scandal" },
+    { "title": "Acqua Alta in Venice: A Practical Guide — visitingvenice.net", "url": "https://www.visitingvenice.net/acqua-alta-venice-practical-guide" },
+    { "title": "Venice's Tide Barrier Has Already Cost 6 Billion Euros — Engineering.com", "url": "https://www.engineering.com/venices-tide-barrier-has-already-cost-6-billion-euros-will-it-work/" }
+  ],
+  "generatedAt": "2026-08-27T05:15:00Z",
+  "model": "claude-sonnet-5"
+}
