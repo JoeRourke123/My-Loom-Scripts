@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-01",
+  "subject": {
+    "id": "jaisalmer-fort",
+    "name": "Jaisalmer Fort",
+    "architect": "Various",
+    "year": 1156,
+    "location": "Jaisalmer, India",
+    "country": "India",
+    "city": "Jaisalmer",
+    "style": "Rajput",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/1920px-Jaisalmer_forteresse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 666,
+    "source": "https://en.wikipedia.org/wiki/Jaisalmer_Fort",
+    "title": "Jaisalmer Fort",
+    "author": "Various"
+  },
+  "title": "The Fort That Beat Every Army Is Losing to Its Own Plumbing",
+  "standfirst": "Jaisalmer Fort survived an eight-year siege, a mass jauhar, and a Mughal occupation. What is quietly pulling its sandstone apart today is a sewage line laid for its tourists, in a desert that no longer rains like one.",
+  "sections": [
+    {
+      "heading": "A Sewage Pipe Is Doing What Eight Centuries of Armies Couldn't",
+      "body": "Roughly a quarter of the old city's population — something like 4,000 people — still lives inside these walls, one of a handful of forts anywhere in the world still lived in at this scale rather than kept as a museum. That is also why Jaisalmer Fort is in more danger now than at almost any point in its record. Its hill is soft sedimentary sandstone that was never built to sit in standing water, and the sewage system laid under the fort in recent decades, built quickly and without the study the site needed, sends waste water [straight into the foundations](https://www.smithsonianmag.com/travel/endangered-site-jaisalmer-fort-india-52453028/) instead of away from them. \"The basic problem is the sewage system,\" as heritage hotel owner Luca Borella has put it. Hotels, restaurants and shops serving hundreds of thousands of visitors a year add to the load, hauling in nearly 50,000 gallons of water daily with nowhere built to take it. Then the desert stopped behaving like one: the Thar historically gets six to nine inches of rain a year, and in the summer of 2007 it took twenty-two inches in three days, enough to turn the three-foot mud insulation under the fort's roofs to sludge and bring parts of it down. A 7.7-magnitude earthquake centred some 200 miles away in Gujarat, on 26 January 2001, had already shaken the hill once. The response, led by conservation architect Asheesh Srivastava's team at the Indian National Trust for Art and Cultural Heritage, has meant rebuilding outer walls in local sandstone, reinforcing weakened roof beams, pinning masonry with copper rods against the next tremor, and converting the old granary into a spice museum.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Thar_desert_Rajasthan_India.jpg/960px-Thar_desert_Rajasthan_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Thar_Desert"
+    },
+    {
+      "heading": "The Ruler Who Borrowed a Muslim Army to Build a Fort Against Muslim Armies",
+      "body": "In 1143 Jaisal was a junior figure in the Bhati ruling house at Lodhruva, sidelined when the succession after his brother's death passed to his nephew, Bhojdeo. He fixed that by [allying with the Ghurid dynasty](https://en.wikipedia.org/wiki/Rawal_Jaisal), the Persianate Islamic power then pushing into north India, and using Ghurid troops to attack Lodhruva; Bhojdeo died in the fighting and Jaisal took the throne within the year. Thirteen years later he judged Lodhruva itself indefensible and moved his capital again, this time to a 250-foot sandstone outcrop called Trikuta Hill, chosen because it would shield him from rival Bhatis and from the Muslim armies then making inroads into the Thar Desert — the same kind of army he had borrowed to take power in the first place. He did not live to see the fort finished. Jaisal died in 1168, twelve years into the reign he had spent partly building it, and it was his successor, Salbahan II, who completed the walls in 1171.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rawal_Jaisal_Singh%2C_the_founder_and_first_ruler_of_the_Kingdom_of_Jaisalmer.jpg/960px-Rawal_Jaisal_Singh%2C_the_founder_and_first_ruler_of_the_Kingdom_of_Jaisalmer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Rawal_Jaisal"
+    },
+    {
+      "heading": "Whose Caravan Started the Siege Depends on Who's Telling It",
+      "body": "The fort's defining siege has two different explanations, and they do not agree. [Alauddin Khalji's own record frames](https://en.wikipedia.org/wiki/Alauddin_Khalji) the 1299 attack as strategy: a base from which to strike into Gujarat and Malwa, and a Rajput kingdom worth subduing along the way. Local tradition tells it as a robbery gone wrong — the sons of the ruling Rawal, Jaitsi, are said to have [raided a caravan](https://rajras.in/first-jauhar-jaisalmer/) of some 1,500 horses and mules travelling to Delhi as tribute, and the sultan came for the fort in retaliation. What both versions agree on is the length and the ending. The siege ran for years; Jaitsi died partway through and command passed to his son, Mularaja; when food and ammunition finally ran out, the women performed jauhar while the men rode out to die in the open. A traditional count puts the dead at 24,000 women and roughly 3,800 fighters, though no contemporary record fixes the number, and it reads as memory rather than a census. Alauddin's garrison held the empty fort for about two years and then abandoned it. The Bhatis simply moved back in.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Execution_of_Jalal-al-Din_Firuzshah_II_%28r1290-96%29%2C_Jami_al-Tawarikh_%28Alauddin_Khalji_detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Alauddin_Khalji"
+    },
+    {
+      "heading": "The Best Building in Jaisalmer Was Never Paid for by a Rawal",
+      "body": "Everything so far was paid for in tax, tribute and blood, and all of it sits inside the fort's walls. The single most admired building in Jaisalmer sits outside them. In 1805 a merchant named Guman Chand Patwa, whose wealth came from [trading gold, silver and precious stones](https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer/patwon-ki-haveli) along the same desert trade network that had built the Rawals' fortunes, began building himself a mansion in the town's yellow sandstone. His family kept adding to it for roughly fifty years, into the 1850s, as each of his five sons built his own house onto the cluster, producing the five interlocking mansions known today as Patwon ki Haveli. No Rawal of Jaisalmer ever built anything as ornamented on his own account. It took a merchant family, working across two generations, to out-build the kings whose caravans had made the town rich in the first place.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Patwon_ki_haveli_18.jpg/960px-Patwon_ki_haveli_18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Haveli"
+    },
+    {
+      "heading": "The Caravan Economy Paid for the Fort. Tourism Is Now Undermining It.",
+      "body": "The trade that funded both the Rawals' walls and the merchants' havelis did not survive into the twentieth century. British-era shipping through Bombay pulled freight off the old land routes, and [Partition in 1947 closed](https://www.smithsonianmag.com/travel/endangered-site-jaisalmer-fort-india-52453028/) the old caravan routes for good, ending Jaisalmer's working life as a trade town. What replaced the caravans was tourism, and it is tourism's water demand, not any army, that is now the fort's most active threat. UNESCO inscribed Jaisalmer in 2013 as one of six [Hill Forts of Rajasthan](https://en.wikipedia.org/wiki/Jaisalmer_Fort), at the 37th World Heritage Committee session in Phnom Penh, after the World Monuments Fund had already placed it on its Watch list in 1996, 1998 and 2000, and American Express had put over a million dollars toward conservation. None of that money has yet reached the one system actually failing: the pipes running under a monument that, unlike almost every other building this old, still has people asleep inside it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Jaisalmer Fort — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jaisalmer_Fort" },
+    { "title": "Endangered Site: Jaisalmer Fort, India — Smithsonian Magazine", "url": "https://www.smithsonianmag.com/travel/endangered-site-jaisalmer-fort-india-52453028/" },
+    { "title": "First Jauhar of Jaisalmer — Rajras", "url": "https://rajras.in/first-jauhar-jaisalmer/" },
+    { "title": "Rawal Jaisal — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rawal_Jaisal" },
+    { "title": "Kingdom of Jaisalmer — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kingdom_of_Jaisalmer" },
+    { "title": "Alauddin Khalji — Wikipedia", "url": "https://en.wikipedia.org/wiki/Alauddin_Khalji" },
+    { "title": "Patwon Ki Haveli — Incredible India", "url": "https://www.incredibleindia.gov.in/en/rajasthan/jaisalmer/patwon-ki-haveli" }
+  ],
+  "generatedAt": "2026-08-27T05:00:00Z",
+  "model": "claude-sonnet-5"
+}
