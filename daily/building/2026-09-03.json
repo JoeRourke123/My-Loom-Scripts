@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-03",
+  "subject": {
+    "id": "santiago-de-compostela-cathedral",
+    "name": "Santiago de Compostela Cathedral",
+    "architect": "Various",
+    "year": 1211,
+    "location": "Santiago de Compostela, Spain",
+    "country": "Spain",
+    "city": "Santiago de Compostela",
+    "style": "Romanesque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santiago_cathedral_2021.jpg/1920px-Santiago_cathedral_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2000,
+    "source": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral",
+    "title": "Santiago de Compostela Cathedral",
+    "author": "Various"
+  },
+  "title": "A Cathedral Built on a Claim Nobody Has Ever Quite Proven",
+  "standfirst": "In August 2024 a DNA study put a number on part of the story this cathedral exists to tell: 98 percent likely. It is only the third attempt in twelve centuries to verify what is actually buried here, and, like the other two, it settles less than it seems to.",
+  "sections": [
+    {
+      "heading": "What a 98 Percent Probability Actually Proves",
+      "body": "In August 2024 a team led by Patxi Pérez Ramallo, working with the Max Planck Institute of Geoanthropology and the Norwegian University of Science and Technology, published results on a skeleton dug out of a granite tomb inside this cathedral in 1955. Osteoarchaeology, stable isotopes and ancient DNA agreed on the outline of one man: an adult male, at least forty-five when he died around 847, with a diet mixing marine and terrestrial protein unusual for a monk of his era, and ancestry tracing to Roman, Visigothic and Islamic-period Iberian populations. The [sarcophagus is inscribed with his name](https://www.mpg.de/22500491/study-confirms-likely-identity-of-the-remains-of-bishop-teodomiro), and the [study put a figure on the match](https://www.smithsonianmag.com/smart-news/archaeologists-may-have-identified-the-bones-of-a-celebrated-ninth-century-bishop-in-spain-180984922/): 98 percent probability that these are the bones of Teodomiro, ninth-century bishop of Iria Flavia.\n\nThat is a real result, and a narrower one than it sounds. It identifies Teodomiro. It says nothing about the grave Teodomiro was called out to examine some two decades earlier, a few miles from where he is himself now buried — the one he declared belonged to the apostle James, and on which this cathedral, the city around it and a pilgrim network stretching across northern Spain are all built. Nobody has run comparable tests on those bones, because doctrine, not archaeology, has custody of them. The most rigorous science this building has ever attracted has confirmed the credentials of the man who made the claim. It has not touched the claim itself.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Hermit's Light and a Bishop's Word",
+      "body": "Everything before Teodomiro rests on less than the DNA study does. Sometime between 820 and 830, a hermit named Pelayo, praying in woodland near the old Roman settlement of Iria Flavia, reported strange lights over a plot of ground that had been used for burials since Roman times. He took the story to Teodomiro, the local bishop, who examined the site and declared what lay there to be the tomb of James the Greater — one of the twelve apostles, executed in Jerusalem around AD 44 and, by a tradition already circulating in the West, carried afterward to Spain for burial. No account of Teodomiro's reasoning survives, only his conclusion. That conclusion remade the region anyway: the settlement that grew up around the grave took its name from the discovery — Compostela — and Teodomiro is now reckoned the second-most important figure in the story this cathedral tells, after the apostle whose tomb he certified.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Raid That Left the Grave Alone",
+      "body": "The building standing today is not the one that grew up over Teodomiro's discovery. In 997 Al-Mansur, the de facto military ruler of Islamic Iberia, led a raiding army deep into Christian Galicia and reached Compostela itself. [His forces burned the church](https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral) that had been built over the tomb; the relics, by the same account, were left undisturbed. What his troops did take were the building's bells and doors, [carried roughly five hundred miles south to Córdoba](https://www.andalucia.com/cities/cordoba/mosque-cathedral/bells-of-santiago), melted down and rehung as lamps in the Great Mosque there — a Christian shrine's own fittings converted into light for a mosque. The debt was called in two and a half centuries later: when Ferdinand III of Castile took Córdoba in 1236, he had the lamps carried back to Santiago and recast into a new set of bells. Only after Al-Mansur's fire, not before, did construction begin on the Romanesque cathedral a visitor sees today.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/960px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba"
+    },
+    {
+      "heading": "The Bishop Who Reached Too Far",
+      "body": "That project began in 1075, under Bishop Diego Peláez and with the backing of King Alfonso VI of León and Castile, with a master builder named Bernard the Elder running the works. [Peláez had already reorganised the diocese's justice, coinage and trade](https://en.wikipedia.org/wiki/Diego_Pel%C3%A1ez_%28bishop%29); the cathedral was the capstone of a larger ambition, and its plan borrowed from an existing template — the same [design used at the basilica of Saint-Sernin in Toulouse](https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral), another great church built along the pilgrim roads north. After Alfonso took Toledo from its Muslim rulers in 1085, Peláez pushed to have Compostela recognised as the senior see of Christian Spain, above both Toledo and Braga. It cost him everything. In 1088 he was deposed and imprisoned at the Council of Husillos on suspicion of treason; Pope Urban II called the process against him irregular but let the removal stand. Peláez escaped captivity in 1094, fled to Aragón, and died there in exile, his cathedral half-built and its works stalled. They did not resume in earnest until around 1100, under Archbishop Diego Gelmírez, on the strength of a fresh wave of donations.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg/960px-Basilique_Saint-Sernin_de_Toulouse_-_exposition_ouest-1-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Basilica_of_Saint-Sernin,_Toulouse"
+    },
+    {
+      "heading": "Mateo's Forty-Year Portal, Paid Two Silver Marks a Week",
+      "body": "The man who finished the job left a better paper trail than either bishop. [Master Mateo first appears in the cathedral's own records in 1168](https://en.wikipedia.org/wiki/Master_Mateo), already at work, already being paid a substantial sum by King Ferdinand II of León — the document does not say how much. What survives instead is the deal Ferdinand struck to keep him: a lifetime pension of two silver marks a week, one of the few sums in this building's whole history that anyone bothered to write down precisely. Mateo spent the next two decades on the cathedral's final stretch — the naves, a crypt to absorb the change in ground level, then, on 1 April 1188, the lintels for the tympanum of what would become the Pórtico de la Gloria. He kept going through the sculpture, the gallery and the towers. The cathedral was finally consecrated in 1211, a hundred and thirty-six years after Peláez broke ground. Mateo left a self-portrait among the carvings — one of the only faces attached by name to a project otherwise run by kings, bishops and unnamed masons.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Censer That Flew Out the Window in Front of a Future Queen",
+      "body": "One fixture of the finished building has spent eight centuries putting on a show that occasionally goes wrong. The Botafumeiro is a censer built to be swung, not carried: a set of coaxial drums added to its pulley system in the thirteenth century lets eight men in mauve capes, the tiraboleiros, haul it through an arc some sixty-five metres wide and twenty-one metres high, [reaching speeds of roughly 68 kilometres an hour](https://en.wikipedia.org/wiki/Botafumeiro). Accounts of its weight disagree by a factor of three, anywhere from fifty to a hundred and sixty kilograms depending on the source; nobody seems to have simply put the current one on a scale and settled it. That current Botafumeiro dates only to 1851, made by the silversmith José Losada after Napoleon's troops stole its silver predecessor during the Peninsular War in 1809. Its most famous failure came earlier still: in 1499, swinging for a visit from Catherine of Aragon on her way to marry the heir to the English throne, the securing hook gave way and the censer flew out through the window of the Puerta de las Platerías. No one was hurt that day, though the rope has failed since — in 1622, dropping the censer at the operators' feet, and again in 1925 and 1937, the second time scattering hot coals across the floor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/960px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Catherine_of_Aragon"
+    },
+    {
+      "heading": "Hidden From English Ships, Lost for Three Hundred Years",
+      "body": "The relics that gave the building its reason to exist went through a disappearance of their own. [In the sixteenth century they were hidden inside the cathedral](https://vivecamino.com/en/guide-to-santiago/history-of-the-ancient-city/) for fear that English privateers raiding the Galician coast would carry them off — and the hiding place worked too well. The bones dropped out of the historical record for roughly three hundred years, until renovation work in January 1879 turned them up again, in what is now the chapel of the Magdalena. [Pope Leo XIII had the find examined](https://www.caminosantiagocompostela.com/tomb-st-james-compostela-real/) before issuing the bull Deus Omnipotens in 1884, formally recognising the rediscovered bones as those of St James and two of his disciples.\n\nCount them and this is the third verification: Teodomiro's declaration around 820, Leo XIII's bull in 1884, and Pérez Ramallo's 98 percent in 2024 — a testimony, a papal ruling, a probability, one for each of the ages that produced it. Every one of them was, to the people who issued it, conclusive. None of them has closed the file, which may be the real reason this cathedral still needs pilgrims to walk here rather than simply take its word for it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Archaeologists May Have Identified the Bones of a Celebrated Ninth-Century Bishop in Spain", "url": "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-identified-the-bones-of-a-celebrated-ninth-century-bishop-in-spain-180984922/" },
+    { "title": "Study confirms likely identity of the remains of Bishop Teodomiro", "url": "https://www.mpg.de/22500491/study-confirms-likely-identity-of-the-remains-of-bishop-teodomiro" },
+    { "title": "Master Mateo", "url": "https://en.wikipedia.org/wiki/Master_Mateo" },
+    { "title": "Diego Peláez (bishop)", "url": "https://en.wikipedia.org/wiki/Diego_Pel%C3%A1ez_%28bishop%29" },
+    { "title": "Botafumeiro", "url": "https://en.wikipedia.org/wiki/Botafumeiro" },
+    { "title": "Santiago de Compostela Cathedral", "url": "https://en.wikipedia.org/wiki/Santiago_de_Compostela_Cathedral" },
+    { "title": "Cordoba Mosque Cathedral - Bells of Santiago", "url": "https://www.andalucia.com/cities/cordoba/mosque-cathedral/bells-of-santiago" },
+    { "title": "History of Santiago de Compostela - Vivecamino", "url": "https://vivecamino.com/en/guide-to-santiago/history-of-the-ancient-city/" },
+    { "title": "The Tomb of St. James in Santiago de Compostela: Is It Real?", "url": "https://www.caminosantiagocompostela.com/tomb-st-james-compostela-real/" }
+  ],
+  "generatedAt": "2026-08-28T04:13:36Z",
+  "model": "claude-sonnet-5"
+}
