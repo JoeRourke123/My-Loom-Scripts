@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-04",
+  "subject": {
+    "id": "chartres-cathedral",
+    "name": "Chartres Cathedral",
+    "architect": "Various",
+    "year": 1220,
+    "location": "Chartres, France",
+    "country": "France",
+    "city": "Chartres",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Notre_Dame_de_Chartres.jpg/1920px-Notre_Dame_de_Chartres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1221,
+    "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral",
+    "title": "Chartres Cathedral",
+    "author": "Various"
+  },
+  "title": "The Colonel Who Checked the Bell Tower Himself, and Was Dead Within Hours",
+  "standfirst": "An American colonel climbed Chartres's north tower alone in August 1944 to make sure it was safe to shell, then was killed a few miles away before the day was out. It is one of several moments — a Viking siege, a lightning strike, a fifteen-million-euro repaint — when someone else's nerve, money or luck was all that kept this cathedral standing the way we see it now.",
+  "sections": [
+    {
+      "heading": "He Climbed 290 Steps Alone to Call Off the Artillery",
+      "body": "On 16 August 1944, American forces closing in on Chartres suspected German snipers were using the cathedral's twin steeples and prepared to do what US units had already done to church towers in other liberated French towns: bring up artillery and knock them down. Colonel Welborn Barton Griffith Jr, operations officer for XX Corps, thought otherwise, going on reconnaissance he had done the night before, and went to check himself rather than argue the point. Accounts of what happened next don't quite agree — one has him [climbing 290 steps](https://friendsofchartres.org/how-colonel-welborn-griffith-saved-chartres-cathedral/) up the north steeple with an M-1 rifle and sidearm to wave down that it was clear, another says he [rang the bell and hung an American flag](https://www.tshaonline.org/handbook/entries/griffith-welborn-barton-jr) from the belfry — but both agree he found no Germans, and the shelling order was cancelled. Griffith did not live to see the cathedral he had just saved outlast the war. Fighting German forces later that same day in Lèves, a few kilometres north, he was [struck in the back and killed instantly](https://www.tshaonline.org/handbook/entries/griffith-welborn-barton-jr) while positioned on a tank. A memorial plaque went up at the site in 1961, misspelling his name; a corrected one was dedicated in 1995, with his daughter attending a ceremony at the cathedral he never got to see again.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Welborn_Barton_Griffith_Jr._%281901%E2%80%931944%29_at_West_Point_in_1925.png/960px-Welborn_Barton_Griffith_Jr._%281901%E2%80%931944%29_at_West_Point_in_1925.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Welborn_Griffith"
+    },
+    {
+      "heading": "A Byzantine Empress's Gift Turned This Town Into a Pilgrimage Economy",
+      "body": "Chartres was already a destination for the cult of the Virgin before any of its Gothic stone went up, and its founding asset was a piece of cloth. The Sancta Camisa, believed to be the tunic Mary wore when she gave birth to Christ, is said to have reached the West as a gift from the Byzantine empress Irene to Charlemagne; his grandson, [Charles the Bald, donated it to Chartres](https://www.tfp.org/the-marvelous-relic-of-our-ladys-veil-at-chartres/) in 876. From the ninth century on, this one relic — not the stonework — was the reason pilgrims crossed the continent to get here, and pilgrim traffic is what eventually paid for the stonework. The cathedral's own tradition credits the veil with a rescue, too: when Rollo's Viking army reached the city walls on 20 July 911, with the memory of an earlier raid that had killed a previous bishop and his clergy still fresh, the bishop is said to have displayed the relic from the ramparts, and the attackers broke and fled. Whatever actually happened that day, Rollo submitted to King Charles III within the year, was baptised, and received Normandy as his fief — a chronicler's story doing a great deal of political work on behalf of one piece of cloth.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Biblioth%C3%A8que_nationale_de_France_-_Bible_de_Vivien_Ms._Latin_1_folio_423r_d%C3%A9tail_Le_comte_Vivien_offre_le_manuscrit_de_la_Bible_faite_%C3%A0_l%27abbaye_de_Saint-Martin_de_Tours_%C3%A0_Charles_le_Chauve.jpg/960px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_the_Bald"
+    },
+    {
+      "heading": "The Citizens Pulled the Carts; the Fire Forced Europe to Pay",
+      "body": "Two very different kinds of payment built this cathedral, fifty years apart. By 1145, the rebuilding of Bishop Fulbert's Romanesque cathedral was reaching its final phase, and the abbot Haymo of Saint-Pierre-sur-Dives wrote to monks in England describing what came to be called the [Cult of Carts](https://en.wikipedia.org/wiki/Cult_of_Carts): townspeople of every rank harnessing themselves to carts like oxen, hauling stone and timber to the site while singing hymns and submitting to public correction from the clergy. Historians treat the account cautiously — several near-identical letters survive describing the same phenomenon in other French towns that same decade, similar enough in language that they read less like independent eyewitness reports and more like a template the Church was circulating to encourage the practice elsewhere. What is not in doubt is what happened next: on the night of 10 June 1194 a fire tore through that cathedral, leaving only the crypt, the towers and the west façade standing. A papal legate happened to be in the city and carried the news outward; money arrived from royal and noble patrons across Europe and from small donors history never named, and the new building rose in roughly twenty-five years — the roof was on by 1220 — a pace almost no other Gothic cathedral matched. It was not formally consecrated until October 1260, in the presence of King Louis IX.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Forty-Two of the Windows Were Bought by Tradesmen, Not Nobles",
+      "body": "Something like 167 stained-glass windows survive at Chartres, and 42 of them were [paid for by the city's own merchants](https://www.worldhistory.org/article/1277/the-stained-glass-windows-of-chartres-cathedral/) rather than by bishops or barons — bakers, butchers, moneychangers, tanners, furriers, weavers and masons among them, each guild buying a strip of glass low enough for a visitor to actually see who had paid. The furriers funded the Charlemagne window; the carpenters, coopers and wheelwrights joined the innkeepers and wine merchants to fund panels of the Noah window. What makes these windows unusual is not just who paid but how they chose to be shown. Earlier donor portraits in stained glass put the patron on their knees in prayer. [Chartres's tradespeople stand or sit at their benches](https://www.therosewindow.com/pilot/Chartres/donors.htm) instead, tools in hand and dressed in work tunics rather than court robes — a furrier serving a customer, ploughmen at work in a field — closer to a trade sign than a devotional portrait. It amounts to one of the largest surviving records of who actually made up a medieval French town's economy, preserved because every trade wanted the fact of its own payment remembered in glass.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg/960px-Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_%28waardijns%29_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Guild"
+    },
+    {
+      "heading": "Lightning Left One Tower Three Hundred Years Out of Date",
+      "body": "The cathedral's two front towers do not match, and the reason is a disaster rather than a design choice. Both were begun in the twelfth century, and the [south tower's plain, Romanesque spire](https://en.wikipedia.org/wiki/Chartres_Cathedral) was finished around 1150 — but the north tower's wooden spire burned when lightning struck it on 26 July 1506. The mason brought in to replace it, Jehan Texier, known as [Jehan de Beauce](https://en.wikipedia.org/wiki/Jehan_de_Beauce), had just come from finishing work on the Trinity Abbey church at Vendôme when he took the commission, and he built the new north spire between 1507 and 1513 in the ornate, late Flamboyant Gothic style fashionable in his own day rather than trying to match the plainer tower beside it. He kept working in Chartres for another decade and a half — renovating the church of Saint-Aignan, building the cathedral's astronomical clock pavilion in 1520 — and died in the city in 1529. The mismatch he left behind was never corrected, so the west front now carries two towers separated by roughly three hundred and fifty years of taste rather than the few decades that usually separate a cathedral's paired spires.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vend%C3%B4me_Abbatiale_de_la_Trinit%C3%A9_Fassade_5.jpg/960px-Vend%C3%B4me_Abbatiale_de_la_Trinit%C3%A9_Fassade_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Flamboyant"
+    },
+    {
+      "heading": "The Interior Was Repainted to Look Like 1260, and Not Everyone Agrees",
+      "body": "The cathedral's most recent patron is the French state, and its purchase has divided the people who study this building for a living. Since 2009 the Ministry of Culture has been repainting the interior limestone — stripped of eight centuries of candle soot — in the cream, ochre and trompe-l'oeil marbling that restorers say matches the [original thirteenth-century decoration](https://www.chartres-tourisme.com/en/the-cathedral/history-of-chartres-cathedral/restoration-work), a project that has run to roughly [fifteen million euros](https://hyperallergic.com/235803/a-petition-to-stop-irresponsible-restoration-of-chartres-cathedral/) paid for by the ministry, the EU and the American Friends of Chartres. The most contested single object has been Notre-Dame du Pilier, the so-called Black Madonna: conservators concluded her blackening was largely a nineteenth-century overpaint rather than an original feature, and in 2013 she came back from the workshop [pale and rosy-cheeked](https://www.arthistorynews.com/articles/3161_Chartres_Black_Madonna), ending five hundred years of pilgrims venerating a face that, on the restorers' own evidence, was never meant to be dark. The critic Martin Filler called the scheme scandalous; the historians Madeline Caviness and Jeffrey Hamburger, by contrast, [defended it as careful](https://hyperallergic.com/235803/a-petition-to-stop-irresponsible-restoration-of-chartres-cathedral/) and historically responsible. Patrice Calvel, the architect who oversaw much of the work, has argued that the decision carries the backing of the state's own historians and architects — which settles the question for the ministry, if not for the pilgrims who spent eight centuries praying to a dark-faced Virgin who, as of 2013, no longer exists.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Welborn Griffith — Wikipedia", "url": "https://en.wikipedia.org/wiki/Welborn_Griffith" },
+    { "title": "How Colonel Welborn Griffith Saved Chartres Cathedral — American Friends of Chartres", "url": "https://friendsofchartres.org/how-colonel-welborn-griffith-saved-chartres-cathedral/" },
+    { "title": "Colonel Welborn Barton Griffith, Jr. — Texas State Historical Association", "url": "https://www.tshaonline.org/handbook/entries/griffith-welborn-barton-jr" },
+    { "title": "The Marvelous Relic of Our Lady's Veil at Chartres — TFP", "url": "https://www.tfp.org/the-marvelous-relic-of-our-ladys-veil-at-chartres/" },
+    { "title": "Cult of Carts — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cult_of_Carts" },
+    { "title": "The Stained Glass Windows of Chartres Cathedral — World History Encyclopedia", "url": "https://www.worldhistory.org/article/1277/the-stained-glass-windows-of-chartres-cathedral/" },
+    { "title": "Donors — Chartres Cathedral complete medieval stained glass — therosewindow.com", "url": "https://www.therosewindow.com/pilot/Chartres/donors.htm" },
+    { "title": "Chartres Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chartres_Cathedral" },
+    { "title": "Jehan de Beauce — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jehan_de_Beauce" },
+    { "title": "Restoration work — C'Chartres Tourisme", "url": "https://www.chartres-tourisme.com/en/the-cathedral/history-of-chartres-cathedral/restoration-work" },
+    { "title": "A Petition to Stop \"Irresponsible\" Restoration of Chartres Cathedral — Hyperallergic", "url": "https://hyperallergic.com/235803/a-petition-to-stop-irresponsible-restoration-of-chartres-cathedral/" },
+    { "title": "Chartres' \"Black Madonna\" — Art History News", "url": "https://www.arthistorynews.com/articles/3161_Chartres_Black_Madonna" },
+    { "title": "Forum: Does the Restoration of Chartres Cathedral Deserve Praise? — Apollo Magazine", "url": "https://www.apollo-magazine.com/forum-does-the-restoration-of-chartres-cathedral-deserve-praise/" },
+    { "title": "The Restoration of Chartres Cathedral Is a \"Scandalous Desecration\" — ArchDaily", "url": "https://www.archdaily.com/578212/the-restoration-of-chartres-cathedral-is-a-scandalous-desecration/" }
+  ],
+  "generatedAt": "2026-08-29T04:11:40Z",
+  "model": "claude-sonnet-5"
+}
