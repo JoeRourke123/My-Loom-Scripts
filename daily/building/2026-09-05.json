@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-05",
+  "subject": {
+    "id": "qutb-minar",
+    "name": "Qutb Minar",
+    "architect": "Qutb al-Din Aybak",
+    "year": 1220,
+    "location": "Delhi, India",
+    "country": "India",
+    "city": "Delhi",
+    "style": "Indo-Islamic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Qutb_Minar_2022.jpg/1920px-Qutb_Minar_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2418,
+    "source": "https://en.wikipedia.org/wiki/Qutb_Minar",
+    "title": "Qutb Minar",
+    "author": "Qutb al-Din Aybak"
+  },
+  "title": "The Tower Built From Twenty-Seven Demolished Temples Is Still on Trial",
+  "standfirst": "Qutb al-Din Aibak's own inscription boasts that his tower was raised from the wreckage of twenty-seven Hindu and Jain temples. Eight hundred years, a British major's twenty-year dome and one stairwell sealed since 1981 later, a Delhi court is still deciding what that boast is worth.",
+  "sections": [
+    {
+      "heading": "The Boast Carved Into the Gate",
+      "body": "Above the mosque that stands beside the tower, a [Persian inscription](https://en.wikipedia.org/wiki/Quwwat-ul-Islam_Mosque) records, in Qutb al-Din Aibak's own commission, that the building was built from the parts of twenty-seven demolished Hindu and Jain temples. Aibak was a former slave who had risen to command Muhammad Ghori's cavalry; after the Ghurid victory at Tarain in 1192 he took Delhi, and by 1198 he had raised his mosque on the site of the captured Rajput citadel of Qila Rai Pithora, its cloisters built from carved columns and lintels pulled from the temples his army tore down. The tower went up the year after, a victory marker and a call to prayer in one, on ground that had just changed religion by force. It was not a secret at the time, and the inscription made sure it would not become one later.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The One Relic Nobody Broke Up for Parts",
+      "body": "Standing in the mosque's courtyard, ringed by those recycled temple columns, is an iron pillar that predates the conquest by at least seven centuries and that nobody tried to melt down for material. Metallurgists date it to the reign of the Gupta emperor Chandragupta II, around 400 CE, forged for a Vishnu temple far away in Udayagiri; unusually high phosphorus content in the iron gave it a [self-sealing rust layer](https://www.livehistoryindia.com/story/history-daily/iron-pillar) that has kept it standing in Delhi's air for roughly 1,600 years. How it reached Mehrauli is disputed. One account credits the Tomar king Anangpal, said to have hauled it to his new capital around 1052; another says it was Iltutmish who carried it off as a trophy after a campaign near its original site, two centuries later. Either way, whoever built the mosque around it left this one piece alone.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Iron_Pillar%2C_Delhi%2C_May_2008.jpg/960px-Iron_Pillar%2C_Delhi%2C_May_2008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi"
+    },
+    {
+      "heading": "A Sultan Who Never Saw It Finished",
+      "body": "Aibak did not live to see much more than the tower's base. On 4 November 1210, [playing chogan](https://en.wikipedia.org/wiki/Qutb_ud-Din_Aibak) on horseback in Lahore, his horse stumbled and he was killed instantly, impaled on his own saddle pommel. He is buried in Lahore's Anarkali Bazaar, in what is now Pakistan, nearly a thousand kilometres from the tower that carries his title. It was his son-in-law and successor, Iltutmish, who added the next three storeys between 1211 and 1236, bringing the minar close to its full height. The join between their work is visible without much looking: Aibak's base alternates round and angular flutes cut into red sandstone, Iltutmish's storeys above it are plainer red sandstone, and the whole structure tapers, by design, from 14.3 metres across at the ground to 2.7 at the top — a shape chosen for stability by two men who never met, one of whom never saw it standing.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grave_of_Sultan_Qutb_al-Din_Aibak.jpg/960px-Grave_of_Sultan_Qutb_al-Din_Aibak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Qutb_ud-Din_Aibak"
+    },
+    {
+      "heading": "Lightning, an Earthquake, and a British Major's Twenty-Year Dome",
+      "body": "The tower kept needing rescuing. Lightning struck the top in 1369, and Firoz Shah Tughlaq repaired the damage and added a fifth storey in marble and sandstone, replacing red stone for the first time. An earthquake around 1503 brought Sikandar Lodi in to repair it again. A bigger earthquake, in 1803, brought down whatever crowned the tower by then, and this time the fix came from a colonial army officer, Major Robert Smith, who in 1828 replaced it with a pillared Bengali-style chhatri in red sandstone — a design borrowed from Hindu temple architecture, set on top of a monument raised to announce Islamic rule. Critics judged Smith had gone well past his brief, redesigning rather than restoring, and in 1848 the governor-general, Lord Hardinge, had the dome taken down. It still stands, dethroned, on the lawn below the tower it once topped, known ever since as [Smith's Folly](https://rangandatta.wordpress.com/2012/08/15/qutub-minar-and-smiths-folly-an-architectural-disaster/).",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Bigger Tower That Died With Its Sultan",
+      "body": "A century after Iltutmish finished the minar, Alauddin Khalji decided Delhi needed a second one, twice the size. Around 1300 he quadrupled the mosque enclosure and began the [Alai Minar](https://www.livehistoryindia.com/story/monuments/alai-minar-the-incomplete-tower-of-victory) as a victory tower meant to outscale everything his predecessors had built, alongside a red-sandstone gateway, the Alai Darwaza, that still stands intact. The tower did not. Construction had reached only the first storey, some 27 metres, when Khalji died in 1316; his heirs had no interest in finishing a monument to somebody else's conquests, and the project was abandoned where it stood. It is still there, an unfaced drum of rubble core in the shadow of the structure it was built to outdo — proof that raising a taller tower was never really the hard part, keeping a patron alive long enough was.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alai_Darwaza.JPG/960px-Alai_Darwaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Alai_Darwaza"
+    },
+    {
+      "heading": "The Day the Stairwell Went Dark",
+      "body": "For most of its life the Qutb Minar was climbable; the 379 steps of its spiral stair were part of the visit. That ended on 4 December 1981, a Friday when entry to Delhi's monuments was free and the tower held perhaps three to four hundred visitors at once. A power cut plunged the stairwell into darkness; a crowd trying to get out met a crowd trying to get in, and in the crush that followed, 45 people died, most of them schoolchildren on a day trip, with dozens more injured. [Post-mortems found](https://delhiprevious.blogspot.com/2011/12/day-qutab-minar-burst.html) the dead had mostly been crushed and suffocated, not fallen. The tower has stayed closed to entry ever since — the longest anyone alive today has been barred from the inside of a building most of them can still walk right up to.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What Reopened Instead Was a Question in Court",
+      "body": "What has reopened is an argument about what the building is. In December 2021, a [Delhi suit](https://www.thequint.com/news/india/qutub-minar-archaeological-survey-of-india-opposes-plea-for-restoration-of-alleged-temples) filed on behalf of Hindu and Jain deities, through advocates including Hari Shankar Jain, sought the right to restore worship at the sites of the twenty-seven demolished temples the mosque's own inscription describes. The Archaeological Survey of India opposed it, arguing that a monument frozen in its 1958-protected form cannot legally be altered or have new worship introduced, whatever stood there before Aibak's men arrived. A civil judge dismissed the suit; an appeal was still being argued through mid-2022, alongside street campaigns to have the tower renamed Vishnu Stambh, during which police detained protesters outside the complex. Eight centuries after Aibak's inscription made its boast in stone, a Delhi courtroom is still the forum arguing over what it meant.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Qutb Minar", "url": "https://en.wikipedia.org/wiki/Qutb_Minar" },
+    { "title": "Quwwat-ul-Islam Mosque", "url": "https://en.wikipedia.org/wiki/Quwwat-ul-Islam_Mosque" },
+    { "title": "Qutb ud-Din Aibak", "url": "https://en.wikipedia.org/wiki/Qutb_ud-Din_Aibak" },
+    { "title": "Mystery of Delhi's Iron Pillar — Live History India", "url": "https://www.livehistoryindia.com/story/history-daily/iron-pillar" },
+    { "title": "Alai Minar: The Incomplete 'Tower of Victory' — Live History India", "url": "https://www.livehistoryindia.com/story/monuments/alai-minar-the-incomplete-tower-of-victory" },
+    { "title": "Qutub Minar and Smith's Folly ~ An Architectural Disaster", "url": "https://rangandatta.wordpress.com/2012/08/15/qutub-minar-and-smiths-folly-an-architectural-disaster/" },
+    { "title": "Back Issue: The Day Qutab Minar 'Burst'", "url": "https://delhiprevious.blogspot.com/2011/12/day-qutab-minar-burst.html" },
+    { "title": "Qutub Minar Case: Order on 9 June, ASI Opposes Temple 'Restoration' Bid", "url": "https://www.thequint.com/news/india/qutub-minar-archaeological-survey-of-india-opposes-plea-for-restoration-of-alleged-temples" },
+    { "title": "Qutb Minar and its Monuments, Delhi", "url": "https://asi.nic.in/pages/WorldHeritageQutbMinar" }
+  ],
+  "generatedAt": "2026-08-30T04:12:55Z",
+  "model": "claude-sonnet-5"
+}
