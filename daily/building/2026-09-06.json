@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-06",
+  "subject": {
+    "id": "mont-saint-michel",
+    "name": "Mont Saint-Michel",
+    "architect": "Various",
+    "year": 1228,
+    "location": "Normandy, France",
+    "country": "France",
+    "city": "Normandy",
+    "style": "Romanesque and Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Mont-Saint-Michel_vu_du_ciel.jpg/1920px-Mont-Saint-Michel_vu_du_ciel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 900,
+    "source": "https://en.wikipedia.org/wiki/Mont-Saint-Michel",
+    "title": "Mont Saint-Michel",
+    "author": "Various"
+  },
+  "title": "The King Who Rebuilt Mont Saint-Michel to Make You Forget Who Built It First",
+  "standfirst": "Its Gothic wing was paid for by a French king trying to erase the memory of the Norman dukes he had just dispossessed. Its cells later held a man Victor Hugo had personally saved from the guillotine, inside a building Hugo himself had already called a toad in a reliquary. And the causeway that finally made it easy to reach nearly buried the island in its own bay.",
+  "sections": [
+    {
+      "heading": "The King Who Rebuilt It to Erase the Dukes Who Built It First",
+      "body": "In 1204, Guy of Thouars — regent for the infant Duchess Alix of Brittany, and an ally of the French crown — laid siege to Mont Saint-Michel as part of Philip Augustus's campaign to seize Normandy from the Plantagenets. The abbey held; the town did not. Guy [set fire to the village and massacred the population](https://en.wikipedia.org/wiki/Guy_of_Thouars), and the flames spread past his control into the abbey's own roofs. What happened next says more about Philip Augustus than about piety: rather than let a Benedictine house sit as collateral damage in a war he had started, the king who had just annexed the duchy [paid Abbot Jordan for the reconstruction](https://en.wikipedia.org/wiki/Guy_of_Thouars) — though work did not actually begin until 1211, seven years later, once Jordan was dead and his successor Raoul des Isles was in charge. A regional history of the period is blunt about the motive: Philip funded the rebuild [intending to make people forget the generosities of his Norman predecessors](https://www.infobretagne.com/mont-saint-michel-abbaye-rois-france.htm) — the dukes whose money, four generations earlier, had built the Romanesque church on the summit. The result, finished in 1228, is the Gothic complex still known as La Merveille: a cloister, a refectory, a guest hall and a knights' hall stacked in three tiers up the north face. It reads as a monastery's crowning achievement. It was also a French king's receipt for a war he chose to fight.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Sceau_de_Philippe_Auguste._-_Archives_Nationales_-_SC-D157.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Philip_II_of_France"
+    },
+    {
+      "heading": "An Italian Monk's Gamble: Crown the Rock, Then Dig to Hold It Up",
+      "body": "The engineering problem long predates Philip Augustus. About a century before La Merveille, Duke Richard II of Normandy brought in William of Volpiano — an Italian monk-architect who had already rebuilt the abbey at Fécamp — to raise a proper stone church where an earlier Carolingian oratory stood. Volpiano's answer to a cone-shaped granite summit was audacious rather than cautious: he [placed the transept crossing at the very top of the mount](https://en.wikipedia.org/wiki/William_of_Volpiano), the heaviest, most structurally demanding point of the whole church, on the single narrowest patch of rock available. To stop it sliding downhill under its own weight, his workshop sank crypts into the slope beneath — the chapel of Trente-Cierges to the north, a choir crypt to the east, the chapel of Saint-Martin to the south — [effectively building an artificial platform](https://en.wikipedia.org/wiki/Mont-Saint-Michel_Abbey) before building the church that would sit on it. None of the granite was local: it arrived by boat from quarries on the Chausey Islands, and monks then carried the blocks the final stretch on foot, because the path to the summit was too narrow for cart or sledge. It is an odd kind of ambition — to solve a siting problem not by choosing an easier hill, but by burying half a cathedral's worth of masonry where no visitor would ever see it, purely so the visible half could stand.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fecamp_Abbey_Chevet10.jpg/960px-Fecamp_Abbey_Chevet10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/F%C3%A9camp_Abbey"
+    },
+    {
+      "heading": "Two English Sieges, and a Fortress That Would Not Fall",
+      "body": "By the Hundred Years' War, Mont Saint-Michel sat exactly where an invading army did not want a hostile garrison: on the frontier between English-held Normandy and free France. It was besieged twice and taken neither time. The first attempt, in 1423–24, was lifted after roughly a year; the second, in 1433–34, was pressed harder, under Thomas Scales, with wrought-iron bombards hauled up to batter the walls. It still held. When Scales's forces finally pulled back on 17 June 1434, they left two of those bombards behind — guns the French garrison [recovered and still displays](https://en.wikipedia.org/wiki/Mont-Saint-Michel) at the abbey today, trophies of a siege that failed. What made the mount so hard to take was the same feature that had made it hard to build on in the first place: a tidal approach that a small, well-supplied garrison could defend against a much larger force simply by controlling the causeway at the right hour of the day. Two failed sieges gave the abbey a second identity to sit alongside the religious one — a fortress that, unlike most of Normandy around it, the English crown never actually held.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Man Victor Hugo Saved From the Guillotine, Then Found in a Toad's Reliquary",
+      "body": "In May 1839, Armand Barbès led a failed insurrection in Paris and was sentenced to death for it. He escaped the guillotine only because Victor Hugo and Alphonse de Lamartine [personally intervened with King Louis-Philippe](https://www.wikimanche.fr/index.php?title=Armand_Barb%C3%A8s) on his behalf. The commuted sentence sent him instead to Mont Saint-Michel, which the Revolution had stripped of its monks in 1791 and turned into a state prison nicknamed the Bastille des mers, at one point holding as many as [300 refractory priests](https://en.wikipedia.org/wiki/Mont-Saint-Michel_Abbey) at once and later filled out with political prisoners and, eventually, ordinary convicts set to making straw hats and slippers. Barbès arrived on 16 July 1839 and stayed [three years, six months and nine days](https://www.wikimanche.fr/index.php?title=Armand_Barb%C3%A8s), sharing a cell for part of that time with his fellow revolutionary Auguste Blanqui; the two once tried to escape by a rope of knotted bedsheets that turned out too short to reach the ground. Three years before Barbès ever arrived, Hugo had visited the mount himself, in June 1836, and was already appalled by what imprisonment had done to it, writing home that the building was [a toad in a reliquary](https://www.ot-montsaintmichel.com/2021/02/16/victor-hugo-un-poete-au-mont-saint-michel/) — un crapaud dans un reliquaire. It took until 20 October 1863 for the government to agree, and close the prison for good.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Barb%C3%A8s%2C_Armand_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Armand_Barb%C3%A8s"
+    },
+    {
+      "heading": "The Road That Nearly Buried the Island, and the €200 Million Undo",
+      "body": "For most of its history Mont Saint-Michel was a true island, cut off from the mainland twice a day by tides that swing hard through the bay. That changed in 1879, when a raised causeway was built to give pilgrims, and later tourists, dry passage regardless of the tide. It solved an access problem and quietly created a larger one: the causeway blocked the tide's natural scouring action around the base of the rock, and combined with [dikes built inland to reclaim farmland from the bay](https://www.smithsonianmag.com/travel/massive-controversial-attempt-preserve-one-worlds-most-iconic-islands-180951441/), it let silt build up around the mount for well over a century. By the early 2000s Mont Saint-Michel was in real danger of becoming permanently landlocked, an abbey on a hill surrounded by grass rather than sea. The fix, the Projet Mont-Saint-Michel, ran through the 2000s and into 2015 at a cost of [close to €200 million](https://www.smithsonianmag.com/travel/massive-controversial-attempt-preserve-one-worlds-most-iconic-islands-180951441/), funded by the French state, the regions of Normandy and Brittany, and the European Union. Engineers demolished the old causeway, replaced it with a slender bridge on stilts that lets tidal water pass beneath, and built a new dam on the river Couesnon that stores water at high tide and releases it at low tide to flush sediment back out to sea. It amounts to a hundred-million-euro apology for an 1879 shortcut — an attempt to hand the mount back the tide that had made it worth visiting in the first place.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Mont-Saint-Michel — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel" },
+    { "title": "Mont-Saint-Michel Abbey — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mont-Saint-Michel_Abbey" },
+    { "title": "The Massive and Controversial Attempt to Preserve One of the World's Most Iconic Islands — Smithsonian Magazine", "url": "https://www.smithsonianmag.com/travel/massive-controversial-attempt-preserve-one-worlds-most-iconic-islands-180951441/" },
+    { "title": "William of Volpiano — Wikipedia", "url": "https://en.wikipedia.org/wiki/William_of_Volpiano" },
+    { "title": "Guy of Thouars — Wikipedia", "url": "https://en.wikipedia.org/wiki/Guy_of_Thouars" },
+    { "title": "Le Mont-Saint-Michel sous les rois de France (1204-1328) — Infobretagne", "url": "https://www.infobretagne.com/mont-saint-michel-abbaye-rois-france.htm" },
+    { "title": "Prison du Mont-Saint-Michel — Wikimanche", "url": "https://www.wikimanche.fr/Prison_du_Mont-Saint-Michel" },
+    { "title": "Armand Barbès — Wikimanche", "url": "https://www.wikimanche.fr/index.php?title=Armand_Barb%C3%A8s" },
+    { "title": "Victor Hugo, un poète au Mont Saint-Michel — Destination Mont Saint-Michel Normandie", "url": "https://www.ot-montsaintmichel.com/2021/02/16/victor-hugo-un-poete-au-mont-saint-michel/" }
+  ],
+  "generatedAt": "2026-08-31T04:13:59Z",
+  "model": "claude-sonnet-5"
+}
