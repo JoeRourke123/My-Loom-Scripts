@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-07",
+  "subject": {
+    "id": "castel-del-monte",
+    "name": "Castel del Monte",
+    "architect": "Various",
+    "year": 1240,
+    "location": "Andria, Italy",
+    "country": "Italy",
+    "city": "Andria",
+    "style": "Medieval",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Castel_del_Monte_-_Andria.jpg/1920px-Castel_del_Monte_-_Andria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1151,
+    "source": "https://en.wikipedia.org/wiki/Castel_del_Monte%2C_Apulia",
+    "title": "Castel del Monte",
+    "author": "Various"
+  },
+  "title": "The Castle an Excommunicated Emperor Built While Rome Called Him the Antichrist",
+  "standfirst": "Castel del Monte's only documented architect is disqualified by his own paperwork, and its patron was under a second excommunication for the entire time it went up. The strangest thing it ever produced wasn't a theory about its purpose — it was a drug now given to cancer patients.",
+  "sections": [
+    {
+      "heading": "No Kitchen, No Stables, and No Explanation",
+      "body": "The only surviving instruction that ties Frederick II directly to this building is administrative and thin: a document from 1240 in which he [ordered the governor of Capitanata](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) to finish work already under way. Beyond that single order, nothing in the record says what the finished building was for. It has eight trapezoidal rooms on each of its two floors, arranged around a central octagonal courtyard inside eight corner towers, with vaulted ceilings and a classically detailed entrance of fluted pilasters under a pediment. What it does not have is more telling: no kitchen, no stables, and none of the [usual defenses](https://www.casteldelmonte-tickets.com/about-castel-del-monte/) a fortress needs. Guidebooks have called it a hunting lodge for so long that the label has outlived the evidence for it — Wikipedia's own account of the building states plainly that there is [no proof he used it](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) that way, and a hunting party needs somewhere to put its horses. Britannica's newer reading calls it a citadel instead, a building meant to project authority rather than host a hunt or withstand a siege. Both readings agree on one thing: whatever Frederick built here, he did not build it to be lived in.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Consecrated by a Man Excommunicated Twice",
+      "body": "Construction began in 1240, a year after Pope Gregory IX excommunicated Frederick II for the second time, on Palm Sunday, 20 March 1239. The immediate cause was dynastic — Frederick had married his illegitimate son Enzio into the Sardinian crown, territory the papacy claimed as its own — but Gregory's suspicions ran to heresy: Frederick, Britannica records, [was supposed to have jested](https://www.britannica.com/biography/Frederick-II-Holy-Roman-emperor/Struggle-with-the-papacy) that Moses, Christ and Muhammad were three impostors who had duped their own followers. Neither side stayed diplomatic. The papacy branded him the forerunner of the Antichrist; his own propagandists answered by hailing him as a messiah, and the two men were still at open war, unreconciled, when Pope Innocent IV formally deposed Frederick at the Council of Lyon in July 1245 — five years into work on Castel del Monte. Ten years before ground broke on it, in Jerusalem, Frederick had already shown how little he needed a pope's blessing: having won the city by treaty with the sultan al-Kamil rather than by siege, he [crowned himself king](https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor) in the Church of the Holy Sepulchre because no priest would crown an excommunicate. That treaty had left one building inside those walls under Muslim rather than his own control: the octagonal Dome of the Rock, which historians name as one of the two most likely models for the shape Frederick chose eleven years later for a castle in Apulia.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG/960px-Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Dome_of_the_Rock"
+    },
+    {
+      "heading": "The Best-Documented Builder in His Service Is the One Ruled Out",
+      "body": "The other candidate for the octagon's model sits closer to home. One architectural historian judges the [most likely explanation](https://archaeologymysteries.com/2022/02/07/why-is-castel-del-monte-octagonal/) of all to be the simplest: the octagon was \"the Emperor's shape,\" a stone version of Frederick's own eight-sided crown, ahead of either the Dome of the Rock or the Palatine Chapel at Aachen, the octagonal chapel Charlemagne had built four centuries earlier for the throne Frederick now held. Whichever shape inspired it, the question of who actually drew the plans has a single documented answer, and the documentation disqualifies him. A charter issued from Lodi on [17 November 1239](https://it.wikipedia.org/wiki/Riccardo_da_Lentini) names Riccardo da Lentini as praepositus aedificiorum, supervisor of the emperor's building works, overseeing fortifications at Augusta, Syracuse, Caltagirone, Milazzo, and his own home town of Lentini. Every one of those sits in Sicily. Castel del Monte stands on the mainland, in Apulia, outside the territory that same charter assigns to him — which is precisely why the historians who have looked hardest at Riccardo's paperwork are the ones who rule him out of this particular building. No other name has anything like as much evidence behind it. Britannica leaves the credit with Frederick himself, and the record for this building simply lists its architect as unknown.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aachener_Dom_Oktogon.jpg/960px-Aachener_Dom_Oktogon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Palatine_Chapel,_Aachen"
+    },
+    {
+      "heading": "A Prison for the Sons, a Quarry for the Neighbours",
+      "body": "Frederick died in 1250. His illegitimate son Manfred inherited the Sicilian crown and used Castel del Monte, on occasion, [as a hunting lodge](https://www.britannica.com/place/Castel-del-Monte-castle-Andria-Italy) — the first person on record actually doing what guidebooks would later claim Frederick had done. Manfred was killed at the Battle of Benevento in 1266, fighting Charles of Anjou, the pope's chosen replacement for the Hohenstaufen line, and Charles turned his dead enemy's castle into what its design had never anticipated: a prison. Manfred's sons Henry, Azzo and Enzo were [held there after 1266](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia), along with other Hohenstaufen loyalists, inside rooms that had never been fitted with a kitchen to feed them. The decline that followed was slower but just as thorough: centuries later, when the castle belonged to the Bourbon kings of Naples, its own owners had the marble columns and window frames pulled out and [reused at their palace](https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia) at Caserta, scattering the building's finest material across another king's project entirely. By 1876 what remained was worth 25,000 lire to the newly unified Italian state, which bought it that year and left it largely untouched for another five decades before serious restoration finally began in 1928.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Manfred_Sizilien_Manfredi_Sicilia_De_Arte_Venandi_cum_Avibus_-_dated_MSS_1258-1266.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Manfred,_King_of_Sicily"
+    },
+    {
+      "heading": "What the Ground Underneath It Turned Out to Contain",
+      "body": "The building's strangest legacy has nothing to do with its walls. In the 1950s the Italian company [Farmitalia was searching](https://myelomabeacon.org/resources/2008/10/15/doxorubicin/) soil bacteria across the country for anticancer compounds, and a sample taken from the ground near Castel del Monte yielded a previously unknown strain of the bacterium Streptomyces peucetius, producing a vivid red pigment. French researchers isolated the same compound independently at roughly the same time, and the two teams agreed on a joint name: daunorubicin, combining Dauni, the pre-Roman tribe that once lived on this ground, with the French word for ruby. Clinical trials began within a decade and the drug proved effective against acute leukemia and lymphoma, though its cardiac toxicity was recognised by 1967. Farmitalia's own chemists later altered the molecule to produce a second red compound, Adriamycin, now known worldwide as doxorubicin — a chemotherapy drug still given to cancer patients today, and one of more than two thousand [related compounds](https://en.wikipedia.org/wiki/Streptomyces_peucetius) that trace back to a handful of dirt taken from outside a castle whose builder never explained what it was for.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Castel del Monte, Apulia — Wikipedia", "url": "https://en.wikipedia.org/wiki/Castel_del_Monte,_Apulia" },
+    { "title": "Castel del Monte — Britannica", "url": "https://www.britannica.com/place/Castel-del-Monte-castle-Andria-Italy" },
+    { "title": "About Castel del Monte — casteldelmonte-tickets.com", "url": "https://www.casteldelmonte-tickets.com/about-castel-del-monte/" },
+    { "title": "Why is Castel del Monte octagonal? — Archaeology Mysteries", "url": "https://archaeologymysteries.com/2022/02/07/why-is-castel-del-monte-octagonal/" },
+    { "title": "Riccardo da Lentini — Wikipedia (Italian)", "url": "https://it.wikipedia.org/wiki/Riccardo_da_Lentini" },
+    { "title": "Frederick II, Holy Roman Emperor — Wikipedia", "url": "https://en.wikipedia.org/wiki/Frederick_II,_Holy_Roman_Emperor" },
+    { "title": "Frederick II — Struggle with the papacy — Britannica", "url": "https://www.britannica.com/biography/Frederick-II-Holy-Roman-emperor/Struggle-with-the-papacy" },
+    { "title": "Dome of the Rock — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dome_of_the_Rock" },
+    { "title": "Streptomyces peucetius — Wikipedia", "url": "https://en.wikipedia.org/wiki/Streptomyces_peucetius" },
+    { "title": "Doxorubicin — Myeloma Beacon", "url": "https://myelomabeacon.org/resources/2008/10/15/doxorubicin/" }
+  ],
+  "generatedAt": "2026-09-01T04:13:40Z",
+  "model": "claude-sonnet-5"
+}
