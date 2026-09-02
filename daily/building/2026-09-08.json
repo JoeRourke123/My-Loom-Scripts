@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-08",
+  "subject": {
+    "id": "st-giles-cathedral",
+    "name": "St Giles' Cathedral",
+    "architect": "Various",
+    "year": 1243,
+    "location": "Edinburgh, UK",
+    "country": "UK",
+    "city": "Edinburgh",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/St_Giles_Cathedral_-_01.jpg/1920px-St_Giles_Cathedral_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1200,
+    "source": "https://en.wikipedia.org/wiki/St_Giles%27_Cathedral",
+    "title": "St Giles' Cathedral",
+    "author": "Various"
+  },
+  "title": "He Spent Sixteen Years and His Own Fortune Rebuilding This Church — and Died Three Days Too Soon to See It",
+  "standfirst": "The people who paid to build, rescue and remodel St Giles' over nine centuries were rarely architects and never agreed with each other — a knight buying prayers with a bone from France, a king buying a bishopric nobody wanted, a bookseller spending his own fortune and dying three days before it reopened. Here is who footed each bill, and what it actually bought them.",
+  "sections": [
+    {
+      "heading": "The Bookseller Who Ran Out of Time by Three Days",
+      "body": "On 20 May 1883, William Chambers died at eighty-eight, three days before the church he had spent sixteen years and a large share of his own fortune rebuilding was ceremonially reopened. He had managed to see the reunified interior before he died, just not the service that marked its return. Chambers was not an architect. He had made his money as a publisher — his firm produced Chambers's Encyclopaedia — and had served as Edinburgh's Lord Provost. At a public meeting in the City Chambers on 1 November 1867 he announced he wanted to tear out the internal stone walls that had carved St Giles' into three separate congregations since the sixteenth century, and remake it as ['Scotland's Westminster Abbey'](https://stgilescathedral.org.uk/nineteenth-century-restorations/). It took him until 1872 to get the plans approved and until 1883 to see them finished. Queen Victoria gave £200 to the appeal fund. Most of the rest, across sixteen years of asking, came from Chambers himself. He was buried inside the building two days after it reopened — the last transaction in a relationship between this church and the people who paid for it that had already run for more than four hundred years, and would run for nearly thirty more.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/William_Chambers_03.jpg/960px-William_Chambers_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/William_Chambers_(publisher)"
+    },
+    {
+      "heading": "An Arm Bone from France Bought a Chapel and a Priest for Life",
+      "body": "In 1454, a Lothian knight named William Preston bequeathed St Giles' an arm bone he said had belonged to the church's own patron saint, brought back from France. In gratitude, the [Provost and magistrates built](https://www.gutenberg.org/files/47466/47466-h/47466-h.htm) what became known as the Preston Aisle to house it, complete with a burial marker for Preston himself and an endowed chaplain to sing mass at its altar in perpetuity. Only the Preston family, by tradition, was allowed to carry the relic in procession. It was one purchase among dozens: by the time of the Reformation a century later, St Giles' held as many as [fifty separate altars](https://en.wikipedia.org/wiki/St_Giles%27_Cathedral), most paid for and maintained by individual trade guilds or wealthy townspeople buying their own chaplainries and their own chance at intercession. The town itself had been trying to buy status for the church since 1419, petitioning Rome three times without success before a fresh approach in 1466 finally won collegiate status from Pope Paul II the following year — a provost, a body of canons and choristers, and formal independence from the Bishop of St Andrews. Around the same period, Mary of Guelders, widow of James II, paid to extend the chancel and add its clerestory windows — possibly, per the building's own record, in memory of the husband she had just lost. None of it was coordinated. It was a century of separate people deciding, on their own terms, what this particular building was worth to them.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/MaryofGuelders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Mary_of_Guelders"
+    },
+    {
+      "heading": "Nine Days to Undo a Century of Small Bequests",
+      "body": "On 29 June 1559, the Lords of the Congregation — the Protestant nobles leading Scotland's Reformation — entered Edinburgh without a fight, and within days John Knox had preached his first sermon in St Giles' and been elected its minister. What followed was fast and physical rather than legal: [workmen, helped by sailors](https://en.wikipedia.org/wiki/St_Giles%27_Cathedral), spent nine days clearing out the stone altars and monuments that a century of individual endowments — Preston's among them — had filled the building with. The interior was whitewashed, the pillars painted green, and the Ten Commandments and the Lord's Prayer painted directly onto the walls where the altars had stood. A pulpit went up near the eastern crossing. Preston's arm bone, and whatever plaques and painted arms had marked his family's gift, disappeared in the clearance and were never recovered. The building did not stay settled even in its new form: Mary of Guise, the Catholic regent, briefly had St Giles' reconsecrated that November, and it took a treaty with England and another change of hands before it became a permanently Protestant church again, on 1 April 1560. Everything the medieval city had spent a century buying — chapels, chaplainries, a saint's relic, masses said in perpetuity — was gone inside a single year, and nobody paid any of it back.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Knoxbezaicones.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/John_Knox"
+    },
+    {
+      "heading": "A King Paid for a Cathedral Nobody in Edinburgh Wanted",
+      "body": "On 29 September 1633, Charles I elevated St Giles' to cathedral status, creating a new Bishop of Edinburgh and ordering the internal partitions torn out again so the space could be refitted, in the manner of Durham Cathedral, for a form of worship most of the congregation had spent seventy years being told was popery. The bill came due on 23 July 1637, the first morning the new Scottish prayer book was used in the building. According to the [traditional account](https://en.wikipedia.org/wiki/Jenny_Geddes), a market trader named Jenny Geddes threw her stool at the dean, James Hannay, as he began reading from it, and the congregation followed with bibles, sticks and stones; whether Geddes existed at all is disputed, and Wikipedia's own account of her says outright that some doubt she started the fight or even lived. Real or not, the riot did what riots do — it spread. Within months Scots across the country were signing the National Covenant against the king's changes, and the Covenant led to the Bishops' Wars, the Wars of the Three Kingdoms, and eventually the execution of the king who had ordered the refit in the first place. Charles II tried to reverse the ledger: after the Restoration he reinstalled the Bishop of Edinburgh in 1661 and ordered the reburial of the royalist Marquess of Montrose inside the cathedral he had helped defend. It held until 1689, when the Glorious Revolution ended cathedral status for good and Scotland's bishops left to found their own separate church instead. Nobody, in the end, got what they paid for.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/960px-King_Charles_I_after_original_by_van_Dyck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_I_of_England"
+    },
+    {
+      "heading": "Ten Thousand Pounds from the Treasury to Stop the Walls Falling Outward",
+      "body": "By the 1820s, St Giles' was in trouble that had nothing to do with theology. Shops built against its outer walls were demolished, and what they had been hiding was a building whose [walls were leaning dangerously outwards](https://stgilescathedral.org.uk/nineteenth-century-restorations/) under their own weight. The [Treasury put up £10,000](https://victorianweb.org/art/architecture/churches/25.html) toward repairs, and Edinburgh's Lord Provost engaged the architect William Burn to carry them out between 1829 and 1833. Burn's brief went well beyond stabilisation. He tied the stonework together with iron bars, raised the nave roof, encased the whole exterior in polished ashlar sandstone, and — more controversially — pulled down medieval chapels on the building's southwest side, a plan that had provoked public outcry once already when a previous architect, Archibald Elliot, floated it in 1817. Burn also compressed the west end from two separate congregations' worth of space into one, on the understanding that the city would build the displaced parish churches new homes elsewhere. It was public money spent to buy time, not transformation: the building that emerged in 1833 was structurally sound and largely unrecognisable inside, and still carved up into different denominational compartments — still a working symbol of a church divided against itself. That would be Chambers's problem, forty years later.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Twenty-Four Thousand Pounds Bought a Chapel in Under a Year",
+      "body": "Compare Chambers's sixteen years of asking with what happened in 1906. Ronald Leslie-Melville, 11th Earl of Leven, had already tried to fund a [chapel for the Order](https://en.wikipedia.org/wiki/Thistle_Chapel) of the Thistle inside Holyrood Abbey, setting aside £40,000 for the work in 1905, only for engineers to rule the abbey's ruined nave too unstable to build in. When the Earl died the following year, his sons redirected the money — £22,000 for construction and a further £2,000 as an endowment — offering it outright for a new chapel at St Giles' instead. King Edward VII approved the plan; the architect Robert Lorimer signed his first building contract on 24 August 1909; the foundation stone went down that November; and by autumn 1910, barely a year later, the chapel was structurally complete. It opened formally on 19 July 1911, when George V knighted Lorimer for the work inside it: sixteen carved stalls for the Order's knights, a sovereign's stall and two royal stalls, thirteen metres of vaulted ceiling fitted into a corner site too small, on paper, to hold it. Nobody at St Giles' had to fundraise for the Thistle Chapel, hold a public meeting about it, or wait for a Lord Provost to die before it reopened. One family had the money and one clear idea of what to buy with it, and the gap between that and every earlier chapter of this building's finances is the whole point.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "St Giles' Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/St_Giles%27_Cathedral" },
+    { "title": "Nineteenth Century Restorations — St Giles Cathedral", "url": "https://stgilescathedral.org.uk/nineteenth-century-restorations/" },
+    { "title": "Four Churches in One — St Giles Cathedral", "url": "https://www.stgilescathedral.org.uk/new-page-5" },
+    { "title": "Jenny Geddes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jenny_Geddes" },
+    { "title": "Thistle Chapel — Wikipedia", "url": "https://en.wikipedia.org/wiki/Thistle_Chapel" },
+    { "title": "St Giles' Cathedral — Victorian Web", "url": "https://victorianweb.org/art/architecture/churches/25.html" },
+    { "title": "St. Giles' Cathedral and its Royal History — Historic Environment Scotland Blog", "url": "https://blog.historicenvironment.scot/2022/09/st-giles-cathedral-and-its-royal-history/" },
+    { "title": "Edinburgh, by Rosaline Masson — Project Gutenberg", "url": "https://www.gutenberg.org/files/47466/47466-h/47466-h.htm" }
+  ],
+  "generatedAt": "2026-09-02T04:13:30Z",
+  "model": "claude-sonnet-5"
+}
