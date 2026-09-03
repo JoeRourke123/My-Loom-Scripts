@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-09",
+  "subject": {
+    "id": "sainte-chapelle",
+    "name": "Sainte-Chapelle",
+    "architect": "Unknown",
+    "year": 1248,
+    "location": "Paris, France",
+    "country": "France",
+    "city": "Paris",
+    "style": "Rayonnant Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sainte_Chapelle_-_Upper_level_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 989,
+    "height": 1961,
+    "source": "https://en.wikipedia.org/wiki/Sainte-Chapelle",
+    "title": "Sainte-Chapelle",
+    "author": "Unknown"
+  },
+  "title": "He Paid Three Times More for the Relic Than for the Chapel Built to Hold It",
+  "standfirst": "Louis IX spent 135,000 livres freeing a single crown of thorns from the bankers holding it against a bankrupt emperor's debts, then built a chapel to house it for well under a third of that price. Nobody now agrees on who designed the building, and the trick that keeps its glass walls standing is a set of iron chains nobody sees.",
+  "sections": [
+    {
+      "heading": "A Relic That Cost Three Times What the Chapel Did",
+      "body": "In 1239, Louis IX paid 135,000 livres to free his collection of Passion relics — chiefly the Crown of Thorns — from Baldwin II, the Latin emperor of Constantinople, who had pledged them to creditors to keep his crumbling empire solvent. The [chapel built to hold them](https://en.wikipedia.org/wiki/Sainte-Chapelle) cost 40,000 livres to construct and glaze, start to finish: less than a third of the price of what it contains. It was consecrated on 26 April 1248, the relics carried in with what the record calls great ceremony. Whatever this building is, it was never the expensive part of the transaction.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Emperor Who Sold His Own Church's Treasure",
+      "body": "Baldwin II ruled an empire that existed mostly on paper. The Latin Empire of Constantinople, installed by the Fourth Crusade in 1204, controlled little beyond its own capital by the 1230s, and Baldwin kept it afloat by pawning Byzantine relics to Venetian bankers. Louis paid off that debt and took the Crown of Thorns, then further pieces of the Passion arriving between 1239 and 1241 — [seventeen relics in total](https://en.wikipedia.org/wiki/Relics_of_Sainte-Chapelle), among them a fragment of the True Cross, the Holy Lance and the Mandylion. Pope Innocent IV took the acquisition seriously enough to say it meant Christ had, in effect, crowned Louis with his own crown — language that did real work for a king trying to stand as the central monarch of western Christendom.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Baldwinus2_Courtenay.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Baldwin_II,_Latin_Emperor"
+    },
+    {
+      "heading": "Nobody Signed the Design",
+      "body": "For over a century, guidebooks credited Sainte-Chapelle to Pierre de Montreuil, the best-documented master mason of the age. Modern scholarship has walked that back: one architectural historian states plainly that [the traditional attribution](https://en.wikipedia.org/wiki/Pierre_de_Montreuil) to Montreuil can no longer be maintained. What is actually documented of his career is narrower — a refectory at Saint-Germain-des-Prés between 1239 and 1244, its Lady Chapel from 1245, and finishing Notre-Dame's south transept in the 1260s after Jean de Chelles died — and none of it proves he touched the king's own chapel. In his place, historians have proposed Robert de Luzarches and Thomas de Cormont, the two masons who built [Amiens Cathedral](https://en.wikipedia.org/wiki/Amiens_Cathedral) in succession between 1220 and 1258, or, in Robert Branner's account, an unnamed mason trained in that same Amiens workshop. Four candidates, and not one of them settled.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/0_Amiens_-_Cath%C3%A9drale_Notre-Dame_%281%29.JPG/960px-0_Amiens_-_Cath%C3%A9drale_Notre-Dame_%281%29.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Amiens_Cathedral"
+    },
+    {
+      "heading": "A Glass Wall Held Up by Chains, Not Buttresses",
+      "body": "Sainte-Chapelle carries no flying buttresses — the device every other great Gothic building of the period used to walk the stone's outward thrust down to the ground outside the walls. Instead its upper chapel is [ringed by iron tie-rods](https://www.sainte-chapelle.fr/en/discover/the-radiant-gothic), threaded through the piers roughly at window height, doing in tension what a buttress does in compression, while small interior struts carry what load remains down through the lower chapel. What's left standing on that frame is close to 670 square metres of stained glass, [more than 1,100 biblical scenes](https://www.britannica.com/topic/Sainte-Chapelle) worked into panels that read, from the floor, as walls made of colour rather than stone. The upper chapel rises just 20.6 metres — modest next to what the same ambition did elsewhere: Beauvais Cathedral, reaching for a comparable weightlessness at far greater height, saw its choir vault collapse in 1284. Sainte-Chapelle's restraint is a large part of why it is still standing to be photographed at all.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Beauvais_Cathedral_Exterior_1%2C_Picardy%2C_France_-_Diliff.jpg/960px-Beauvais_Cathedral_Exterior_1%2C_Picardy%2C_France_-_Diliff.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Beauvais_Cathedral"
+    },
+    {
+      "heading": "Grain Store, Then Archive, Then a Rebuild",
+      "body": "The Revolution stripped the chapel of nearly everything it had been built to protect. Its exterior sculpture was smashed, its spire pulled down, and the Grande Châsse — the gold and silver reliquary the relics had been kept in — was melted down. The relics themselves survived because they were handed to the [archbishop of Paris in 1804](https://en.wikipedia.org/wiki/Relics_of_Sainte-Chapelle) rather than following the building into secular use; they still live at Notre-Dame, and were moved to the Louvre for safekeeping after the 2019 fire there. The building itself became storage — by 1828, when [Auguste Pugin sketched it](https://victorianweb.org/art/architecture/vld/1.html), it was holding archives and had still not been touched. Restoration ran from the late 1830s to 1867, passing from Félix Duban to Jean-Baptiste Lassus and Émile Boeswillwald, with a young Eugène Viollet-le-Duc assisting; the current spire, the recreated sculpture, and roughly a third of the glass are all theirs, not the thirteenth century's.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Sainte-Chapelle", "url": "https://en.wikipedia.org/wiki/Sainte-Chapelle" },
+    { "title": "Relics of Sainte-Chapelle", "url": "https://en.wikipedia.org/wiki/Relics_of_Sainte-Chapelle" },
+    { "title": "The Radiant Gothic", "url": "https://www.sainte-chapelle.fr/en/discover/the-radiant-gothic" },
+    { "title": "Pierre de Montreuil", "url": "https://en.wikipedia.org/wiki/Pierre_de_Montreuil" },
+    { "title": "Amiens Cathedral", "url": "https://en.wikipedia.org/wiki/Amiens_Cathedral" },
+    { "title": "La Sainte-Chapelle, Paris, Restored by Eugène-Emmanuel Viollet-le-Duc and Others", "url": "https://victorianweb.org/art/architecture/vld/1.html" },
+    { "title": "Sainte-Chapelle", "url": "https://www.britannica.com/topic/Sainte-Chapelle" }
+  ],
+  "generatedAt": "2026-09-03T04:12:24Z",
+  "model": "claude-sonnet-5"
+}
