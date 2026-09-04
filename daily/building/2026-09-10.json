@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-10",
+  "subject": {
+    "id": "konark-sun-temple",
+    "name": "Konark Sun Temple",
+    "architect": "King Narasimhadeva I",
+    "year": 1250,
+    "location": "Odisha, India",
+    "country": "India",
+    "city": "Odisha",
+    "style": "Kalinga",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1920px-Konarka_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+    "title": "Konark Sun Temple",
+    "author": "King Narasimhadeva I"
+  },
+  "title": "They Saved the Sun Temple by Burying Its Hall Alive, Then Waited 122 Years to Dig It Out",
+  "standfirst": "Facing a collapsing assembly hall in the early 1900s, British engineers chose the crudest fix available: pump the room full of sand and seal the doors. Nobody agrees what brought the temple's tower down in the first place, and the sand meant to save the hall had started failing years before anyone finally opened it again.",
+  "sections": [
+    {
+      "heading": "A Colonial Engineer's Fix Was to Bury the Hall Alive",
+      "body": "By 1900 the *jagamohana* — Konark's assembly hall, and the only substantial part of the temple still standing once its 200-foot tower had come down — was itself in danger of going the same way, and the site was put under formal [conservation efforts of British India-era archaeological teams](https://www.britannica.com/place/Konark-Sun-Temple) for the first time. The fix engineers settled on was blunt. Rather than repair the failing walls, they drilled into the hall and pumped it full of dry river sand until the interior was packed solid, propping the structure from within. One detailed account of the project puts [the sand-filling between 1901 and 1903](https://www.indianeagle.com/traveldiary/konark-sun-temple-sanctum-reopens-after-122-years/), after which the doors were sealed. It was meant as an emergency measure. It became the permanent condition of the building. For the next 122 years — through the creation of the Archaeological Survey of India's stewardship of the site [from 1939 onward](https://www.worldhistory.org/Konarak_Sun_Temple/) and its 1984 listing as a UNESCO World Heritage Site — nobody set foot in the room the temple was originally built to gather people in.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Nobody Agrees What Actually Brought the Tower Down",
+      "body": "The temple's biggest unresolved question is why the tower fell at all. Wikipedia's own summary of the evidence calls the cause [\"unclear and still remains a source of controversy,\"](https://en.wikipedia.org/wiki/Konark_Sun_Temple) listing subsidence, earthquake and lightning as candidates alongside a deliberate sacking by Muslim armies sometime between the 15th and 17th centuries. Popular retellings usually put a name to that last theory — a 16th-century general called Kalapahar — but his own documented campaigns ran from 1567 to 1576, and by his own Wikipedia entry, many of the [legends about him were written down three centuries after he lived](https://en.wikipedia.org/wiki/Kalapahar). A separate folk tradition blames different culprits altogether: Portuguese sailors, said to have torn into the tower to strip out a fifty-two-ton lodestone supposedly built into its summit, powerful enough to swing ships' compasses as they passed the coast. No record of that magnet, or of a raid to remove it, [has ever turned up](https://www.orissapost.com/this-sea-side-indian-temple-could-pull-ships-towards-its-shores/). What both stories agree on is that the building mattered to people at sea: European sailors were calling it the Black Pagoda by 1676, a dark counterpart to the whitewashed Jagannath Temple down the coast at Puri, and used both as landmarks along a flat, hard-to-read shoreline.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Shri_Jagannath_temple.jpg/960px-Shri_Jagannath_temple.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri"
+    },
+    {
+      "heading": "A King Whose Reason for Building It Was Never Written Down",
+      "body": "Narasimhadeva I of the Eastern Ganga dynasty commissioned the temple around 1250, partway through a 26-year reign. Britannica's account suggests he built it to [commemorate a military victory over Muslim forces in Bengal](https://www.britannica.com/place/Konark-Sun-Temple); other historians treat the motive as genuinely open, proposing gratitude for an answered wish, a conquest, or simply devotion to Surya bound up with royal ambition — [the record does not settle it](https://www.worldhistory.org/Konarak_Sun_Temple/). What is settled is the engineering he paid for. The temple was carved as a chariot for the sun god, drawn by seven horses of which only one survives, riding on 24 wheels arranged in 12 pairs — one for each month. Each wheel is close to 3.7 metres across with eight spokes, and functions as a working sundial, precise enough to read the time to the minute. The primary stone is khondalite, comparatively soft and porous for a building of this scale, with finer chlorite reserved for doorframes and sculpture and laterite used underground for the foundations — a materials choice more than one source connects to the tower's long decline.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Narasingha_deva.jpg/960px-Narasingha_deva.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Narasingha_Deva_I"
+    },
+    {
+      "heading": "The Fix That Needed Fixing",
+      "body": "Sand does not stay put. A structural study of the sealed hall in 2019 found that the packed fill had settled over its first century inside the building, opening a gap of roughly seventeen feet between the sand and the masonry it was supposed to be supporting. The safety measure installed in 1901 had quietly become a liability nobody had checked in more than a hundred years. The [Archaeological Survey of India weighed two options](https://iasscore.in/current-affairs/prelims/asi-to-remove-sand-from-interior-of-konark-sun-temple): pump in fresh sand to close the gap, or remove the fill entirely and find another way to hold the walls up. Choosing between them meant answering a question the 1901 engineers never had to: what, precisely, was under all that sand.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What Came Out When They Finally Opened the Door",
+      "body": "The answer came from a joint project between the Archaeological Survey of India and IIT Madras, which used zero-vibration, diamond-core drilling and laser scanning to map the chamber before touching it, then began [removing the sand by hand rather than by force](https://edunovations.com/currentaffairs/national/odisha/konark-sun-temple-restoration-project/). What emerged was a ten-foot black chlorite idol of Surya, crowned with seven horses, still standing where the Eastern Ganga masons left it, along with ritual lamps, shells, and [more than a hundred carved panels](https://www.indianeagle.com/traveldiary/konark-sun-temple-sanctum-reopens-after-122-years/) of dancers, warriors and daily life. Structural gaps were repaired with traditional lime-surkhi mortar rather than modern cement, and a ventilation system was fitted before the chamber was reopened — the first time in 122 years that anyone had stood in the room the temple was built to hold people in.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Surya_with_Adityas_and_attendants.jpg/960px-Surya_with_Adityas_and_attendants.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Surya"
+    }
+  ],
+  "sources": [
+    { "title": "Sun Temple of Konark — Britannica", "url": "https://www.britannica.com/place/Konark-Sun-Temple" },
+    { "title": "Konarak Sun Temple — World History Encyclopedia", "url": "https://www.worldhistory.org/Konarak_Sun_Temple/" },
+    { "title": "Konark Sun Temple — Wikipedia", "url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple" },
+    { "title": "Kalapahar — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kalapahar" },
+    { "title": "Konark Sun Temple Sanctum Reopens After 122 Years — Indian Eagle", "url": "https://www.indianeagle.com/traveldiary/konark-sun-temple-sanctum-reopens-after-122-years/" },
+    { "title": "ASI to Remove Sand from Interior of Konark Sun Temple — IAS Score", "url": "https://iasscore.in/current-affairs/prelims/asi-to-remove-sand-from-interior-of-konark-sun-temple" },
+    { "title": "Konark Sun Temple Restoration Project — Edunovations", "url": "https://edunovations.com/currentaffairs/national/odisha/konark-sun-temple-restoration-project/" },
+    { "title": "This Sea-Side Indian Temple Could Pull Ships Towards Its Shores — OrissaPost", "url": "https://www.orissapost.com/this-sea-side-indian-temple-could-pull-ships-towards-its-shores/" }
+  ],
+  "generatedAt": "2026-09-04T04:13:31Z",
+  "model": "claude-sonnet-5"
+}
