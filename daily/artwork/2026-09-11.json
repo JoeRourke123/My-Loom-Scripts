@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-09-11",
+  "subject": {
+    "id": "augustus-john/eve-kirk-1940",
+    "title": "Eve Kirk",
+    "artist": "Augustus John",
+    "artistSlug": "augustus-john",
+    "year": 1940,
+    "movement": "Impressionism",
+    "movementLabel": "Impressionism",
+    "imageUrl": "https://uploads7.wikiart.org/images/augustus-john/eve-kirk-1940.jpg",
+    "source": "https://www.wikiart.org/en/augustus-john/eve-kirk-1940",
+    "width": 621,
+    "height": 944,
+    "accent": "#CE8A87",
+    "accentName": "red",
+    "author": "Augustus John"
+  },
+  "title": "The Same Year He Painted Her, She Was Writing to Beg for War Work",
+  "standfirst": "Augustus John painted this portrait of Eve Kirk in 1940, a decade after he had talked up her debut show in print. That same year Kirk, broke and still painting, wrote directly to the government's war-art chief admitting she could not cover her bills. It got her one purchase, not a job.",
+  "sections": [
+    {
+      "heading": "He Praised Her Debut Ten Years Before He Painted Her",
+      "body": "Eve Kirk trained at the Slade School of Fine Art from 1919 to 1922, then spent time in France, Italy and Greece before her first solo show, at the Paterson Gallery in 1930. Augustus John, by then Britain's best-known portrait painter, wrote the catalogue introduction. He said she had, with [\"a curious swiftness and certainty,\"](https://en.wikipedia.org/wiki/Eve_Kirk) [\"captured a method, a technique\"](https://en.wikipedia.org/wiki/Eve_Kirk) for painting the street scenes and marketplaces of the towns she had travelled through. That is a specific, considered judgment about paint-handling, not a puff line for a friend's opening night — John did not need Kirk's show to go well, and the record gives no reason he owed her anything. He simply thought the pictures were good and said so in print. A decade later he set his own name to a portrait of her.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Working Portraitist Who Finished Paintings in an Hour",
+      "body": "By 1940 John had been the country's leading society portraitist for two decades, painting T. E. Lawrence, Thomas Hardy, W. B. Yeats and George Bernard Shaw, working fast and by eye — he described mixing [\"a puddle of paint\"](https://en.wikipedia.org/wiki/Augustus_John) matched to a sitter's complexion and building a likeness from it, often finishing within an hour or two. Critics of the period had already started to say the brilliance of his earlier work had curdled into showmanship. None of that reputation reaches this canvas: there is no exhibition history for it, no sale record, no account of a sitting. It survives as a title, a date and an image, which is a strange amount of silence around a picture by one of the most written-about painters in England.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Augustus_John_by_George_Charles_Beresford_%281902%29_%28NPG_x13487%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Augustus_John"
+    },
+    {
+      "heading": "While He Painted Her, She Was Working as an Air Raid Warden",
+      "body": "The decade between the catalogue essay and the portrait had given Kirk a real, modest career: shows at Arthur Tooth & Sons in 1932 and 1935, an exhibition alongside Paul Nash in 1939. Then the war closed the commercial galleries that had been selling her work. Kirk stayed in London through the Blitz, serving as an Air Raid Precautions warden while she kept painting, turning her attention to bomb-damaged streets and to St Paul's Cathedral after the incendiary raid of 29–30 December 1940 that came to be called the second Great Fire of London. She was working two jobs in a city under nightly bombardment, and 1940 is the year on both this portrait and that shift in her subject matter.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heinkel_He_111_over_Wapping%2C_East_London.jpg/960px-Heinkel_He_111_over_Wapping%2C_East_London.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/The_Blitz"
+    },
+    {
+      "heading": "She Wrote to the Government Asking to Be Paid to Paint Ruins",
+      "body": "In December 1940 Kirk wrote directly to Sir Kenneth Clark, director of the National Gallery and chairman of the War Artists' Advisory Committee, the body Clark had set up to keep painters working — and off the front line — by commissioning records of the war. Kirk told him that selling pictures to British and American collectors [\"in perhaps six months or a year\"](https://collections.rafmuseum.org.uk/collection/object/object-6985/) would do nothing for her [\"immediate financial difficulties.\"](https://collections.rafmuseum.org.uk/collection/object/object-6985/) The committee did not make her an official war artist, the salaried status it gave a select group of painters. What it did was buy one of her ruin paintings outright, and list her among the roughly four hundred artists whose work it acquired piecemeal rather than commissioned. It was less than she had asked for, and it kept her working.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Her Ruins Had Already Been Painted Once, in Peacetime",
+      "body": "The bomb-site pictures were not a new subject for Kirk so much as an old one turned violent. Her pre-war work, from the years right after the Slade, was largely topographical: views of Mediterranean towns and, by her own account and others', studies of ancient ruins in Greece and Italy. When London itself began producing ruins, she already had a visual vocabulary for broken stone and cleared ground; St Paul's rising out of rubble was, formally, a subject she had trained for without knowing it. Earlier in 1940 the Pilgrim Trust's Recording Britain scheme, another Clark initiative, had already commissioned her to document threatened buildings and landscapes before the war could take them.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Then the Trail Runs Cold",
+      "body": "Kirk kept working after the war — a show at the Leicester Galleries in 1943, \"Bomb Damage in the City\" in the Royal Academy's National War Pictures exhibition of 1945, a mid-1940s commission to decorate the Roman Catholic Church of the Holy Ghost in Newtown, Powys, and a final London show at the Lefevre Gallery in 1949. Then, in the mid-1950s, she moved to Italy and stopped painting altogether. No source consulted here explains why. She died in Siena in 1969, at around sixty-nine, closing out a working life that ran from a Slade classroom to a bombed cathedral to a stop nobody has recorded the reason for — with a laudatory notice from one of the most famous painters in England attached near either end of it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Eve Kirk — Wikipedia", "url": "https://en.wikipedia.org/wiki/Eve_Kirk" },
+    { "title": "Augustus John — Wikipedia", "url": "https://en.wikipedia.org/wiki/Augustus_John" },
+    { "title": "St Paul's Cathedral by Eve Kirk, oil on canvas — RAF Museum Collections", "url": "https://collections.rafmuseum.org.uk/collection/object/object-6985/" },
+    { "title": "Eve Kirk — Jubilee Galleries", "url": "https://www.jubileegalleries.com/artists/eve-kirk-artist-1900-1969/" },
+    { "title": "Eve Kirk 1900–1969 — Tate", "url": "https://www.tate.org.uk/art/artists/eve-kirk-1415" },
+    { "title": "War Artists' Advisory Committee — Wikipedia", "url": "https://en.wikipedia.org/wiki/War_Artists%27_Advisory_Committee" }
+  ],
+  "generatedAt": "2026-09-05T03:10:00Z",
+  "model": "claude-sonnet-5"
+}
