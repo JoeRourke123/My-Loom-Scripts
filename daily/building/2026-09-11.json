@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-11",
+  "subject": {
+    "id": "westminster-abbey",
+    "name": "Westminster Abbey",
+    "architect": "Henry de Reyns",
+    "year": 1272,
+    "location": "London, UK",
+    "country": "UK",
+    "city": "London",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/1920px-Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 3217,
+    "source": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+    "title": "Westminster Abbey",
+    "author": "Henry de Reyns"
+  },
+  "title": "The Widow the King Locked in the Tower to Help Pay for His Abbey",
+  "standfirst": "Henry III's Gothic rebuilding of Westminster ran to something like £50,000, and one of its largest single payments came from a Jewish widow held as security until she settled it. Nobody can even agree on the nationality of the man he hired to design the building she helped pay for.",
+  "sections": [
+    {
+      "heading": "A Widow Was Held Hostage Until the Bill Was Settled",
+      "body": "David of Oxford, reckoned the richest Jew in England, died in February 1244 having divorced his first wife two years earlier, with Henry III's own encouragement, to marry Licoricia of Winchester. The Crown moved on his estate before she could settle it herself: officials claimed 5,000 marks as the king's portion, and of that, 4,000 marks — worth around £5,800 by [Westminster Abbey's own tally](https://en.wikipedia.org/wiki/Westminster_Abbey) — were earmarked specifically for the new shrine of Edward the Confessor then rising inside the half-demolished abbey. Licoricia herself was detained in the Tower of London while the sum was fixed, and before her release in September 1244 she was made to add a further £2,500 of her own, by far the largest single donation the building project had yet received. She went on to finance Henry III himself, his queen and Simon de Montfort for another three decades, before she was murdered, unsolved, in her own Winchester home in 1277 — thirteen years before Edward I's [Edict of Expulsion](https://en.wikipedia.org/wiki/Edict_of_Expulsion) ordered every Jew in England to leave the country by 1 November 1290.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/P_Souls_2022.jpg/960px-P_Souls_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Licoricia_of_Winchester"
+    },
+    {
+      "heading": "A King Who Spent a Fortune on One Grave",
+      "body": "Henry III tore down the eleventh-century church his ancestors had built and started again on 6 July 1245, driven by what the abbey's own history calls a special devotion to Edward the Confessor, the Anglo-Saxon king he intended to lie beside. By 1261 he had already spent over £29,000; the final bill, per Wikipedia's own reckoning of the accounts, may have run close to £50,000, though the abbey's official history gives a lower figure of £45,000 — either way, a sum the crown could not simply produce from spare revenue, since building costs of £2,000 to £2,600 recur for single years in the surviving accounts. Up to 400 masons, marblers, carpenters, painters, smiths and glaziers worked the site each summer. Edward the Confessor's bones were finally moved into the new shrine and the church consecrated on 13 October 1269. Henry III did not live to see the whole building finished: he died in 1272, and work stopped with him.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Nobody Can Say for Certain Where the Architect Was From",
+      "body": "The master mason Henry III put in charge of the new abbey from 1245 is known to history only as Henry de Reyns — a name that, on the face of it, means Henry of Reims. Some scholars take that literally and place him among the masons of that French cathedral city; others think he was simply an Englishman who had trained there, since a 1261 charter, written after his death, is the only document to attach the place-name to him at all. What is not disputed is the result: the abbey's new eastern end — the polygonal chapter house begun in 1246, the chancel, the transepts — reads as unmistakably French, echoing [Reims and Amiens Cathedrals](https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/reyns-henry-de) in its rose windows, flying buttresses and radiating chapels, even though most of the men actually cutting the stone were native English craftsmen. Henry de Reyns did not finish the job either: he was replaced around 1253 by John of Gloucester, who was in turn replaced by Robert of Beverley around 1260. Three master masons, one royal patron, and not one of them alive to see the church consecrated.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg/960px-Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Reims_Cathedral"
+    },
+    {
+      "heading": "A Countdown to the End of the World, Laid Into the Floor",
+      "body": "In 1268, Henry III commissioned a different kind of import: an inlaid marble pavement for the space in front of the high altar, made using the Roman technique known as Cosmati work. The abbot, Richard of Ware, arranged for workmen and marble to come from Rome itself, led by a craftsman named Odoricus, to lay porphyry, onyx, serpentine and coloured glass into a geometric pattern roughly 24 feet 10 inches square. Around its edge, brass letters once carried [an inscription](https://www.westminster-abbey.org/history/explore-our-history/cosmati-pavement) giving a date for the end of the world, calculated through the mythical lifespans of assorted animals at 19,683 years from the pavement's own laying — a number that, worked backwards through the same inscription, lines up with 1272, the year Henry III died. Richard of Ware is buried directly beneath the pavement he commissioned; his epitaph, recorded by the chronicler John Flete, notes that he now lies under the very stones he once carried there from Rome.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Grave That Broke the Rule the Whole Building Was Built On",
+      "body": "Every one of these transactions — the widow's forced gift, the king's fortune, the imported marble — bought Westminster Abbey its identity as a royal church, a place built for kings and consecrated by kings to lie among their own kind. That held for 650 years. In 1920, Reverend David Railton, who had spent the war as an army chaplain, wrote to the Dean of Westminster proposing that a single unidentified British serviceman be exhumed from the French battlefields and buried in the abbey among the monarchs it was built to honour. Four unmarked coffins were gathered at a chapel near Arras on 8 November 1920, and a brigadier chosen at random by touch decided which one would travel to London; the other three were reburied without ceremony. The chosen body was carried through Whitehall past the newly unveiled [Cenotaph](https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Warrior) on Armistice Day, flanked into the abbey by a hundred holders of the Victoria Cross, and buried with soil brought from the battlefields themselves under a slab of black Belgian marble — the only stone in the entire building that visitors are asked not to walk on. Nobody, including the officers who chose him, has ever known his name.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/UK-2014-London-The_Cenotaph.jpg/960px-UK-2014-London-The_Cenotaph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/The_Cenotaph"
+    }
+  ],
+  "sources": [
+    { "title": "Westminster Abbey — Wikipedia", "url": "https://en.wikipedia.org/wiki/Westminster_Abbey" },
+    { "title": "Licoricia of Winchester — Wikipedia", "url": "https://en.wikipedia.org/wiki/Licoricia_of_Winchester" },
+    { "title": "Edict of Expulsion — Wikipedia", "url": "https://en.wikipedia.org/wiki/Edict_of_Expulsion" },
+    { "title": "Richard of Ware — Wikipedia", "url": "https://en.wikipedia.org/wiki/Richard_of_Ware" },
+    { "title": "Cosmati Pavement — Westminster Abbey", "url": "https://www.westminster-abbey.org/history/explore-our-history/cosmati-pavement" },
+    { "title": "Henry III — Westminster Abbey", "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/henry-iii" },
+    { "title": "Tomb of the Unknown Warrior — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Warrior" },
+    { "title": "Reyns, Henry de — Encyclopedia.com", "url": "https://www.encyclopedia.com/education/dictionaries-thesauruses-pictures-and-press-releases/reyns-henry-de" }
+  ],
+  "generatedAt": "2026-09-05T04:12:08Z",
+  "model": "claude-sonnet-5"
+}
