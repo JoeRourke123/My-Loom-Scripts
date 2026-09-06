@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-09-12",
+  "subject": {
+    "id": "francis-picabia/a-canal-at-st-mammes",
+    "title": "A Canal at St. Mammes",
+    "artist": "Francis Picabia",
+    "artistSlug": "francis-picabia",
+    "year": null,
+    "movement": "Impressionism",
+    "movementLabel": "Impressionism",
+    "imageUrl": "https://uploads7.wikiart.org/images/francis-picabia/a-canal-at-st-mammes.jpg",
+    "source": "https://www.wikiart.org/en/francis-picabia/a-canal-at-st-mammes",
+    "width": 1223,
+    "height": 1024,
+    "accent": "#CDB984",
+    "accentName": "yellow",
+    "author": "Francis Picabia"
+  },
+  "title": "He Called It Emotion. It Was Copied From a Postcard.",
+  "standfirst": "Francis Picabia forged paintings from his own family's collection at fifteen and sold the originals without being caught. This canal scene, filed today as sincere Impressionism, comes from a few years later — when critics were already accusing his landscapes of being copies, and more than one account says they had a point, just not the one they thought they were making.",
+  "sections": [
+    {
+      "heading": "He Discovered His Vocation by Forging His Own Family's Collection",
+      "body": "At fifteen, Picabia found a quick way to fund his stamp collection: he took a set of Spanish paintings from his family's collection — his father's, by some retellings, his uncle's by others — copied each one, hung his own version in its place, and sold the original. Nobody noticed the swap. \"[When no one had noticed, I discovered my vocation](https://www.tumblr.com/caveartfair/156141510612/6-things-you-didnt-know-about-francis-picabia),\" he said afterward. It is an odd origin story for a painter, because the vocation he names is not painting — it is passing one thing off as another and getting away with it. He kept telling this story about himself for the rest of his life, long after he had built a public career out of doing something close to the same thing, in full view, with an audience of critics watching.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Chose to Paint the Exact Stretch of Canal Sisley Had Already Claimed",
+      "body": "Alfred Sisley settled in Moret-sur-Loing for good and spent his last years walking the town's canal, the Loing, and painting it over and over from slightly different points on the bank — a run of work that includes at least *The Canal du Loing in Winter* (1891) and the view now in the [Musée d'Orsay, donated after his death by friends led by Claude Monet](https://en.wikipedia.org/wiki/The_Canal_du_Loing_%28painting%29). Sisley died in Moret on 29 January 1899, aged fifty-nine, of throat cancer; [Monet and Renoir were among the mourners](https://en.wikipedia.org/wiki/Alfred_Sisley) at his funeral three days later.\n\nPicabia came to this same stretch of water not long afterward, once he had fallen in with two of Camille Pissarro's sons and found Sisley's paintings for himself. He did not choose a different bend of the river, or a different town to make his name in. He painted Saint-Mammès — the water a short walk from where Sisley had just finished painting it, for good, himself.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Alfred_Sisley_-_The_Loing%27s_Canal_-_Google_Art_Project.jpg/960px-Alfred_Sisley_-_The_Loing%27s_Canal_-_Google_Art_Project.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/The_Canal_du_Loing_%28painting%29"
+    },
+    {
+      "heading": "Critics Called It Plagiarism, and a Defender Had to Explain Why It Wasn't",
+      "body": "In 1903, Picabia showed a set of landscapes at the Salon des Indépendants and was [accused, in print, of copying Sisley and the Neo-Impressionist Paul Signac](https://walensky-shop.fr/en/blogs/artist-biography/biography-of-francis-picabia-the-unpredictable-iconoclast-between-dada-machines-and-derision). It stung him badly enough that biographers still cite it as the moment he first understood how hard it is to sound like nobody but yourself in a room already crowded with other people's light effects.\n\nTwo years later, when the dealer Danthon gave him his first solo show at the Galerie Haussmann, the catalogue essay by Léon Roger-Milès praised Picabia for grasping how long it had taken Sisley and Pissarro to master light, rather than treating their technique as a shortcut to it. The critic Louis Vauxcelles went further, granting that \"[there may be suggestions in him of similarities with Pissarro, and especially with Sisley](https://schillerandbodo.com/artists/picabia)\" before drawing a line: \"while so many dishonest followers plagiarize Monet, Sisley, and Pissarro, and steal their effects, M. Picabia, who already possesses a very individual technique, expresses, year after year, a temperament that is his own, and his alone.\" By his second Haussmann show in 1907, Picabia had a line of his own ready: craft, he said, \"[must not be the quest of the painter; he must reproduce the emotion which nature made him feel without the least care for technique](https://schillerandbodo.com/artists/picabia).\"",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Defense Didn't Mention Where the Paintings Actually Came From",
+      "body": "None of that criticism addressed how Picabia was actually making these pictures. Despite the Sisley and Pissarro comparisons, he never took to working outdoors — [\"to Pissarro's horror\"](https://www.tumblr.com/caveartfair/156141510612/6-things-you-didnt-know-about-francis-picabia), by one account — and instead worked from photographic postcards of the French countryside, in some cases [replicating earlier Impressionist paintings outright](https://www.tumblr.com/caveartfair/156141510612/6-things-you-didnt-know-about-francis-picabia) rather than a view he had ever stood in front of. Set against that, Vauxcelles's line between Picabia's \"individual technique\" and the \"dishonest followers\" who plagiarized starts to read less like a description and more like a defense brief. And Picabia's own claim that craft did not matter, that only the emotion nature made him feel counted, starts to sound less like an aesthetic and more like a working method being dressed up as one.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "In 1909, His Own Dealer Tried to Dump the Evidence",
+      "body": "By 1909 Picabia was finished with Impressionism and had begun the run of abstraction, Cubism and eventually Dada that would define the rest of his career, starting with the painting *Caoutchouc*. Danthon did not take the change well. That March, he [cleared his gallery's stock of Picabia's Impressionist paintings in a single sale at the Hôtel Drouot](https://adventuresintheprinttrade.blogspot.com/2011/08/unknown-francis-picabia.html) — something like a hundred pictures, sold off at once. One history of the sale calls it \"[a deliberate attempt to wreck his career](https://adventuresintheprinttrade.blogspot.com/2011/08/unknown-francis-picabia.html).\" Whatever Danthon actually intended, the timing reads as pointed: the same dealer who had spent four years marketing Picabia as an heir to Sisley and Pissarro chose the exact month of his defection to put the whole back catalogue on the block.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hotel_de_ventes_drouot_1a.jpg/960px-Hotel_de_ventes_drouot_1a.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/H%C3%B4tel_Drouot"
+    },
+    {
+      "heading": "The Label on This Canvas Is the Only Part of Picabia That Ever Held Still",
+      "body": "Impressionism, as a project, was supposed to rest on trusting your own eye over any inherited convention — Monet at his easel in the actual weather, not a picture of a picture. Picabia's version of it seems to have depended on exactly the convention it claimed to reject, assembled at a desk from somebody else's photograph. After 1909 he kept moving: Cubism, then Dada, the machine paintings, and eventually a return to a kind of figuration nobody who knew his earlier work expected. A 1928 profile in [ARTnews summed him up](https://www.tumblr.com/caveartfair/156141510612/6-things-you-didnt-know-about-francis-picabia) as \"the grasshopper of contemporary art, leaping lightly from ism to ism and having a very gay time of it.\"\n\nThe corpus that supplies this feature files this canal scene as straightforward Impressionism and records no year for it at all. Given everything else Picabia did with a paintbrush, that gap in the record feels less like an oversight than an accurate description: nobody, including the archive, can quite pin down which version of him painted it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Francis_Picabia%2C_1919%2C_Danse_de_Saint-Guy%2C_The_Little_Review%2C_Picabia_number%2C_Autumn_1922.jpg/960px-Francis_Picabia%2C_1919%2C_Danse_de_Saint-Guy%2C_The_Little_Review%2C_Picabia_number%2C_Autumn_1922.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Francis_Picabia"
+    }
+  ],
+  "sources": [
+    { "title": "Francis Picabia — Wikipedia", "url": "https://en.wikipedia.org/wiki/Francis_Picabia" },
+    { "title": "Alfred Sisley — Wikipedia", "url": "https://en.wikipedia.org/wiki/Alfred_Sisley" },
+    { "title": "The Canal du Loing (painting) — Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Canal_du_Loing_%28painting%29" },
+    { "title": "Francis Picabia: Against Bad Breath and Cathedrals of Shit — ArtReview", "url": "https://artreview.com/francis-picabia-expanding-horizons-feature-martin-herbert/" },
+    { "title": "6 Things You Didn't Know about Francis Picabia, Dadaist Master — Artsy (via Tumblr)", "url": "https://www.tumblr.com/caveartfair/156141510612/6-things-you-didnt-know-about-francis-picabia" },
+    { "title": "About Picabia — Comité Picabia", "url": "https://www.picabia.com/a-propos-de-picabia" },
+    { "title": "Biography of Francis Picabia: The Unpredictable Iconoclast Between Dada, Machines and Derision", "url": "https://walensky-shop.fr/en/blogs/artist-biography/biography-of-francis-picabia-the-unpredictable-iconoclast-between-dada-machines-and-derision" },
+    { "title": "Francis Picabia — Schiller & Bodo", "url": "https://schillerandbodo.com/artists/picabia" },
+    { "title": "The unknown Francis Picabia — Adventures in the Print Trade", "url": "https://adventuresintheprinttrade.blogspot.com/2011/08/unknown-francis-picabia.html" }
+  ],
+  "generatedAt": "2026-09-06T03:11:48Z",
+  "model": "claude-sonnet-5"
+}
