@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-13",
+  "subject": {
+    "id": "salisbury-cathedral",
+    "name": "Salisbury Cathedral",
+    "architect": "Various",
+    "year": 1320,
+    "location": "Salisbury, UK",
+    "country": "UK",
+    "city": "Salisbury",
+    "style": "Early English Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/SalisburyCathedral-wyrdlight-EastExt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1100,
+    "height": 908,
+    "source": "https://en.wikipedia.org/wiki/Salisbury_Cathedral",
+    "title": "Salisbury Cathedral",
+    "author": "Various"
+  },
+  "title": "Christopher Wren Found the Spire Leaning and Told Them Not to Panic",
+  "standfirst": "Salisbury Cathedral's foundations run four feet deep into gravel and groundwater. A century after it was built, someone stacked a 6,500-ton stone spire on top anyway. It has been quietly bending, and quietly held together, ever since.",
+  "sections": [
+    {
+      "heading": "Four Feet of Gravel Is All That's Underneath It",
+      "body": "Near the crossing at Salisbury, a floor tile lifts on a hinge so a guide can dip a stick into the ground beneath the cathedral and show a visitor exactly how close the water sits. Salisbury's foundations run to [just 1.2 metres deep](https://www.salisburycathedral.org.uk/discover/history/the-cathedral-that-moved/) — about four feet — before they hit nothing more than gravel and the water table itself. For the single-storey building the thirteenth-century masons first laid out between 1220 and 1258, that was manageable. It stopped being manageable once someone decided, decades later, to put a 404-foot tower and spire on top of it, adding [6,397 long tons](https://en.wikipedia.org/wiki/Salisbury_Cathedral) to a structure whose footings had never been designed to carry one.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Spire Only Survived Because It Was Never Meant to Fly",
+      "body": "By the seventeenth century the four piers under the crossing were visibly bowing inward under the extra weight, and in August 1668 Christopher Wren was called in to look. His survey found the spire out of true by roughly [0.7 metres](https://www.guideofengland.com/salisbury/Salisbury-cathedral-spire.html) — getting on for two and a half feet — with the piers under enough compression that some feared the whole crossing might give way. Wren's fix was timber tie-beams slung above the crossing and hidden behind a false ceiling; a resurvey in 1980 found the tower had not moved further since. What actually saved Salisbury was its design, not just Wren's carpentry: the spire is built as [rings of masonry](https://www.guideofengland.com/salisbury/Salisbury-cathedral-spire.html), stone tied to stone, rather than the lead-clad timber frames used on its two taller rivals. Lincoln's central spire, once reckoned close to 525 feet, [was blown down in a storm in 1548](https://en.wikipedia.org/wiki/Lincoln_Cathedral); old St Paul's, at up to 489 feet, [was struck by lightning in 1561](https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral), its lead roof and bells melting and pouring onto the nave below. Salisbury only became England's tallest surviving spire because the two spires above it burned and blew away; its own, heavier and slower and never rebuilt with lead, just stayed leaning where Wren left it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wenceslas_Hollar_Old_St_Paul%27s_Cathedral_with_spire.jpg/960px-Wenceslas_Hollar_Old_St_Paul%27s_Cathedral_with_spire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral"
+    },
+    {
+      "heading": "Nobody Can Agree What the Wooden Frame Inside It Is For",
+      "body": "Climb inside the spire and there is still an oak timber frame enclosing the stonework, creaking faintly in a wind. For two centuries the accepted explanation came from the eighteenth-century surveyor Francis Price, who wrote that it had been [\"used as a scaffold while the spire was building\"](https://www.medievalists.net/2014/03/salisbury-spire-scaffold-debate/) — a reading later endorsed by the Victorian scholar Robert Willis and by most twentieth-century researchers who examined it. In 1999 the historian Gavin Simpson argued the opposite: that the frame was never construction scaffolding at all, but centring built after the spire was finished, to help maintain it — meaning the masons might have built upward from the outside, not the inside. A later dendrochronological study of the timbers, led by Dan Miles and Robert Howard, is described by researchers as the fullest case yet for Simpson's version. Nearly three hundred years after Price wrote his sentence, the question of how Salisbury's masons actually built the tallest stone spire in England is still open.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Bishop Called the Old Cathedral 'a Captive on the Hill'",
+      "body": "Salisbury Cathedral exists on its current site because the previous one, at Old Sarum, had become unworkable. The twelfth-century writer Peter of Blois described that hilltop cathedral as [\"barren, dry, and solitary, exposed to the rage of the wind,\"](https://en.wikipedia.org/wiki/Old_Sarum_Cathedral) and the building itself as a captive on the hill where it stood — hemmed in by a royal garrison it depended on and regularly clashed with. King Richard I gave permission to relocate around 1200, but nothing came of it for two decades; it took a further push from Bishop Richard Poore and a papal bull from [Pope Honorius III](https://www.salisburycathedral.org.uk/discover/history/the-cathedral-that-moved/) before the move actually happened. Tradition holds that Poore chose the exact spot by firing an arrow from the old hill and building where it landed — the cathedral's own historians repeat the story without vouching for it — but the documented event is plainer: on 28 April 1220, Poore laid the foundation stones alongside the local nobles William Longespée and Ela of Salisbury, on a water meadow at the point where three rivers meet.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Aerial_photograph_of_Old_Sarum_site%2C_on_departure_from_Old_Sarum_airfield.jpg/960px-Aerial_photograph_of_Old_Sarum_site%2C_on_departure_from_Old_Sarum_airfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Old_Sarum"
+    },
+    {
+      "heading": "The Man Who Kept the Money Also Kept the Site Running",
+      "body": "What let Salisbury go up in a single unbroken 38-year campaign, rather than the stop-start centuries typical of a Gothic cathedral, was less the design than the administration behind it. Elias of Dereham became a canon at Salisbury in 1220 and held the title [Master of the Fabric and Common Funds](https://www.salisburyclosepreservation.org/lectures-essays/elias-of-dereham/) — construction and money run by the same man, on the theory that whoever controlled the funds controlled the project. It was reportedly his fundraising among wealthy contacts, more than any single design decision, that let building continue without a break until his death in 1245; more broadly, canons and vicars across south-east England were each asked to pledge a [fixed annual sum](https://en.wikipedia.org/wiki/Salisbury_Cathedral) until the cathedral was finished, though no ledger survives naming the amounts. Whether Elias was also the building's designer is still argued: one historian, A. Hamilton Thompson, dismissed him as \"just a lawyer and administrator,\" while a later reassessment by Nicholas Vincent leans toward the view that [he might well have had a hand in the cathedral's design](https://www.salisburyclosepreservation.org/lectures-essays/elias-of-dereham/) as well as its books.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Five Years Earlier, the Same Man Delivered the Magna Carta",
+      "body": "Elias of Dereham's other claim on history predates his time at Salisbury. He was present at Runnymede in June 1215 when King John sealed Magna Carta, and was afterward [charged with distributing ten of the thirteen copies](https://www.salisburyclosepreservation.org/lectures-essays/elias-of-dereham/) that were sent out to the counties, later travelling to Oxford to collect six more for further distribution. One of the copies connected to that operation survives at the cathedral he would go on to run for twenty-five years: Salisbury holds [one of only four surviving 1215 originals](https://en.wikipedia.org/wiki/Salisbury_Cathedral), and by the cathedral's own account the best-preserved of them, kept today in the chapter house Elias's own masons built. The administrator who made sure Salisbury's construction fund never ran dry had, five years before he took the job, already made sure England's most consequential document actually reached the places it was meant to bind.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/960px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Magna_Carta"
+    }
+  ],
+  "sources": [
+    { "title": "Salisbury Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Salisbury_Cathedral" },
+    { "title": "The Cathedral That Moved — Salisbury Cathedral", "url": "https://www.salisburycathedral.org.uk/discover/history/the-cathedral-that-moved/" },
+    { "title": "Elias of Dereham — Wikipedia", "url": "https://en.wikipedia.org/wiki/Elias_of_Dereham" },
+    { "title": "Elias of Dereham — Salisbury Close Preservation Society", "url": "https://www.salisburyclosepreservation.org/lectures-essays/elias-of-dereham/" },
+    { "title": "Old Sarum Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Old_Sarum_Cathedral" },
+    { "title": "The Salisbury Spire Scaffold Debate — Medievalists.net", "url": "https://www.medievalists.net/2014/03/salisbury-spire-scaffold-debate/" },
+    { "title": "Spire Salisbury Cathedral — Guide of England", "url": "https://www.guideofengland.com/salisbury/Salisbury-cathedral-spire.html" },
+    { "title": "Old St Paul's Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Old_St_Paul%27s_Cathedral" },
+    { "title": "Lincoln Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lincoln_Cathedral" }
+  ],
+  "generatedAt": "2026-09-07T04:14:13Z",
+  "model": "claude-sonnet-5"
+}
