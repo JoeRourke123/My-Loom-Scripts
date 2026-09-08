@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-14",
+  "subject": {
+    "id": "caernarfon-castle",
+    "name": "Caernarfon Castle",
+    "architect": "James of St George",
+    "year": 1330,
+    "location": "Gwynedd, Wales, UK",
+    "country": "UK",
+    "city": "Gwynedd",
+    "style": "Medieval Castle",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Caernarfon_Castle_1994.jpg/1920px-Caernarfon_Castle_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Caernarfon_Castle",
+    "title": "Caernarfon Castle",
+    "author": "James of St George"
+  },
+  "title": "Two Men Died Trying to Stop What This Castle Was Built to Do",
+  "standfirst": "Edward I modelled Caernarfon's walls on Constantinople to dress a Welsh conquest as a resurrection of empire. Six centuries on, the same stones hosted a televised investiture behind a perspex canopy, hours after two Welsh nationalists died assembling a bomb meant to stop it.",
+  "sections": [
+    {
+      "heading": "The Bomb Went Off the Night Before the Crown",
+      "body": "On the evening of 30 June 1969, Alwyn Jones and George Taylor, both employed by Abergele Urban District Council, carried a home-made device toward the Department of Health and Social Security offices in Abergele, reportedly suspended in a paint pot slung from the end of a ladder. It detonated before they reached the building, killing them instantly. They belonged to one of five cells of [Mudiad Amddiffyn Cymru](https://en.wikipedia.org/wiki/Mudiad_Amddiffyn_Cymru), the paramilitary group waging a bombing campaign against the symbols of English rule in Wales, and had built the device under the direction of its leader, John Jenkins. Accounts differ on the actual target: some hold the pair meant to hit the railway line carrying Charles to his investiture at Caernarfon the next morning, while Jenkins himself always insisted the DHSS offices were the real objective and denied any plan to harm the prince. Jenkins learned of the deaths the following day and told his wife he had supplied the device, calling himself [\"absolutely shattered\"](https://en.wikipedia.org/wiki/John_Barnard_Jenkins) by what had happened. The investiture went ahead on schedule the next morning inside the castle Edward I had built for exactly this kind of ceremony, six hundred and eighty-six years earlier.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/John_Barnard_Jenkins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/John_Barnard_Jenkins"
+    },
+    {
+      "heading": "A Perspex Canopy Bolted Onto a Thirteenth-Century Fortress",
+      "body": "The Queen invited Antony Armstrong-Jones, Earl of Snowdon, to design the ceremony inside the castle he had held the nominal title of Constable of since 1963, six years ahead of the event. Working with the stage designer Carl Toms and the Ministry of Works designer John Pound, Snowdon set a low circular dais of Welsh slate at the centre of the upper ward, under a [transparent Perspex canopy](https://www.homesandantiques.com/antiques/collecting-guides-antiques/design-icons/a-royal-seat-the-prince-of-wales-investiture-chair) moulded with a giant Prince of Wales feather, built shallow and see-through specifically so television cameras could shoot through it. Four thousand chairs went into the ward for the guests: beech frames with plywood seats veneered in olive ash, stained vermilion, upholstered in red Welsh tweed, made by disabled workers at the Remploy factory in Bridgend. After the ceremony they were sold off flat-packed at £12 each; they now change hands for £650 to £950. Snowdon designed his own Constable's uniform for the day too, a high-collared suit in bottle green. Nothing about the staging tried to look medieval. It sat inside walls raised specifically to look like something much older than that.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Welsh Prince's Head Went to London First",
+      "body": "The site had a Welsh prince in it before it had an English king. Llywelyn ap Gruffudd, ruler of Gwynedd, had used the earlier Norman motte-and-bailey castle at Caernarfon on his own visits, according to documents written there during his reign. War broke out again between England and Wales on 22 March 1282; Llywelyn was killed near Builth Wells on 11 December that year, in a skirmish whose exact circumstances even the surviving chronicles disagree on. What happened to what was left of him is not disputed: his head was displayed at Rhuddlan, shown to English troops on Anglesey, then sent to London, where it was set on the city pillory for a day, crowned with ivy, and mounted over the gate of the [Tower of London](https://en.wikipedia.org/wiki/Llywelyn_ap_Gruffudd), where it stayed for fifteen years. Edward marched on through the rest of Gwynedd, and by May 1283, with Dolbadarn Castle taken and Llywelyn's brother Dafydd's resistance broken, he began building at Harlech and Caernarfon almost immediately. The stone castle that stands now was not a defence prepared in advance of a war. It went up on the ground of a war Edward had already won, as the announcement of who had won it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Llywelyn_ap_Gruffudd%2C_Wriothesley_Garter_Book%2C_transparency.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Llywelyn_ap_Gruffudd"
+    },
+    {
+      "heading": "Edward Went Looking for an Emperor's Bones to Prove a Point",
+      "body": "Caernarfon's walls look different from Edward's other Welsh castles: banded in alternating courses of coloured stone, with polygonal rather than round towers. The historian Arnold Taylor argued this was a deliberate echo of the [Walls of Constantinople](https://en.wikipedia.org/wiki/Caernarfon_Castle), an assertion of Byzantine imperial authority tied to a specific Welsh legend, Breuddwyd Macsen Wledig, in which the Roman emperor Magnus Maximus dreams of a fort at the mouth of a river, opposite an island, in a mountainous land — a description Edward's circle read as a prophecy of Segontium, the Roman fort standing right beside the site he chose. According to the chronicle Flores Historiarum, workers building the castle turned up a body during construction that was identified as Magnus Maximus himself, and Edward ordered it reburied with honour in a local church; carved eagles were added to one of the towers to reinforce the imperial link. Not every historian buys the Byzantine reading: Abigail Wheatley has argued more recently that the design drew instead on Roman sites within Britain, aimed at building an Arthurian rather than a Byzantine claim to legitimacy. Both readings agree on the same underlying fact — that a Savoyard mason working for an English king dressed a Welsh conquest in borrowed myth, whichever empire the myth was borrowed from.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Theodosian_Walls_of_Constantinople.jpg/960px-Theodosian_Walls_of_Constantinople.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+    },
+    {
+      "heading": "The People Who Paid for It Were Barred From Living Inside It",
+      "body": "Between 1284, when the Statute of Rhuddlan made Caernarfon a borough, and 1330, when the surviving accounts stop, between £20,000 and £25,000 went into the castle and its connected town walls — more, according to [Caernarfon Castle's own construction record](https://en.wikipedia.org/wiki/Caernarfon_Castle), than had been spent on Dover Castle or Château Gaillard, among the costliest fortifications of the previous century. Houses were cleared from the site to make room for the works, and the displaced residents went uncompensated for three years. The borough charter handed trade privileges and the right to live within the walls to burgesses recruited largely from the English midlands; for around two centuries afterward, the most important administrative posts in Wales stayed closed to Welsh people by custom. Hundreds of labourers dug the moat and foundations regardless of who could later live behind them; timber came down from as far as Liverpool, stone from Anglesey and the surrounding hills. It was, in the plainest sense, a building the Welsh helped build and helped pay for, on ground they had just lost, that then kept most of them out.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "One Autumn Night in 1294, the Whole Thing Nearly Failed",
+      "body": "Roger de Pulesdon, appointed Edward's first sheriff of Anglesey in 1294, was given the job of collecting a new tax on movable property — a fifteenth of everything the Welsh owned. It was, by most accounts, the immediate spark for the revolt that followed: Madog ap Llywelyn, a cousin of the prince whose head had gone to London twelve years earlier, raised Gwynedd against English rule that September, and Pulesdon was [seized and hanged](https://en.wikipedia.org/wiki/Sir_Roger_de_Pulesdon) by Anglesey rebels during a raid on Caernarfon itself. The castle, still a decade from finished, could not stop what came next: Madog's forces took the town, badly damaged the town walls, and found the castle defended by nothing more than a ditch and a temporary barricade. It fell quickly, and everything flammable inside it was set alight. English forces did not retake Caernarfon until the following summer, after which rebuilding the town walls became the priority, finished two months ahead of schedule for £1,195 — nearly half of what the original walls had cost. The castle that would later stand for seven centuries as proof of a conquest had, within its first eleven years, already been captured and burned by the people it was built to rule.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Chancellor Who Ended Up Holding the Keys",
+      "body": "The 1911 investiture of Edward, later Prince of Wales and briefly Edward VIII, was staged at Caernarfon at the specific insistence of David Lloyd George, then Chancellor of the Exchequer and a Welshman raised in Caernarfonshire, who wanted a ceremony in what he called a grand medieval style. It worked well enough that the same location was used again in 1969, and well enough for Lloyd George personally that in 1908, three years before he stood in the ward as the ceremony's chief sponsor, he had already been appointed Constable of the very castle he was about to fill with pageantry — a post he then held until his death in 1945. The chancellor who revived a dormant royal ceremony to bind a restless Wales more closely to the crown became, for the rest of his career, the man legally responsible for the fortress it was staged inside. Sixty-one years and one Constable later, in a castle whose towers had been designed to borrow the authority of a fallen empire, two men who wanted no part of any of it did not live to see whether the next ceremony worked.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David_Lloyd_George.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/David_Lloyd_George"
+    }
+  ],
+  "sources": [
+    { "title": "Caernarfon Castle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Caernarfon_Castle" },
+    { "title": "James of Saint George — Wikipedia", "url": "https://en.wikipedia.org/wiki/James_of_Saint_George" },
+    { "title": "Investiture of the Prince of Wales — Wikipedia", "url": "https://en.wikipedia.org/wiki/Investiture_of_the_Prince_of_Wales" },
+    { "title": "Llywelyn ap Gruffudd — Wikipedia", "url": "https://en.wikipedia.org/wiki/Llywelyn_ap_Gruffudd" },
+    { "title": "Sir Roger de Pulesdon — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sir_Roger_de_Pulesdon" },
+    { "title": "John Barnard Jenkins — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Barnard_Jenkins" },
+    { "title": "Mudiad Amddiffyn Cymru — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mudiad_Amddiffyn_Cymru" },
+    { "title": "The Prince of Wales Investiture Chair — Homes & Antiques", "url": "https://www.homesandantiques.com/antiques/collecting-guides-antiques/design-icons/a-royal-seat-the-prince-of-wales-investiture-chair" },
+    { "title": "Walls of Constantinople — Wikipedia", "url": "https://en.wikipedia.org/wiki/Walls_of_Constantinople" },
+    { "title": "David Lloyd George — Wikipedia", "url": "https://en.wikipedia.org/wiki/David_Lloyd_George" }
+  ],
+  "generatedAt": "2026-09-08T04:15:27Z",
+  "model": "claude-sonnet-5"
+}
