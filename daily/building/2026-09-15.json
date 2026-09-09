@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-15",
+  "subject": {
+    "id": "chapel-bridge-lucerne",
+    "name": "Chapel Bridge Lucerne",
+    "architect": "Unknown",
+    "year": 1333,
+    "location": "Lucerne, Switzerland",
+    "country": "Switzerland",
+    "city": "Lucerne",
+    "style": "Medieval",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/2009_08_24_06262_Lucerne.jpg/1920px-2009_08_24_06262_Lucerne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 945,
+    "source": "https://en.wikipedia.org/wiki/Lucerne",
+    "title": "Chapel Bridge Lucerne",
+    "author": "Unknown"
+  },
+  "title": "Two Officials Stole From Lucerne's Own Treasury for a Decade by Refilling It With Stones",
+  "standfirst": "The tower beside the Chapel Bridge held the city's coin, its prisoners and its torture chamber — and, for ten years, two officials who were meant to be guarding all three. The bridge itself has its own reckoning: who paid to build it, who paid for its paintings when the city couldn't, and who paid to rebuild it after a fire nobody ever explained.",
+  "sections": [
+    {
+      "heading": "The Tower Watched the River for Centuries. It Watched Its Own Treasury Worse.",
+      "body": "The octagonal Wasserturm beside the bridge is older than the crossing itself. Its ground floor was a windowless prison, reached only by lowering prisoners through a hole in the floor above; the room above that did service at different times as an [interrogation chamber](https://www.britannica.com/topic/Kapellbrucke), a municipal archive and the city's treasury. In 1758 it emerged that two state officials had spent ten years [draining that treasury](https://www.kapellbruecke.com/en/stories/the-water-tower-is-a-special-monument/), replacing the coins they took with stones and sand so the strongroom's weight never seemed to change. Between them they got away with more than 50,000 gulden before anyone noticed — the record doesn't say how anyone finally did.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Swiss_Confederacy_%281714%29.svg/960px-Swiss_Confederacy_%281714%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Old_Swiss_Confederacy"
+    },
+    {
+      "heading": "Nobody Can Agree on the Year Lucerne Actually Built the Bridge",
+      "body": "The bridge is dated, on the corpus and in most guides, to 1333. Timber tells a different story: [dendrochronological analysis](https://www.kapellbruecke.com/en/chapel-bridge/) of its beams and corbels puts construction no earlier than 1356, and the earliest document to mention the bridge at all is dated 1367 — at least two decades, possibly more than three, between the date everyone quotes and the date anyone actually wrote down. What isn't disputed is why it went up: it closed the last gap in Lucerne's medieval walls, its bridgeheads anchored by St Peter's Chapel on one bank and a fortified building called the [Freienhof](https://www.luzern.com/en/the-city/sights/top-sights/lucernes-landmarks-the-chapel-bridge-and-its-water-tower), since demolished, on the other, and it runs at an angle across the Reuss rather than straight, with its taller parapet facing the open lake — the direction from which an attack would come.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Spreuerbruecke_Delsener.jpg/960px-Spreuerbruecke_Delsener.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Spreuer_Bridge"
+    },
+    {
+      "heading": "When the Public Purse Ran Dry, the Council Paid for the Paintings Out of Its Own Pocket",
+      "body": "When Lucerne wanted its own legendary history painted onto the bridge, the same treasury that would later be quietly emptied couldn't cover the bill. The city chronicler, Renward Cysat, put the idea to the council in 1599; the council didn't approve it until 1611, and only on the understanding that it be paid for privately. Council members and other wealthy citizens sponsored individual panels, a family typically buying two — one on each side of a gable — with its coat of arms painted alongside. The painter [Hans Heinrich Wägmann](https://www.kapellbruecke.com/en/cycles-of-paintings/the-chapel-bridges-cycle-of-paintings/) carried out most of the roughly 158 triangular panels, and councilman Hans Rudolf von Sonnenberg supplied the verses beneath them: about seventy on the legendary founding of the Swiss Confederacy, the rest split between the lives of the city's two patron saints. Lucerne repeated the model a few years later on the Spreuer Bridge downstream, where a donor-funded [Danse Macabre of 67 panels](https://en.wikipedia.org/wiki/Spreuer_Bridge) went up between 1616 and 1637.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Johann_Heinrich_F%C3%BCssli_018.jpg/960px-Johann_Heinrich_F%C3%BCssli_018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/R%C3%BCtli_Oath"
+    },
+    {
+      "heading": "A Fire Nobody Could Explain Burned Through Half the Bridge in Ten Minutes",
+      "body": "None of that money bought fireproofing. Just before 1 a.m. on 18 August 1993, a resident spotted flames on the bridge; investigators concluded the fire most likely started on a boat moored underneath it, probably from a [discarded cigarette](https://www.kapellbruecke.com/en/stories/a-landmark-is-on-fire/), though the official inquiry closed in July 1994 without ever establishing a cause. Spiderwebs packed into the roof gables caught fast, and half the 205-metre bridge was alight within ten minutes. By the time the fire was contained, roughly two-thirds of the structure was gone, along with 86 of the paintings still hanging on it. The city council approved a full rebuild within months; the bridge reopened on 14 April 1994, eight months after the fire, for [3.4 million Swiss francs](https://www.swissinfo.ch/eng/culture/burnt-into-memory_remembering-the-chapel-bridge-fire/44330760).",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What Reopened in 1994 Wasn't Entirely What Had Burned",
+      "body": "Firefighters and researchers recovered 47 damaged panels from the wreckage. Only 30 could be fully restored; most of what crosses the bridge with visitors today are facsimiles, repainted from old photographs rather than seventeenth-century originals. Sources don't even agree on how many paintings there were to lose — some put the pre-fire total at [111](https://www.kapellbruecke.com/en/chapel-bridge/), others at [147](https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke), out of an original cycle of around 158 — a gap that says as much about four centuries of quiet touch-ups and overpainting as it does about the fire. What did change for good was the bridge's tolerance for risk: smoking is now banned on it, its gables are cleared of webbing on a schedule, and [fire-resistant glass](https://www.kapellbruecke.com/en/stories/a-landmark-is-on-fire/) now separates every pair of paintings from its neighbour.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Kapellbrücke", "url": "https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke" },
+    { "title": "Kapellbrücke | Britannica", "url": "https://www.britannica.com/topic/Kapellbrucke" },
+    { "title": "Remembering the Chapel Bridge fire | SWI swissinfo.ch", "url": "https://www.swissinfo.ch/eng/culture/burnt-into-memory_remembering-the-chapel-bridge-fire/44330760" },
+    { "title": "Chapel Bridge | Bridges of Lucerne", "url": "https://www.kapellbruecke.com/en/chapel-bridge/" },
+    { "title": "A landmark is on fire | Bridges of Lucerne", "url": "https://www.kapellbruecke.com/en/stories/a-landmark-is-on-fire/" },
+    { "title": "The Water Tower is a special monument | Bridges of Lucerne", "url": "https://www.kapellbruecke.com/en/stories/the-water-tower-is-a-special-monument/" },
+    { "title": "The Chapel Bridge's cycle of paintings | Bridges of Lucerne", "url": "https://www.kapellbruecke.com/en/cycles-of-paintings/the-chapel-bridges-cycle-of-paintings/" },
+    { "title": "Chapel Bridge | Lucerne's landmark", "url": "https://www.luzern.com/en/the-city/sights/top-sights/lucernes-landmarks-the-chapel-bridge-and-its-water-tower" },
+    { "title": "Spreuer Bridge", "url": "https://en.wikipedia.org/wiki/Spreuer_Bridge" }
+  ],
+  "generatedAt": "2026-09-09T04:14:07Z",
+  "model": "claude-sonnet-5"
+}
