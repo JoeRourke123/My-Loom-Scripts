@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-09-15",
+  "subject": {
+    "id": "jean-dubuffet/lecciones-botanica",
+    "title": "Lecciones Botanica",
+    "artist": "Jean Dubuffet",
+    "artistSlug": "jean-dubuffet",
+    "year": null,
+    "movement": "Expressionism",
+    "movementLabel": "Expressionism",
+    "imageUrl": "https://uploads3.wikiart.org/images/jean-dubuffet/lecciones-botanica.jpg",
+    "source": "https://www.wikiart.org/en/jean-dubuffet/lecciones-botanica",
+    "width": 665,
+    "height": 800,
+    "accent": "#B9601D",
+    "accentName": "orange",
+    "author": "Jean Dubuffet"
+  },
+  "title": "This Painting Is Dated to the Two Years He Gave Up Painting",
+  "standfirst": "Every catalogue hosting this image dates it to 1924 or 1925, in the raw, untrained style Jean Dubuffet would not name for another two decades. Several of his biographers put him somewhere else entirely: out of the studio and into the family wine trade.",
+  "sections": [
+    {
+      "heading": "The Date Attached to This Canvas Sits Inside the Years He Wasn't Painting",
+      "body": "Search for this image and the same two years follow it everywhere it turns up. The art-sales site Artera [dates it plainly to 1925](https://www.artera.ae/artworks/b9152ba0-1187-4149-92d1-845c06bec6f6), in oil, and describes it as an early example of Dubuffet's rejection of academic tradition. The record behind this feature is more careful than that: it assigns the work no year at all.\n\nThe caution looks justified once you check what else was happening in 1924. According to a biography published by Madrid's Círculo de Bellas Artes, [in 1924 Dubuffet abandoned painting](https://www.circulobellasartes.com/en/biografia/jean-dubuffet/), doubting art's value after years of self-directed study in philosophy and music. He spent six months in Argentina, then returned to Le Havre in 1925 to take over his family's wine business. Britannica's account agrees on the headline fact, if not every detail: [in 1924, he abandoned painting](https://www.britannica.com/biography/Jean-Philippe-Arthur-Dubuffet); by 1930 he was making his living as a wine merchant. Either way, the two years stamped on this canvas are, by biographers' own telling, the two years he had just walked out of the studio.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Paolo_Monti_-_Servizio_fotografico_%28Italia%2C_1960%29_-_BEIC_6341424.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Jean_Dubuffet"
+    },
+    {
+      "heading": "His Own Biographers Can't Agree Where He Was That Year",
+      "body": "Press further and the record stops holding together. The Spanish-language Círculo biography has him in Argentina for six months around 1924, home in Le Havre by 1925, married and running a wine shop in Bercy soon after. The French Wikipedia entry tells a different story: after travelling to Italy and Switzerland convinced that Western painting was dying under its own conventions, [Dubuffet made a business trip to Buenos Aires around 1925 to 1927](https://fr.wikipedia.org/wiki/Jean_Dubuffet), married Paulette Bret in 1927, and didn't fully return to the wine trade's demands on his time until later still. The English Wikipedia entry disagrees with both: it has him travelling to Brazil rather than Argentina, and dates his eventual return to the canvas to 1934, not the early 1940s that Britannica and the Círculo both give.\n\nA magazine profile adds a further complication, reporting that Dubuffet re-established himself in Paris through his thirties before abandoning art a second time in 1937, not returning for good until, as the piece puts it, \"[at the age of 41, did Dubuffet devote himself fully to his art](https://hero-magazine.com/article/187863/how-jean-dubuffet-became-the-father-of-outsider-art)\" — which would put that final turn in 1942. Four accounts, four different continents and decades for the same stretch of a life. If specialists who have spent careers on Dubuffet cannot fix which country he was in or which year he married, a database confidently printing \"1924–1925\" on an otherwise untraceable canvas is not reporting a fact. It is picking a number that sounds like one.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/960px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Buenos_Aires"
+    },
+    {
+      "heading": "The Vocabulary Used to Describe It Hadn't Been Invented Yet",
+      "body": "The Artera listing doesn't just supply a date. It reaches for a whole aesthetic, describing the canvas as embodying Dubuffet's \"art brut\" philosophy, marked by \"a child-like style and naive representation\" that rejects conventional beauty. That vocabulary has a documented birthday, and it is nowhere near 1924 or 1925. Tate's own reference entry on the term dates Dubuffet's founding of the [Compagnie de l'Art Brut to 1948](https://www.tate.org.uk/art/art-terms/a/art-brut) — a category built to cover graffiti, psychiatric patients' work, prison art, children's drawings and self-taught artists, prized as, in Tate's words, the raw expression of a vision \"untrammelled by convention.\"\n\nThat is a coherent idea about a real body of work. It is also an idea Dubuffet did not have, and could not have named, in the years this canvas is dated to. A thirty-year-old commodities merchant on his way to a wine warehouse in Le Havre was not yet the fifty-year-old promoter of an art movement built partly in opposition to his own academic training. Describing a 1925 painting in the language of a 1948 manifesto isn't dating an artwork. It's importing a finished argument backward into a period the argument didn't exist to describe.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/WolfiBandHainLarge.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Outsider_art"
+    },
+    {
+      "heading": "The Same Kind of Study That Named His Movement Also Grades the Archive Poor",
+      "body": "None of this is unique to one painting. WikiArt, the crowdsourced database that hosts the original image this feature is not permitted to reprint, was recently put through an independent data-quality audit by the analytics firm Pebblous. The result, [published as a DataClinic report](https://blog.pebblous.ai/story/dataclinic-report-115-wikiart-story-pb/en/), scored the archive 53 out of 100 — graded \"Poor.\" The report flagged an extreme imbalance between well-documented and thinly documented artists and periods, and singled out clusters of images with unusually low density scores as \"likely labeling errors, collection errors, or edge cases,\" recommending that \"label consistency review should be prioritized.\"\n\nThat is a study of the whole archive, not this one canvas, and it draws no conclusion about Dubuffet specifically. But it establishes something useful: the infrastructure supplying dates and style labels to sites like Artera has already been measured, by people with no stake in any single attribution, and found to make exactly this kind of error at scale. A single unverifiable date on an obscure early work is not an anomaly in that system. It's the expected output.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Honest Answer Is That Nobody Has Shown Their Work",
+      "body": "The one archive built specifically to settle questions like this is the Fondation Jean Dubuffet, which controls authentication of his output and publishes its catalogue in decades' worth of volumes. Checking its own summary of that catalogue turns up nothing about this title — not because the work is confirmed absent, but because [the foundation's page describing its own catalogue of works](https://www.fondationdubuffet.com/categories/la-fondation/missions/catalogue-des-travaux) is, as of this writing, marked in French as still under construction. The institution best placed to confirm or deny a date has not yet published the page that would let anyone check.\n\nThat leaves the Spanish title itself unexplained. \"Lecciones Botanica\" — botany lessons — sits oddly on a canvas attributed to a Le Havre wine merchant's son with no confirmed Spanish-speaking chapter in his life except the six months in Argentina that only one of four biographical accounts mentions, and none connects to this painting directly. Nothing available here proves the attribution wrong. But nothing available here proves it right, either, and the honest position is to say so rather than let a hosting site's confident caption stand in for a source. The specifics attached to this image are not verifiable from what a reasonable search turns up. That gap is the actual subject of this feature — not the brushwork underneath it.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Jean Dubuffet — Lecciones Botanica — Artera", "url": "https://www.artera.ae/artworks/b9152ba0-1187-4149-92d1-845c06bec6f6" },
+    { "title": "Jean Dubuffet — biography — Círculo de Bellas Artes", "url": "https://www.circulobellasartes.com/en/biografia/jean-dubuffet/" },
+    { "title": "Jean Dubuffet — Britannica", "url": "https://www.britannica.com/biography/Jean-Philippe-Arthur-Dubuffet" },
+    { "title": "Jean Dubuffet — Wikipédia (français)", "url": "https://fr.wikipedia.org/wiki/Jean_Dubuffet" },
+    { "title": "Jean Dubuffet — Wikipedia (English)", "url": "https://en.wikipedia.org/wiki/Jean_Dubuffet" },
+    { "title": "How Jean Dubuffet Became the Father of Outsider Art — HERO Magazine", "url": "https://hero-magazine.com/article/187863/how-jean-dubuffet-became-the-father-of-outsider-art" },
+    { "title": "Art Brut — Tate", "url": "https://www.tate.org.uk/art/art-terms/a/art-brut" },
+    { "title": "WikiArt — DataClinic Report 115 — Pebblous", "url": "https://blog.pebblous.ai/story/dataclinic-report-115-wikiart-story-pb/en/" },
+    { "title": "WikiArt — Wikipedia", "url": "https://en.wikipedia.org/wiki/WikiArt" },
+    { "title": "Fondation Dubuffet — Catalogue des travaux", "url": "https://www.fondationdubuffet.com/categories/la-fondation/missions/catalogue-des-travaux" }
+  ],
+  "generatedAt": "2026-09-09T03:10:29Z",
+  "model": "claude-sonnet-5"
+}
