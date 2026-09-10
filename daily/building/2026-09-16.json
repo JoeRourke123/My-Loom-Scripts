@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-16",
+  "subject": {
+    "id": "notre-dame-de-paris",
+    "name": "Notre-Dame de Paris",
+    "architect": "Various",
+    "year": 1345,
+    "location": "Paris, France",
+    "country": "France",
+    "city": "Paris",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/1920px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1057,
+    "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+    "title": "Notre-Dame de Paris",
+    "author": "Various"
+  },
+  "title": "Macron Promised Five Years. Experts Said Fifteen. He Missed by About Eight Months.",
+  "standfirst": "President Macron gave Notre-Dame five years and a soldier to enforce it, over the objections of his own heritage experts. The actual bill was settled by billionaires, tax lawyers and four hundred tonnes of vaporised lead.",
+  "sections": [
+    {
+      "heading": "The Money Arrived Before Anyone Had Costed the Damage",
+      "body": "Within 48 hours of the fire, [Macron addressed the nation](https://www.france24.com/en/20190417-macron-vows-rebuild-notre-dame-five-years) from the Élysée Palace: \"We will rebuild the cathedral even more beautifully and I want it to be finished within five years. And we can do it.\" No engineer had yet confirmed the vaults would hold.\n\nThe money was already moving. Bernard Arnault's family, who control LVMH, pledged 200 million euros; the Pinault family, behind Kering, matched with 100 million; the Bettencourt Meyers family of L'Oréal added another 200 million. The [three families finalised the paperwork](https://www.theartnewspaper.com/2019/09/26/its-official-french-tycoons-finalise-euro300m-donations-for-fire-ravaged-notre-dame) with the Fondation Notre-Dame that September, the gifts structured as staged payments released against completed work rather than a single transfer.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg/960px-Bernard_Arnault_%283%29_-_2017_%28cropped%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Bernard_Arnault"
+    },
+    {
+      "heading": "The Same Family Had Already Banked €518m in Tax Relief for a Museum",
+      "body": "Arnault's pledge came with a caveat: LVMH said it would not claim the standard charitable deduction on it, because the company had already used up its allowance — on the Fondation Louis Vuitton, the museum it had opened in Paris in 2014, which drew [518 million euros in tax relief](https://www.theartnewspaper.com/2019/09/26/its-official-french-tycoons-finalise-euro300m-donations-for-fire-ravaged-notre-dame) against a 790 million euro build. The Pinault family pre-empted the same criticism, announcing before they signed that they would seek no deduction at all.\n\nBoth families then took seats on the government's restoration oversight committee, set up by the culture ministry to monitor how the money it had raised was being spent.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The General Told the Architect to Shut Up. He Never Saw the Roof Finished.",
+      "body": "To hit five years, Macron bypassed France's usual heritage bureaucracy and put [Jean-Louis Georgelin](https://www.theartnewspaper.com/2023/08/21/jean-louis-georgelin-the-general-in-charge-of-the-notre-dame-rebuild-dies-in-hiking-accident) in charge of the site, reporting to him directly — a former chief of staff of the French armed forces with no conservation background. Ten days after the fire, 1,169 architects, conservators and academics [signed an open letter](https://www.theartnewspaper.com/news/leading-conservators-petition-notre-dame) in Le Figaro objecting to both the timeline and the choice of a soldier over a heritage specialist, warning against letting \"a display of efficiency\" erase the complexity the building deserved.\n\nGeorgelin pushed the schedule hard enough that he clashed publicly with the chief architect over how faithfully to rebuild the spire, at one point telling him to shut his mouth; the two later met weekly to keep the project moving regardless. On 18 August 2023 Georgelin died in a hiking accident in the Pyrenees, aged 74 — sixteen months before the cathedral he had driven toward completion reopened.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jean-Louis_Georgelin.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Jean-Louis_Georgelin"
+    },
+    {
+      "heading": "Carpenters Relearned How to Swing an Axe to Make the Deadline",
+      "body": "The roof frame that burned — a lattice of thirteenth-century oak beams known as \"the forest\" — could not be rebuilt with power tools and still count as restoration. Contractors [selected roughly 1,300 oak trees](https://www.theartnewspaper.com/2024/12/02/green-wood-axes-and-oaks-how-ancient-skills-helped-to-raise-notre-dames-new-roof) from forests across France, chosen to the same specification medieval foresters used: straight, slender, free of defects. More than sixty carpenters, including international volunteers, hand-hewed the green wood with axes rather than saws, while digital modelling tracked how each beam would shrink as it dried. Rémy and Loïc Desmonts, the father-and-son team leading one of the two workshops, said the point was to put \"the hand and the person at the heart of the work.\" The full frame was standing again by March 2024.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Dornstetten-p01_crop.JPG/960px-Dornstetten-p01_crop.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Timber_framing"
+    },
+    {
+      "heading": "He Missed the Deadline. Everyone Else Was Wrong by a Decade.",
+      "body": "Not everyone believed five years was achievable. [Pierluigi Pericolo](https://www.pbs.org/newshour/world/doubts-rise-over-macrons-5-year-plan-to-rebuild-notre-dame), a conservation architect who had worked on a fire-damaged basilica in Nantes, put the real figure at fifteen years — \"a colossal task\" — and said stability checks alone could take up to five. Mark Jarzombek, an MIT professor of architectural history, called the promise [\"political showmanship,\"](https://www.bisnow.com/news/national/construction-development/building-experts-say-notre-dame-restoration-is-possible-just-not-in-macrons-5-year-timeline-98567) arguing the timeline should be a technical question, not a political one.\n\nNotre-Dame reopened on 7 December 2024 — about eight months past the anniversary Macron had named. [Archbishop Laurent Ulrich struck the doors](https://en.wikipedia.org/wiki/Reopening_of_Notre-Dame_de_Paris) three times with a crosier carved from a beam that had survived the fire, and roughly fifty heads of state watched them open.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Four Hundred Tonnes of Lead Did Not Wait for the Restoration Committee",
+      "body": "The roof and spire had been sheathed in lead, and the fire vaporised an estimated [400 tonnes of it](https://www.france24.com/en/20190729-france-paris-notre-dame-fire-file-lawsuit-lead-poisoning-dange-robin-des-bois) into dust that settled over the surrounding streets. It took authorities two weeks to issue guidance on avoiding contamination, and three months to publish a public map of where it had landed. One nearby site tested at 698 micrograms per square metre — nearly ten times the recognised danger threshold — and two schools closed that July.\n\nThe environmental group Robin des Bois sued the French state that same month, accusing officials of \"wrongful failure\" and of knowingly endangering residents by acting too slowly. In the weeks that followed, 162 children in Paris were tested for lead exposure — the restoration's least photographed casualty.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "'We will rebuild': Macron vows to restore Notre-Dame within five years — France 24", "url": "https://www.france24.com/en/20190417-macron-vows-rebuild-notre-dame-five-years" },
+    { "title": "It's official: French tycoons finalise €300m donations for fire-ravaged Notre Dame — The Art Newspaper", "url": "https://www.theartnewspaper.com/2019/09/26/its-official-french-tycoons-finalise-euro300m-donations-for-fire-ravaged-notre-dame" },
+    { "title": "Notre Dame: former Met director Philippe de Montebello among 1,000 experts urging Macron not to rush restoration — The Art Newspaper", "url": "https://www.theartnewspaper.com/news/leading-conservators-petition-notre-dame" },
+    { "title": "Jean-Louis Georgelin, the general in charge of the Notre Dame rebuild, dies in hiking accident — The Art Newspaper", "url": "https://www.theartnewspaper.com/2023/08/21/jean-louis-georgelin-the-general-in-charge-of-the-notre-dame-rebuild-dies-in-hiking-accident" },
+    { "title": "Green wood, axes and oaks: how ancient skills helped to raise Notre-Dame's new roof — The Art Newspaper", "url": "https://www.theartnewspaper.com/2024/12/02/green-wood-axes-and-oaks-how-ancient-skills-helped-to-raise-notre-dames-new-roof" },
+    { "title": "Doubts rise over Macron's 5-year plan to rebuild Notre Dame — PBS NewsHour", "url": "https://www.pbs.org/newshour/world/doubts-rise-over-macrons-5-year-plan-to-rebuild-notre-dame" },
+    { "title": "Building Experts Say Notre Dame Restoration Is Possible — Just Not In Macron's 5-Year Timeline — Bisnow", "url": "https://www.bisnow.com/news/national/construction-development/building-experts-say-notre-dame-restoration-is-possible-just-not-in-macrons-5-year-timeline-98567" },
+    { "title": "Reopening of Notre-Dame de Paris — Wikipedia", "url": "https://en.wikipedia.org/wiki/Reopening_of_Notre-Dame_de_Paris" },
+    { "title": "Group files lawsuit over lead poisoning danger from Notre-Dame blaze — France 24", "url": "https://www.france24.com/en/20190729-france-paris-notre-dame-fire-file-lawsuit-lead-poisoning-dange-robin-des-bois" }
+  ],
+  "generatedAt": "2026-09-10T04:13:21Z",
+  "model": "claude-sonnet-5"
+}
