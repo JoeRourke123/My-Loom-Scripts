@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-17",
+  "subject": {
+    "id": "hampi-ruins",
+    "name": "Hampi Ruins",
+    "architect": "Unknown",
+    "year": 1350,
+    "location": "Karnataka, India",
+    "country": "India",
+    "city": "Karnataka",
+    "style": "Vijayanagara",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg/1920px-Hampi%2C_India%2C_View_of_Hampi_Bazaar_from_Matanga_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Hampi_%28town%29",
+    "title": "Hampi Ruins",
+    "author": "Unknown"
+  },
+  "title": "An Army Emptied This City in 1565. A Government Order Emptied It Again in 2011, to Restore the City the Army Destroyed",
+  "standfirst": "In 2011 officials gave the residents of Hampi's medieval bazaar a few hours' notice before the bulldozers came, citing a court order that turned out not to exist. It was not the first time this site had been cleared of the people living in it.",
+  "sections": [
+    {
+      "heading": "A Government Order Cleared the Bazaar Overnight, Citing a Ruling That Did Not Exist",
+      "body": "On 28 July 2011 the deputy commissioner of Bellary district told residents of the Hampi bazaar that their homes and shops would be demolished the next morning. The notice went out after five that evening, too late for anyone to contest it in court — which turned out not to matter, since the court order cited as justification did not exist. Around three hundred people were living in and around the mandapas lining the approach to the Virupaksha temple, some of them for generations; the Archaeological Survey of India, which had taken formal control of the site the year before, had already ruled them squatters with no legal standing, their homes and stalls \"illegal encroachments.\" The stated goal was to return a market street that once ran nearly half a mile to something closer to its fifteenth-century condition — the very period that made the site worth protecting. The archaeologists John Fritz and George Michell, who had surveyed Hampi for decades, judged the result [callous, not least because the local population](https://www.archaeology.org/issues/53-1211/letter-from/247-india-living-heritage-at-risk) was never consulted about the decision.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Twenty-Four Kilometres of Aqueduct Solved the Capital's Only Real Problem",
+      "body": "When Devaraya I took the Vijayanagara throne in 1406, his capital had one structural flaw no wall could fix: it sat on dry granite above a river it could not reach, and [the scarcity of water, both for drinking and irrigation, was restricting the growth](https://en.wikipedia.org/wiki/Deva_Raya_I) of the city he had inherited. His fix, around 1410, was a barrage across the Tungabhadra feeding a canal-cum-aqueduct twenty-four kilometres long, lifting water uphill into the city. It worked. By 1420 the Italian traveller Niccolò Conti was describing a ruler who could field [ninety thousand men fit to bear arms](https://en.wikipedia.org/wiki/Deva_Raya_I) — an army raised, in part, on the strength of a water supply a generation earlier hadn't existed — inside walls he judged [sixty miles in circumference](https://en.wikipedia.org/wiki/Medieval_city_of_Vijayanagara). Later visitors described a city threaded with rivulets running through channels of cut stone, polished and even. Parts of that same engineering were still doing their job five centuries on, when the modern Tungabhadra Dam project absorbed them into its own works in the 1950s.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Tungabhadra_dam_all_gates_open.jpg/960px-Tungabhadra_dam_all_gates_open.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Tungabhadra_Dam"
+    },
+    {
+      "heading": "Rubies and Diamonds Were Sold in the Open Street, Two Visitors Wrote Home in Disbelief",
+      "body": "Two visitors, arriving a lifetime apart, wrote home as though they doubted they'd be believed. In 1443 the Persian ambassador Abdur Razzaq spent eight months in the city and reported that [the jewellers sell publicly in the bazaars](https://www.hampionline.com/history/abdurrazzak.php) pearls, rubies, emeralds and diamonds, trade by trade in bazaars he called extremely long and broad. He was shown a royal throne \"made of gold, and enriched with precious stones of extreme value,\" and cellars of bullion \"filled ... forming one mass.\" Elsewhere he wrote that [the pupil of the eye](https://en.wikipedia.org/wiki/Medieval_city_of_Vijayanagara) had never seen a place like it. Seventy-seven years later the Portuguese trader Domingo Paes walked a street where, he wrote, \"[you will find all sorts of rubies, and diamonds, and emeralds, and pearls](https://www.hampionline.com/history/domingo.php), and seed-pearls, and cloths, and every other sort of thing there is on earth,\" and called Vijayanagara the best provided city in the world. Both men had crossed a continent, in different centuries, to reach a market neither could describe without sounding as if he were exaggerating.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Portuguese Engineer Built the King's New Lake. It Failed Within a Generation.",
+      "body": "A century after Devaraya's aqueduct, Krishnadevaraya wanted water for a favourite new suburb, Nagalapura, built around a residence outside the old walls. For this one, the empire imported expertise: the [governor-general of Goa lent him](https://hampi.in/a-forgotten-empire-chapter-12) a Portuguese engineer, João de la Ponte, to help build what the chronicler Fernão Nuniz called an enormous dammed lake at the capital. Domingo Paes saw the works under way on his own visit around 1520. What struck the historian Robert Sewell, translating Nuniz a century later, was a detail he couldn't verify but wouldn't omit: another source, he wrote, confirmed Nuniz's story as to [the sixty human beings offered in sacrifice](https://hampi.in/a-forgotten-empire-chapter-12) to secure the dam. True or not, the lake did not repay whatever price was paid for it — within a few decades it had failed and dried out, and its embankment survives today only as the road bed carrying traffic south out of Hospet.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg/960px-Chinnadevi%2C_Krishnadevaraya%2C_Tirumaladevi_statues_at_Chandragiri_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Krishnadevaraya"
+    },
+    {
+      "heading": "The Army Burned the Capital for Six Months. The Ground Underneath Tells a Narrower Story.",
+      "body": "On 23 January 1565 a coalition of five Deccan sultanates — [Ahmadnagar, Bijapur, Golconda, Bidar and Berar](https://en.wikipedia.org/wiki/Battle_of_Talikota), bound together by marital diplomacy against a shared rival — destroyed Vijayanagara's army at Talikota and had its regent, Rama Raya, beheaded. In the account that has defined Hampi ever since, the victors camped in the capital for six months afterward and burned every house, temple and habitation for twenty leagues around. It is a vivid story, and an incomplete one. Modern surveys of the site have found [little evidence of damage inflicted beyond](https://en.wikipedia.org/wiki/Battle_of_Talikota) the royal centre itself, and excavation across the wider metropolitan region shows the opposite of a depopulated wasteland: [rural settlements were not fully emptied](https://en.wikipedia.org/wiki/Vijayanagara) after 1565, even as the palace quarter burned. What ended at Talikota was a dynasty's claim on the site, not the site's capacity to feed the people still living on it — a distinction the traditional account has never had much use for.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Golconda_Fort_005.jpg/960px-Golconda_Fort_005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Golconda"
+    },
+    {
+      "heading": "A Bridge Meant to Reconnect the Two Halves of the Empire Killed Eight Men Building It",
+      "body": "Across the river from Hampi stands Anegundi, older than the capital it eventually produced — tradition holds that the brothers Harihara and Bukka sheltered there before founding Vijayanagara nearby. For most of the empire's life the crossing between the two was made in [coracles](https://en.wikipedia.org/wiki/Anegundi), round cane-and-bamboo boats one sixteenth-century traveller said could carry about twenty persons and horses and oxen. In the 1990s the Karnataka government began building something more permanent: a 487.5-metre bridge on fourteen pillars, [budgeted at around Rs 32 crore](https://www.deccanchronicle.com/nation/current-affairs/150317/karnataka-bridge-of-bridges-now-at-anegundi.html). UNESCO put Hampi on its List of World Heritage in Danger in 1999 partly because of it, objecting to the visual intrusion and the traffic it threatened to bring into the protected core; the listing was lifted in 2006 once the state agreed to reconsider the design. Work resumed anyway in early 2009, and that January, while [girders were being laid](https://www.deccanchronicle.com/nation/current-affairs/150317/karnataka-bridge-of-bridges-now-at-anegundi.html), the bridge collapsed, killing eight construction workers. It was carrying traffic by 2017 — the two halves of one long-abandoned empire reconnected, at a cost the tourists who cross it are rarely told.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gagan_Mahal_palace%2C_Anegundi.jpg/960px-Gagan_Mahal_palace%2C_Anegundi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Anegundi"
+    }
+  ],
+  "sources": [
+    { "title": "Hampi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Hampi" },
+    { "title": "Vijayanagara — Wikipedia", "url": "https://en.wikipedia.org/wiki/Vijayanagara" },
+    { "title": "Battle of Talikota — Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Talikota" },
+    { "title": "Deva Raya I — Wikipedia", "url": "https://en.wikipedia.org/wiki/Deva_Raya_I" },
+    { "title": "Domingo Paes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Domingo_Paes" },
+    { "title": "Medieval city of Vijayanagara — Wikipedia", "url": "https://en.wikipedia.org/wiki/Medieval_city_of_Vijayanagara" },
+    { "title": "Anegundi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Anegundi" },
+    { "title": "Hampi History — Abdur Razzaq's account", "url": "https://www.hampionline.com/history/abdurrazzak.php" },
+    { "title": "Hampi History — Domingo Paes's account", "url": "https://www.hampionline.com/history/domingo.php" },
+    { "title": "A Forgotten Empire, Chapter 12", "url": "https://hampi.in/a-forgotten-empire-chapter-12" },
+    { "title": "Letter from India: Living Heritage at Risk — Archaeology Magazine", "url": "https://www.archaeology.org/issues/53-1211/letter-from/247-india-living-heritage-at-risk" },
+    { "title": "Karnataka: Bridge of bridges, now at Anegundi — Deccan Chronicle", "url": "https://www.deccanchronicle.com/nation/current-affairs/150317/karnataka-bridge-of-bridges-now-at-anegundi.html" }
+  ],
+  "generatedAt": "2026-09-11T04:15:09Z",
+  "model": "claude-sonnet-5"
+}
