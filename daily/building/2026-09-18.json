@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-18",
+  "subject": {
+    "id": "leaning-tower-of-pisa",
+    "name": "Leaning Tower of Pisa",
+    "architect": "Bonanno Pisano",
+    "year": 1372,
+    "location": "Pisa, Italy",
+    "country": "Italy",
+    "city": "Pisa",
+    "style": "Romanesque",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/1920px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2232,
+    "source": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+    "title": "Leaning Tower of Pisa",
+    "author": "Bonanno Pisano"
+  },
+  "title": "The Fix That Finally Worked on the Tower of Pisa Took Eleven Years and Moved Soil by the Litre",
+  "standfirst": "Pisa's bell tower survived a scattershot funding model, a disputed architect, a dictator's failed repair and a wartime near-miss. What actually stopped it falling over was the slowest, least dramatic fix ever attempted on it.",
+  "sections": [
+    {
+      "heading": "A Widow's Sixty Soldi Bought Stone for a Tower Nobody Yet Called Leaning",
+      "body": "On 5 January 1172, a widow named Berta di Bernardo, who lived under the roof of the [Opera di Santa Maria](https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa) — the board that ran the cathedral works — left sixty soldi in her will, earmarked for stone to build the base of a new bell tower. It was a modest sum against a project that would take 199 years to finish and outlast several of the wars fought over the city in between.\n\nThe cathedral standing a hundred metres away had been funded very differently. Its granite Corinthian columns came from the [mosque of Palermo](https://en.wikipedia.org/wiki/Piazza_dei_Miracoli), captured when Pisa's fleet raided the city in 1063, and the whole Piazza dei Miracoli complex was begun the following year on the profits of that campaign. By the time masons broke ground on the campanile in August 1173, the era of paying for a great building with a single naval haul was already behind Pisa. This one would be paid for the slow way, bequest by bequest, for two centuries.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Man Usually Credited as Architect Is Buried at the Foot of His Own Disputed Tower",
+      "body": "Giorgio Vasari, writing almost four hundred years later, credited the tower's design to a Pisan sculptor named Bonanno Pisano. In 1820, workmen digging at the base of the tower found an inscription bearing his name — and, close by, his sarcophagus. It looked like confirmation. But [nobody has established](https://en.wikipedia.org/wiki/Bonanno_Pisano) exactly what Bonanno contributed: whether he drew the original plan or simply worked the site as a master mason among several.\n\nThe firmer evidence of his skill sits elsewhere. He cast a bronze door for Pisa Cathedral's south transept, and, more securely dated, a signed 1185 door for [Monreale Cathedral in Sicily](https://en.wikipedia.org/wiki/Bonanno_Pisano), mixing Byzantine and classical figures across two registers. A 2001 study argued the tower's real designer was a different Pisan altogether, Diotisalvi, pointing to the timing of construction and its resemblance to Diotisalvi's other buildings nearby. Bonanno may simply have had the fortune, or the misfortune, to be buried in the right spot. One later, unverified genealogical claim ties him to a descendant seven centuries on: the American Mafia boss Joseph Bonanno.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pisa_cathedral%2C_door_of_St_Ranier_by_Bonanno_Pisano%2C_late_12th_ct.%2C_detail.jpg/960px-Pisa_cathedral%2C_door_of_St_Ranier_by_Bonanno_Pisano%2C_late_12th_ct.%2C_detail.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Bonanno_Pisano"
+    },
+    {
+      "heading": "The Tower Started Sinking Before Its Third Storey, and a Century of War May Have Saved It",
+      "body": "By 1178, with the tower built up past its second floor on a foundation only three metres deep, sunk into weak, unstable subsoil, the north side had already begun to fall away. Pisa didn't press on. Construction stopped, and not out of structural caution: continuous fighting with Genoa, Lucca and Florence had drained the money and the men needed to keep building.\n\nThat pause happened to last close to a century — long enough for the compressed ground beneath the tower to settle and stiffen before anyone added more weight to it. It was an accident of war, not engineering judgment, that left the tower a foundation actually capable of carrying the rest of it. Work resumed in earnest in 1272 under master builder Giovanni di Simone, who tried to correct for the tilt already there by building each new storey unevenly, taller on one side than the other, which is why the tower doesn't lean in a straight line so much as curve. Fighting stopped him again in 1278 — the same year he began his other major commission in the piazza, the cloistered cemetery of the Camposanto. It would be another forty-one years before the seventh floor was finished, and 1372 before a different Pisano, Tommaso di Andrea, added a Gothic bell chamber on top of a base built a full two architectural generations earlier.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Camposanto_Pisa_100.JPG/960px-Camposanto_Pisa_100.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Camposanto_Monumentale"
+    },
+    {
+      "heading": "Mussolini Called the Lean a National Embarrassment. His Engineers Made It Worse.",
+      "body": "In 1934, Benito Mussolini, who considered the tilt a humiliation for a fascist Italy trying to project strength, ordered engineers to correct it. They drilled 361 holes in the ground around the foundation and pumped in 80 tons of cement grout, intending to solidify the soft soil under the tower's low side and nudge the whole structure back upright.\n\nThe grout did not do what it was meant to. It washed sideways through the sodden clay beneath the foundation, adding weight low down on the very side that was already sinking, and the tower moved further from vertical, not back toward it — by roughly half an inch. Mussolini abandoned the project rather than try again. It was not even the first repair to backfire: an earlier intervention in the 1800s had also left the tilt worse than it found it, which is part of why, when a real fix finally came in the twentieth century, its target was never to straighten the tower, only to wind it back to where it had stood in 1838.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "An American Sergeant Had a Dozen Guns Trained on the Tower and Never Gave the Order",
+      "body": "In August 1944, Staff Sergeant Leon Weckstein of the U.S. 91st Infantry Division was sent to find out whether German troops were using the tower as a spotting post above the Allied advance on Pisa. From an olive grove three-quarters of a mile off, doubling as a minefield, he and his radioman, Tech. Sgt. Charles King, had a battery of cannon — possibly a battleship — waiting on his word.\n\nWeckstein watched for hours through a telescope and saw nothing: no glint of a button, no shifting shadow, [not even a pigeon](https://www.toacorn.com/articles/how-one-man-saved-the-tower-of-pisa/) flying off the top of the tower. He never gave the order; enemy fire eventually drove his position back before he could confirm anything either way. The story usually told afterward is that he spared the tower because he found it too beautiful to destroy. [His own account](https://www.military.com/history/staff-sgt-leon-wechstein.html) is more exact: \"If I had said, 'Fire,' the tower would have been a pile of gravel\" — and he said later he would have given that order anyway, if it had meant saving his men. Returning to the same spot in 1978, he reflected that he could easily have been looking at \"shattered marble ruins\" instead.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Different Tower's Sudden Collapse in Pavia Is the Reason Pisa's Finally Got Fixed",
+      "body": "On the morning of 17 March 1989, the medieval Civic Tower in Pavia, 130 kilometres away, came down without warning, killing four people and burying the street in 8,000 cubic metres of rubble. Ten months later, on 7 January 1990, with Pisa's own tilt having crept to 5.5 degrees, the Italian government closed the tower to the public rather than wait to find out if it would do the same.\n\nAn international committee of thirteen experts, chaired by the British soil-mechanics engineer John Burland, spent the next decade testing fixes and, more often, undoing the damage of the one before. Lead counterweights stacked at the tower's base in 1993 pulled it back 52 arc-seconds but looked terrible and were removed. Freezing the ground with liquid nitrogen in 1995 briefly pushed the tilt the wrong way, a reversal engineers on the project [nicknamed Black September](https://www.pbs.org/wgbh/nova/pisa/interventions2.html). What finally worked, from 1999, was almost absurdly patient: boreholes sunk under the raised north side, drawing out soil at a rate of about five gallons every two days, and letting the tower settle back into the space left behind. Over two years it eased back roughly 45 centimetres, close to its position in 1838. The tower reopened to the public on 15 December 2001. By 2008, engineers were reporting that, for the first time in its history, it had stopped moving at all.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Torre_Civica_di_Pavia.jpg/960px-Torre_Civica_di_Pavia.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Civic_Tower_(Pavia)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Leaning Tower of Pisa — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa"
+    },
+    {
+      "title": "Bonanno Pisano — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bonanno_Pisano"
+    },
+    {
+      "title": "Piazza dei Miracoli — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piazza_dei_Miracoli"
+    },
+    {
+      "title": "Civic Tower (Pavia) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Civic_Tower_(Pavia)"
+    },
+    {
+      "title": "NOVA Online: The Leaning Tower of Pisa — interventions",
+      "url": "https://www.pbs.org/wgbh/nova/pisa/interventions2.html"
+    },
+    {
+      "title": "How This World War II Vet Almost Destroyed the Leaning Tower of Pisa — Military.com",
+      "url": "https://www.military.com/history/staff-sgt-leon-wechstein.html"
+    },
+    {
+      "title": "How One Man Saved the Tower of Pisa — The Acorn",
+      "url": "https://www.toacorn.com/articles/how-one-man-saved-the-tower-of-pisa/"
+    },
+    {
+      "title": "Mussolini tried to straighten the Leaning Tower of Pisa — and failed — History Facts",
+      "url": "https://historyfacts.com/famous-figures/fact/mussolini-tried-to-straighten-the-leaning-tower-of-pisa-and-failed/"
+    }
+  ],
+  "generatedAt": "2026-09-12T04:12:46Z",
+  "model": "claude-sonnet-5"
+}
