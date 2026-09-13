@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-19",
+  "subject": {
+    "id": "alhambra-palace",
+    "name": "Alhambra Palace",
+    "architect": "Various",
+    "year": 1391,
+    "location": "Granada, Spain",
+    "country": "Spain",
+    "city": "Granada",
+    "style": "Nasrid",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/1920px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1065,
+    "source": "https://en.wikipedia.org/wiki/Alhambra",
+    "title": "Alhambra Palace",
+    "author": "Various"
+  },
+  "title": "The Soldier Credited With Saving the Alhambra From French Gunpowder Never Existed",
+  "standfirst": "In September 1812 retreating French troops blew up roughly ten of the Alhambra's towers. The soldier local legend credits with stopping the rest was invented in a guidebook decades later — one of several inventions propping up a palace whose real story runs through tribute paid to enemies, a nervous motto repeated thousands of times, and water that has never once been pumped.",
+  "sections": [
+    {
+      "heading": "The Soldier Everyone Credits With Saving the Alhambra Never Existed",
+      "body": "Every guidebook to the Alhambra repeats the same story: as French troops evacuated the fortress in September 1812, they packed its towers with gunpowder, and a disabled soldier named José García ran between the fuses cutting them one by one, saving the palace from becoming a heap of stone. A plaque in the Alcazaba has honoured him since 1936.\n\nThe trouble is that nobody who has gone looking for García has found him. According to a [detailed investigation](https://www.elindependientedegranada.es/cultura/cabo-jose-garcia-invalido-que-no-existio-ni-impidio-voladura-alhambra) into the legend, the Granada historian Francisco de Paula Valladar spent years combing the city's archives for a birth record, a family, a death notice, a grave — and came away with nothing. The character first appears in print in 1843, in Miguel Lafuente Alcántara's guidebook to the city, as an unnamed, disabled infantryman who cut the fuses joining the mines together. Later writers gave him a name and a biography — a birth year of 1771, a war wound from 1808, a life of poverty — none of it traced to a document. What is actually recorded is that on 15 and 16 September 1812, retreating French forces detonated roughly ten of the complex's towers, concentrated around the Generalife, wrecking structures suspected of storing munitions while leaving the palace rooms themselves standing. Why the demolition went no further than it did was never written down at the time. The plaque naming García as the reason went up in 1936, ninety-three years after his first appearance as a nameless figure in someone else's guidebook.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/SebastianiMarshal.jpg/960px-SebastianiMarshal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Horace_Fran%C3%A7ois_Bastien_S%C3%A9bastiani_de_La_Porta"
+    },
+    {
+      "heading": "The Palace Was Paid For With Money Meant to Keep Its Builders' Enemies Away",
+      "body": "Muhammad I ibn al-Ahmar, the first Nasrid emir, began fortifying the Alhambra after taking Granada in 1238, but his dynasty bought its survival at the price of its independence. Under the Treaty of Jaén in 1246, he became a vassal of Ferdinand III of Castile and agreed to an annual tribute of [150,000 maravedís](https://en.wikipedia.org/wiki/Muhammad_I_of_Granada), a sum that would become one of Ferdinand's most important sources of income. When Granada backed a failed Mudéjar revolt against Castile in the 1260s, the price of peace rose again, to 250,000 maravedís a year under a new settlement at Alcalá de Benzaide.\n\nBuilding a palace complex while paying that scale of tribute to the neighbour it was built to withstand meant squeezing revenue from everywhere else. Muhammad pressed his own tax collectors hard enough that he had Almería's tax-gatherer, Abu Muhammad ibn Arus, executed to enforce his demands, and when the Hafsid ruler of Tunis sent money intended for Granada's defence against the Christians, Muhammad diverted part of it to extend the city's mosque instead. The Alhambra's earliest stones went up funded, in part, by cash that was meant to make sure Granada never needed a palace to defend at all.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fernando_III_de_Castilla_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Ferdinand_III_of_Castile"
+    },
+    {
+      "heading": "A Phrase Carved Thousands of Times Reads Like Anxiety, Not Confidence",
+      "body": "Walk through the Alhambra's surviving halls and one phrase outnumbers every other piece of decoration: wa la ghaliba illa Allah — there is no victor but God. According to [Ibn Abi Zar's account](https://en.wikipedia.org/wiki/Wala_ghaliba_illa_Allah), it began as a battle cry shouted from an Almohad banner at the Battle of Alarcos in 1195, a message that even a victory belonged to God rather than to the men who won it. The Nasrids adopted it first as a personal motto, then as the badge of the whole dynasty, stamping it onto coinage, banners, and above all onto plaster and tile. By [one close reading](https://theandalusianedit.substack.com/p/reading-the-alhambra) of the palace's epigraphy, it appears something like 3,000 times across the complex, making up roughly 60 percent of everything written on its walls.\n\nA boast repeated that often stops sounding like a boast. The Nasrids were the last Muslim rulers left on the Iberian peninsula, squeezed into a strip of the south while Christian kingdoms swallowed everything around them, paying tribute simply to keep existing. Carving the same six words into every room they built reads less like triumph than like a dynasty reminding itself, several thousand times over, why it was still there.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Every Fountain in the Palace Runs Without a Single Pump",
+      "body": "None of the water that fills the Alhambra's pools, baths and famous Court of the Lions fountain has ever been pumped uphill. Nasrid engineers solved that problem with gravity alone. Several kilometres upstream, they built a diversion off the Río Darro — a river fed by snowmelt [off the Sierra Nevada](https://www.exploregranada.org/articles/alhambra-water-system) — and channelled part of it into the Acequia Real, the Royal Canal, engineered to drop by less than one percent over its length as it followed the contour of the hillside down into the fortress. Surveyors are thought to have achieved that gradient with nothing more than plumb bobs and sighting rods.\n\nInside the walls, the water split into smaller channels feeding underground cisterns cut into the rock, with stone and clay pipes running beneath the floors to individual courtyards and fountains, including the twelve carved marble lions that have circulated water at the heart of Muhammad V's palace since around 1380. The system depended so completely on that one intake that when engineers drained and restored the lion fountain between 2012 and 2021, they excavated the same pipe network the original builders had laid — and found it still worked.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Homesick American Writer Turned a Slum Into Spain's Most Visited Monument",
+      "body": "By 1829 nobody would have called the Alhambra a palace anymore. French troops had blown up parts of it in 1812, an earthquake had damaged more of it in 1821, and by the time the American writer Washington Irving arrived that spring, its residential quarters housed dozens of poor squatters rather than royalty. Irving talked his way into an apartment inside the palace itself — his own recent fame from a biography of Columbus was enough to win over the governor and the archbishop — and lived there for about three months with a seventeen-year-old local guide, Mateo Ximenes, gathering the material that became [Tales of the Alhambra](https://en.wikipedia.org/wiki/Tales_of_the_Alhambra), published in 1832. The book did what centuries of Spanish administration had not: it made people outside Spain care whether the building survived.\n\nRestoration followed, though not always faithfully. The architect Rafael Contreras, working from the 1840s, added invented Persian-style domes to the Court of the Lions that had never existed there, before Leopoldo Torres Balbás took charge in 1923 and replaced that romantic guesswork with an excavation-based, scientific approach. UNESCO listed the complex as a World Heritage Site in 1984. The Alhambra now manages close to the opposite problem to the one Irving found: its governing Patronato caps the site at an [annual maximum of 2,763,500 visitors](https://www.hosteltur.com/120956_alhambra-se-acerca-su-aforo-maximo-26-m-visitantes.html) and admits only [300 people every half hour](https://www.alhambra-patronato.es/visitar/preguntas-frecuentes) into the Nasrid Palaces themselves. By [2024 the monument had reached](https://granadaturismoyocio.com/en/alhambra-granada-historic-visitor-record-2024/) 2.72 million visitors for the year, a 6.8 percent rise on the year before and, by its own reckoning, close to 98 percent of everything the fabric Irving wrote about is judged able to bear.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Portrait_of_Washington_Irving_attr._to_Charles_Robert_Leslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Washington_Irving"
+    }
+  ],
+  "sources": [
+    { "title": "Alhambra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Alhambra" },
+    { "title": "El cabo José García, el inválido que no existió ni impidió la voladura de la Alhambra — El Independiente de Granada", "url": "https://www.elindependientedegranada.es/cultura/cabo-jose-garcia-invalido-que-no-existio-ni-impidio-voladura-alhambra" },
+    { "title": "Muhammad I of Granada — Wikipedia", "url": "https://en.wikipedia.org/wiki/Muhammad_I_of_Granada" },
+    { "title": "Wala ghaliba illa Allah — Wikipedia", "url": "https://en.wikipedia.org/wiki/Wala_ghaliba_illa_Allah" },
+    { "title": "Reading The Alhambra — The Andalusian Edit", "url": "https://theandalusianedit.substack.com/p/reading-the-alhambra" },
+    { "title": "Alhambra Water System: How It Works Without Any Pumps — Explore Granada", "url": "https://www.exploregranada.org/articles/alhambra-water-system" },
+    { "title": "Tales of the Alhambra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tales_of_the_Alhambra" },
+    { "title": "The Alhambra of Granada: historic visitor record in 2024 — Granada Turismo y Ocio", "url": "https://granadaturismoyocio.com/en/alhambra-granada-historic-visitor-record-2024/" },
+    { "title": "Preguntas Frecuentes — Patronato de la Alhambra y Generalife", "url": "https://www.alhambra-patronato.es/visitar/preguntas-frecuentes" },
+    { "title": "La Alhambra se acerca a su aforo máximo con 2,6 M de visitantes — Hosteltur", "url": "https://www.hosteltur.com/120956_alhambra-se-acerca-su-aforo-maximo-26-m-visitantes.html" }
+  ],
+  "generatedAt": "2026-09-13T04:14:12Z",
+  "model": "claude-sonnet-5"
+}
