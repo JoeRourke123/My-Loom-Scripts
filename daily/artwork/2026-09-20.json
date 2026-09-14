@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-09-20",
+  "subject": {
+    "id": "pablo-picasso/a-blue-house",
+    "title": "A blue house",
+    "artist": "Pablo Picasso",
+    "artistSlug": "pablo-picasso",
+    "year": null,
+    "movement": "Expressionism",
+    "movementLabel": "Expressionism",
+    "imageUrl": "https://uploads6.wikiart.org/images/pablo-picasso/a-blue-house.jpg",
+    "source": "https://www.wikiart.org/en/pablo-picasso/a-blue-house",
+    "width": 855,
+    "height": 1088,
+    "accent": "#AE7D28",
+    "accentName": "orange",
+    "author": "Pablo Picasso"
+  },
+  "title": "The Movement This Painting Belongs To Hadn't Been Invented Yet",
+  "standfirst": "A database sorts this 1902 Barcelona canvas under Expressionism, a movement that wouldn't have a name for another eleven years. What the thin, occasionally contradictory record around it actually supports is plainer: a broke painter in his early twenties, a rooftop studio above the Raval, a roommate later killed in the Spanish Civil War, and a palette that made him poorer, not richer.",
+  "sections": [
+    {
+      "heading": "The Corpus Filed This Under a Movement That Did Not Exist Yet",
+      "body": "The corpus behind this feature sorts Pablo Picasso's paintings by movement. This one comes back Expressionism. It won't commit to a year, either: the subject record behind this feature leaves the date blank, and every other listing for the picture hedges the same way, to around 1902. Even that loose a window is enough to make the label impossible. Expressionism became an organised movement in 1905, when Ernst Ludwig Kirchner and three other German artists founded [Die Brücke](https://en.wikipedia.org/wiki/Expressionism) in Dresden, and the word itself did not settle into general use until 1913 — more than a decade after this canvas was painted. Picasso was in his early twenties, working in Barcelona, years ahead of a movement that had not yet been invented in Germany. A label bolted onto five centuries of paintings after the fact is not scholarship. It is a drop-down menu with a slot for everything, including things that had not happened yet.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Programm_der_Br%C3%BCcke.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Die_Br%C3%BCcke"
+    },
+    {
+      "heading": "Two Chronologies, Two Different Streets",
+      "body": "The sources on Picasso's own year disagree, which is a fair summary of how well documented 1902 actually is. One chronology has him renting a studio on \"Nueva Street\" that January. A [guide built from Barcelona's own record of Picasso's studios](https://barcelonanavigator.com/picassos-barcelona/) instead places him, at some point that year, on the top floor of Carrer Nou de la Rambla 10, directly opposite Antoni Gaudí's Palau Güell, splitting the room with the sculptor Ángel Fernández de Soto and the painter Josep Rocarol. Neither account resolves the other. What both agree on is what he did with whichever room he had: he pointed it at the rooftops. Barcelona's close-set roofs became one of his recurring subjects that year, worked in the same lowered palette as the beggars and blind men he was painting a few streets over — Blue Period pictures that happen to have buildings in them instead of people.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Palau_G%C3%BCell%2C_Antoni_Gaudi%2C_Barcelona_2.jpg/960px-Palau_G%C3%BCell%2C_Antoni_Gaudi%2C_Barcelona_2.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Palau_G%C3%BCell"
+    },
+    {
+      "heading": "The Roommate Who Never Got a Movement of His Own",
+      "body": "One of the two men Picasso shared that room with is remembered today mostly through Picasso's brush. Wikipedia's entry on [Picasso's portrait of his friend](https://en.wikipedia.org/wiki/Portrait_of_Angel_Fern%C3%A1ndez_de_Soto) — a bar scene, its subject wreathed in pipe smoke with a glass of absinthe in front of him — describes Ángel Fernández de Soto as \"an amusing wastrel.\" The two of them met in 1899 and shared Barcelona studios twice. Fernández de Soto was killed in the Spanish Civil War, more than three decades after he split a top-floor room in the Raval with a painter who was, at the time, no more promising than he was. Rocarol, the third man in that studio, left no comparable trace in the English-language record at all — which is its own small argument about who gets remembered from a scene like this, and why.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/9/9c/Portrait_of_Angel_Fernandez_de_Soto.jpeg/960px-Portrait_of_Angel_Fernandez_de_Soto.jpeg",
+      "imagePage": "https://en.wikipedia.org/wiki/Portrait_of_Angel_Fern%C3%A1ndez_de_Soto"
+    },
+    {
+      "heading": "Getting Poor Was the Result, Not the Cause",
+      "body": "Picasso later said that he \"started painting in blue when I learned of Casagemas's death\" — his friend and former studio-mate, who shot himself in a Paris café on 17 February 1901, after firing first at a model who had turned down his marriage proposal, and who died in hospital that night. It is a tidy origin story with one hole in it: the art historian Hélène Seckel has pointed out that Picasso \"was not there when Casagemas committed suicide in Paris,\" which does not make the grief less real but does make the cause-and-effect looser than the quote implies. Whatever started it, the palette had a cost. One assessment of the period puts it plainly: \"It was not poverty that led him to paint the impoverished outsiders of society, but rather the fact that he painted them that made him poor himself\" — his pictures, \"not merely melancholy but profoundly depressed and cheerless, inspired no affection in the public or in buyers.\" He dropped his first Paris dealer, Pere Mañach, for Berthe Weill in 1902. Neither one could sell this.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Filing Decision, Not a Fact",
+      "body": "None of this makes the painting Symbolist, either, though Symbolism was at least alive in 1902, unlike Expressionism. It makes the picture something plainer and harder to file: a small, unglamorous city view made by a broke young Spaniard two years before Cubism, three years before Die Brücke, and a decade before anyone agreed on a word for either. The corpus needed a drawer, and Expressionism was the nearest one already open. The more honest answer is less tidy — nobody had built the box this painting actually belongs in yet, and in a strict sense, nobody ever quite has.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    {
+      "title": "Picasso's Blue Period — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Picasso%27s_Blue_Period"
+    },
+    {
+      "title": "Expressionism — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Expressionism"
+    },
+    {
+      "title": "Pablo Picasso — 1902 — pablo-ruiz-picasso.net",
+      "url": "https://www.pablo-ruiz-picasso.net/year-1902.php"
+    },
+    {
+      "title": "Guide to Picasso's Barcelona — Barcelona Navigator",
+      "url": "https://barcelonanavigator.com/picassos-barcelona/"
+    },
+    {
+      "title": "Portrait of Angel Fernández de Soto — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Portrait_of_Angel_Fern%C3%A1ndez_de_Soto"
+    },
+    {
+      "title": "Pere Mañach — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pere_Ma%C3%B1ach"
+    },
+    {
+      "title": "Carles Casagemas — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carles_Casagemas"
+    }
+  ],
+  "generatedAt": "2026-09-14T03:07:44Z",
+  "model": "claude-sonnet-5"
+}
