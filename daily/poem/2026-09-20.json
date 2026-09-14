@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-09-20",
+  "subject": {
+    "id": "222090",
+    "title": "Oh, Hope! thou soother sweet of human woes",
+    "author": "Charlotte Smith",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/46566/oh-hope-thou-soother-sweet-of-human-woes",
+    "text": "Oh, Hope! thou soother sweet of human woes!\n      How shall I lure thee to my haunts forlorn!\nFor me wilt thou renew the withered rose,\n      And clear my painful path of pointed thorn?\nAh come, sweet nymph! in smiles and softness drest,\n      Like the young hours that lead the tender year\nEnchantress come! and charm my cares to rest:\n      Alas! the flatterer flies, and will not hear!\nA prey to fear, anxiety, and pain,\n      Must I a sad existence still deplore?\nLo! the flowers fade, but all the thorns remain,\n      'For me the vernal garland blooms no more.'\nCome then, 'pale Misery's love!' be thou my cure,\nAnd I will bless thee, who though slow art sure.",
+    "excerpt": "Oh, Hope! thou soother sweet of human woes!\n      How shall I lure thee to my haunts forlorn!\nFor me wilt thou renew the withered rose,\n      And clear my painful path of pointed thorn?\nAh come, sweet nymph! in smiles and softness drest,\n      Like the young hours that lead the tender year\nEnchantress come! and charm my cares to rest:\n      Alas! the flatterer flies, and will not hear!\nA prey to fear, anxiety, and pain,\n      Must I a sad existence still deplore?\nLo! the flowers fade, but all the thorns remain,\n      'For me the vernal garland blooms no more.'\nCome then, 'pale Misery's love!' be thou my cure,\nAnd I will bless thee, who though slow art sure.",
+    "truncated": false
+  },
+  "title": "Slow, But Not Sure",
+  "standfirst": "Charlotte Smith's sixth sonnet ends by promising that hope, however slow, is sure. Every borrowed line in it comes footnoted to somebody else's grief, and the decades of her own life that followed put that promise to a test it barely passed.",
+  "sections": [
+    {
+      "heading": "A Book Written Its Way Out of a Debtors' Prison",
+      "body": "In December 1783 Benjamin Smith was committed to King's Bench Prison for debt, having already spent at least a third of the £36,000 his own father had left in trust for their children. Charlotte Smith moved into the prison with him. She had been married to him at fifteen, by arrangement of her own father — a decision she [later condemned](https://en.wikipedia.org/wiki/Charlotte_Smith_%28writer%29), saying it had turned her into what she called a \"legal prostitute\" — and had by then borne twelve children, six of whom were already dead. It was inside King's Bench that she finished the manuscript of *Elegiac Sonnets*, printed in 1784 to a success immediate enough to buy their way out. Whether \"To Hope,\" the sixth sonnet in that first edition, was written there, or was one of the six poems already doing the rounds of magazines before Benjamin's arrest, nothing in the record says. What the record does say is that a book containing a sonnet asking Hope to prove herself slow but sure was itself, this once, exactly that.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Microcosm_of_London_Plate_046_-_King%27s_Bench_Prison_edited.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/King%27s_Bench_Prison"
+    },
+    {
+      "heading": "Two Borrowed Lines, Both Footnoted",
+      "body": "Smith's sonnet doesn't just borrow — it cites. Two of its phrases sit inside quotation marks, and in the [printed text each carries a footnote](https://www.eighteenthcenturypoetry.org/works/n22cs-w0060.shtml) naming exactly where it came from, an odd thing to find only six poems into a debut collection.\n\n> Lo! the flowers fade, but all the thorns remain,\n>       'For me the vernal garland blooms no more.'\n\nThe footnote credits [Pope's 1737 imitation](https://www.eighteenthcenturypoetry.org/works/o3682-w0010.shtml) of Horace's first ode of the fourth book, in which an ageing Pope begs Venus to leave him alone, insisting flatly that \"the vernal Garlands bloom no more\" for a man his age — plural garlands, where Smith later makes it one. Pope meant desire running out. Smith takes the same collapse and points it at Hope instead.\n\nThe second borrowing is stranger. \"Come then, 'pale Misery's love!' be thou my cure\" is footnoted to [Shakespeare's King John](https://shakespeare.mit.edu/john/john.3.4.html) — specifically to Constance, a mother who has just learned her son Arthur has been taken prisoner, begging Death, not Hope, to come and hold her: \"Misery's love, O, come to me!\" Smith lifts a widow's invitation to her own death and hands it, almost word for word, to the thing she wants to live for.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Alexander_Pope_by_Michael_Dahl.jpg/960px-Alexander_Pope_by_Michael_Dahl.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Alexander_Pope"
+    },
+    {
+      "heading": "Sixteen Sonnets Become the Standard",
+      "body": "*Elegiac Sonnets* made Smith, almost overnight, the name attached to reviving a form the eighteenth century had largely let go slack. It ran through [nine editions in her lifetime](https://en.wikipedia.org/wiki/Elegiac_Sonnets), growing from the original sixteen sonnets to fifty-nine by 1800, and the journalist John Thelwall would later call her the undisputed English master of the genre. Coleridge credited her, alongside William Lisle Bowles, with starting the sonnet's return to serious use; nearly every major Romantic poet who came after her, William Blake excepted, wrote sonnets in a form she had just made respectable again. None of that reputation depended on anyone reading her closely enough to notice the footnotes. A poet building a debut collection out of borrowed grief, and telling the reader exactly whose grief it was, is doing something more exacting than the reputation for pretty melancholy ever credited her with.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/CharlotteSmith.jpg/960px-CharlotteSmith.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Charlotte_Smith_(writer)"
+    },
+    {
+      "heading": "A Will Muddled by the Man Who Wrote It",
+      "body": "The £36,000 behind all of it came from Benjamin's father, Richard Smith, a West Indian merchant and East India Company director who died in 1776 leaving his grandchildren plantations in Barbados in trust. He wrote the will himself; it was defective, the trustees refused to act, and the case went into [Chancery](https://jasna.org/publications-2/persuasions-online/volume-41-no-2/ford/), where it sat for the better part of forty years. An 1800 valuation of Gay's, the largest of the trust's Barbados holdings, listed 171 enslaved people alongside 257 acres of land and buildings among the estate's assets — the actual source of the figure the family spent decades quoting in pounds. By the time a settlement finally arrived, legal costs and Benjamin's own earlier raid on the estate had cut its value from £36,000 to around £4,000. Scholars have since proposed Smith's case as a possible model for Jarndyce and Jarndyce, the fictional lawsuit that outlasts everyone who brings it in Dickens's *Bleak House*.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cover%2C_Bleak_House_%281852-3%29.png/960px-Cover%2C_Bleak_House_%281852-3%29.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Bleak_House"
+    },
+    {
+      "heading": "Sure, But Seven Years Too Late",
+      "body": "Charlotte Smith married Benjamin Smith on 23 February 1765. He died in a debtors' prison on 23 February 1806 — forty-one years to the day later. His death released some money he owed her directly, but by then her hands were so damaged by what she called gout, probably rheumatoid arthritis, that she [described herself to a friend](https://en.wikipedia.org/wiki/Charlotte_Smith_%28writer%29) as \"literally vegetating, for I have very little locomotive powers beyond those that appertain to a cauliflower.\" She was too ill to do anything with the money. She died eight months after her husband, on 28 October 1806, aged fifty-seven. The Chancery suit over Richard Smith's estate — the one that had shaped her entire adult life — was not settled until 22 April 1813, more than thirty-six years after his death and nearly seven after hers.\n\nSonnet VI ends: \"Come then, 'pale Misery's love!' be thou my cure, / And I will bless thee, who though slow art sure.\" Measured against a debt that took thirty-seven years to arrive, and had shrunk to roughly a ninth of itself by the time it did, that couplet reads less like consolation than like a claim Smith's own life spent decades disproving before it came true — eventually, and far too late to matter to her.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Charlotte Smith (writer) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Charlotte_Smith_%28writer%29" },
+    { "title": "Elegiac Sonnets — Wikipedia", "url": "https://en.wikipedia.org/wiki/Elegiac_Sonnets" },
+    { "title": "Sonnet VI. To Hope — Eighteenth-Century Poetry Archive", "url": "https://www.eighteenthcenturypoetry.org/works/n22cs-w0060.shtml" },
+    { "title": "The First Ode of the Fourth Book of Horace, Alexander Pope — Eighteenth-Century Poetry Archive", "url": "https://www.eighteenthcenturypoetry.org/works/o3682-w0010.shtml" },
+    { "title": "King John, Act 3, Scene 4 — MIT Shakespeare", "url": "https://shakespeare.mit.edu/john/john.3.4.html" },
+    { "title": "Mrs. Smith, Charlotte Smith, and West Indian Property in Persuasion — JASNA Persuasions Online", "url": "https://jasna.org/publications-2/persuasions-online/volume-41-no-2/ford/" }
+  ],
+  "generatedAt": "2026-09-14T02:06:44Z",
+  "model": "claude-sonnet-5"
+}
