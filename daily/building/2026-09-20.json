@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-20",
+  "subject": {
+    "id": "kinkaku-ji",
+    "name": "Kinkaku-ji",
+    "architect": "Ashikaga Yoshimitsu",
+    "year": 1397,
+    "location": "Kyoto, Japan",
+    "country": "Japan",
+    "city": "Kyoto",
+    "style": "Shinden-zukuri",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg/1920px-Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2400,
+    "source": "https://en.wikipedia.org/wiki/Kinkaku-ji",
+    "title": "Kinkaku-ji",
+    "author": "Ashikaga Yoshimitsu"
+  },
+  "title": "The Golden Pavilion's Builder Paid for His Status With a Title His Own Son Refused to Keep",
+  "standfirst": "Ashikaga Yoshimitsu turned a borrowed villa into a stage for outranking the emperor he technically served, funded by a tax on merchants he had invented decades earlier and, later, by a demeaning title from Ming China. His son spent three years dismantling the arrangement, and what stands on the site today is a 1955 copy, rebuilt after a young monk's envy burned the original to the ground.",
+  "sections": [
+    {
+      "heading": "A Failing Aristocrat's Villa Became the Shogun's Second Capital",
+      "body": "In 1397 Ashikaga Yoshimitsu, the third Ashikaga shogun, took over a hillside villa in northern Kyoto from the courtier [Saionji Kintsune](https://www.worldhistory.org/Kinkakuji/), whose family's fortunes had faded, and rebuilt it as Kitayama-dono. He had handed the shogunate to his son three years before and called this retirement. It did not read that way to the people around him: Yoshimitsu kept governing from the new villa, and one account of his life states plainly that he \"continued to pull the strings of Japanese government\" from it, attracting, in its words, \"many illustrious visitors,\" including the reigning Emperor Go-Komatsu himself. A villa built for quiet is an odd place to keep running a country from.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Money Came From a Tax He Had Invented Twenty-Six Years Earlier",
+      "body": "The wealth behind that lifestyle went back further than Kitayama. In 1371, needing funds to cover the costs of an imperial abdication, the young shogun's government began taxing Kyoto's moneylenders and sake brewers, merchants who had previously sat outside the bakufu's direct reach. The office set up to collect it, the Nosenkata, became so central to shogunal income that it was spoken of in the same terms as the bakufu's own landholdings. A one-off wartime levy turned into a permanent institution, and it was this same instinct, squeezing revenue from merchants with no guild to shield them, that underwrote the building projects of Yoshimitsu's reign, Kitayama included.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Received Ming Ambassadors at His Villa, and Paid for It With His Title",
+      "body": "Within a few years of Kitayama's completion, Yoshimitsu sent Japan's first tribute mission to Ming China, [ending, by one account, a six-hundred-year lapse](https://www.britannica.com/biography/Ashikaga-Yoshimitsu) in formal trade between the two countries. The mission opened a trade in copper, silk and other goods that Zen monasteries and merchant houses relied on for years afterward, but the Ming court's price was that Yoshimitsu accept the title \"[King of Japan](https://samurai-archive.com/en/people/57),\" formally naming himself a subject of the Chinese throne even though Japan already had its own emperor. One account of his reign says plainly that the move \"[scandalized later generations](https://laspina.org/ashikaga-yoshimitsu-shogun-sovereign-and-the-dream-of-dynasty/).\" Yoshimitsu received the Ming embassies that followed at Kitayama itself, the same villa in which he entertained his own sovereign.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/960px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+    },
+    {
+      "heading": "Only the Top Two Floors Are Actually Covered in Gold",
+      "body": "The pavilion in the photograph above is three storeys, and each is built in a different idiom. The ground floor, Ho-sui-in, is [shinden-zukuri](https://en.wikipedia.org/wiki/Kinkaku-ji), the residential style of the Heian court aristocracy Yoshimitsu was never born into, and it is left as plain wood. The upper two floors, one in buke-zukuri, the style of the warrior class he actually belonged to, the other in Chinese Zen style, are the ones covered in gold leaf. The gold sits on the warrior and the monk. The aristocrat underneath gets bare timber.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Yoshimitsu_Ashikaga_cropped.jpg/960px-Yoshimitsu_Ashikaga_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimitsu"
+    },
+    {
+      "heading": "His Own Son Undid the Deal Within Three Years of His Death",
+      "body": "Yoshimitsu died suddenly in 1408, aged forty-nine, reportedly [in the middle of arranging](https://en.wikipedia.org/wiki/Ashikaga_Yoshimitsu) to take the title Daijo Tenno, customarily reserved for a retired emperor, an ambition his death left unrealized. His son and successor, Yoshimochi, showed no appetite for inheriting his father's position. The King of Japan title was, according to one account, [returned](https://samurai-archive.com/en/people/57) to China, and in 1411 Yoshimochi [broke off relations with Ming China](https://en.wikipedia.org/wiki/Ashikaga_Yoshimochi) altogether. The trade that had paid for his father's later court, and the demeaning title that came with it, did not survive him by even half a generation.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Young Monk's Envy Burned the Original to the Ground in 1950",
+      "body": "None of that touched the physical building, which stood through the Onin War, when every other structure on the site burned, and for nearly five centuries after that, until a twenty-two-year-old novice named Hayashi Shoken set fire to it. In the early hours of 2 July 1950, driven by what investigators described as self-hatred and envy of a beauty he felt would never be his, Hayashi piled hay and his own belongings before the temple's statue of Yoshimitsu and lit it, then tried to kill himself on the hillside behind the building. He survived. The pavilion did not, and neither did that statue, the only sculpted likeness of the man who had built the place. Hayashi's mother, hearing what he had done, [jumped from a moving train](https://en.wikipedia.org/wiki/Kinkaku-ji_arson) the next day, telling those with her that her son was \"a traitor to the nation.\" Hayashi was sentenced to seven years, released early with tuberculosis, and died of it within months. [Yukio Mishima's 1956 novel](https://en.wikipedia.org/wiki/Kinkaku-ji) turned the arson into fiction, using it to ask why beauty and destruction sat so close together in one act.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Yukio_Mishima"
+    },
+    {
+      "heading": "The Pavilion in the Photograph Is Not Quite the One Yoshimitsu Built",
+      "body": "Reconstruction ran from 1952 to 1955, in timber rather than the concrete that had been [proposed and rejected](https://en.wikipedia.org/wiki/Kinkaku-ji_arson), and produced what most accounts call a close copy of the original, though not an identical one. When the gold leaf began peeling in the 1980s, restorers replaced it between 1986 and 1987 with leaf [five times thicker and ten times heavier](https://en.wikipedia.org/wiki/Kinkaku-ji) than what had covered Yoshimitsu's building. The temple was inscribed on UNESCO's World Heritage list in 1994. That listing includes [Ginkaku-ji](https://en.wikipedia.org/wiki/Ginkaku-ji) too, the villa Yoshimitsu's grandson Yoshimasa built some eighty years later in conscious imitation of Kitayama, intending to answer his grandfather's gold with a coat of silver foil. The silver was never applied; the work was delayed until Yoshimasa's death in 1490. Ginkaku-ji has been bare wood under the name Silver Pavilion for more than five hundred years. The golden building on this page, if anything, has spent its own history becoming more golden than it started.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ginkakuji_Kyoto03-r.jpg/960px-Ginkakuji_Kyoto03-r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Ginkaku-ji"
+    }
+  ],
+  "sources": [
+    { "title": "Kinkaku-ji", "url": "https://en.wikipedia.org/wiki/Kinkaku-ji" },
+    { "title": "Kinkaku-ji arson", "url": "https://en.wikipedia.org/wiki/Kinkaku-ji_arson" },
+    { "title": "Kinkakuji", "url": "https://www.worldhistory.org/Kinkakuji/" },
+    { "title": "Ashikaga Yoshimitsu", "url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimitsu" },
+    { "title": "Ashikaga Yoshimitsu", "url": "https://www.britannica.com/biography/Ashikaga-Yoshimitsu" },
+    { "title": "Ashikaga Yoshimitsu: The Shogun Who Nearly Became Emperor", "url": "https://laspina.org/ashikaga-yoshimitsu-shogun-sovereign-and-the-dream-of-dynasty/" },
+    { "title": "Ashikaga Yoshimochi", "url": "https://en.wikipedia.org/wiki/Ashikaga_Yoshimochi" },
+    { "title": "Ashikaga Yoshimitsu — Samurai Archive", "url": "https://samurai-archive.com/en/people/57" },
+    { "title": "Ginkaku-ji", "url": "https://en.wikipedia.org/wiki/Ginkaku-ji" },
+    { "title": "Nosenkata (an institution to collect taxes from moneylenders and sake breweries)", "url": "https://www.japanesewiki.com/title/Nosenkata%20(an%20institution%20to%20collect%20taxes%20from%20moneylenders%20and%20sake%20breweries).html" },
+    { "title": "Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)", "url": "https://en.wikipedia.org/wiki/Historic_Monuments_of_Ancient_Kyoto_(Kyoto,_Uji_and_Otsu_Cities)" }
+  ],
+  "generatedAt": "2026-09-14T04:14:35Z",
+  "model": "claude-sonnet-5"
+}
