@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-21",
+  "subject": {
+    "id": "dubrovnik-city-walls",
+    "name": "Dubrovnik City Walls",
+    "architect": "Various",
+    "year": 1420,
+    "location": "Dubrovnik, Croatia",
+    "country": "Croatia",
+    "city": "Dubrovnik",
+    "style": "Medieval Fortification",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Dubrovnik_s_24.jpg/1920px-Dubrovnik_s_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 900,
+    "source": "https://en.wikipedia.org/wiki/Walls_of_Dubrovnik",
+    "title": "Dubrovnik City Walls",
+    "author": "Various"
+  },
+  "title": "The Republic That Vowed Liberty Wasn't for Sale Paid Gold, Every Year, to Keep It",
+  "standfirst": "Dubrovnik's walls were financed by a state monopoly on salt and partly designed by the Medici's own architect, who stormed off the job mid-tower. The republic behind them survived less by refusing compromise than by mastering it — and the walls still had an earthquake and a modern siege left to outlast.",
+  "sections": [
+    {
+      "heading": "A Building Race Against Venice Produced a Fortress in Three Months",
+      "body": "On the rocky outcrop just west of the harbour, tradition holds that Ragusan citizens learned Venetian ships were on their way with stone to build a fort of their own on that same rock — a position that would have let Venice command the approach to the city. According to the [Chronicles of Ragusa](https://en.wikipedia.org/wiki/Lovrijenac), the city built first: when the Venetian vessels arrived with their building materials, the site was already occupied, and they were turned back. Chroniclers disagree on exactly when — somewhere between 1018 and 1038, though the earliest solid documentary trace is a city council vote in 1301 appointing a commander for the finished fort. What resulted, Fort Lovrijenac, has an outer wall twelve metres thick facing the sea and open country, and one just sixty centimetres thick facing the city it was defending — built to withstand a siege from outside and nothing at all from within. Above its gate, later builders carved a line that has outlived every government Dubrovnik has had: *Non bene pro toto libertas venditur auro* — liberty is not sold for all the gold in the world.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Same City Paid an Annual Bill in Gold to Keep the Liberty It Wouldn't Sell",
+      "body": "The inscription over Lovrijenac's gate was a vow about conquest, not about diplomacy — and on that distinction the republic built its entire foreign policy. In 1458 Ragusa signed a formal agreement making itself a [tributary of the Ottoman sultan](https://en.wikipedia.org/wiki/Republic_of_Ragusa), owing, in the treaty's own terms, fidelity, truthfulness and submission, alongside an annual payment in gold that was fixed in 1481 at 12,500 ducats. An ambassador carried it to Constantinople every year without fail. In return Ragusan merchants moved through Ottoman territory more freely than almost any other Christian traders in the Mediterranean, and the sultan's armies never came for a city that had already agreed to pay them not to. The republic held the same trick with the Papacy on one side and the Ottomans on the other for well over three centuries — buying the independence its own inscriptions insisted couldn't be bought.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/960px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Mehmed_II"
+    },
+    {
+      "heading": "A Medici Architect Rebuilt the Walls Against Cannon, Then Stormed Off the Job",
+      "body": "Constantinople fell to Ottoman cannon in 1453; Bosnia followed in 1463. Ragusa's government responded in 1461 by hiring [Michelozzo di Bartolomeo](https://en.wikipedia.org/wiki/Michelozzo), then sixty-five, who had spent nearly forty years as the Medici family's own architect and had followed Cosimo de' Medici into exile in Venice a generation earlier. At Dubrovnik he inclined the northern walls to deflect the new artillery rather than absorb it head-on, and rebuilt the old quadrilateral tower of Minčeta — first raised in 1319, then reworked in the early 1460s under a local builder and engineers sent by Pope Pius II — into a round bastion with walls some six metres thick, curved specifically so a cannonball would glance rather than punch through. At Fort Bokar he built a two-storey casemate fortress, one of the earliest of its kind anywhere in Europe. Then, according to [an account of his time there](https://www.dubrovniklocalguides.com/michelozzo-the-feisty-architect), a gunpowder explosion damaged the Rector's Palace, the seat of the republic's government, and the senate rejected Michelozzo's proposed modern rebuild as unsuitable. Insulted, he left the city with Minčeta and stretches of the walls still unfinished.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cosimo_di_Medici_%28Bronzino%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Cosimo_de%27_Medici"
+    },
+    {
+      "heading": "The Man Who Finished the Tower Wasn't the One Who Designed It",
+      "body": "The work Michelozzo abandoned fell to [Giorgio da Sebenico](https://en.wikipedia.org/wiki/Giorgio_da_Sebenico), known in Croatian as Juraj Dalmatinac, who spent June 1464 to November 1465 in Dubrovnik working mostly on the fortifications, reinforcing Minčeta's base and adding the gothic crown that still tops it, while also repairing the palace whose redesign had driven his predecessor out. The palace itself was eventually rebuilt with Renaissance features not by either Italian but by Paskoje Miličević, a Ragusan architect then only twenty-five. A tower begun by a local builder, redesigned by a Florentine who never saw it completed, finished by a Dalmatian brought in after the Florentine's exit, standing beside a palace redesigned by a Ragusan in his twenties — the wall the reader sees in the photograph above answers to no single hand.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Juraj_Dalmatinac.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Giorgio_da_Sebenico"
+    },
+    {
+      "heading": "A Second Wall, Five and a Half Kilometres Long, Guarded the Money That Paid for the First",
+      "body": "Fortification on this scale needed a revenue base, and Ragusa's ran largely on salt. Having acquired the town of Ston and the Pelješac peninsula in 1333, the republic built a wholly separate wall system there from 1358 onward — originally more than seven kilometres, with roughly 5.5 kilometres [still standing today](https://en.wikipedia.org/wiki/Walls_of_Ston), studded with forty towers, purpose-built to protect the salt pans that were among the republic's most valuable assets. Michelozzo himself worked there too, alongside Giorgio da Sebenico and the Parma-trained Bernardino Gatti. It amounted to a second fortress built to guard the income that financed the first: the walls around Dubrovnik protected a city whose money came, in no small part, from a set of walls around a saltworks thirty miles down the coast.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Walls Held Through an Earthquake That Killed Up to Five Thousand People Behind Them",
+      "body": "On the morning of 6 April 1667 an earthquake of roughly magnitude 6.4 struck the city, lasting somewhere between eight and fifteen seconds. Between three and five thousand people died, among them the rector Simone Ghetaldi and, by one account, close to half the members of the Great Council — the body that actually governed the republic. Fires burned for close to twenty days afterward, and [more than three-quarters of the city's public buildings](https://en.wikipedia.org/wiki/1667_Dubrovnik_earthquake) were destroyed. Yet the fortifications themselves, according to two separate accounts of the disaster, [were spared from severe damage](https://www.croatiaweek.com/croatia-largest-earthquake-1667-dubrovnik/) and came through largely intact. Walls engineered against cannon fire and siege had nothing to offer against the ground itself, and the republic they enclosed lost a large share of the people who ran it in a single morning — a loss no fortification, however thick, was built to prevent.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Three Centuries Later, Mortars Did What the Earthquake Couldn't — and the Stone Still Held",
+      "body": "Between October 1991 and May 1992 the Yugoslav People's Army and Montenegrin forces besieged Dubrovnik; on 6 December 1991, the single heaviest day, the Old Town was hit by dozens of missiles and hundreds of mortar shells. A subsequent assessment found that well over half of the Old Town's buildings had sustained some damage, and [UNESCO placed the city on its List of World Heritage in Danger](https://en.wikipedia.org/wiki/Siege_of_Dubrovnik) that same year, not removing it until 1998. Restoration of streets, fountains, ramparts and buildings was estimated at close to $9.7 million in 1993, with more than $7 million actually spent by the decade's end, according to [the city's own account of the war years](https://www.dubrovnik.hr/stradanje-grada/the-destruction-and-restoration-dubrovnik-1991-2000). What survived best, once again, was the medieval masonry: assessments afterward found the ancient walls had proved more effective at resisting modern weaponry than the twentieth-century buildings around them — stone laid against galleys and cannon in the fifteenth century, still standing up to artillery designed five hundred years after the last mason left the scaffolding.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Muzej_DR-crop.JPG/960px-Muzej_DR-crop.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Siege_of_Dubrovnik"
+    }
+  ],
+  "sources": [
+    { "title": "Walls of Dubrovnik — Wikipedia", "url": "https://en.wikipedia.org/wiki/Walls_of_Dubrovnik" },
+    { "title": "Lovrijenac — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lovrijenac" },
+    { "title": "Michelozzo — Wikipedia", "url": "https://en.wikipedia.org/wiki/Michelozzo" },
+    { "title": "Republic of Ragusa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Republic_of_Ragusa" },
+    { "title": "Walls of Ston — Wikipedia", "url": "https://en.wikipedia.org/wiki/Walls_of_Ston" },
+    { "title": "Siege of Dubrovnik — Wikipedia", "url": "https://en.wikipedia.org/wiki/Siege_of_Dubrovnik" },
+    { "title": "1667 Dubrovnik earthquake — Wikipedia", "url": "https://en.wikipedia.org/wiki/1667_Dubrovnik_earthquake" },
+    { "title": "Croatia's biggest ever earthquake in 1667 — Croatia Week", "url": "https://www.croatiaweek.com/croatia-largest-earthquake-1667-dubrovnik/" },
+    { "title": "Minceta Tower - History and Facts — History Hit", "url": "https://www.historyhit.com/locations/minceta-tower/" },
+    { "title": "Michelozzo the feisty architect — Dubrovnik Local Guides", "url": "https://www.dubrovniklocalguides.com/michelozzo-the-feisty-architect" },
+    { "title": "Giorgio da Sebenico — Wikipedia", "url": "https://en.wikipedia.org/wiki/Giorgio_da_Sebenico" },
+    { "title": "The destruction and restoration of Dubrovnik from 1991 until 2000 — Grad Dubrovnik", "url": "https://www.dubrovnik.hr/stradanje-grada/the-destruction-and-restoration-dubrovnik-1991-2000" }
+  ],
+  "generatedAt": "2026-09-15T04:12:26Z",
+  "model": "claude-sonnet-5"
+}
