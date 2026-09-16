@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-22",
+  "subject": {
+    "id": "forbidden-city",
+    "name": "Forbidden City",
+    "architect": "Cai Xin",
+    "year": 1420,
+    "location": "Beijing, China",
+    "country": "China",
+    "city": "Beijing",
+    "style": "Imperial Chinese",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/1920px-The_Forbidden_City_-_View_from_Coal_Hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 800,
+    "source": "https://en.wikipedia.org/wiki/Forbidden_City",
+    "title": "Forbidden City",
+    "author": "Cai Xin"
+  },
+  "title": "The Palace Built to Settle a Succession Dispute Has Never Settled Anything Since",
+  "standfirst": "Zhu Di seized the Ming throne in 1402, his nephew vanishing in a palace fire nobody ever fully explained, and raised the Forbidden City partly to close the argument. Nothing about it closed cleanly: three men share the credit for designing it, the forests that framed it were logged out within a century, and the collection it once housed is still split between two countries after fleeing two wars.",
+  "sections": [
+    {
+      "heading": "He Took the Throne in a Civil War, Then Needed the Whole Empire to Forget How",
+      "body": "On 13 July 1402, Zhu Di's army broke into Nanjing and the imperial palace went up in flames. Officials pulled three bodies from the ashes and announced them as the Jianwen Emperor, his wife and their eldest son. Almost no one believed it; a folk tradition that the young emperor had escaped the fire disguised as a Buddhist monk began circulating within a few decades and never quite died out. Zhu Di crowned himself the Yongle Emperor regardless, then spent years making sure nobody asked twice. Records from Jianwen's four-year reign were falsified. Fang Xiaoru, a senior minister who refused to draft Yongle's accession proclamation, was executed along with his relatives and his students; other purges, executions and exiles under the new reign are reported to have touched tens of thousands of people.\n\nMoving the capital north from Nanjing to his own former power base at Beiping, and raising a palace there on a scale nobody could mistake for provisional, was part of the same project. Ground was broken on the Forbidden City in 1406. It wasn't merely an imperial residence. It was an argument, built in timber and stone, that the man who won the war had always been meant to rule.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/960px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Yongle_Emperor"
+    },
+    {
+      "heading": "The Title Block Names One Architect. Historians Can't Settle On That Either",
+      "body": "This page credits a single architect. The record won't cooperate. Kuai Xiang, a carpenter's son from Suzhou in his early thirties when Yongle handed him the commission, is the name most often called the palace's chief designer; he's remembered in Ming lore standing before the Meridian Gate, and the carpenters' guild from his hometown traces its reputation back to his work. Cai Xin and Chen Gui share credit for the construction planning. A fourth man barely appears in most retellings at all.\n\nNguyễn An had been taken from Vietnam as a young captive during the Ming–Hồ war and made a court eunuch. He turned out to be a formidable engineer, entrusted with at least three separate hydraulics projects over his career and reportedly a flawless record on all of them, and he worked alongside Kuai Xiang on the Forbidden City before later leading the reconstruction of Beijing's city walls under a subsequent emperor. That he was Vietnamese wasn't something Ming China advertised, and it stayed obscure for centuries. Suzhou, meanwhile, supplied more than one of the men on this list — the dense, smooth 'golden bricks' paving the Forbidden City's grandest halls were fired for four to five months apiece in kilns just outside the same city, under exclusive imperial contract.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg/960px-%E4%B8%9C%E6%96%B9%E4%B9%8B%E9%97%A81.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Suzhou"
+    },
+    {
+      "heading": "The Forests That Framed It Were Logged Out Within a Century",
+      "body": "The Forbidden City's halls were raised on whole trunks of nanmu (Phoebe zhennan) and fir, felled from old-growth stands deep in China's southwest and hauled overland for months to reach Beijing. The initial harvest was vast enough that in 1441, more than 380,000 large timbers from the original construction were still sitting in reserve, unused. They didn't last. Repeated fires over the following two centuries meant repeated rebuilding, and each rebuilding drew on the same shrinking pool of old-growth logs; the surplus was gone by 1500.\n\nThe shortage eventually showed up in the architecture itself. When the Hall of Supreme Harmony was rebuilt after a sixteenth-century fire, its footprint shrank from roughly 95 by 48 metres to the 65-by-37-metre hall standing today — a reduction Ming records attribute directly to the inability to find logs large enough for the original span. The grandest room in the empire got smaller because the empire had run out of trees to match its own ambition.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Phoebe_zhennan_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03647.JPG/960px-Phoebe_zhennan_-_Chengdu_Botanical_Garden_-_Chengdu%2C_China_-_DSC03647.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Phoebe_zhennan"
+    },
+    {
+      "heading": "Moving a 300-Ton Stone Took Ice and Wells, Not the Army of Men It Would Cost on Dry Ground",
+      "body": "The largest carved stone in the complex — the Large Stone Carving, over 300 tons — came from the Dashiwo quarry roughly 70 kilometres outside the city, and nothing existed yet that could carry that weight on wheels. Ming engineers moved it, and stones like it, across custom-built ice roads. Crews dug wells every half kilometre along the route, then flooded the road with well water in the weeks around the winter solstice, when Beijing's temperature reliably held below freezing.\n\nA 2013 engineering study reconstructing a comparably sized 1557 stone move — 123 tons, over 70 kilometres, in 28 days — calculated what each method would have cost in labor. Dragging the load over dry ground would have needed upward of 1,500 men. Ice alone, unwatered, still needed several hundred. Keeping the ice wet with well water cut the crew to under 50.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "It Burned Down a Hundred Days After the Emperor Moved In — and Six More Times After That",
+      "body": "Yongle formally took up residence in the new palace on 8 January 1421. Lightning found the newly finished Hall of Supreme Harmony within about a hundred days, and the fire that followed tore through the palace's three central halls — the same halls, on the same axis, where Jianwen's own court had burned in 1402. It wasn't the last time. The Ming Ancestral Temple burned again in 1541, the Three Halls in 1556 and again in 1584, and the Hall of Supreme Harmony alone was destroyed seven separate times over the following Qing dynasty, most recently rebuilt in 1695–97.\n\nFire was the one hazard that entirely wooden architecture and open-flame lighting could never quite be built around. Hundreds of standing water vats positioned across the grounds were the only defence anyone found that worked reliably, and they are still there.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Objects That Once Filled It Are Still Split Between Two Countries",
+      "body": "The palace itself never really left Beijing, but almost everything inside it did. In February 1933, with the Japanese army advancing, Palace Museum staff packed more than 13,000 crates of the collection — bronzes, porcelain, paintings, jade — and began moving them out by wheelbarrow at night. Over the following fifteen years the crates traveled through Shanghai and Nanjing and then further inland, through Hunan, Guangxi, Guizhou and Sichuan, staying one step ahead of Japanese bombing and then civil war; a library in Changsha that had briefly stored part of the collection was destroyed by bombing soon after the crates were moved out of it.\n\nMa Heng, the museum's director, wrote in 1947 that he could not explain how so little of the collection had been lost or damaged, crediting it to \"the blessing on our nation.\" Two years later, as the Communist army closed in, roughly 2,972 of those crates were shipped on to Taiwan rather than back to Beijing. They never returned. The palace the Yongle Emperor built to make his rule look permanent now stands largely empty of the objects that once filled it, and the National Palace Museum in Taipei holds a share of them still.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/NationalPalace_MuseumFrontView.jpg/960px-NationalPalace_MuseumFrontView.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/National_Palace_Museum"
+    }
+  ],
+  "sources": [
+    { "title": "World History Encyclopedia — Yongle Emperor", "url": "https://www.worldhistory.org/Yongle_Emperor/" },
+    { "title": "Wikipedia — Jianwen Emperor", "url": "https://en.wikipedia.org/wiki/Jianwen_Emperor" },
+    { "title": "Wikipedia — Nguyễn An", "url": "https://en.wikipedia.org/wiki/Nguy%E1%BB%85n_An" },
+    { "title": "Wikipedia — Kuai Xiang", "url": "https://en.wikipedia.org/wiki/Kuai_Xiang" },
+    { "title": "Wikipedia — Forbidden City", "url": "https://en.wikipedia.org/wiki/Forbidden_City" },
+    { "title": "Wikipedia — Hall of Supreme Harmony", "url": "https://en.wikipedia.org/wiki/Hall_of_Supreme_Harmony" },
+    { "title": "Environment & Society Portal — The Distant Roots of Beijing's Palaces", "url": "https://www.environmentandsociety.org/arcadia/distant-roots-beijings-palaces" },
+    { "title": "PMC — Sliding heavy stones to the Forbidden City on ice", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3864354/" },
+    { "title": "Phys.org — Workers dragged Forbidden City stones along roads of artificial ice", "url": "https://phys.org/news/2013-11-workers-forbidden-city-stones-roads.html" },
+    { "title": "South China Morning Post — The Forbidden City in imperial China's Beijing had one enemy above all: fire", "url": "https://www.scmp.com/news/china/article/2183653/forbidden-city-imperial-chinas-beijing-had-one-enemy-above-all-fire" },
+    { "title": "Britannica — Forbidden City", "url": "https://www.britannica.com/topic/Forbidden-City" },
+    { "title": "PR Newswire — Forbidden gates swing open", "url": "https://www.prnewswire.com/news-releases/forbidden-gates-swing-open-302579394.html" }
+  ],
+  "generatedAt": "2026-09-16T04:12:59Z",
+  "model": "claude-sonnet-5"
+}
