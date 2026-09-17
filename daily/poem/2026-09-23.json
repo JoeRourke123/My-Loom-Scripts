@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-09-23",
+  "subject": {
+    "id": "222082",
+    "title": "Ode on Solitude",
+    "author": "Alexander Pope",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/46561/ode-on-solitude",
+    "text": "Happy the man, whose wish and care\n   A few paternal acres bound,\nContent to breathe his native air,\n                            In his own ground.\n\nWhose herds with milk, whose fields with bread,\n   Whose flocks supply him with attire,\nWhose trees in summer yield him shade,\n                            In winter fire.\n\nBlest, who can unconcernedly find\n   Hours, days, and years slide soft away,\nIn health of body, peace of mind,\n                            Quiet by day,\n\nSound sleep by night; study and ease,\n   Together mixed; sweet recreation;\nAnd innocence, which most does please,\n                            With meditation.\n\nThus let me live, unseen, unknown;\n   Thus unlamented let me die;\nSteal from the world, and not a stone\n                            Tell where I lie.",
+    "excerpt": "Happy the man, whose wish and care\n   A few paternal acres bound,\nContent to breathe his native air,\n                            In his own ground.\n\nWhose herds with milk, whose fields with bread,\n   Whose flocks supply him with attire,\nWhose trees in summer yield him shade,\n                            In winter fire.\n\nBlest, who can unconcernedly find\n   Hours, days, and years slide soft away,\nIn health of body, peace of mind,\n                            Quiet by day,\n\nSound sleep by night; study and ease,\n   Together mixed; sweet recreation;\nAnd innocence, which most does please,\n                            With meditation.\n\nThus let me live, unseen, unknown;\n   Thus unlamented let me die;\nSteal from the world, and not a stone\n                            Tell where I lie.",
+    "truncated": false
+  },
+  "title": "Unseen, Unknown, and Extensively Documented",
+  "standfirst": "Pope's ode asks to die without so much as a stone marking the spot. His own biographer caught him moving the dates on his early poems to look more precocious, and bibliographers still can't agree on the year this one first reached print.",
+  "sections": [
+    {
+      "heading": "Not a Stone to Tell Where He Lay",
+      "body": "The ode ends by asking for total erasure:\n\n> Thus let me live, unseen, unknown;\n> Thus unlamented let me die;\n> Steal from the world, and not a stone\n>                             Tell where I lie.\n\nWhoever wrote those lines got almost none of what they asked for. Alexander Pope grew into the most closely watched writer in England: his couplets memorised, his enemies named outright in print, his own correspondence eventually published in an edition he controlled because he could not stand one he didn't. In 1735 the bookseller Edmund Curll advertised a volume of Pope's private letters; Pope had arranged for Curll to get hold of them in the first place, so that he could denounce the leak in public and then bring out [his own authorised edition](https://www.britannica.com/biography/Edmund-Curll) two years later. A man that careful about how he would be remembered is an odd source for a wish to leave no stone at all.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Family Displaced, a Boy Praising the Ground",
+      "body": "Pope said he wrote this at twelve, in 1700 — the same year his father, a Catholic linen-draper, moved the household out of London for good. A statute barred Catholics from living within ten miles of London or Westminster, and the family resettled on [a small estate at Binfield](https://www.newworldencyclopedia.org/entry/Alexander_Pope), in Windsor Forest. Formal schooling was closed to him too: Catholics could not attend university, and after two Catholic schools near Winchester and at Hyde Park Corner, he was left to teach himself, later recalling that \"in a few years I had dipped into a great number of the English, French, Italian, Latin, and Greek poets.\" He had also lived from early childhood with Pott's disease, a tubercular infection of the spine that would stop his growth at four foot six. None of that reads like a cheerful volunteer for solitude. More like a boy for whom small acres and a shut door were simply what was left to him.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Twelve, According to the Author",
+      "body": "Every retelling of this poem repeats that Pope wrote it at twelve; almost none pause on where that date comes from. It comes from Pope. He made the same claim for a lost paraphrase of Thomas à Kempis written, he said, at the same age, and his early biographer [Leslie Stephen concluded](https://en.wikisource.org/wiki/Alexander_Pope_%28Stephen%29/Chapter_2) flatly that \"Pope was eager for the praise of remarkable precocity, and was weak and insincere enough to alter the dates of some of his writings in order to strengthen his claim.\" Stephen still thought the underlying talent was real — \"even when we accept the corrected accounts of recent enquirers,\" he wrote, the command of the form is genuinely early. But the number twelve is Pope's own figure, filed by a man with a documented habit of moving his dates around to look more precocious than he was.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Alexander_Pope_by_Michael_Dahl.jpg/960px-Alexander_Pope_by_Michael_Dahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Alexander_Pope"
+    },
+    {
+      "heading": "One Bibliography Says 1726",
+      "body": "The dating trouble doesn't stop at composition. Several poetry sites now describe the poem as published the same year it was written, in 1700, right after the move to Binfield. The print record disagrees by a generous margin: according to [Reginald Griffith's standard bibliography of Pope](https://en.wikisource.org/wiki/Solitude_%28Pope%29), the poem's first appearance in print was in 1726, in the fifth edition of a multi-author miscellany called *Miscellaneous Poems, Translation and Imitations by Several Hands* — twenty-six years after the boy who supposedly wrote it put down his pen, and nine years after Pope's first collected *Works*. Nobody retelling this story, Pope included, seems to have been especially interested in getting the paperwork straight.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Beatus Ille, Anglicised",
+      "body": "The opening is not really Pope's own idea. Horace's second epode begins *Beatus ille qui procul negotiis* — happy the man who, far from business affairs — and [Pope's first line](https://americanliterature.com/author/alexander-pope/poem/ode-on-solitude) all but translates it: \"Happy the man, whose wish and care / A few paternal acres bound.\" What he adds is the shape. Each of the five stanzas runs three lines of iambic tetrameter cut short by a fourth line of dimeter, so every stanza physically contracts before it ends, a small formal echo of the retreat it describes. The rhymes are almost too neat for a real farm — bound/ground, attire/fire — except once: bread is left to rhyme against shade, the one stanza where even the sound refuses to close all the way.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg/960px-%28contorniate_M%C3%A9daillon_Horace_Rome_%28...%29Horace_%280065-0008_btv1b11343890r_1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Horace"
+    },
+    {
+      "heading": "Wordsworth Copied It Out, Precocity Note and All",
+      "body": "By 1819 the twelve-year-old story had already hardened into fact. That Christmas, William Wordsworth compiled a private manuscript anthology as a gift for a friend, Lady Mary Lowther, copying favourite poems out in his own hand. He [included this one](https://en.wikisource.org/wiki/Poems_and_Extracts/Ode_on_Solitude), attributed in his own note to \"Pope, in his 12th year,\" alongside verse by Anne Finch and others. The album stayed a private family object for the Lowthers for nearly a century before it was finally printed in facsimile in 1905. A schoolroom claim about a twelve-year-old's precocity had, by then, survived one of England's most exacting poets copying it into a keepsake without a flicker of doubt.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg/960px-Wordsworth_on_Helvellyn_by_Benjamin_Robert_Haydon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/William_Wordsworth"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edmund Curll (Britannica)",
+      "url": "https://www.britannica.com/biography/Edmund-Curll"
+    },
+    {
+      "title": "Alexander Pope (New World Encyclopedia)",
+      "url": "https://www.newworldencyclopedia.org/entry/Alexander_Pope"
+    },
+    {
+      "title": "Alexander Pope | English Poet, Satirist & Essayist (Britannica)",
+      "url": "https://www.britannica.com/biography/Alexander-Pope-English-author"
+    },
+    {
+      "title": "Alexander Pope (Stephen)/Chapter 2 (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Alexander_Pope_%28Stephen%29/Chapter_2"
+    },
+    {
+      "title": "Solitude (Pope) (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Solitude_%28Pope%29"
+    },
+    {
+      "title": "Ode on Solitude (LitCharts)",
+      "url": "https://www.litcharts.com/poetry/alexander-pope/ode-on-solitude"
+    },
+    {
+      "title": "Ode on Solitude (American Literature)",
+      "url": "https://americanliterature.com/author/alexander-pope/poem/ode-on-solitude"
+    },
+    {
+      "title": "Poems and Extracts/Ode on Solitude (Wikisource)",
+      "url": "https://en.wikisource.org/wiki/Poems_and_Extracts/Ode_on_Solitude"
+    },
+    {
+      "title": "Ode on Solitude (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Ode_on_Solitude"
+    },
+    {
+      "title": "'Ode on Solitude': A Poem by Alexander Pope (Interesting Literature)",
+      "url": "https://interestingliterature.com/2018/12/ode-on-solitude-a-poem-by-alexander-pope/"
+    }
+  ],
+  "generatedAt": "2026-09-17T02:08:02Z",
+  "model": "claude-sonnet-5"
+}
