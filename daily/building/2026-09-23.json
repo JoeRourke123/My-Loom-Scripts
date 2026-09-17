@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-23",
+  "subject": {
+    "id": "florence-cathedral",
+    "name": "Florence Cathedral",
+    "architect": "Filippo Brunelleschi",
+    "year": 1436,
+    "location": "Florence, Italy",
+    "country": "Italy",
+    "city": "Florence",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/1920px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1071,
+    "source": "https://en.wikipedia.org/wiki/Florence_Cathedral",
+    "title": "Florence Cathedral",
+    "author": "Filippo Brunelleschi"
+  },
+  "title": "Brunelleschi Bet a Third of His Fortune on a Boat That Sank Under His Own Marble",
+  "standfirst": "Florence had ruled out the only known way to roof its cathedral fifty years before anyone could say how else to do it. Brunelleschi won the job by refusing to explain his method, then risked his own money, a rival's incompetence and a jail cell proving it would work.",
+  "sections": [
+    {
+      "heading": "He Patented a Boat, Then Watched It Sink With His Own Marble",
+      "body": "Nineteen years before the dome was capped, Filippo Brunelleschi filed one of the first patent grants on record anywhere — not for anything to do with the cupola, but for a barge. On 19 June 1421 the Florentine state gave him a three-year exclusive right to build [Il Badalone](https://www.ilnuovosaggiatore.sif.it/article/370), \"the monster,\" a hoist-fitted vessel meant to haul Carrara marble up the Arno for the works of Santa Maria del Fiore, backed by a threat to burn any rival's copy. His own petition argued that the protection would push an inventor [to higher pursuits](https://creativefrontier.substack.com/p/brunelleschi-intellectual-property) — one of the earliest surviving arguments for what became patent law.\n\nThe boat did not vindicate the theory. Finished in 1428, it was loaded with roughly a hundred tons of marble at Pisa and got only [halfway to Florence](https://geologywriter.com/streetsmartnaturalist/stories-in-stone-blog/the-sea-going-monster/) before it sank or ran aground near Empoli — the record does not say which, and the marble was never recovered. Brunelleschi, already the dome's paid superintendent, lost by his own account something close to a third of what he owned. The Opera del Duomo hired other boats and moved on.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Carrara%2C_veduta_verso_il_centro_storico%2C_avenza_e_il_mare_da_via_salita_sponda_04.jpg/960px-Carrara%2C_veduta_verso_il_centro_storico%2C_avenza_e_il_mare_da_via_salita_sponda_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Carrara"
+    },
+    {
+      "heading": "Florence Had Voted for a Roof Nobody Yet Knew How to Build",
+      "body": "The specification came fifty years before the solution. In 1367 the city chose, by public vote, a model by [Neri di Fioravanti](https://moltensulfur.com/post/the-florentine-architecture-feud/) over a more conventional design by Giovanni di Lapo Ghini that would have braced the dome with flying buttresses in the Gothic manner. Florence rejected that outright: buttresses were read as the [architecture of its enemies](https://moltensulfur.com/post/the-florentine-architecture-feud/) — France, Germany, Milan — and the city's own symbol was not going to lean on them. Neri's model called instead for a double shell standing directly on an unbuttressed octagonal drum roughly 144 feet across, wider than the Pantheon in Rome, then still the largest dome standing anywhere.\n\nNobody who voted for it knew how such a span could be closed without either buttresses or the timber centering normally used to hold a shell up while its mortar cured — Tuscany had no trees that size, and scaffolding vast enough to span the octagon had never been attempted. For decades the drum simply stood open to the sky, a hole with a shape but no known way to shut it, while the Opera waited for someone to say how. The man who eventually did had spent years after losing the Baptistery doors competition living in Rome, studying how the [Pantheon's dome](https://www.odysseytraveller.com/articles/brunelleschis-dome-renaissance-genius/) held itself up without buttresses at all.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/960px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+      "heading": "He Won the Contract by Refusing to Explain Himself",
+      "body": "When the Arte della Lana opened a formal competition on 19 August 1418, it drew [eighteen architects and seventeen proposals](https://www.finestresullarte.info/en/works-and-artists/brunelleschi-s-dome-that-stunned-the-world-history-of-the-renaissance-masterpiece), for a prize of [200 florins](https://en.wikipedia.org/wiki/Florence_Cathedral) — more than two years' wages for a skilled craftsman, though the record shows neither finalist was ever actually paid it. Brunelleschi's plan involved not one dome but two, nested, raised without the timber scaffolding everyone assumed was unavoidable — and he would not say how. Pressed by the overseers, he got into shouting matches with them and was at least once physically thrown out of the assembly. Accounts differ on the exact sequence, but agree on the shape of it: the same overseers who are said to have called him a [\"buffoon and a babbler\"](https://mymodernmet.com/filippo-brunelleschi-dome/) were eventually won over by a trick with an egg, which only he could make stand upright on a table, by cracking its base — his point being that once he had shown anyone how, they could all do it too.\n\nThe Opera hedged its bet anyway. Brunelleschi got the commission, but his old rival from the Baptistery doors competition, [Lorenzo Ghiberti](https://en.wikipedia.org/wiki/Lorenzo_Ghiberti), was appointed co-superintendent at equal pay.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Ghiberti.png/960px-Ghiberti.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Lorenzo_Ghiberti"
+    },
+    {
+      "heading": "A Convenient Illness Settled What Argument Couldn't",
+      "body": "In 1423, with a wooden chain designed to reinforce the drum's brickwork ready to go in, Brunelleschi [suddenly feigned illness](https://therenaissancetimes.com/2018/11/16/33-brunelleschi-the-dome-iv/) and took to his bed, leaving Ghiberti — who had never seen the full specification — to direct the carpenters alone. Ghiberti got three of the great oak beams installed before Brunelleschi made what his biographers call a miraculous recovery, inspected the work, and had it torn out as unusable. His own annual pay rose to 100 florins; Ghiberti's was later suspended, then reinstated at a fraction of that, and by 1426 he was earning [barely a third](https://therenaissancetimes.com/2018/11/16/33-brunelleschi-the-dome-iv/) of what Brunelleschi took home for the same title of superintendent.\n\nFourteen years into the project, in 1434, Brunelleschi was jailed on what one biographer calls [apparently trumped-up charges](https://patricktreardon.com/book-review-brunelleschis-dome-the-story-of-the-great-cathedral-in-florence-by-ross-king/) of failing to pay dues to the stonemasons' guild, despite having previously been granted an exemption from exactly that obligation. He was held in a minor lock-up rather than Florence's main prison and released almost immediately, with no charge ever proven — the kind of harassment a man usually attracts only once his rivals have run out of technical arguments.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Bricklayers Went on Strike, and the Physicists Needed 600 Years",
+      "body": "Brunelleschi's care for his workers had limits. When masons struck mid-project for better pay, he fired the lot on the spot and brought in [ten replacement workers from Lombardy](https://www.finestresullarte.info/en/works-and-artists/brunelleschi-s-dome-that-stunned-the-world-history-of-the-renaissance-masterpiece); the original men, jobless and humiliated, eventually asked for their jobs back and got them, at reduced wages. He was more careful with safety than with pay: platforms at height got parapets, and by one biographer's count [only three workers died](https://patricktreardon.com/book-review-brunelleschis-dome-the-story-of-the-great-cathedral-in-florence-by-ross-king/) in over two decades of building. He also ordered the workers' wine [cut with water](https://www.nationalgeographic.com/magazine/article/Il-Duomo) to keep them steady at height, a rule they eventually forced him to drop.\n\nThe technique that made all of it possible was a herringbone brick pattern, largely forgotten in Europe since antiquity, that let each ring of the dome lock itself together and support its own weight the moment it closed, rather than wait on scaffolding that did not exist. Brunelleschi left no plans explaining why it worked, and for nearly six hundred years nobody else could fully explain it either: only in 2020 did engineers at [Princeton and the University of Bergamo](https://techxplore.com/news/2020-05-helix-masonryresearchers-secret-italian-renaissance.html) publish the first quantitative proof, describing a spiralling \"double loxodrome\" of upright bricks that wedges each course into a self-supporting arch.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/OpusSpicatumRomaMercatiTraianei.jpg/960px-OpusSpicatumRomaMercatiTraianei.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Opus_spicatum"
+    }
+  ],
+  "sources": [
+    { "title": "Brunelleschi and Galilei: super-early patents in Florence — Il Nuovo Saggiatore", "url": "https://www.ilnuovosaggiatore.sif.it/article/370" },
+    { "title": "The Architect and the Cartel: How a 15th Century Rebel Sparked the Idea of Owning Your Ideas — Creative Frontier", "url": "https://creativefrontier.substack.com/p/brunelleschi-intellectual-property" },
+    { "title": "Brunelleschi's Patent — Third Stream", "url": "https://thirdstream.substack.com/p/brunelleschis-patent" },
+    { "title": "The Sea Going Monster — GeologyWriter.com", "url": "https://geologywriter.com/streetsmartnaturalist/stories-in-stone-blog/the-sea-going-monster/" },
+    { "title": "The Florentine Architecture Feud — Molten Sulfur", "url": "https://moltensulfur.com/post/the-florentine-architecture-feud/" },
+    { "title": "Brunelleschi's dome Florence | Renaissance genius — Odyssey Traveller", "url": "https://www.odysseytraveller.com/articles/brunelleschis-dome-renaissance-genius/" },
+    { "title": "Brunelleschi's dome that stunned the world — Finestre sull'Arte", "url": "https://www.finestresullarte.info/en/works-and-artists/brunelleschi-s-dome-that-stunned-the-world-history-of-the-renaissance-masterpiece" },
+    { "title": "Florence Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Florence_Cathedral" },
+    { "title": "Filippo Brunelleschi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Filippo_Brunelleschi" },
+    { "title": "Arte della Lana — Wikipedia", "url": "https://en.wikipedia.org/wiki/Arte_della_Lana" },
+    { "title": "10 Facts About Filippo Brunelleschi and The Dome of Florence Cathedral — My Modern Met", "url": "https://mymodernmet.com/filippo-brunelleschi-dome/" },
+    { "title": "Lorenzo Ghiberti — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lorenzo_Ghiberti" },
+    { "title": "#33 Brunelleschi & The Dome IV — The Renaissance Times", "url": "https://therenaissancetimes.com/2018/11/16/33-brunelleschi-the-dome-iv/" },
+    { "title": "Book review: Brunelleschi's Dome by Ross King — Patrick T. Reardon", "url": "https://patricktreardon.com/book-review-brunelleschis-dome-the-story-of-the-great-cathedral-in-florence-by-ross-king/" },
+    { "title": "Brunelleschi's Dome — National Geographic", "url": "https://www.nationalgeographic.com/magazine/article/Il-Duomo" },
+    { "title": "Double helix of masonry — researchers discover the secret of Italian renaissance domes — Tech Xplore", "url": "https://techxplore.com/news/2020-05-helix-masonryresearchers-secret-italian-renaissance.html" }
+  ],
+  "generatedAt": "2026-09-17T05:30:00Z",
+  "model": "claude-sonnet-5"
+}
