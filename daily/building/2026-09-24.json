@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-24",
+  "subject": {
+    "id": "machu-picchu",
+    "name": "Machu Picchu",
+    "architect": "Unknown",
+    "year": 1450,
+    "location": "Cusco Region, Peru",
+    "country": "Peru",
+    "city": "Cusco Region",
+    "style": "Inca",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/1920px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "title": "Machu Picchu",
+    "author": "Unknown"
+  },
+  "title": "Everyone Who Came After the Incas Fought Over Who Machu Picchu Belonged To",
+  "standfirst": "Pachacuti's builders left no names, and DNA now shows they came from four corners of his empire and had children across those lines. The man credited with finding the ruins erased proof that a farmer had beaten him there by nine years. Yale kept the crates its own expedition shipped home for a century. Even the name over the gate may not be the one the Incas used.",
+  "sections": [
+    {
+      "heading": "The People Who Lived There Left No Names, but Their Teeth Kept a Record",
+      "body": "Machu Picchu's builders are anonymous by design of the record: the royal estate Pachacuti raised above the Urubamba gorge around 1450 names its patron and, for most historians, stops there \u2014 no architect, no foreman, not even the names of the several hundred people estimated to have lived and worked the site at any one time. In 2023 a genetic study filled in some of what the record left out. Researchers extracted DNA from the teeth of [thirty-four individuals](https://news.ucsc.edu/2023/07/machu-picchu-genomics/) buried in caves and rock shelters outside the palace walls \u2014 retainers, not royalty \u2014 and found ancestries reaching across the empire and beyond it: the Andean highlands, both Peruvian coasts, and, unexpectedly, the Amazon basins of Peru, Colombia and Ecuador, with roughly a third of the group carrying substantial Amazonian ancestry.\n\nMore striking than where they came from is who they had children with. Many of the burials showed mixed ancestry from regions far apart, and the dead were interred together across those lines rather than segregated by origin \u2014 a pattern the study's authors say has no match in the rural villages they used for comparison. The team read it as evidence of deliberate resettlement policy rather than accident: the retainers, known as yanacona, were brought from conquered territory to serve a royal household, and the household that resulted was more mixed than the empire around it.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Brooklyn_Museum_-_Pachacuti%2C_Tenth_Inca%2C_1_of_14_Portraits_of_Inca_Kings_%28cropped%29.jpg/960px-Brooklyn_Museum_-_Pachacuti%2C_Tenth_Inca%2C_1_of_14_Portraits_of_Inca_Kings_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Pachacuti"
+    },
+    {
+      "heading": "The Plumbing Outlasted the City It Was Built to Serve",
+      "body": "Machu Picchu sits on a saddle of granite between two peaks, with the Urubamba River cut into a gorge far below on three sides \u2014 spectacular ground to build on, and appalling ground to keep dry. Nearly two metres of rain fall on the site most years, based on ice-core data the American civil engineer Kenneth Wright used to reconstruct rainfall during the Inca occupation, and every terrace and building at the estate had to shed that water or be undermined by it.\n\nWright's fieldwork, summarised in his study of the site's [water supply and drainage](https://www.waterhistory.org/histories/machu/t1.html), found a mountain spring feeding a stone-cut canal that ran 749 metres downslope at a steady three-percent gradient into sixteen fountains built as a single cascading stairway through the urban sector, each sized to fill an Inca water jar rather than to impress a visitor. Underneath the visible masonry, roughly 130 drainage outlets were built into the walls from the start, not added later, feeding channels that ran beneath stairways and terraces to a main drain separating the farmed slopes from the city above. Even the terrace fill was engineered in layers: stone at the base, then gravel, then sandy soil, then topsoil carried up from the valley floor. When Wright's team traced the spring intake nearly five centuries later, it was still delivering water. \u201cThe spring works was still intact and still working,\u201d he reported. \u201cThey built for permanency,\u201d he concluded. \u201cThey didn't go halfway.\u201d",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Urubamba_-_Valle_Sagrado_3.JPG/960px-Urubamba_-_Valle_Sagrado_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Sacred_Valley"
+    },
+    {
+      "heading": "The Ruins May Be Flying the Wrong Name",
+      "body": "Even the name over the gate might be wrong. In 2021 the Peruvian historian Donato Amado Gonzales and the American archaeologist Brian Bauer published a study in \u00d1awpa Pacha, the journal of Andean archaeology, arguing from Hiram Bingham's own field notes, regional maps and colonial-era land records that the Inca city itself was probably called Huayna Picchu, after the sharp peak that overlooks it, while \u201cMachu Picchu\u201d \u2014 old peak \u2014 named the taller mountain behind it instead. A [1904 atlas](https://www.sciencedaily.com/releases/2022/03/220322150840.htm), published seven years before Bingham arrived, already labelled ruins in that stretch of the Urubamba valley Huayna Picchu, and Bauer's strongest evidence came from late sixteenth-century Spanish colonial accounts describing indigenous people weighing whether to reoccupy \u201cthe site which they called Huayna Picchu.\u201d Bingham was told the name before he ever left Cusco. He published under the other one anyway, and it stuck.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Found Someone Else's Name Already on the Wall, and Had It Removed",
+      "body": "Hiram Bingham was not the first outsider to reach these ruins in the twentieth century, and for a while he did not pretend otherwise. On 14 July 1902, the Peruvian farmer Agust\u00edn Liz\u00e1rraga had walked in with three companions while scouting new farmland, and left his name in charcoal on the central window of the building now called the Temple of the Three Windows: \u201cA. Liz\u00e1rraga 1902.\u201d When Bingham reached the same window on 24 July 1911, guided there by a local farmer, he found the inscription and [noted in his diary](https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga) that Liz\u00e1rraga was the site's discoverer.\n\nHe did not publicise it. When the Peruvian official Jos\u00e9 G. Cos\u00edo found the same charcoal mark again in January 1912, [Bingham ordered it erased](https://www.thecollector.com/machu-picchu-bingham-discovery/), citing conservation, and said nothing further about it in the books he published over the next four decades. Peru's congress moved to recognise Liz\u00e1rraga and his companions as discoverers in 2002; Cusco's municipal government awarded him a posthumous medal in July 2011 \u2014 ninety-nine years after Bingham had the evidence of his visit scraped off the stone.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Senator_Hiram_Bingham_of_Conn.%2C_%281-9-25%29_LCCN2016839105_%283x4a%29.jpg/960px-Senator_Hiram_Bingham_of_Conn.%2C_%281-9-25%29_LCCN2016839105_%283x4a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+    },
+    {
+      "heading": "The Man Who Called Himself the Discoverer Later Got Censured by the Senate",
+      "body": "Bingham's own claim to Machu Picchu hardened over time rather than softening. Funded initially by Yale University and, from his second expedition on, by the National Geographic Society as well, he built a public reputation as the man who had found a lost Inca city, and by his final account of it, published as Lost City of the Incas in 1952, Liz\u00e1rraga had all but disappeared from the story. He had defended the claim on his own terms three decades earlier: \u201cIn the same sense of the word as it is used in the expression 'Columbus discovered America' it is fair to say that I discovered Machu Picchu,\u201d he wrote in 1922 \u2014 a comparison that, intentionally or not, put himself on the same side of the ledger as an explorer now remembered for erasing the people who were already there.\n\nBingham left archaeology for politics not long after his last expedition. He was lieutenant governor of Connecticut, then governor for a single day in January 1925 \u2014 the shortest term in the state's history \u2014 before resigning to take a U.S. Senate seat he held until 1933. In November 1929 the [Senate censured him](https://en.wikipedia.org/wiki/Hiram_Bingham_III), 54 votes to 22, for placing a lobbyist on the government payroll to sit in on Finance Committee tariff hearings. The man who had erased another man's claim to a discovery spent the back half of his career defending his own conduct instead.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Yale Kept the Crates for a Century Before Peru Sued to Get Them Back",
+      "body": "Between 1912 and 1915, Bingham's expeditions shipped thousands of artefacts back to New Haven \u2014 ceramics, silver figures, jewellery and human remains \u2014 under an 1852 Peruvian law that assigned archaeological finds to their discoverer except on private land. Yale held onto the collection for the rest of the century anyway, arguing decades later that Peru [lacked the infrastructure and systems](https://en.wikipedia.org/wiki/Machu_Picchu) to care for it properly. A university spokesman eventually admitted Yale could not say exactly how many objects it held \u2014 [somewhere between 4,000 and 40,000](https://ictnews.org/archive/yale-returns-all-machu-picchu-artifacts-to-peru/) \u201cdepending on how they were catalogued\u201d \u2014 of which only around 350 pieces were judged museum-quality.\n\nPeru sued in 2008. The two sides settled in 2010, and Yale shipped the collection home in three batches: the first in March 2011, a second that December, and a final delivery of 127 boxes on 12 November 2012 \u2014 just over a century after Bingham first reached the ruins. Peru's then deputy chief of mission, Fernando Quir\u00f3s, said the crowd that met the last shipment at the airport in Lima behaved \u201cas if they were big music stars.\u201d Most of the collection is now on permanent display at the Casa Concha museum in Cusco \u2014 back in the region it was dug out of, if not quite on the mountain itself.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Yale_Peabody_Museum_%2854106346944%29.jpg/960px-Yale_Peabody_Museum_%2854106346944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Peabody_Museum_of_Natural_History"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Machu Picchu \u2014 Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Machu_Picchu"
+    },
+    {
+      "title": "Agust\u00edn Liz\u00e1rraga \u2014 Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Liz%C3%A1rraga"
+    },
+    {
+      "title": "Hiram Bingham III \u2014 Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hiram_Bingham_III"
+    },
+    {
+      "title": "Yale Returns All Machu Picchu Artifacts to Peru \u2014 ICT News",
+      "url": "https://ictnews.org/archive/yale-returns-all-machu-picchu-artifacts-to-peru/"
+    },
+    {
+      "title": "The Engineering Secret Behind Machu Picchu's Stonework \u2014 HISTORY",
+      "url": "https://www.history.com/articles/machu-picchu-construction"
+    },
+    {
+      "title": "Study reconsiders name of Peru's Machu Picchu \u2014 ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2022/03/220322150840.htm"
+    },
+    {
+      "title": "Water Supply and Drainage at Machu Picchu \u2014 WaterHistory.org",
+      "url": "https://www.waterhistory.org/histories/machu/t1.html"
+    },
+    {
+      "title": "First DNA analysis of Machu Picchu residents offers insight into Inca society \u2014 UC Santa Cruz News",
+      "url": "https://news.ucsc.edu/2023/07/machu-picchu-genomics/"
+    },
+    {
+      "title": "Machu Picchu Unveiled: Why Hiram Bingham Didn't \u201cDiscover\u201d It \u2014 TheCollector",
+      "url": "https://www.thecollector.com/machu-picchu-bingham-discovery/"
+    }
+  ],
+  "generatedAt": "2026-09-18T04:15:21Z",
+  "model": "claude-sonnet-5"
+}
