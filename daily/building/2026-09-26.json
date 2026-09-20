@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-26",
+  "subject": {
+    "id": "topkapi-palace",
+    "name": "Topkapi Palace",
+    "architect": "Various",
+    "year": 1465,
+    "location": "Istanbul, Turkey",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "style": "Ottoman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Topkap%C4%B1_-_01.jpg/1920px-Topkap%C4%B1_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 800,
+    "source": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace",
+    "title": "Topkapi Palace",
+    "author": "Various"
+  },
+  "title": "Topkapı Palace Spent Four Centuries Deciding Exactly Who Got to Stay Alive",
+  "standfirst": "Mehmed II built his new capital's palace not as one building but as a sequence of gates, each admitting fewer people than the last, and used the same logic on his own family: a law that killed at least eighty princes, then a cage that held their sons for decades instead. One father and son passed through both.",
+  "sections": [
+    {
+      "heading": "Every Gate Inside Was a Filter, Not a Threshold",
+      "body": "Mehmed II broke ground on his new capital's seat of government in 1459, six years after taking Constantinople, on a headland that had been the acropolis of ancient Byzantion and, under the emperors, a hill of temples and cisterns before Ottoman sources described what was left of it simply as olive groves. He did not build a palace in the European sense of a single façade. He built a sequence: four courtyards, each behind its own gate, each admitting fewer people than the last. The palace's own record of itself puts the geography plainly — the first courtyard was the most accessible, the fourth courtyard and the harem [the most inaccessible](https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace). At the middle gate, only the sultan was permitted through on horseback; [grand viziers included](https://topkapipalace.org/blog/the-gate-of-salutation-first-impression-of-topkapi-palace), everyone else dismounted and walked. Estimates of the whole site's footprint run from roughly 592,600 to 700,000 square metres, almost none of it designed to be seen from outside the walls. It was called, at first, only the Saray-i Cedid-i Amire — the Imperial New Palace — until the eighteenth century. It picked up the name Topkapı, \"Cannon Gate,\" during the reign of Mahmud I, borrowed from an unrelated seaside palace that had just burned down.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/960px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Mehmed_II"
+    },
+    {
+      "heading": "A Law Meant to Prevent a Civil War Had a Body Count",
+      "body": "Mehmed II did not stop at deciding who could walk through which gate. His own law code held that whichever son succeeded him could have his brothers put to death, \"for the order of the world,\" rather than risk a war over the throne — a justification later jurists treated as settled precedent. Historians who have tried to tally the result arrive at [at least eighty members](https://www.amusingplanet.com/2019/09/the-ottoman-sultans-who-were-raised-in.html) of the House of Osman killed under that law over the century and a half that followed, by strangulation rather than the blade, since Ottoman custom forbade shedding royal blood. The single worst morning came in January 1595, when Mehmed III took the throne and had all nineteen of his surviving brothers strangled with a silk cord. The men who carried it out were traditionally deaf, mute or \"half-witted,\" [chosen by long custom](https://en.wikipedia.org/wiki/Mehmed_III) so that none of them could later repeat what they had heard.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "When Killing Stopped, the Palace Became a Cage Instead",
+      "body": "That law broke in December 1603, when the thirteen-year-old Ahmed I took the throne and chose not to kill his three-year-old half-brother Mustafa — he had not yet fathered an heir of his own, and a spare was worth more alive than dead. Mustafa lived. What replaced execution for the princes who came after him was confinement: a walled section of Topkapı's harem that history calls the Kafes, the cage, where a sultan's brothers, nephews and cousins could be held for decades, attended by servants and by concubines deliberately chosen for their infertility, forbidden to father children of their own. Ibrahim I, born inside the palace in 1617, spent his entire youth there under his brother Murad IV, and when courtiers came in 1640 to tell him the throne was his, he refused to believe them — certain it was a trap, he had to be shown his brother's corpse before he would accept the crown. He reigned eight years and was strangled in his turn on 18 August 1648, reportedly pleading, \"Is there no one among those who have eaten my bread who will take pity on me and protect me?\" His own son, [Suleiman II](https://en.wikipedia.org/wiki/Suleiman_II_of_the_Ottoman_Empire), was confined in the same cage from 1651 until 1687 — thirty-six years — before a mutiny put him on the throne his father had once refused to believe was real.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ibrahim_Deli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Ibrahim_of_the_Ottoman_Empire"
+    },
+    {
+      "heading": "It Ran on Stolen Children",
+      "body": "The palace needed more than princes; it needed administrators, and Topkapı's answer to that problem was just as unsentimental as its answer to succession. Under the devşirme, the \"child levy,\" Ottoman officials rode through the Balkans — Bosnia, Albania, Bulgaria, Greece — and took boys aged roughly seven to twenty, [one from every forty households](https://en.wikipedia.org/wiki/Devshirme), dressing them in red so they could be tracked on the road to Istanbul, then converting and circumcising them by force. The ablest were funnelled into the Enderun, the palace school that ran through Topkapı's third courtyard: around [three hundred boys](https://en.wikipedia.org/wiki/Enderun_School) at a time, studying Arabic, Persian and Turkish, law, mathematics and horsemanship, before graduating in a ceremony called çıkma into the army, the bureaucracy or the sultan's own household. It was, in effect, a machine for turning conquered children into the empire's ruling class. [Sokollu Mehmed Pasha](https://en.wikipedia.org/wiki/Sokollu_Mehmed_Pasha), taken from Ottoman Herzegovina around 1505, passed through exactly this pipeline and by 1565 was grand vizier — the empire's de facto ruler under three successive sultans until his assassination on 11 October 1579.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Janissary_Recruitment_in_the_Balkans-Suleymanname.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Devshirme"
+    },
+    {
+      "heading": "Working for the Sultan Was Not a Safe Career Either",
+      "body": "Grand vizier was the empire's most powerful office and one of its most lethal. Sultans deposed and executed the office's holders often enough that when one fell, his head — stuffed with cotton — went on display in the [niches of the Imperial Gate](https://www.theguideistanbul.com/ottoman-executions/), where the crowds queuing to submit petitions could see it. A popular, often-repeated story holds that a condemned grand vizier could still save himself: handed a cup of red sherbet as the signal that his death warrant was signed, he was given a chance to outrun the palace's head gardener — who doubled as chief executioner — across some 300 metres of garden to the execution ground at the Fish Market Gate, and the [last man recorded to win](https://www.todayifoundout.com/index.php/2016/02/time-history-save-executed-beating-executioner-race/) that race, in November 1822, was Grand Vizier Hacı Salih Pasha. His own biography on record tells a duller story: he was stripped of the vizierate on 10 November 1822 and taken to the Balıkhane Pavilion, Topkapı's place of execution, where he waited a few hours before being told he would be exiled rather than killed — not because he had outrun anyone, but because the sultan needed to [appease the Janissaries](https://en.wikipedia.org/wiki/Hac%C4%B1_Salih_Pasha) instead. Both versions agree he survived that day. Only one of them involves running.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "By the Time It Became a Museum, No Sultan Had Lived There for Seventy Years",
+      "body": "Topkapı outlived its own purpose well before the empire did. Fires kept forcing rebuilding — the kitchens in 1574, the Harem in 1665, the Audience Chamber in 1856 — and by the mid-nineteenth century Sultan Abdülmecid I judged Topkapı \"lacking in contemporary style, luxury, and comfort\" next to the palaces of the [European monarchs](https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace) he wanted to impress. In 1853 he moved the court to the newly finished Dolmabahçe Palace on the Bosphorus, and Topkapı kept only its treasury, its library and its mint. The Ottoman dynasty ended in 1922; the republic that replaced it had no obvious use for the palace where princes had once been strangled by law or caged for decades for the crime of being born male, and on 3 April 1924 the government simply declared it a museum. The building that had spent four and a half centuries deciding, gate by gate, exactly who was allowed near the sultan was handed to whoever could buy a ticket.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Dolmabahce_Istanbul_Turkey.jpg/960px-Dolmabahce_Istanbul_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace"
+    }
+  ],
+  "sources": [
+    { "title": "Topkapı Palace — Wikipedia", "url": "https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace" },
+    { "title": "Şehzade — Wikipedia", "url": "https://en.wikipedia.org/wiki/%C5%9Eehzade" },
+    { "title": "Enderun School — Wikipedia", "url": "https://en.wikipedia.org/wiki/Enderun_School" },
+    { "title": "Devshirme — Wikipedia", "url": "https://en.wikipedia.org/wiki/Devshirme" },
+    { "title": "Mehmed III — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mehmed_III" },
+    { "title": "Ahmed I — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ahmed_I" },
+    { "title": "Ibrahim of the Ottoman Empire — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ibrahim_(Ottoman_sultan)" },
+    { "title": "Suleiman II of the Ottoman Empire — Wikipedia", "url": "https://en.wikipedia.org/wiki/Suleiman_II_of_the_Ottoman_Empire" },
+    { "title": "Hacı Salih Pasha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Hac%C4%B1_Salih_Pasha" },
+    { "title": "Sokollu Mehmed Pasha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sokollu_Mehmed_Pasha" },
+    { "title": "Dolmabahçe Palace — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace" },
+    { "title": "The Ottoman Sultans Who Were Raised in \"Cages\" — Amusing Planet", "url": "https://www.amusingplanet.com/2019/09/the-ottoman-sultans-who-were-raised-in.html" },
+    { "title": "Sultans Raised in 'Cages': Overprotection Turned to Madness — Ancient Origins", "url": "https://www.ancient-origins.net/history-ancient-traditions/sultan-0013392" },
+    { "title": "7 Traces of Ottoman Executions in Istanbul — The Guide Istanbul", "url": "https://www.theguideistanbul.com/ottoman-executions/" },
+    { "title": "That Time When You Could Save Yourself From Being Executed by Beating the Executioner in a Foot Race — Today I Found Out", "url": "https://www.todayifoundout.com/index.php/2016/02/time-history-save-executed-beating-executioner-race/" },
+    { "title": "Architecture of Topkapi Palace — Madain Project", "url": "https://madainproject.com/architecture_of_topkapi_palace" },
+    { "title": "The Gate of Salutation: First Impression of Topkapi Palace — Topkapi Palace", "url": "https://topkapipalace.org/blog/the-gate-of-salutation-first-impression-of-topkapi-palace" }
+  ],
+  "generatedAt": "2026-09-20T04:12:58Z",
+  "model": "claude-sonnet-5"
+}
