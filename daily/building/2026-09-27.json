@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-27",
+  "subject": {
+    "id": "santa-maria-novella",
+    "name": "Santa Maria Novella",
+    "architect": "Leon Battista Alberti",
+    "year": 1470,
+    "location": "Florence, Italy",
+    "country": "Italy",
+    "city": "Florence",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Florence%2C_Santa_Maria_Novella%2C_facade.jpg/1920px-Florence%2C_Santa_Maria_Novella%2C_facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Santa_Maria_Novella",
+    "title": "Santa Maria Novella",
+    "author": "Leon Battista Alberti"
+  },
+  "title": "Shut Out of Florentine Politics for Twenty-Seven Years, He Still Put His Name on This Church",
+  "standfirst": "Giovanni Rucellai spent nearly three decades locked out of Florentine politics for backing the wrong side against the Medici, and work on this facade began while he was still shut out. He paid for it anyway, on the condition that his own name be cut across the front in letters no Florentine patron had used before — borrowed straight from a Roman inscription fourteen centuries older.",
+  "sections": [
+    {
+      "heading": "The Letters Across the Frieze Were Not Supposed to Be There",
+      "body": "Cut into the frieze above the doors, in gilded capitals, is a name: IOHANES · ORICELLARIVS · PAV · F · AN · SAL · MCCCCLXX — Giovanni Rucellai, son of Paolo, in the year of Salvation 1470. No Florentine patron had signed a church front like this before; it is usually described as the first inscription of its kind since antiquity, and it borrows its confidence directly from Marcus Agrippa's name across the front of the Pantheon in Rome, fourteen centuries earlier. Rucellai paid for the marble on the explicit condition that his own name go on it, and he never pretended otherwise about why. In his own words, these projects gave him pleasure for three reasons: the glory of God, the honour of the city, and the commemoration of myself.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/960px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+      "heading": "The Fortune Behind It Came From a Lichen, Not a Loom",
+      "body": "The name Rucellai comes from oricello — orchil, a reddish-purple dye pressed from a Mediterranean lichen, Roccella tinctoria, which the family processed and sold to Florence's wool trade under methods they kept to themselves for generations. It had made them rich long before Giovanni: by the early fourteenth century the profits had already bought the family a chapel inside this same church. By his own generation the business had grown into international trade and banking, and Giovanni married further into money still, taking as his wife the daughter of Palla Strozzi, whose 1427 tax return made him the richest man in Florence — richer, on paper, than the Medici.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg/960px-Via_della_Vigna_Nuova_18%2C_palazzo_rucellai%2C_02%2C0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Palazzo_Rucellai"
+    },
+    {
+      "heading": "He Spent Years of the Construction Locked Out of Florentine Politics",
+      "body": "That marriage nearly cost him everything else. In 1433 Strozzi and his allies briefly had Cosimo de' Medici imprisoned and exiled; within a year Cosimo returned and reversed it, banishing Strozzi to Padua in November 1434. Rucellai stayed loyal to his father-in-law and paid for it: he took no part in Florentine public life for about twenty-seven years. Sources disagree on exactly when Alberti's facade got under way — 1448, 1456 and 1458 all appear — but on any of those dates it was already underway years before Rucellai's exile from politics ended, and it ran until 1470. What ended the freeze was arranged in 1461, when his thirteen-year-old son Bernardo was married to Cosimo's granddaughter, Nannina de' Medici.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Giovanni_di_Paolo_Rucellai.jpg/960px-Giovanni_di_Paolo_Rucellai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Giovanni_di_Paolo_Rucellai"
+    },
+    {
+      "heading": "Alberti Had to Make Two Centuries of Somebody Else's Building Look Like One Idea",
+      "body": "The church itself long predated its patron. Dominican friars laid the foundation stone in October 1279, and building ran on so long that Santa Maria Novella was not consecrated until 1420 — a hundred and forty-one years later. By the time Alberti arrived, the lower half of a facade already existed: banded white and dark-green marble, three doorways, six Gothic niches holding tombs, and no coherent upper storey. He had to fold all of that into a single classical composition rather than start over. His answer to the mismatch between the wide ground floor and the much narrower nave above it was a pair of giant S-shaped scrolls, or volutes, with no precedent in ancient architecture. The fix outlasted every argument about who had paid for it: variations of Alberti's scrolls became a standard feature of church facades through the Renaissance, the Baroque, and the Classical Revival that followed.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Facade Itself Took Far Longer to Finish Than He Did to Live",
+      "body": "Rucellai died in 1481, eleven years after the date carved into his own frieze. The facade he paid to have finished was not, in fact, finished: by the church's own account the marble front was not completed in full until 1920 — some four hundred and forty years after his death, and long after anyone still cared who had backed the Strozzi or married into the Medici. The friars who broke ground in 1279 put no names on the building at all. The merchant who financed its face put his everywhere he could, and even he did not live to see it done.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "The facade of Santa Maria Novella — Santa Maria Novella (official site)", "url": "https://www.smn.it/en/artworks/the-facade/" },
+    { "title": "Santa Maria Novella — Wikipedia", "url": "https://en.wikipedia.org/wiki/Santa_Maria_Novella" },
+    { "title": "Giovanni di Paolo Rucellai — Wikipedia", "url": "https://en.wikipedia.org/wiki/Giovanni_di_Paolo_Rucellai" },
+    { "title": "Palazzo Rucellai — Wikipedia", "url": "https://en.wikipedia.org/wiki/Palazzo_Rucellai" },
+    { "title": "Palla Strozzi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Palla_Strozzi" },
+    { "title": "Roccella tinctoria — Wikipedia", "url": "https://en.wikipedia.org/wiki/Roccella_tinctoria" },
+    { "title": "Leon Battista Alberti — Wikipedia", "url": "https://en.wikipedia.org/wiki/Leon_Battista_Alberti" },
+    { "title": "The History of Palazzo Rucellai — ISI Florence", "url": "https://isiflorence.org/about/the-history-of-palazzo-rucellai/" },
+    { "title": "Inscription to Giovanni Rucellai, facade of Santa Maria Novella — Walks in Rome", "url": "https://www.walksinrome.com/italy-florence-facade-of-santa-maria-novella-inscription-to-giovanni-rucellai.html" },
+    { "title": "Alberti Top 10: An Architecture Lover's Itinerary — ArtTrav", "url": "https://www.arttrav.com/it/alberti-architecture-itinerary/" },
+    { "title": "The Marble Facade of Santa Maria Novella — Florence Unveiled", "url": "https://florenceunveiled.com/the-marble-facade-of-santa-maria-novella/" }
+  ],
+  "generatedAt": "2026-09-21T04:30:00Z",
+  "model": "claude-sonnet-5"
+}
