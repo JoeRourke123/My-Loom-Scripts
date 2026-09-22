@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-09-28",
+  "subject": {
+    "id": "maurice-de-vlaminck/landscape-with-red-roofs",
+    "title": "Landscape with Red Roofs",
+    "artist": "Maurice de Vlaminck",
+    "artistSlug": "maurice-de-vlaminck",
+    "year": null,
+    "movement": "Fauvism",
+    "movementLabel": "Fauvism",
+    "imageUrl": "https://uploads6.wikiart.org/images/maurice-de-vlaminck/landscape-with-red-roofs.jpg",
+    "source": "https://www.wikiart.org/en/maurice-de-vlaminck/landscape-with-red-roofs",
+    "width": 987,
+    "height": 794,
+    "accent": "#496FB2",
+    "accentName": "blue",
+    "author": "Maurice de Vlaminck"
+  },
+  "title": "In 1905 a Critic Called Him a Wild Beast. By 1942 He Was Touring Nazi Germany to Cage the Next Ones.",
+  "standfirst": "Maurice de Vlaminck stood in the exact room a hostile critic branded 'wild beasts' in 1905, was already painting his way out of that room by the time of this 1907 landscape, and by 1941 was touring occupied Germany before denouncing Picasso and Cubism in print. The founder of one uncaged movement turned warden over the next one.",
+  "sections": [
+    {
+      "heading": "The Sentence Was About the Room Vlaminck Was Standing In",
+      "body": "On 17 October 1905, in the pages of *Gil Blas*, the critic Louis Vauxcelles filed his review of Room VII at the Salon d'Automne. Two conventional marble busts by the sculptor Albert Marque sat in the middle of it, off-key against walls hung with paintings in raw, unmixed colour. Vauxcelles's line — \"La candeur de ces bustes surprend, au milieu de l'orgie des tons purs: Donatello chez les fauves\" (\"Donatello among the wild beasts\") — was aimed at a specific room, not an abstraction. [That room held six painters](https://fr.wikipedia.org/wiki/Salon_d%27Automne_de_1905): Henri Matisse, Henri Manguin, André Derain, Albert Marquet, Charles Camoin, and Maurice de Vlaminck. The insult outlived the review; within weeks the room itself was being called *la cage aux fauves*, and the name stuck to all six men whether or not they had asked for it. It is the word this corpus now files a landscape painted two years later under — not a label handed down later from a textbook, but graffiti aimed at a wall Vlaminck happened to be standing beside.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Louis_Vauxcelles_by_Jules_Ch%C3%A9ret_%281836-1932%29.jpg/960px-Louis_Vauxcelles_by_Jules_Ch%C3%A9ret_%281836-1932%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Louis_Vauxcelles"
+    },
+    {
+      "heading": "He Was Winning Bicycle Races Before He Painted Anything",
+      "body": "Vlaminck's route into painting ran through a velodrome first. Athletic and self-taught, he raced professionally from 1893 and [later described the feeling in blunt terms](https://www.theartstory.org/artist/vlaminck-maurice-de/): \"never, anywhere, had I felt such utter and complete satisfaction as I did in the days when I was nothing more than the winner of a simple bicycle race.\" Typhoid fever ended the cycling in 1896. What replaced it was not an academy but his father's own trade — violin, played for money at night — and a stretch in a regimental band during military service, where he wrote for the anarchist papers *Fin de siècle* and *L'Anarchie* rather than painting at all. Between 1902 and 1903 he and Derain collaborated on a run of mildly pornographic novels, Vlaminck writing while Derain illustrated. It is not the early life of a man about to be filed under an art-historical label; it reads like a man building a temperament first and finding a canvas for it afterward.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Train Accident, a Van Gogh Show, and a Debt He Would Not Repay in Kind",
+      "body": "Vlaminck met André Derain on 18 June 1900, after a train they were both riding derailed; the two spent the following year sharing a studio in Chatou before Derain left for his own military service. In 1901 Vlaminck saw a Van Gogh retrospective and came out of it changed, declaring afterward that he \"loved Van Gogh that day more than my own father.\" The years that followed were lean enough that he scraped paint off old canvases to reuse the material underneath. The break came in 1906, when the dealer Ambroise Vollard bought the entire contents of his studio and gave him a solo show — the sale and the show together were what let Vlaminck become, for the first time, a full-time painter rather than a violinist who also painted.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Same Exhibition That Ended His Fauve Period Fed Someone Else's Cubism",
+      "body": "By the time Vlaminck painted this landscape, Fauvism's flat, unmixed colour was already behind him. Cézanne died in October 1906, and the Salon d'Automne answered with two commemorative retrospectives of his work in 1907 — the same institution, the same halls, two years after Room VII. [French Wikipedia's account of Vlaminck's career](https://fr.wikipedia.org/wiki/Maurice_de_Vlaminck) places his turn toward Cézanne's structure and a darker, more built-up palette at this 1907 retrospective; [the English-language account](https://en.wikipedia.org/wiki/Maurice_de_Vlaminck) instead dates the same shift a year later, to 1908. Whichever year is right, the direction is not in dispute: heavier tone, more structure, a retreat from the raw colour that had briefly made him one of Vauxcelles's fauves. [Wikipedia's own entry on Cubism](https://en.wikipedia.org/wiki/Cubism) names these same 1907 Cézanne retrospectives as a primary influence behind the movement that grew out of them — the movement Vlaminck would spend the rest of his life trying to discredit. He was not attacking a rival school from outside it. He was standing in the room next door.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Paul-Cezanne.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne"
+    },
+    {
+      "heading": "Three Weeks in Occupied Germany, Then a Public Case Against Picasso",
+      "body": "On 30 October 1941, Vlaminck left on a German-organised tour that ran until 16 November — three weeks through Munich, Vienna, Nuremberg, Dresden, Berlin and Düsseldorf, alongside seven other French painters, among them Derain, Kees van Dongen and Othon Friesz, and five sculptors, [arranged amid the occupation's cultural diplomacy](https://cactus.press/vlaminck/) in Paris. The following June, on 6 June 1942, Vlaminck published [\"Opinions libres… sur la peinture\"](https://cactus.press/le-cubisme-perversite-de-lesprit/) in the magazine *Comœdia*. In it he called Cubism a matter of \"perversity of spirit, insufficiency, amoralism, as far from painting as sodomy is from love,\" and credited it with only one real achievement: that it \"made painting accessible to everyone\" by removing any test of skill. French Wikipedia records the article's central charge against Picasso by name — that he had led French painting, between 1900 and 1930, \"into a deadly impasse, into indescribable confusion.\" [Painters and intellectuals close to the Resistance rallied publicly to Picasso's side](https://www.museepicassoparis.fr/en/picasso-biography/spanish-war-and-occupation/) once the piece ran.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Derain_et_Vlaminck_en_1942.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Maurice_de_Vlaminck"
+    },
+    {
+      "heading": "A Year's Ban, No Trial, and an Epitaph That Left All of It Out",
+      "body": "Vlaminck was questioned after the Liberation but was never criminally prosecuted over the trip or the article. The professional consequence came later, from a different body: in 1946 [the Comité national d'épuration des artistes peintres](https://cactus.press/vlaminck/), dessinateurs, sculpteurs et graveurs — the arts profession's own postwar purge committee — banned him for one year from exhibiting or selling his work. He kept painting through it, [was elected to Belgium's Royal Academy in 1955, and showed at the 1956 Venice Biennale](https://www.theartstory.org/artist/vlaminck-maurice-de/) before he died at La Tourillière on 11 October 1958, aged 82. [His epitaph, as French Wikipedia records it](https://fr.wikipedia.org/wiki/Maurice_de_Vlaminck), reads: \"I never asked for anything, life gave me everything. I did what I could, I painted what I saw.\" Nothing in it mentions Room VII, Cézanne, Berlin, or Picasso — the four things that, taken together, explain why a picture of red roofs from 1907 still carries the name of a movement its own painter had already started to leave, and would later spend a war trying to shut for good.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Landscape with Red Roofs — WikiArt", "url": "https://www.wikiart.org/en/maurice-de-vlaminck/landscape-with-red-roofs" },
+    { "title": "Maurice de Vlaminck — English Wikipedia", "url": "https://en.wikipedia.org/wiki/Maurice_de_Vlaminck" },
+    { "title": "Maurice de Vlaminck — Wikipédia (French)", "url": "https://fr.wikipedia.org/wiki/Maurice_de_Vlaminck" },
+    { "title": "Maurice de Vlaminck — TheArtStory", "url": "https://www.theartstory.org/artist/vlaminck-maurice-de/" },
+    { "title": "Vlaminck : \"Le Cubisme ! Perversité de l'esprit...\" — Cactus", "url": "https://cactus.press/le-cubisme-perversite-de-lesprit/" },
+    { "title": "Vlaminck 1941-1946 — Cactus", "url": "https://cactus.press/vlaminck/" },
+    { "title": "Salon d'Automne de 1905 — Wikipédia (French)", "url": "https://fr.wikipedia.org/wiki/Salon_d%27Automne_de_1905" },
+    { "title": "Cubism — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cubism" },
+    { "title": "Spanish War and Occupation — Musée Picasso Paris", "url": "https://www.museepicassoparis.fr/en/picasso-biography/spanish-war-and-occupation/" }
+  ],
+  "generatedAt": "2026-09-22T03:20:00Z",
+  "model": "claude-sonnet-5"
+}
