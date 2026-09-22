@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-28",
+  "subject": {
+    "id": "york-minster",
+    "name": "York Minster",
+    "architect": "Various",
+    "year": 1472,
+    "location": "York, UK",
+    "country": "UK",
+    "city": "York",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/York_Minster_%282797690%29.jpg/1920px-York_Minster_%282797690%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1200,
+    "source": "https://en.wikipedia.org/wiki/York_Minster",
+    "title": "York Minster",
+    "author": "Various"
+  },
+  "title": "York Minster Has No Named Architect Because It Never Stopped Being Rescued",
+  "standfirst": "No single person designed York Minster: it went up in stages across two and a half centuries, its central tower collapsed outright once and came close again five centuries later, and a 1984 lightning strike set off an argument about divine judgement that firefighters couldn't answer. Each crisis was solved by whoever happened to hold the job at the time.",
+  "sections": [
+    {
+      "heading": "Nobody Can Actually Prove the Man Credited With Starting This",
+      "body": "Walter de Gray became Archbishop of York on 10 November 1215, having paid heavily to secure the post, and the Minster's own account of its history credits him without hesitation: he wanted York rebuilt in the new Gothic style as [one of the greatest churches](https://yorkminster.org/discover/stories/story/creating-one-of-the-kingdoms-greatest-churches/) in the kingdom. Wikipedia's entry on Gray is more careful. Both of the Minster's transepts went up during his time in office — the south from around 1225, the north from 1234 — but [direct evidence that he patronised](https://en.wikipedia.org/wiki/Walter_de_Gray) the work is lacking; the attribution rests largely on the fact that his own tomb, the first canopied tomb built in England, stands inside the transept he is credited with starting.\n\nWhoever set the rebuilding moving, it had a rival in view. Gray spent years in dispute with successive Archbishops of Canterbury over his right to carry his own cross before him when visiting Canterbury's own territory — a quarrel less about doctrine than about which of England's two archbishops actually ranked first. Construction, once under way, did not move as one project: Wikipedia's own [chronology of the building](https://en.wikipedia.org/wiki/York_Minster) has the nave going up in the 1280s, the eastern arm not begun until 1361, and the western towers not finished until 1472 — two and a half centuries, and on that timeline alone, at least three generations of masons who never met each other.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Canterbury_Cathedral_evening_%284902497028%29.jpg/960px-Canterbury_Cathedral_evening_%284902497028%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Canterbury_Cathedral"
+    },
+    {
+      "heading": "The Tower Fell Down Once, Mid-Build, in a Storm",
+      "body": "Sources do not agree on the year. Wikipedia's own chronology of the building puts the central tower's [collapse in 1407](https://en.wikipedia.org/wiki/York_Minster); a York history site researching the same crisis dates the same [storm to 1405](https://www.yorkmix.com/watch-york-minster-is-falling-down-how-a-1967-bbc-news-report-revealed-the-tower-was-in-danger-of-collapse). Either way, part of the tower that then held the Minster's bells came down in bad weather before the building was finished, and Henry IV answered by sending his own master mason, William of Colchester, to take charge of rebuilding it. Colchester stayed on the job until his death in 1420. The tower now in the photograph above — minus the spire it was originally meant to carry — was not finished until 1465, sixty years after the storm that brought its predecessor down.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Illumination_of_Henry_IV_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Henry_IV_of_England"
+    },
+    {
+      "heading": "While the Tower Was Down, a Coventry Glazier Got the Country's Biggest Window",
+      "body": "In 1405, the same years the tower crisis was under way, the Dean and Chapter signed a contract with John Thornton, a glazier from Coventry, to glaze the choir's east window — still the [largest expanse](https://www.buildingconservation.com/articles/great-east-window/great-east-window.htm) of medieval stained glass in England, roughly 1,680 square feet across more than 300 panels. The [contract's terms survive](https://www.coventrysociety.org.uk/2025/09/12/john-thornton-master-glazier/) in later copies: four shillings a week, a bonus of one hundred shillings a year, and up to ten pounds in silver if the Dean and Chapter judged the finished work good. Thornton did not have to paint every pane himself, but he did have to draw the [full-size cartoon](https://en.wikipedia.org/wiki/John_Thornton_%28glass_painter%29) for every one of the panels personally — so that even while the tower above the choir was a building site, the largest picture in the building was, scene by scene, one man's own hand. He finished in 1408, inside the three years the contract gave him.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Second Warning Came Five and a Half Centuries Later",
+      "body": "In 1965–66, the Minster's own surveyor of the fabric, Bernard Feilden, found the central tower's foundations failing again. A 1967 report gave the tower [as little as fifteen years](https://www.yorkmix.com/watch-york-minster-is-falling-down-how-a-1967-bbc-news-report-revealed-the-tower-was-in-danger-of-collapse) before it would have to come down. Dean Alan Richardson launched a public appeal that raised £2 million by 1972, spent reinforcing the tower's four supporting piers with concrete and steel — a method Feilden had already tested saving the spire of Norwich Cathedral. Digging the space to do it, his team's excavations under the tower turned up the north corner of the Roman fort's own headquarters building, remains from the city's life as [Roman Eboracum](https://en.wikipedia.org/wiki/York_Minster) that were left in place rather than removed, and can still be seen today in the Minster's undercroft. In that same year, 1967, a Minster glazier named Peter Gibson founded the York Glaziers Trust to look after the windows — a decision whose value nobody could have fully priced for another seventeen years.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Norwich_Cathedral_-_The_Tower_and_Spire.jpg/960px-Norwich_Cathedral_-_The_Tower_and_Spire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Norwich_Cathedral"
+    },
+    {
+      "heading": "Lightning Started an Argument the Fire Brigade Couldn't Put Out",
+      "body": "On 9 July 1984, lightning struck the Minster and set the roof of the south transept alight. The fire burned for about ninety minutes before firefighters deliberately [collapsed what remained](https://en.wikipedia.org/wiki/York_Minster_fire) to stop it spreading, leaving five feet of debris across the transept floor. The Rose Window's medieval glass cracked into roughly 40,000 pieces in the heat but held together, and Peter Gibson — who had joined the Minster's glazing workshop in 1945 and founded the trust protecting it in 1967 — spent [years restoring it](https://en.wikipedia.org/wiki/Peter_Gibson_%28glazier%29) a second time, having already worked on it once before. The repair bill came to £2.25 million.\n\nIt might have ended there, except the fire had come three days after David Jenkins, who had publicly questioned the literal truth of the virgin birth, was consecrated Bishop of Durham inside the same building. Letters printed in The Times [called the fire a verdict](https://www.yorkmix.com/how-the-york-minster-fire-sparked-an-unholy-row-in-the-times); the Archbishop of York called the idea ridiculous and asked what kind of god his correspondents thought they believed in; fire investigators put lightning at eighty per cent probable, arson and an electrical fault at ten per cent each. Gibson, who spent half a century quietly fixing what the building's various crises broke, put it more simply: 'I live here, and I look out of the window, and there it is, the Minster. It is one of the greatest buildings in the world.'",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "York Minster — Wikipedia", "url": "https://en.wikipedia.org/wiki/York_Minster" },
+    { "title": "Watch: York Minster is falling down! How a 1967 BBC news report revealed the tower was in danger of collapse — YorkMix", "url": "https://www.yorkmix.com/watch-york-minster-is-falling-down-how-a-1967-bbc-news-report-revealed-the-tower-was-in-danger-of-collapse" },
+    { "title": "How the York Minster fire sparked an unholy row in The Times — YorkMix", "url": "https://www.yorkmix.com/how-the-york-minster-fire-sparked-an-unholy-row-in-the-times" },
+    { "title": "York Minster fire — Wikipedia", "url": "https://en.wikipedia.org/wiki/York_Minster_fire" },
+    { "title": "John Thornton (glass painter) — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Thornton_%28glass_painter%29" },
+    { "title": "John Thornton — Master Glazier — Coventry Society", "url": "https://www.coventrysociety.org.uk/2025/09/12/john-thornton-master-glazier/" },
+    { "title": "The Great East Window of York Minster — Building Conservation", "url": "https://www.buildingconservation.com/articles/great-east-window/great-east-window.htm" },
+    { "title": "Creating one of the kingdom's greatest churches — York Minster", "url": "https://yorkminster.org/discover/stories/story/creating-one-of-the-kingdoms-greatest-churches/" },
+    { "title": "Walter de Gray — Wikipedia", "url": "https://en.wikipedia.org/wiki/Walter_de_Gray" },
+    { "title": "Peter Gibson (glazier) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Peter_Gibson_%28glazier%29" }
+  ],
+  "generatedAt": "2026-09-22T04:11:27Z",
+  "model": "claude-sonnet-5"
+}
