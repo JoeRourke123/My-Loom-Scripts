@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-29",
+  "subject": {
+    "id": "toledo-cathedral",
+    "name": "Toledo Cathedral",
+    "architect": "Various",
+    "year": 1493,
+    "location": "Toledo, Spain",
+    "country": "Spain",
+    "city": "Toledo",
+    "style": "Gothic",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/FP_Toledo_Cathedral_2025_-_West_fa%C3%A7ade.jpg/1920px-FP_Toledo_Cathedral_2025_-_West_fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2000,
+    "source": "https://en.wikipedia.org/wiki/Toledo_Cathedral",
+    "title": "Toledo Cathedral",
+    "author": "Various"
+  },
+  "title": "Toledo Cathedral's Chapter Haggled El Greco Down to a Third of His Price, Then Stopped Calling",
+  "standfirst": "In 1579 El Greco's own appraiser valued the altarpiece he had painted for the sacristy at 950 ducats. The cathedral's arbitrators paid him 350 and objected to his theology besides. That dispute was only one of the ways this building's income got fought over, spent on kings' wars, or explained by a legend its own historians won't quite stand behind.",
+  "sections": [
+    {
+      "heading": "The Chapter Cut Its Own Painter's Price by Nearly Two-Thirds",
+      "body": "El Greco got the commission for the sacristy's high altar through a friendship rather than a competition: Luis, son of the cathedral dean Diego de Castilla, brought him the job. He worked on [The Disrobing of Christ](https://en.wikipedia.org/wiki/The_Disrobing_of_Christ) from the summer of 1577 to the spring of 1579, and when it was done, his own appraiser priced it at 950 ducats. The chapter disagreed, sent the dispute to arbitration, and paid 350.\n\nMoney wasn't the only objection. The commissioners complained that Christ's tormentors stand above his head in the composition, and that three women appear in the foreground at a moment the Gospels don't actually place them. El Greco was told to repaint the picture. He never did.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/El_Expolio%2C_por_El_Greco.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/The_Disrobing_of_Christ"
+    },
+    {
+      "heading": "Outside the Cathedral, the Market Priced It Differently",
+      "body": "After the arbitration, Toledo's cathedral chapter is not recorded as ever giving El Greco a commission of comparable size again; the larger, later work of his career came from convents and private patrons around the city, not from the institution that had just fought him down to a third of his asking price. The painting itself did not suffer for it. Workshop and later versions of the same composition survive in more than seventeen collections, bought by patrons who never sat through the argument over ducats. The chapter's verdict on the picture and the wider market's turned out to be two very different numbers.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Legend the Chapter's Own Historians Won't Document",
+      "body": "In 1505, on Cardinal Cisneros's instruction, the chapter bought a small Gothic ostensory out of the recently dead Queen Isabella's estate — a piece a Catalan goldsmith named Almerique had made for her using seventeen kilograms of gold. Toledo's popular history holds that this gold came back with Christopher Columbus. The Spanish Wikipedia entry on the object is blunter: no documentation supports that, only tradition.\n\nWhatever the gold's origin, Cisneros then had the goldsmith Enrique de Arfe build an entire outer shell around Isabella's piece — seven years' work, finished in 1523, assembled from 5,600 separate pieces held together by 12,500 screws, carrying 260 statuettes and eighteen more kilograms of gold on top of the silver. The object itself is not in dispute: at nearly two and a half metres tall, it is still carried through Toledo's streets every Corpus Christi.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The See That Paid for This Also Governed the Country",
+      "body": "Francisco Jiménez de Cisneros held the archbishopric of Toledo from 1495 until his death in 1517, and by his own century's reckoning it was the richest and most powerful see in Spain. He spent that income on more than the building. He personally funded the new university at Alcalá de Henares, bankrolled the 1505 assault on the port of Mers El Kébir, and after 1507 carried the title of Grand Inquisitor for Castile and León. Twice — briefly in 1506, then for the last two years of his life — he governed Castile itself as regent, the second time for the boy who would become the Emperor Charles V.\n\nInside the cathedral he spent some of that same authority differently: reviving the old Hispano-Mozarabic rite and endowing a chapel, with a college of thirteen priests, to keep it said daily — a liturgy that had nowhere else left in Spain with a working home.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Jimenez_de_Cisneiros_Toledo.jpg/960px-Jimenez_de_Cisneiros_Toledo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Francisco_Jim%C3%A9nez_de_Cisneros"
+    },
+    {
+      "heading": "The Ground Underneath Had Already Been Taken Once, by Force",
+      "body": "When Alfonso VI took Toledo in 1085, the surrender he signed promised the city's Muslims they could keep their chief mosque, along with their property and their religion. Two years later, with the king away on other business, the newly named Archbishop Bernard of Sédirac and Queen Constance sent an armed party to seize that mosque anyway, installing an altar inside it and hanging a bell in its minaret.\n\nWhat kept the seizure from turning into a massacre was a faqih named Abu Walid, who talked Toledo's Muslims out of retaliating and asked the returning king for mercy toward the men who had broken his word. The [cathedral's own chapter](https://en.wikipedia.org/wiki/Toledo_Cathedral) later carved his likeness into a pillar of the church that eventually rose on the same ground, in gratitude. That Gothic building did not begin until 1226, under Ferdinand III — more than a century after the promise it stands on was already broken.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Cristo_de_la_Luz_2025_Fa%C3%A7ade.jpg/960px-Cristo_de_la_Luz_2025_Fa%C3%A7ade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Church_of_Cristo_de_la_Luz"
+    }
+  ],
+  "sources": [
+    { "title": "Toledo Cathedral — Wikipedia", "url": "https://en.wikipedia.org/wiki/Toledo_Cathedral" },
+    { "title": "Toledo Cathedral: History, Art and Faith in Stone — Catedral Primada", "url": "https://www.catedralprimada.es/en/the-cathedral/history/" },
+    { "title": "The Disrobing of Christ — Wikipedia", "url": "https://en.wikipedia.org/wiki/The_Disrobing_of_Christ" },
+    { "title": "The Arfe Custodia: A Masterpiece in Silver and Gold — Liturgical Arts Journal", "url": "https://www.liturgicalartsjournal.com/2018/03/the-arfe-custodia-masterpiece-in-silver.html" },
+    { "title": "The Custody of Toledo Cathedral — ToledoSpain.Click", "url": "https://toledospain.click/the-custody-of-toledo-cathedral/" },
+    { "title": "Custodia de la Catedral de Toledo — Wikipedia", "url": "https://es.wikipedia.org/wiki/Custodia_de_la_Catedral_de_Toledo" },
+    { "title": "Francisco Jiménez de Cisneros — Wikipedia", "url": "https://en.wikipedia.org/wiki/Francisco_Jim%C3%A9nez_de_Cisneros" },
+    { "title": "Church of Cristo de la Luz — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mosque_of_Cristo_de_la_Luz" },
+    { "title": "Bernard of Sédirac — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bernard_of_S%C3%A9dirac" },
+    { "title": "Siege of Toledo (1085) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Siege_of_Toledo_(1085)" }
+  ],
+  "generatedAt": "2026-09-23T04:19:32Z",
+  "model": "claude-sonnet-5"
+}
