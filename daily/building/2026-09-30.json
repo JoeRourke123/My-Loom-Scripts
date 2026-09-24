@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-09-30",
+  "subject": {
+    "id": "certosa-di-pavia",
+    "name": "Certosa di Pavia",
+    "architect": "Various",
+    "year": 1497,
+    "location": "Pavia, Italy",
+    "country": "Italy",
+    "city": "Pavia",
+    "style": "Gothic Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2014-01-01-Pavia_Certosa.jpg/1920px-2014-01-01-Pavia_Certosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Certosa_di_Pavia",
+    "title": "Certosa di Pavia",
+    "author": "Various"
+  },
+  "title": "A Monastery Built to Bury a Dynasty Kept Failing at the One Job It Had",
+  "standfirst": "In August 1946 police found Benito Mussolini's stolen corpse hidden inside this monastery outside Pavia. It was, in a way, on brand: the building's own founder waited a century and a half for his tomb here, and its grandest later monument holds no one at all.",
+  "sections": [
+    {
+      "heading": "A Fascist Dictator's Corpse Spent Four Months Hiding Here in 1946",
+      "body": "On Easter Sunday 1946, a young neo-fascist named Domenico Leccisi and two accomplices dug up Benito Mussolini's body from its unmarked grave in Milan's Musocco cemetery. What followed was sixteen weeks of moving a missing dictator's corpse between hiding places — a villa, a monastery, a convent — while [the authorities searched](https://en.wikipedia.org/wiki/Death_of_Benito_Mussolini). By early May it had reached the Angelicum convent in Rome with the help of two complicit priests; from there it was carried north again to the Certosa di Pavia. It stayed there until August, when one of the priests confessed and police recovered it, missing a leg. The remains then spent eleven more years hidden at a Capuchin friary near Milan, their location kept even from Mussolini's own family, before a government finally allowed burial in his hometown of Predappio in 1957. It is a strange coda for a building whose entire reason for existing, five and a half centuries earlier, was to give a family's dead a permanent, dignified place to be found — not hidden.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Man Who Commissioned It Had Already Poisoned His Way to Power",
+      "body": "Gian Galeazzo Visconti took Milan from his own uncle: on 6 May 1385, having [faked a religious conversion and ambushed him during a procession](https://en.wikipedia.org/wiki/Gian_Galeazzo_Visconti), he deposed Bernabò Visconti and had him locked in the fortress of [Trezzo sull'Adda](https://en.wikipedia.org/wiki/Bernab%C3%B2_Visconti). Bernabò died there seven months later, on 19 December 1385, presumably poisoned. Gian Galeazzo went on to dream of uniting northern Italy into a revived Lombard kingdom, and had the revenue to make the dream plausible: his territories brought him some 1,200,000 gold florins in ordinary income in a single year, plus another 800,000 in extraordinary subsidies, according to figures preserved in the record of the [Duchy of Milan](https://en.wikipedia.org/wiki/Duchy_of_Milan). In May 1395 Wenceslaus, King of the Romans, issued a diploma in Prague naming him the first Duke of Milan; the title was celebrated in the city that September. A year later, on 27 August 1396, he laid the foundation stone of the Certosa.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Bonino_da_Campione%2C_monumento_sepolcrale_di_Bernab%C3%B2_Visconti%2C_1385-90_ca.%2C_da_s._Giovanni_in_Conca_02-edit-crop.jpg/960px-Bonino_da_Campione%2C_monumento_sepolcrale_di_Bernab%C3%B2_Visconti%2C_1385-90_ca.%2C_da_s._Giovanni_in_Conca_02-edit-crop.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Bernab%C3%B2_Visconti"
+    },
+    {
+      "heading": "He Wanted His Family Buried in Milan's Own Cathedral. He Was Refused.",
+      "body": "Before the Certosa, Gian Galeazzo's plan was simpler. Work on [Milan Cathedral](https://en.wikipedia.org/wiki/Milan_Cathedral) began in 1386, the year after his coup, under his cousin the archbishop, and the new duke intended to turn it into the Visconti family mausoleum, with his father Galeazzo II's tomb at its centre. It did not happen: the plan, in the cathedral's own account, \"was met with strong opposition from both the factory\" — the Fabbrica del Duomo, the board that governed the building work — \"and the Milanese,\" who guarded the cathedral's status as a civic monument rather than a private ducal chapel. The clash forced Gian Galeazzo to found a separate building site reserved exclusively for his own dynasty: the Certosa di Pavia. The division held afterwards — the Duomo stayed the church of Milan's citizens, guilds and clergy, while the new monastery outside Pavia became the ruling house's alone.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/960px-Milan_Cathedral_from_Piazza_del_Duomo.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Milan_Cathedral"
+    },
+    {
+      "heading": "It Was Funded by a Standing Tax on Farmland, Not a Single Budget",
+      "body": "Gian Galeazzo and his successors paid for the Certosa the way a medieval dynasty paid for anything permanent: not with one grant but with land. The founding contract obliged the Carthusian monks to put part of the revenue from estates donated to the monastery back into finishing the building, and the practice outlasted the Visconti themselves — by the eighteenth century the monastery controlled around 2,325 hectares of irrigated land, according to [the monastery's own history](https://www.certosadipavia.it/history/). Individual purchases show the money moving on the ground: in 1400 the prior paid 1,000 gold florins, a serious sum, to the workshop of Baldassarre degli Embriachi for an ivory triptych made from wood, hippopotamus tooth and turtle bone, [now inside the church](https://www.certosadipavia.it/cathedral/). Why build at all is less settled than how: [the monastery's own site](https://www.italia.it/en/lombardy/pavia/certosa-of-pavia) and the [Fondo Ambiente Italiano](https://fondoambiente.it/luoghi/certosa-di-pavia) both describe the project as fulfilling a vow made by Gian Galeazzo's wife, Caterina — while the English-language account of [Caterina Visconti](https://en.wikipedia.org/wiki/Caterina_Visconti) herself describes the Certosa only as a joint commission by the couple and mentions no vow at all. The two tellings do not agree on whether this was piety or statecraft, and nothing in what survives settles it.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Five Generations of Architects Never Finished the Same Drawing",
+      "body": "Marco Solari began the church in 1396; Giovanni Solari redirected it into the emerging Renaissance style from 1428; his son Guiniforte carried it on until his death in 1481, by which point the Gothic nave was long complete. The façade was still plain brick until 1473, when the monks decided — uniquely for the region — to face it in costly Carrara marble. [Giovanni Antonio Amadeo](https://en.wikipedia.org/wiki/Giovanni_Antonio_Amadeo) was temporarily appointed head architect the same year Guiniforte died, but was not confirmed in the post, and did not produce the façade design that was actually built, until 1490; the carving campaign that followed, with sculptors including Benedetto Briosco, produced the classicising main portal in 1501, but stalled after 1519 when French occupation of Lombardy stopped the money. Work resumed under Gian Giacomo Dolcebuono and later Cristoforo Lombardo only after 1554, by which point the design had shifted again: large stretches of the sculpture originally planned for the upper façade were replaced with cheaper inlaid marble panels. Consecration came in 1497 and the lower façade was called finished in 1507, but [construction of the complex as a whole ran to 1542](https://en.wikipedia.org/wiki/Certosa_di_Pavia) — 146 years after the first stone, under a design no single architect ever saw whole.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The One Job It Had Was Burying Its Own Dead. It Struggled at That, Too.",
+      "body": "Gian Galeazzo Visconti died of fever at Melegnano on 3 September 1402. His own tomb, in the church's south transept, was not finished until 1562 — a hundred and sixty years later, by Gian Cristoforo Romano and Benedetto Briosco. Across the transept sits an even stranger monument: the tomb of Ludovico Sforza and his wife Beatrice d'Este, carved with striking realism by Cristoforo Solari and moved to the Certosa in 1564. Beatrice had in fact been buried elsewhere — in Milan's [Santa Maria delle Grazie](https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie,_Milan), which Ludovico had chosen in 1497 as the Sforza family's own burial church. What arrived at the Certosa decades later was only the sculpture: neither Ludovico nor Beatrice is actually inside it, and the monument is a cenotaph, an empty box built to look occupied. A building founded to give a dynasty's dead a fixed, honoured resting place spent a century and a half failing to finish its own founder's grave and ended up with its most celebrated later tomb holding no one at all. Set against that record, the Certosa's four unplanned months as a hiding place for someone else's stolen corpse in 1946 look less like an aberration than a continuation: this was always a building better at the ceremony of burial than at the burying itself.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Santa_Maria_delle_Grazie_Milan_2013.jpg/960px-Santa_Maria_delle_Grazie_Milan_2013.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie,_Milan"
+    }
+  ],
+  "sources": [
+    { "title": "Certosa di Pavia", "url": "https://en.wikipedia.org/wiki/Certosa_di_Pavia" },
+    { "title": "History — Certosa di Pavia", "url": "https://www.certosadipavia.it/history/" },
+    { "title": "Cathedral — Certosa di Pavia", "url": "https://www.certosadipavia.it/cathedral/" },
+    { "title": "Death of Benito Mussolini", "url": "https://en.wikipedia.org/wiki/Death_of_Benito_Mussolini" },
+    { "title": "Gian Galeazzo Visconti", "url": "https://en.wikipedia.org/wiki/Gian_Galeazzo_Visconti" },
+    { "title": "Caterina Visconti", "url": "https://en.wikipedia.org/wiki/Caterina_Visconti" },
+    { "title": "Duchy of Milan", "url": "https://en.wikipedia.org/wiki/Duchy_of_Milan" },
+    { "title": "Certosa di Pavia — Fondo Ambiente Italiano", "url": "https://fondoambiente.it/luoghi/certosa-di-pavia" },
+    { "title": "Certosa of Pavia — italia.it", "url": "https://www.italia.it/en/lombardy/pavia/certosa-of-pavia" },
+    { "title": "Bernabò Visconti", "url": "https://en.wikipedia.org/wiki/Bernab%C3%B2_Visconti" },
+    { "title": "Milan Cathedral", "url": "https://en.wikipedia.org/wiki/Milan_Cathedral" },
+    { "title": "Santa Maria delle Grazie, Milan", "url": "https://en.wikipedia.org/wiki/Santa_Maria_delle_Grazie,_Milan" },
+    { "title": "Giovanni Antonio Amadeo", "url": "https://en.wikipedia.org/wiki/Giovanni_Antonio_Amadeo" }
+  ],
+  "generatedAt": "2026-09-24T04:15:18Z",
+  "model": "claude-sonnet-5"
+}
