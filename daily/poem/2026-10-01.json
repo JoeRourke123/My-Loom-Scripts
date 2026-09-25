@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-10-01",
+  "subject": {
+    "id": "233052",
+    "title": "The Trumpet",
+    "author": "Edward Thomas",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/53739/the-trumpet-56d233508e90a",
+    "text": "Rise up, rise up,\nAnd, as the trumpet blowing\nChases the dreams of men,\nAs the dawn glowing\nThe stars that left unlit\nThe land and water,\nRise up and scatter\nThe dew that covers\nThe print of last night's lovers-\nScatter it, scatter it!\n\nWhile you are listening\nTo the clear horn,\nForget, men, everything\nOn this earth newborn,\nExcept that it is lovelier\nThan any mysteries.\nOpen your eyes to the air\nThat has washed the eyes of the stars\nThrough all the dewy night:\nUp with the light,\nTo the old wars;\nArise, arise!",
+    "excerpt": "Rise up, rise up,\nAnd, as the trumpet blowing\nChases the dreams of men,\nAs the dawn glowing\nThe stars that left unlit\nThe land and water,\nRise up and scatter\nThe dew that covers\nThe print of last night's lovers-\nScatter it, scatter it!\n\nWhile you are listening\nTo the clear horn,\nForget, men, everything\nOn this earth newborn,\nExcept that it is lovelier\nThan any mysteries.\nOpen your eyes to the air\nThat has washed the eyes of the stars\nThrough all the dewy night:\nUp with the light,\nTo the old wars;\nArise, arise!",
+    "truncated": false
+  },
+  "title": "A Reveille With a Crack Running Through It",
+  "standfirst": "Edward Thomas wrote \"The Trumpet\" in pencil at an artillery barracks in September 1916, careful that the men sleeping around him wouldn't know he was writing verse. What he produced reads like a call to glory until one word gives away what he actually thought of the war he had volunteered for.",
+  "sections": [
+    {
+      "heading": "Two Pages of Pencil, Written So No One Would Notice",
+      "body": "On 26 September 1916 Edward Thomas sat in a hut at the Royal Artillery Barracks in Trowbridge and drafted a poem in pencil, two pages, in his own hand. He was thirty-eight, a private turned officer cadet, training for the commission he would get that November. He was also, by then, a poet with two years of serious work behind him — and he did not want the men around him to know it.\n\nThe manuscript survives in [Cardiff University's Special Collections](https://archive.org/details/arg140), which now holds the largest collection of Thomas's papers anywhere. It shows Thomas disguising his lines by running them together with only capital letters to mark where each one began, so the page would pass at a glance for prose rather than verse. \"People are all around me and I don't want them to know,\" [Thomas wrote](https://scolarcardiff.wordpress.com/2017/04/18/edward-thomas-poems/) of the habit. The draft survived in part because Eleanor Farjeon, a friend and fellow writer, once owned it.\n\nThe poem he was hiding was \"The Trumpet\" — a reveille, a bugle call rendered in words, ordering sleeping men to rise.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Edward_Thomas.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Edward_Thomas_(poet)"
+    },
+    {
+      "heading": "The One Word a Recruiting Poster Would Have Cut",
+      "body": "Read at speed, \"The Trumpet\" is unambiguous: wake up, forget your dreams, the world is lovelier than any mystery, arise. Its rhythm gallops. Its imagery is all light breaking over dark — stars going out as dawn comes up, dew scattered off the grass, a horn cutting through sleep. It is, on its face, exactly the kind of poem an army would want a soldier-poet to write.\n\nThomas's biographer Matthew Hollis reads it differently: the form is \"strident, galloping, heroic,\" [he has written](https://scolarcardiff.wordpress.com/2017/04/18/edward-thomas-poems/), but the content keeps supplying \"other tones — the dark stars that failed to illuminate the earth below, the hounding of dreams.\" The single word that carries the most weight sits in the [poem's final line](https://poets.org/poem/trumpet), where the trumpet calls the men not to the war, or to victory, but \"to the old wars.\" Old. Not this war, not a war worth naming, but one more instance of something that has always been happening. A recruiting poster does not say old wars. It says your country needs you, or the war to end war. Thomas, alone with a pencil, wrote the version that admits this is not the first time and will not be the last.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Joke About Indecision, Taken as an Instruction",
+      "body": "Thomas had not always written poems. He spent most of his working life as a jobbing critic and biographer, turning out reviews and hackwork to support a wife and three children, even though he had come to believe poetry was the highest form of literature. He did not attempt it himself until the end of 1914, encouraged by Robert Frost, the American poet then living near him at Dymock in Gloucestershire, where the two men spent long afternoons walking the lanes together.\n\nOne of those walks produced, indirectly, a poem of Frost's rather than Thomas's: \"The Road Not Taken,\" written after Frost had grown fondly exasperated by Thomas's habit of regretting whichever fork in the path they had not taken. Frost meant it as a gentle tease. Thomas, according to Hollis, took it in earnest — as a comment on his own inability to decide anything, including whether to enlist. He joined the Artists' Rifles that July, 1915, a married man of thirty-seven with no obligation to go.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Robert_Frost_NYWTS_2.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_Frost"
+    },
+    {
+      "heading": "Literally, For This",
+      "body": "Asked directly what he thought he was fighting for, Thomas gave an answer that had nothing to do with Belgium, the Kaiser, or the newspapers he despised. Eleanor Farjeon later recorded the exchange: he bent down, picked up a pinch of earth, crumbled it between finger and thumb, let it fall, and [said, \"Literally, for this.\"](https://warpoets.org.uk/worldwar1/edward-thomas-war-poet/)\n\nIt is the same instinct that makes \"old wars\" the truest phrase in \"The Trumpet.\" Thomas's patriotism, by every account close to him, attached itself to the physical country — its soil, its lanes, the land he had spent a decade writing about in prose — rather than to the state prosecuting the war on its behalf. Wars over that kind of thing are indeed old, older than any government fighting one. A recruiting reveille has no use for a soldier who thinks that way, which may be part of why this one was written in disguise.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Eleanor_Farjeon_%28%D0%AD%D0%BB%D0%B5%D0%B0%D0%BD%D0%BE%D1%80_%D0%A4%D0%B0%D1%80%D0%B4%D0%B6%D0%BE%D0%BD%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Eleanor_Farjeon"
+    },
+    {
+      "heading": "The Death His Widow Was Told, and the One a Letter Later Confirmed",
+      "body": "Thomas took his commission in the Royal Garrison Artillery that November and was killed within five months, on Easter Monday, 9 April 1917, the opening day of the Battle of Arras. For two decades the accepted account — the one his widow, Helen, was given — held that a shell had passed close enough to stop his heart with its blast, leaving him dead without a mark on his body.\n\nThat version held until 1936, when Thomas's biographer John Moore received a letter from Franklin Lushington, Thomas's commanding officer, describing a phone call from the observation post minutes after the battle began: \"A voice said that Thomas had been killed, [shot clean through the chest](https://opusculum.wordpress.com/2017/04/09/2nd-lieutenant-philip-edward-thomas/) by a pip-squeak\" — a 77mm shell — \"the very moment the battle began.\" Moore chose not to use the account, apparently out of deference to Helen. The letter surfaced only decades later, in an American archive.\n\nA man who wrote his clearest poem about the war in a hand disguised to look like nothing, and whose actual cause of death was, for a generation, disguised as something gentler than it was. \"The Trumpet\" ends on a command — arise, arise — given by a poet who, by his own reckoning, would have to answer it more than once.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    {
+      "title": "Edward Thomas (poet) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Thomas_(poet)"
+    },
+    {
+      "title": "Guest post: Observations on Edward Thomas' manuscript poems — Cardiff University Special Collections",
+      "url": "https://scolarcardiff.wordpress.com/2017/04/18/edward-thomas-poems/"
+    },
+    {
+      "title": "Poetry from the Trenches of WWI: Edward Thomas — JSTOR Daily",
+      "url": "https://daily.jstor.org/poetry-trenches-wwi-edward-thomas/"
+    },
+    {
+      "title": "The Trumpet by Edward Thomas — Academy of American Poets",
+      "url": "https://poets.org/poem/trumpet"
+    },
+    {
+      "title": "Edward Thomas, The Trumpet [1], 26 Sep 1916 — Internet Archive (Cardiff University)",
+      "url": "https://archive.org/details/arg140"
+    },
+    {
+      "title": "2nd Lieutenant Philip Edward Thomas, Royal Garrison Artillery — Opusculum",
+      "url": "https://opusculum.wordpress.com/2017/04/09/2nd-lieutenant-philip-edward-thomas/"
+    },
+    {
+      "title": "Edward Thomas - War Poet? — Discover War Poets",
+      "url": "https://warpoets.org.uk/worldwar1/edward-thomas-war-poet/"
+    }
+  ],
+  "generatedAt": "2026-09-25T02:15:00Z",
+  "model": "claude-sonnet-5"
+}
