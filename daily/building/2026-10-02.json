@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-02",
+  "subject": {
+    "id": "tempietto",
+    "name": "Tempietto",
+    "architect": "Donato Bramante",
+    "year": 1502,
+    "location": "Rome, Italy",
+    "country": "Italy",
+    "city": "Rome",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tempietto_di_San_Pietro_in_Montorio.jpg/1920px-Tempietto_di_San_Pietro_in_Montorio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 2418,
+    "source": "https://en.wikipedia.org/wiki/Tempietto_del_Bramante",
+    "title": "Tempietto",
+    "author": "Donato Bramante"
+  },
+  "title": "A Tiny Rome Chapel Reshaped Three Centuries of Domes. It May Mark the Wrong Hill.",
+  "standfirst": "Ferdinand and Isabella paid Bramante to fix the exact spot where Saint Peter died. The location was actually settled by a medieval argument about two demolished tombs, and the small building's real legacy has almost nothing to do with the site it was built to commemorate.",
+  "sections": [
+    {
+      "heading": "The Site Was Fixed by an Argument About Two Tombs, Not by Anyone Who Watched Peter Die",
+      "body": "The Acts of Peter, a Greek text from the late second century, says the apostle was crucified \"inter duas metas\" — between two metae, the turning posts that stood at either end of a Roman racetrack's central spine. Read plainly, that phrase points to one place: the spina of the [Circus of Nero](https://en.wikipedia.org/wiki/Circus_of_Nero), the arena beside the Vatican hill where Nero had Christians killed after Rome's fire of 64 AD, and where Constantine later built Old St Peter's Basilica with its apse centred on what tradition held to be Peter's own grave.\n\nBy the late Middle Ages a different reading had taken hold. Two freestanding pyramid-tombs stood elsewhere in the city — the [Meta Romuli](https://en.wikipedia.org/wiki/Meta_Romuli), between St Peter's and the Castel Sant'Angelo, and the pyramid of Cestius, more than two kilometres south, long mistaken for the tomb of Romulus and Remus. Read the Acts' two \"metae\" as these two monuments instead of the circus's own turning posts, and the geometric midpoint between them lands nowhere near the Vatican — it lands across the Tiber, on the hill Rome called Montorio.\n\nThat is the ground [San Pietro in Montorio](https://en.wikipedia.org/wiki/San_Pietro_in_Montorio) sits on, and where Ferdinand and Isabella told Bramante to build. One of the two tombs that helped fix the spot did not even outlast the argument: Pope Alexander VI ordered the Meta Romuli torn down in November 1498 to clear a new road, so the marker was already gone from the Vatican skyline before ground was broken, four years later, on a shrine whose location its misreading had helped move a hillside away.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Meta_Romuli_in_Rome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Meta_Romuli"
+    },
+    {
+      "heading": "The Spanish Crown Paid for It. The Actual Bill Has Never Surfaced.",
+      "body": "The Tempietto and the rebuilding of the church around it were funded by [Ferdinand II of Aragon and Isabella I of Castile](https://en.wikipedia.org/wiki/San_Pietro_in_Montorio), coordinated in Rome by Cardinal Bernardino López de Carvajal — the couple's own resident ambassador at the papal court, titular cardinal of Santa Croce in Gerusalemme, and, on paper, Latin Patriarch of a Jerusalem he did not administer. That last title mattered more than its emptiness suggests: a foreign crown willing to bankroll a martyr's shrine in Rome bought real leverage with the pope, and a title tied to Jerusalem let Spain assert a religious stake in the actual city while it was at it.\n\nWhat any of this cost is not recoverable. The Tempietto's own construction accounts are [lost](https://www.sacredarchitecture.org/articles/temple_tabernacle_and_sepulchre_the_legacy_of_bramantes_tempietto), leaving 1502 as about the only fact historians can fix with confidence. What survives instead is the shrine's paperwork carved into stone: a foundation stone, sealed inside the crypt altar sometime in the seventeenth century and left there through the nineteenth, was not lifted out again until restoration work in 1998 — when it turned out to carry the king and queen's names on one face and Carvajal's name, next to the date, on the reverse. Even the object built to record who paid for this needed two sides to say so.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cardeal_Carvajal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Bernardino_L%C3%B3pez_de_Carvajal"
+    },
+    {
+      "heading": "It Also Stood In for a Funeral the Crown Could Not Hold in Rome",
+      "body": "John, Prince of Asturias, the only son of Ferdinand and Isabella, married Margaret of Austria on 3 April 1497 at Burgos Cathedral. Six months later, on 4 October 1497, he was dead at nineteen — probably of tuberculosis, though contemporaries also floated smallpox, and some blamed the marriage itself, a theory nothing in the record backs up. His widow's pregnancy ended in a stillbirth. Within three years the rest of the succession the Catholic Monarchs had built around him collapsed too: his sister Isabella died in 1498, and her son [Miguel de la Paz](https://en.wikipedia.org/wiki/John,_Prince_of_Asturias) — the grandson who would have inherited Castile, Aragon and Portugal together — died in 1500. The crown passed instead to a younger daughter, Joanna, and her husband Philip the Handsome, and Spain got the Habsburg dynasty it had never planned for.\n\nBramante's shrine went up in the years directly after that run of deaths, commissioned by the same two monarchs who had just buried their heir. One architectural history of the commission argues the Tempietto doubled, unofficially, as \"a fitting memorial to Prince John\" as much as a monument to Peter's martyrdom — a shrine to one death standing in, quietly, for a funeral the family held for their own son somewhere the record does not connect back to this hillside at all.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Joan_d%27Arag%C3%B3_i_de_Castella.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/John,_Prince_of_Asturias"
+    },
+    {
+      "heading": "Bramante Solved a Design Problem Nobody Had Attempted in a Thousand Years",
+      "body": "Whatever its geography, the building itself is a serious piece of engineering. The [Tempietto](https://en.wikipedia.org/wiki/Tempietto_del_Bramante) is generally credited as the first structure of the Renaissance to use the Doric order the way Vitruvius actually described it — correctly proportioned triglyphs and metopes alternating around an entablature carried on sixteen ancient granite columns, a level of fidelity to the classical rulebook nobody in Italy had managed in a thousand years. The result is small: an interior barely [4.5 metres across](https://en.italy4.me/lazio/rome/roman-churches/tempietto-bramante.html) and about 11 metres to the top of the dome, dwarfed by the monastery cloister around it.\n\nBramante's actual ambition went further than the rotunda that got built. His drawings show the Tempietto ringed by a full circular colonnade, its columns aligned radially outward from the sixteen already standing, turning the whole courtyard into concentric rings around one small altar. It survives only on paper — Sebastiano Serlio printed the design in his own architectural treatise decades later — because the courtyard itself was never built, and nothing in the surviving record explains exactly why the scheme stalled. What is on record is Bramante's next job: by November 1503, Pope Julius II had already put him in charge of the [rebuilding of St Peter's Basilica](https://en.wikipedia.org/wiki/Donato_Bramante) itself, a commission whose own cornerstone went in on 17 April 1506. Whatever the unfinished cloister still needed, it was competing with that.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Copy Outgrew the Original by Several Continents",
+      "body": "Bramante's little temple did not stay little for long, in influence if not in size. Andrea Palladio's Quattro Libri dell'Architettura (1570) included it as the only contemporary building besides Palladio's own work, judging that it deserved to be \"[placed amongst those of the ancients](https://www.classicist.org/articles/classical-comments-the-tempietto-grandfather-of-domes/).\" Through Palladio's books, and Serlio's before them, the formula of a domed drum ringed by a peristyle became one of the most repeated shapes in European and American public building: it echoes in Christopher Wren's dome for St Paul's Cathedral, completed in 1711, in Jules Hardouin-Mansart's Les Invalides, and eventually in Thomas U. Walter's dome for the [US Capitol](https://www.classicist.org/articles/classical-comments-the-tempietto-grandfather-of-domes/), approved in 1851, and in a run of American state capitols that followed it. None of those buildings mark anything Peter is known to have touched.\n\nNor did the family that paid for the original ever quite let go of it. The convent was seized by the new Italian state in 1873 and ceded to the Spanish crown three years later, to house what became the [Real Academia de España](https://en.wikipedia.org/wiki/Spanish_Academy_in_Rome) — meaning Spain has now owned this hillside longer than it argued over Jerusalem. King Juan Carlos I funded a restoration of the Tempietto in 1976, and paid for another ahead of the 2000 Holy Year, the campaign that finally lifted the foundation stone out of its crypt and confirmed, in Carvajal's own carved name, who had been paying since 1502. A shrine built on an argument about two tombs ended up mattering rather more for the domes it taught the rest of the world to build than for the death it was built to mark.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Tempietto del Bramante — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tempietto_del_Bramante" },
+    { "title": "San Pietro in Montorio — Wikipedia", "url": "https://en.wikipedia.org/wiki/San_Pietro_in_Montorio" },
+    { "title": "Donato Bramante — Wikipedia", "url": "https://en.wikipedia.org/wiki/Donato_Bramante" },
+    { "title": "John, Prince of Asturias — Wikipedia", "url": "https://en.wikipedia.org/wiki/John,_Prince_of_Asturias" },
+    { "title": "Meta Romuli — Wikipedia", "url": "https://en.wikipedia.org/wiki/Meta_Romuli" },
+    { "title": "Circus of Nero — Wikipedia", "url": "https://en.wikipedia.org/wiki/Circus_of_Nero" },
+    { "title": "Spanish Academy in Rome — Wikipedia", "url": "https://en.wikipedia.org/wiki/Spanish_Academy_in_Rome" },
+    { "title": "Temple, Tabernacle, and Sepulchre: The Legacy of Bramante's Tempietto — Institute for Sacred Architecture", "url": "https://www.sacredarchitecture.org/articles/temple_tabernacle_and_sepulchre_the_legacy_of_bramantes_tempietto" },
+    { "title": "Classical Comments: The Tempietto, Grandfather of Domes — Institute of Classical Architecture & Art", "url": "https://www.classicist.org/articles/classical-comments-the-tempietto-grandfather-of-domes/" },
+    { "title": "Tempietto by Bramante in Rome: architecture and history — Italy4.me", "url": "https://en.italy4.me/lazio/rome/roman-churches/tempietto-bramante.html" },
+    { "title": "\"Inter duas metas\": le immagini del martirio di S. Pietro e la topografia simbolica di Roma — Acta ad archaeologiam et artium historiam pertinentia", "url": "https://journals.uio.no/acta/article/view/5736" }
+  ],
+  "generatedAt": "2026-09-26T04:19:51Z",
+  "model": "claude-sonnet-5"
+}
