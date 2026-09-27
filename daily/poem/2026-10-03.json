@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-10-03",
+  "subject": {
+    "id": "220070",
+    "title": "Sonnet 15: Fairfax, whose name in arms through Europe rings",
+    "author": "John Milton",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/44734/sonnet-15-fairfax-whose-name-in-arms-through-europe-rings",
+    "text": "Fairfax, whose name in arms through Europe rings\n      Filling each mouth with envy, or with praise,\n      And all her jealous monarchs with amaze\n      And rumours loud, that daunt remotest kings;\nThy firm unshak'n virtue ever brings\n      Victory home, though new rebellions raise\n      Their hydra heads, and the false north displays\n      Her brok'n league, to imp their serpent wings:\nO yet a nobler task awaits thy hand;\n      For what can war but endless war still breed?\n      Till Truth and Right from Violence be freed,\nAnd Public Faith clear'd from the shameful brand\n      Of Public Fraud. In vain doth Valour bleed\n      While Avarice and Rapine share the land.",
+    "excerpt": "Fairfax, whose name in arms through Europe rings\n      Filling each mouth with envy, or with praise,\n      And all her jealous monarchs with amaze\n      And rumours loud, that daunt remotest kings;\nThy firm unshak'n virtue ever brings\n      Victory home, though new rebellions raise\n      Their hydra heads, and the false north displays\n      Her brok'n league, to imp their serpent wings:\nO yet a nobler task awaits thy hand;\n      For what can war but endless war still breed?\n      Till Truth and Right from Violence be freed,\nAnd Public Faith clear'd from the shameful brand\n      Of Public Fraud. In vain doth Valour bleed\n      While Avarice and Rapine share the land.",
+    "truncated": false
+  },
+  "title": "The Nobler Task He Was Handed, and What He Did Instead",
+  "standfirst": "In 1648 Milton told a general still fighting a siege that war-making was the easy part, and ordered him to go clean up the state next. Fairfax spent the next twelve years answering that instruction — by resigning, retiring, and then putting a king back on the throne Milton had spent his career trying to abolish.",
+  "sections": [
+    {
+      "heading": "The Turn at Line Nine",
+      "body": "For eight lines Milton does what a sonnet to a living general is supposed to do: he flatters. Fairfax's name \"rings\" through Europe, filling mouths with \"envy, or with praise,\" daunting \"remotest kings.\" Then, exactly where an Italian sonnet is built to pivot — the octave's ABBAABBA rhymes giving way to the sestet's CDDCDC — Milton drops the compliment and issues an order: \"O yet a nobler task awaits thy hand.\" The nobler task is not another battle. It is ending the habit of having them: \"For what can war but endless war still breed?\" Truth and Right must be freed from Violence; \"Public Faith\" must be cleared of \"the shameful brand / Of Public Fraud\"; someone has to do something about \"Avarice and Rapine,\" which Milton says are dividing the country between them.\n\nWhat Milton does not say, anywhere in the poem, is who exactly is committing the fraud or profiting from the rapine. He leaves the accusation general and the instruction blunt: stop winning battles and start fixing the state. He addresses this to the [Lord General of the New Model Army](https://en.wikipedia.org/wiki/Thomas_Fairfax) in the middle of an eleven-week siege that had not yet ended — a strange moment to ask a field commander to pivot from war to statecraft, since the war, for Fairfax personally, was nowhere near over.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/General_Thomas_Fairfax_%281612-1671%29_by_Robert_Walker_and_studio.jpg/960px-General_Thomas_Fairfax_%281612-1671%29_by_Robert_Walker_and_studio.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Thomas_Fairfax"
+    },
+    {
+      "heading": "Eleven Weeks, Then Two Shots at Dusk",
+      "body": "Milton wrote while the outcome was still open — composed, on the evidence of its own reference to a Scottish invasion not yet defeated, sometime between [Fairfax's army closing around Colchester](https://en.wikipedia.org/wiki/Siege_of_Colchester) on 12 June and Cromwell breaking the Scots at Preston on 17 August. He could not have known how the siege would end, because it had not ended yet. It ended eleven weeks after it began: the garrison reduced to eating six hundred horses, then dogs, cats and rats, then soap and candles, while women and children sent out to beg for food were turned back at the lines. Colchester surrendered on 28 August. That same evening, a court-martial convicted the two senior Royalist commanders, Sir Charles Lucas and Sir George Lisle, of treason, and [had them shot by firing squad](https://en.wikipedia.org/wiki/Siege_of_Colchester) before nightfall, by Fairfax's own order — a sentence one historian has attributed less to law than to eleven weeks of frustration finally finding a target. Lisle reportedly asked the firing squad to step closer so they would not miss.\n\nNone of that is what the sonnet describes. But it is what the man it addresses did, within days of whenever Milton finished writing, and it makes an uncomfortable test of the poem's own terms. Truth and Right, freed from Violence: a court-martial that shoots two men within hours of a surrender is not the obvious illustration of that separation succeeding.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/St_Mary%27s_Arts_Centre%2C_Colchester_02.jpg/960px-St_Mary%27s_Arts_Centre%2C_Colchester_02.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Siege_of_Colchester"
+    },
+    {
+      "heading": "Forty-Six Years in a Drawer",
+      "body": "Milton never published this sonnet. It survived only in his own hand, in [the manuscript that stayed at Cambridge](https://www.luminarium.org/sevenlit/milton/sonnet15.htm), and it stayed unprinted for forty-six years — through his death in 1674, through fourteen more years of Stuart rule, through the deposing of James II in 1688 — until his nephew [Edward Phillips](https://en.wikipedia.org/wiki/Edward_Phillips) finally issued it in 1694. Phillips packaged it, oddly, inside *Letters of State*, an edition of Milton's actual diplomatic correspondence from his years as the Commonwealth's Latin secretary, with a biographical memoir attached. The sonnet to Cromwell appeared in that same volume for the first time too, and for the same reason: an editorial note on that companion poem says plainly that [the subject would have offended the restored Stuart monarchy](https://en.wikisource.org/wiki/To_the_Lord_General_Cromwell,_May_1652) had it appeared any sooner. Praising the general who had led that army to victory over a king, in a poem demanding he go further still and purge the state of its own corruption, was not something a nephew could risk printing while that king's son sat on the throne.\n\nWhat Milton meant by \"Public Fraud\" he never says, and nothing in the record consulted here pins the phrase to one scandal rather than the general run of profiteering and patronage that had grown up around Parliament's own war machinery. The charge is real. The target is left unnamed.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Task Declined",
+      "body": "Two years after the sonnet, Fairfax was offered something closer to Milton's job description than anyone would offer him again: the Council of State wanted him to lead an army into Scotland pre-emptively, before the Scots could crown Charles II and invade England themselves. Cromwell and the council pressed him hard. Fairfax refused, [resigned as Lord General in 1650](https://en.wikipedia.org/wiki/Thomas_Fairfax), and let Cromwell take the command and, in time, the country. His last act in uniform, the year before, had been suppressing a Leveller mutiny at Burford — soldiers demanding a version of political reform, wider suffrage, an end to the arbitrary power of the army's own grandees, considerably more specific than anything Milton's sonnet had asked for.\n\nFairfax retired to his Yorkshire estate at Nun Appleton on a pension of £5,000 a year, where [Andrew Marvell, tutor to his daughter](https://en.wikipedia.org/wiki/Andrew_Marvell), wrote him into \"Upon Appleton House\" not as a reformer finishing an unfinished revolution but as a man contentedly out of one, tending a garden instead of a state. Whatever the nobler task was supposed to look like, Fairfax's practical answer to it was to stop being asked.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Portrait_of_Marvell.jpg/960px-Portrait_of_Marvell.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Andrew_Marvell"
+    },
+    {
+      "heading": "Ten Years On, He Supplied the Horse",
+      "body": "The retirement did not hold. In December 1659, with the republic dissolving into competing armies, [Fairfax rode out at the head of a body of Yorkshire gentlemen](https://en.wikipedia.org/wiki/Thomas_Fairfax) against the forces of General John Lambert, who was backing the army's continued rule; roughly twelve hundred of Lambert's own cavalry quit his colours and joined Fairfax on the spot, and Lambert's army came apart under him. The moment ran straight into the Restoration: Fairfax was put at the head of the Commons delegation sent to The Hague to urge Charles II's speedy return, and at the coronation that followed, it was Fairfax who provided the horse the new king rode.\n\nMilton did not fare as well. A warrant went out for [his arrest as the monarchy returned](https://en.wikipedia.org/wiki/John_Milton) in May 1660, and he went into hiding. That August, Charles II ordered two of his books, *Eikonoklastes* and the *Defensio pro Populo Anglicano*, [burned in public by the public hangman](https://en.wikipedia.org/wiki/Eikonoklastes). Milton reemerged under a general pardon, was arrested anyway, and was released from a brief imprisonment only after influential friends intervened — [Andrew Marvell, an MP by then](https://en.wikipedia.org/wiki/Andrew_Marvell), among them. The general Milton had once instructed to free Truth and Right from Violence and clear the state of its fraud spent the next twelve years answering a different question, and ended up restoring the very king Milton's career had helped remove. The poet who wrote him the instructions very nearly went to the scaffold instead.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/960px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_II_of_England"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Sonnet 15: Fairfax, whose name in arms through Europe rings — Poetry Foundation",
+      "url": "https://www.poetryfoundation.org/poems/44734/sonnet-15-fairfax-whose-name-in-arms-through-europe-rings"
+    },
+    {
+      "title": "On the Lord General Fairfax at the Siege of Colchester — Representative Poetry Online",
+      "url": "https://rpo.library.utoronto.ca/content/lord-general-fairfax-siege-colchester"
+    },
+    {
+      "title": "Sonnets: 15 — The John Milton Reading Room, Dartmouth",
+      "url": "https://milton.host.dartmouth.edu/reading_room/sonnets/sonnet_15/text.shtml"
+    },
+    {
+      "title": "John Milton. Sonnet XV: On the Lord General Fairfax, at the Siege of Colchester — Luminarium",
+      "url": "https://www.luminarium.org/sevenlit/milton/sonnet15.htm"
+    },
+    {
+      "title": "Siege of Colchester — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Colchester"
+    },
+    {
+      "title": "George Lisle (Royalist) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/George_Lisle_(Royalist)"
+    },
+    {
+      "title": "Thomas Fairfax — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thomas_Fairfax"
+    },
+    {
+      "title": "Edward Phillips — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edward_Phillips"
+    },
+    {
+      "title": "John Milton — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Milton"
+    },
+    {
+      "title": "Eikonoklastes — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eikonoklastes"
+    },
+    {
+      "title": "King Charles II Orders John Milton's Books Burned — EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/history/king-charles-ii-orders-john-miltons-books-burned"
+    },
+    {
+      "title": "Andrew Marvell — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andrew_Marvell"
+    },
+    {
+      "title": "To the Lord General Cromwell, May 1652 — Wikisource",
+      "url": "https://en.wikisource.org/wiki/To_the_Lord_General_Cromwell,_May_1652"
+    }
+  ],
+  "generatedAt": "2026-09-27T02:08:33Z",
+  "model": "claude-sonnet-5"
+}
