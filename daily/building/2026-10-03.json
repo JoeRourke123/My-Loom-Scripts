@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-03",
+  "subject": {
+    "id": "monastery-of-batalha",
+    "name": "Monastery of Batalha",
+    "architect": "Afonso Domingues",
+    "year": 1517,
+    "location": "Batalha, Portugal",
+    "country": "Portugal",
+    "city": "Batalha",
+    "style": "Manueline",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Batalha_September_2021-2.jpg/1920px-Batalha_September_2021-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 991,
+    "source": "https://en.wikipedia.org/wiki/Batalha_Monastery",
+    "title": "Monastery of Batalha",
+    "author": "Afonso Domingues"
+  },
+  "title": "A King With No Legal Claim to His Throne, His Marriage or His Own Vows Built This Monastery to Fix All Three",
+  "standfirst": "João I won Portugal's crown on a battlefield in 1385 despite an illegitimate birth and a religious vow of celibacy he was still bound by. The monastery he built to thank God for the win did the slower work of making all of that look inevitable — and outlived him by two more kings who each tried, and failed, to finish it on their own terms.",
+  "sections": [
+    {
+      "heading": "The Man Who Made This Vow Had No Legal Claim to the War He Was Fighting",
+      "body": "João was the illegitimate son of King Pedro I; his mother, Teresa Lourenço, was never married to Pedro. At seven he was made Grand Master of the [Order of Aviz](https://en.wikipedia.org/wiki/Order_of_Aviz), a Portuguese military order whose members lived under religious vows, including one of chastity. None of that gave him any claim on the throne his half-brother Ferdinand I left vacant when he died without a male heir on 22 October 1383. What followed, later called the [1383–1385 Portuguese interregnum](https://en.wikipedia.org/wiki/1383%E2%80%931385_Portuguese_interregnum), was a fight over whether the crown would pass to Ferdinand's daughter and her Castilian husband — effectively annexing Portugal — or to someone the country's own nobles and merchants would accept instead.\n\nJoão's opening move was to have Count João Fernandes Andeiro, the dowager queen's favourite and the man brokering the Castilian match, killed by a group of conspirators he led on 6 December 1383. Ten days later he was proclaimed rector and defender of the realm by the people of Lisbon. The Cortes of Coimbra did not name him king outright until 6 April 1385 — a year and a half after his half-brother's death, and only once no rival candidate stood a chance. The claim he carried into battle at [Aljubarrota](https://en.wikipedia.org/wiki/Battle_of_Aljubarrota) that August rested on an election forced by an assassination, not on blood. A monastery thanking God for the win it produced was never only devotion.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Batalha_de_Aljubarrota_02.jpg/960px-Batalha_de_Aljubarrota_02.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota"
+    },
+    {
+      "heading": "The Same Pope Who Blessed This Building Also Had to Fix the King's Marriage",
+      "body": "The battle Aljubarrota won João the throne, but two other holes in his legitimacy took longer to close. In February 1387 he married Philippa of Lancaster, daughter of John of Gaunt, sealing the alliance that would become the Treaty of Windsor — even though, as the Catholic Encyclopedia's account of the period puts it, he did so [\"though a cleric,\"](https://www.newadvent.org/cathen/12297a.htm) still formally bound by the Order of Aviz's vow of celibacy. It took Pope Boniface IX until 1391 to retroactively [legitimate the marriage](https://en.wikipedia.org/wiki/John_I_of_Portugal).\n\nThat same year, the same pope resolved a second irregularity, this one at Batalha itself: the [Dominicans](https://pt.wikipedia.org/wiki/Mosteiro_da_Batalha), a mendicant order theoretically forbidden to hold landed property, needed a special bull to legally own the monastery João had already given them in 1388. Portugal had stayed loyal to the Roman popes through the Western Schism while Castile's court leaned toward the rival line in Avignon — so getting Rome to sign off on both the king's marriage and his monastery, in the same few years, was also a way of confirming which side of a much larger fight Portugal was on.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cosmati%2C_bonifacio_IX_inginocchiato%2C_1390-1410_ca_%28cropped%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Pope_Boniface_IX"
+    },
+    {
+      "heading": "Nobody Is Certain Who Actually Designed It, or Where He Was From",
+      "body": "Afonso Domingues laid out the church from 1386, blending French Rayonnant Gothic with touches of English Perpendicular work, before construction passed to a successor around 1402. That successor is even less pinned down. Master [Huguet](https://en.wikipedia.org/wiki/Huguet) ran the site from 1402 until his death in 1438, raising the nave to over 32 metres, a first in Portugal, and pushing the building toward Flamboyant Gothic. Wikipedia's own account records three competing theories about who he actually was: a Catalan; an Irishman properly named David Huguet; or a mason recommended to Queen Philippa by Henry Yevele, the English master mason behind Westminster Abbey and Canterbury Cathedral.\n\nNo version has been proven, and the uncertainty is itself telling. Philippa was English, the alliance with England had just been signed in blood at Aljubarrota, and whichever story about Huguet is true, the building's decisive stretch of construction ran through a man whose style, if not his birth, kept pulling this Portuguese royal monastery back toward English Gothic.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/960px-Westminster_Abbey%2C_Westminster.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Westminster_Abbey"
+    },
+    {
+      "heading": "Whoever He Was, He Bet Condemned Men's Lives on His Own Vault",
+      "body": "Huguet's riskiest work is the chapter house: a star vault with no central support at all, spanning a 19-metre square. According to the tradition recorded on [Batalha's own history](https://en.wikipedia.org/wiki/Batalha_Monastery), the vault failed twice during construction, and the men sent up to build and test it under those two collapses were prisoners already condemned to death — a workforce whose lives the project was, by definition, willing to spend to find out whether the design would hold. When the scaffolding finally came down for good, Huguet reportedly spent the night sleeping directly beneath the completed vault, to answer anyone who still doubted it. The chapter house has stood, unsupported, for roughly six centuries since.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Later King Revived the Family's Unfinished Grave, Then Found a Better Use for the Money",
+      "body": "In 1437 King Duarte, João's eldest son, ordered an octagonal royal pantheon built onto the church's east end for himself and his wife — seven radiating chapels around a rotunda that was supposed to carry its own vault. Duarte died the following year, as did Huguet, and the space sat open and roofless for decades afterward. It is still called the Capelas Imperfeitas, the Unfinished Chapels.\n\nMateus Fernandes, master of works from around 1490, revived the project under King João II and King Manuel I and finished its portal — a Manueline showpiece of armillary spheres and knotted stone — in 1509. He died in 1515 without roofing the chapel behind it. The reason the work never resumed has a hard number attached: from 1501, Manuel diverted money already earmarked for [Batalha, \"including the Aviz pantheon,\"](https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery) into a new monastery at Belém, funded by a 5-percent tax on trade with Africa and Asia worth roughly 70 kilograms of gold a year. Vasco da Gama had prayed at that site before sailing for India in 1497, and a monument to the spice trade was, for Manuel, simply a better use of the crown's money than finishing a mausoleum his own family had been trying to close for over sixty years. Nearly five and a half centuries later, the chapels are still open to the sky.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/The_Jer%C3%B3nimos_Monastery_or_Hieronymites_Monastery.png/960px-The_Jer%C3%B3nimos_Monastery_or_Hieronymites_Monastery.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery"
+    },
+    {
+      "heading": "The Bones the Monastery Was Built to Honour Were Later Scattered by Soldiers",
+      "body": "The building's later history undercuts its founding purpose almost as thoroughly as the unfinished chapel does. Napoleonic troops under Marshal Masséna [sacked and burned the complex in 1810 and 1811](https://en.wikipedia.org/wiki/Batalha_Monastery), during which soldiers broke open royal tombs and scattered the remains of King João II — a descendant of the very founder the building existed to legitimise. Restoration only began in 1840, under the military engineer Luís da Silva Mouzinho de Albuquerque, in what is generally reckoned Portugal's first modern monument restoration project; the work ran into the early twentieth century. The monastery was declared a national monument in 1907 and named a UNESCO World Heritage Site in 1983 — recognition, this time, that required no battle, no bull and no vow, only the paperwork of an international committee.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "John I of Portugal — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_I_of_Portugal" },
+    { "title": "1383–1385 Portuguese interregnum — Wikipedia", "url": "https://en.wikipedia.org/wiki/1383%E2%80%931385_Portuguese_interregnum" },
+    { "title": "Battle of Aljubarrota — Wikipedia", "url": "https://en.wikipedia.org/wiki/Battle_of_Aljubarrota" },
+    { "title": "Order of Aviz — Wikipedia", "url": "https://en.wikipedia.org/wiki/Order_of_Aviz" },
+    { "title": "Portugal — Catholic Encyclopedia (New Advent)", "url": "https://www.newadvent.org/cathen/12297a.htm" },
+    { "title": "Philippa of Lancaster — Wikipedia", "url": "https://en.wikipedia.org/wiki/Philippa_of_Lancaster" },
+    { "title": "Mosteiro da Batalha — Wikipédia", "url": "https://pt.wikipedia.org/wiki/Mosteiro_da_Batalha" },
+    { "title": "Batalha Monastery — Wikipedia", "url": "https://en.wikipedia.org/wiki/Batalha_Monastery" },
+    { "title": "Huguet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Huguet" },
+    { "title": "Mateus Fernandes (architect) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mateus_Fernandes_(architect)" },
+    { "title": "Jerónimos Monastery — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery" },
+    { "title": "Luís da Silva Mouzinho de Albuquerque — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lu%C3%ADs_da_Silva_Mouzinho_de_Albuquerque" },
+    { "title": "Pope Boniface IX — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pope_Boniface_IX" }
+  ],
+  "generatedAt": "2026-09-27T04:17:30Z",
+  "model": "claude-sonnet-5"
+}
