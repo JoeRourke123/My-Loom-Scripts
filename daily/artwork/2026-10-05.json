@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "kind": "artwork",
+  "date": "2026-10-05",
+  "subject": {
+    "id": "berthe-morisot/a-corner-of-the-rose-garden",
+    "title": "A Corner of the Rose Garden",
+    "artist": "Berthe Morisot",
+    "artistSlug": "berthe-morisot",
+    "year": null,
+    "movement": "Impressionism",
+    "movementLabel": "Impressionism",
+    "imageUrl": "https://uploads4.wikiart.org/images/berthe-morisot/a-corner-of-the-rose-garden.jpg",
+    "source": "https://www.wikiart.org/en/berthe-morisot/a-corner-of-the-rose-garden",
+    "width": 1052,
+    "height": 828,
+    "accent": "#6A6F7A",
+    "accentName": "secondary",
+    "author": "Berthe Morisot"
+  },
+  "title": "She Hid Her Paintbrushes in a Closet. The Garden Needed No Disguise at All.",
+  "standfirst": "In 1883 Berthe Morisot had her new Paris house built with a closet designed to hide her paint tubes from dinner guests. This garden, painted a couple of years later, needed no such cover — and the reasons why explain more about her career than the roses do.",
+  "sections": [
+    {
+      "heading": "A House Built With a Hiding Place for Her Own Job",
+      "body": "In 1883 Berthe Morisot and her husband, Eugène Manet, commissioned a new house at 40 rue de Villejust in Paris's 16th arrondissement — rooms arranged around a salon with sixteen-foot ceilings and street-facing windows, built for a haute-bourgeois household that expected to be looked at. [Morisot asked the architect for one thing the blueprints didn't otherwise call for](https://www.artsy.net/article/artsy-editorial-berthe-morisot-brought-radically-feminine-perspective-impressionism): a discreet closet, built specifically to hide her paint tubes and brushes whenever guests arrived, so that nothing in the décor would give away that a working painter lived there. [She never had an ordinary studio](https://americangirlsartclubinparis.com/2012/04/27/berthe-morisots-garden/) — home life and painting life ran through the same rooms, and the closet's entire job was to keep the two from being seen together.\n\nNothing in the record says whose garden this canvas shows. The family's rented summer house at Bougival, with its own well-documented flower garden, [had been given up the year before](https://www.tourisme-bougival.com/en/discover-bougival/berthe-morisot-2/); the garden at the new house on rue de Villejust was, at most, two years old. Whichever it was, the closet marks the boundary either garden sat outside of. Sketching flowers in the open was an acceptable thing for a woman of her class to be seen doing. Running a painting career out of the same address, evidently, was not.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Berthe_Morisot_Manet_Lille_2918.jpg/960px-Berthe_Morisot_Manet_Lille_2918.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Berthe_Morisot_with_a_Fan"
+    },
+    {
+      "heading": "A Future Model for Proust Reviewed Her Like a Perfumer",
+      "body": "Five years earlier, the collector and critic Charles Ephrussi had already settled on the vocabulary he thought suited Morisot's paint handling, whatever she happened to paint. Reviewing her submissions to the fifth Impressionist exhibition of 1880 for the Gazette des Beaux-Arts, which he co-owned and edited, Ephrussi wrote that [she \"grinds flower petals onto her palette\"](https://nonsite.org/berthe-morisot-early-impressionist-criticism-and-the-aesthetics-of-the-plein-air-interior/) to produce something one senses rather than sees — \"vague opaline tints\" laid down as if by accident. It read as praise, and it also filed her technique under a decorative, faintly domestic category before any formal argument about it could get started.\n\nEphrussi is not a footnote of only passing interest. He was later the model for Charles Swann in Proust, and the [collector whose netsuke and family story Edmund de Waal inherited and wrote into The Hare with Amber Eyes](https://en.wikipedia.org/wiki/Charles_Ephrussi) two generations on. When he reached for petals to describe her brushwork, it wasn't idle whimsy — it was the settled opinion of one of the best-connected tastemakers in Paris. By the time Morisot painted actual petals rather than being compared to them, she was less changing subject than making literal a compliment the city's critics had already decided was the only one available to her.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ephrussi%2C_Charles.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_Ephrussi"
+    },
+    {
+      "heading": "The Year Before, She Was Burying the Man Who Made Her Famous",
+      "body": "The rue de Villejust closet was two years old, and this rose garden barely painted, when Morisot found herself organising a very different kind of unveiling. Édouard Manet — her brother-in-law by marriage, and the painter behind some of the era's most striking portraits of her — [died in Paris on 30 April 1883](https://news.artprice.com/en/14525/edouard-manet-died-april-30-1883-the-genius-who-revolutionized-modern-painting), eleven days after surgeons amputated first his gangrenous foot and then the leg below the knee, the long consequence of syphilis contracted decades earlier in Rio de Janeiro.\n\nIn the year that followed, Morisot [did what she could to acquire Manet's own portraits of her and organised a monographic exhibition of his work in 1884](https://womensarttours.com/berthe-morisot-1841-1895-2/). At the sale of his estate that same year, she [bought La Dame aux éventails, his 1873 portrait of the salon hostess Nina de Callias](https://matthiesengallery.com/work_of_art/berthe-morisot), shown reclining in black on a blue daybed, in a pose borrowed from Goya. Callias — a composer, poet and one of Paris's most sought-after hostesses, whose gatherings Manet himself had attended — [died in a mental hospital that same July](https://en.wikipedia.org/wiki/Nina_de_Callias), her health broken by drink; Morisot's purchase kept hold of a portrait of a woman whose own life the year had already ended. Later still, she joined Claude Monet's campaign to have the French state buy Manet's Olympia, rather than let it disappear the way the Callias portrait so nearly had.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/960px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Édouard_Manet"
+    },
+    {
+      "heading": "The Only Woman in the Room for Seven Shows Out of Eight",
+      "body": "None of this happened from the sidelines. Morisot had been a founding exhibitor of the Impressionist group since 1874 and [took part in all eight of its shows but one — 1879, the year her daughter Julie was born](https://en.wikipedia.org/wiki/Berthe_Morisot) — a steadier record than several of the men whose names now stand for the movement more often than hers does.\n\nWhat she painted, though, ran on a narrower track than what they painted. Manet had Callias's salon and the Folies-Bergère; Degas had the rehearsal room and the brothel; Renoir had the dance halls of Montmartre. A woman of Morisot's class did not go alone into any of those rooms, and could not paint what she wasn't permitted to see. Interiors, her own family, and gardens weren't a smaller ambition — they were the rooms actually open to her, and this rose garden is one more entry on that shorter list, not a retreat from a larger one she might otherwise have chosen.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Year Later, She and Her Husband Bankrolled the Show That Broke the Group",
+      "body": "By 1886, Morisot and Eugène Manet were doing more than lending their names to the cause. For what became the eighth and final Impressionist exhibition, staged in rooms above the Maison Dorée restaurant, [the couple financed the whole show themselves](https://www.worldhistory.org/article/2000/the-paris-impressionist-exhibitions-1874-86/). Camille Pissarro had spent months lobbying to bring in the young Georges Seurat, whose enormous, dot-built A Sunday Afternoon on the Island of La Grande Jatte needed a wall of its own; the compromise put Seurat, Paul Signac and Pissarro's own new pointillist work in a room apart from the painters who had built the group over the previous decade. The exhibition Morisot had personally underwritten came apart around her, faction against faction, and she judged it herself, afterwards, [\"a complete fiasco\"](https://www.worldhistory.org/article/2000/the-paris-impressionist-exhibitions-1874-86/).\n\nIt's a strange coda to a year that opened, one twelvemonth earlier, on a rose garden: the same woman who could paint quietly among flowers was, within another year, bankrolling the argument that ended the movement she had helped found.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/960px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte"
+    },
+    {
+      "heading": "Today It Answers to No Name We're Allowed to Know",
+      "body": "Set against that record, the painting's present tense is almost anticlimactic. It survives today in a [private collection](https://www.wikiart.org/en/berthe-morisot/a-corner-of-the-rose-garden), with no public exhibition history and no previous owner on record — nothing beyond a date, a size and a title. Seurat's Grande Jatte, first shown the year after this canvas was painted, has hung in the Art Institute of Chicago for a century, reproduced past the point of parody. This one has no public life to speak of at all.\n\nThat is, in its way, consistent. A closet built to conceal her paints, an estate sale conducted after a death, a financing arrangement between husband and wife that history remembers mainly for how badly the exhibition it paid for fell apart — Morisot's professional life kept surfacing in places built not to be looked at too closely. A rose garden, painted in the open, may be the one part of 1885 that was ever really meant to be seen.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "A Corner of the Rose Garden, 1885 — WikiArt", "url": "https://www.wikiart.org/en/berthe-morisot/a-corner-of-the-rose-garden" },
+    { "title": "Berthe Morisot Brought a Radically Feminine Perspective to Impressionism — Artsy", "url": "https://www.artsy.net/article/artsy-editorial-berthe-morisot-brought-radically-feminine-perspective-impressionism" },
+    { "title": "Berthe Morisot's Garden — American Girls Art Club in Paris", "url": "https://americangirlsartclubinparis.com/2012/04/27/berthe-morisots-garden/" },
+    { "title": "Berthe Morisot — Bougival tourism office", "url": "https://www.tourisme-bougival.com/en/discover-bougival/berthe-morisot-2/" },
+    { "title": "Berthe Morisot, Early Impressionist Criticism and the Aesthetics of the Plein-air Interior — Nonsite.org", "url": "https://nonsite.org/berthe-morisot-early-impressionist-criticism-and-the-aesthetics-of-the-plein-air-interior/" },
+    { "title": "Charles Ephrussi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Charles_Ephrussi" },
+    { "title": "Berthe Morisot (1841-1895) — Women's Art Tours", "url": "https://womensarttours.com/berthe-morisot-1841-1895-2/" },
+    { "title": "Édouard Manet: died April 30, 1883 — Artprice", "url": "https://news.artprice.com/en/14525/edouard-manet-died-april-30-1883-the-genius-who-revolutionized-modern-painting" },
+    { "title": "Femme sur un canapé (Berthe Morisot) — Matthiesen Gallery", "url": "https://matthiesengallery.com/work_of_art/berthe-morisot" },
+    { "title": "Nina de Callias — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nina_de_Callias" },
+    { "title": "Berthe Morisot — Wikipedia", "url": "https://en.wikipedia.org/wiki/Berthe_Morisot" },
+    { "title": "The Paris Impressionist Exhibitions, 1874–86 — World History Encyclopedia", "url": "https://www.worldhistory.org/article/2000/the-paris-impressionist-exhibitions-1874-86/" }
+  ],
+  "generatedAt": "2026-09-29T05:00:00Z",
+  "model": "claude-sonnet-5"
+}
