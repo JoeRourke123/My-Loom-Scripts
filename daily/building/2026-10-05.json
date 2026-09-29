@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-05",
+  "subject": {
+    "id": "wawel-castle",
+    "name": "Wawel Castle",
+    "architect": "Various",
+    "year": 1536,
+    "location": "Kraków, Poland",
+    "country": "Poland",
+    "city": "Kraków",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wawel_%284%29.jpg/1920px-Wawel_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1200,
+    "source": "https://en.wikipedia.org/wiki/Wawel_Castle",
+    "title": "Wawel Castle",
+    "author": "Various"
+  },
+  "title": "This Castle Has Outlasted Every Regime That Occupied It. Its Own Treasures Took Longest to Get Home.",
+  "standfirst": "Wawel Castle survived a century as an Austrian barracks and a Nazi governor who ran occupied Poland from its state rooms. The building never really left. What furnished it kept getting taken away, seized by one power after another for two hundred years.",
+  "sections": [
+    {
+      "heading": "For a Hundred and Ten Years, the Building Was a Barracks",
+      "body": "After the Third Partition erased Poland from the map in 1795, Austrian soldiers moved onto Wawel Hill and stayed. They walled up the [Renaissance arcades](https://en.wikipedia.org/wiki/Wawel_Castle) that ran around the courtyard, lowered rooflines, and refitted royal rooms for garrison use. After Kraków's own uprising against Habsburg rule collapsed in 1846, the army added three large buildings for a military hospital directly on the hill, on top of what had already been altered.\n\nThe occupation did not end until 1905, when Emperor Franz Joseph I himself ordered the troops withdrawn and the hill handed back. What followed was restoration, not simply a return to keys: architects Zygmunt Hendel and Adolf Szyszko-Bohusz took charge of undoing a century of garrison work, and the project ran on public subscription rather than any state treasury, Austrian or Polish. A building that had been requisitioned by an empire was put back together, room by room, with money collected from people who wanted it back.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg/960px-Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Franz_Joseph_I"
+    },
+    {
+      "heading": "Rebuilt After a Fire, by a King Whose Treasury Was Empty",
+      "body": "The Renaissance castle exists because the Gothic one that preceded it burned in 1499. Prince Sigismund, not yet king, summoned the Florentine mason [Francesco Fiorentino](https://en.wikipedia.org/wiki/Francesco_Fiorentino), who arrived in Kraków in February 1502, probably travelling with him from Hungary. Fiorentino spent 1502 to 1507 rebuilding the western wing as a residence for Sigismund's mother, Queen Elisabeth, then moved on to the north wing and to the courtyard galleries that would later be judged the finest Renaissance courtyard in central Europe.\n\nNone of it was cheap, and the crown could not simply pay for it. Sigismund's own treasury was close to empty when the work began, so he leaned on the one asset the kingdom had in abundance: he expanded the royal salt mines at Wieliczka and Bochnia and raised new taxes to cover the difference. Fiorentino did not live to see the courtyard finished. He died in Kraków on 16 October 1516, and the job passed to another Italian, Bartolomeo Berrecci, who inherited both the unfinished galleries and Fiorentino's own workshop of masons.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Man Who Finished the Courtyard Was Murdered a Few Streets Away",
+      "body": "Bartolomeo Berrecci had moved to Poland in 1516 at the invitation of the bishop Jan Łaski, and took over Fiorentino's Wawel commission on his death that same year. His own masterpiece there was the Sigismund Chapel, built between 1517 and 1533 as the king's funeral chapel — a building [Wikipedia's own account](https://en.wikipedia.org/wiki/Bartolommeo_Berrecci) calls the most beautiful piece of Italian Renaissance architecture outside Italy. He also carried Fiorentino's courtyard galleries through to completion.\n\nHe did not get to enjoy the credit for long. In August 1537, Berrecci was murdered in [Kraków's market square](https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w), reportedly by a fellow Italian, out of jealousy — the killer was never conclusively identified. Even that much is not settled: the same reference that gives the murder also states, in a different passage, that he died of an infection from a workshop accident while carving the tomb of Bishop Piotr Tomicki. Two centuries of scholarship on the man who built the castle's finest room cannot agree on how he died in it.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG/960px-Sukiennice_and_Main_Market_Square_Krakow_Poland.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w"
+    },
+    {
+      "heading": "The Governor Who Ran the Terror From the King's Old Rooms",
+      "body": "Hans Frank became Governor-General of occupied Poland on 26 October 1939 and made Wawel Castle his residence and seat of administration for the rest of the war. From those rooms he oversaw the segregation of Jews into ghettos and the use of forced labour, and four extermination camps operated within the territory under his authority. On 16 December 1941 he told senior officials that Jews had to be annihilated wherever they were found. He was not a passing tenant; he governed occupied Poland from the castle for more than five years.\n\nHe also took its neighbours' art. The Gestapo working for Frank seized [Raphael's Portrait of a Young Man](https://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_%28Raphael%29), Leonardo's Lady with an Ermine and a Rembrandt landscape from the Czartoryski family, and the three paintings hung in Frank's residence before being sent on to Germany for safekeeping. In January 1945, with the Eastern Front collapsing, Frank had them brought back to Wawel — the last confirmed sighting of the Raphael. He fled the castle days later, was captured by American troops in Bavaria on 3 May 1945, and was hanged at Nuremberg on 16 October 1946. The Leonardo and the Rembrandt were eventually recovered. The Raphael, valued today at more than $100 million, has never surfaced, and an empty frame now hangs in its place in Kraków's National Museum.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Raphael_missing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_%28Raphael%29"
+    },
+    {
+      "heading": "Its Own Decorations Took Two Hundred Years to Get Home",
+      "body": "By the 1560s, three generations of Jagiellon monarchs had assembled well over 300 wall hangings for Wawel's state rooms, including roughly 160 that Sigismund Augustus commissioned from Brussels workshops between 1550 and 1560. Some were pawned off in leaner years even before anyone invaded; only 137 survive today. The rest of that shrinking collection has spent more of the last two centuries in transit than on the wall it was woven for.\n\nRussian forces looted the bulk of it during the Third Partition of 1795 and carried it off to St Petersburg. It did not come back until the Treaty of Riga, signed 18 March 1921, forced the return of art taken from Poland under tsarist rule — including, by name, Sigismund Augustus's own collection. The hangings had barely settled back on Wawel's walls before they were on the move again: two days after the German invasion in September 1939, curators evacuated them through Romania, Malta and six months in a factory at Aubusson in France, before they sailed for Canada aboard the [MS Batory](https://en.wikipedia.org/wiki/Evacuation_of_Polish_National_Treasures_during_World_War_II) on 4 July 1940, reaching Halifax eight days later.\n\nIn Canada they outlasted the war only to become a Cold War hostage. Discovered in storage at a Quebec City hospital in 1948, they were impounded by the province's premier, [Maurice Duplessis](https://en.wikipedia.org/wiki/Maurice_Duplessis), who refused to hand cultural treasures to a communist government and locked them in the provincial museum instead. Stalin's death in 1953 freed a first pair of trunks, but the bulk of the collection sat in Quebec until Duplessis himself died in 1959. His successors agreed to release the rest the following year, and the hangings finally sailed home by way of Boston, arriving at Wawel in 1961 — a hundred and sixty-six years, almost to the decade, after Russian soldiers first carried them out the door.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Duplessis_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Maurice_Duplessis"
+    }
+  ],
+  "sources": [
+    { "title": "Wawel Castle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Wawel_Castle" },
+    { "title": "Francesco Fiorentino — Wikipedia", "url": "https://en.wikipedia.org/wiki/Francesco_Fiorentino" },
+    { "title": "Bartolommeo Berrecci — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bartolommeo_Berrecci" },
+    { "title": "Main Square, Kraków — Wikipedia", "url": "https://en.wikipedia.org/wiki/Main_Square,_Krak%C3%B3w" },
+    { "title": "Hans Frank — Wikipedia", "url": "https://en.wikipedia.org/wiki/Hans_Frank" },
+    { "title": "Portrait of a Young Man (Raphael) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_%28Raphael%29" },
+    { "title": "Jagiellonian tapestries — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jagiellonian_tapestries" },
+    { "title": "Maurice Duplessis — Wikipedia", "url": "https://en.wikipedia.org/wiki/Maurice_Duplessis" },
+    { "title": "Evacuation of Polish National Treasures during World War II — Wikipedia", "url": "https://en.wikipedia.org/wiki/Evacuation_of_Polish_National_Treasures_during_World_War_II" },
+    { "title": "All the King's Tapestries: Homecomings 2021–1961–1921 — Wawel Royal Castle", "url": "https://wawel.krakow.pl/en/exhibition-temporary/all-the-king-s-tapestries-homecomings-2021-1961-1921" },
+    { "title": "Canada kept Polish tapestries from Nazis — The Globe and Mail", "url": "https://www.theglobeandmail.com/news/national/canada-kept-polish-tapestries-from-nazis/article17983183/" },
+    { "title": "Journey of Wawel Treasures to Canada — Canadian Museum of Immigration at Pier 21", "url": "https://pier21.ca/blog/steve-schwinghamer/journey-of-wawel-treasures-to-canada" }
+  ],
+  "generatedAt": "2026-09-29T05:10:00Z",
+  "model": "claude-sonnet-5"
+}
