@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-06",
+  "subject": {
+    "id": "palazzo-strozzi",
+    "name": "Palazzo Strozzi",
+    "architect": "Benedetto da Maiano",
+    "year": 1538,
+    "location": "Florence, Italy",
+    "country": "Italy",
+    "city": "Florence",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg/1920px-Florence%2C_Palazzo_Strozzi%2C_North_and_West_facade%2C_Benedetto_da_Maiano%2C_1489-1538.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1328,
+    "source": "https://en.wikipedia.org/wiki/Palazzo_Strozzi",
+    "title": "Palazzo Strozzi",
+    "author": "Benedetto da Maiano"
+  },
+  "title": "The Grandest House in Florence Took Forty-Nine Years to Build — and Was Confiscated the Year It Was Finished",
+  "standfirst": "Filippo Strozzi spent twenty-five years in a Medici-imposed exile building a banking fortune, then spent a good part of it flattening fifteen Florentine houses to outbuild the family that banished him. He died with one floor standing. The year his grandson finally saw the palace completed, Duke Cosimo I de' Medici took it away.",
+  "sections": [
+    {
+      "heading": "Twenty-Five Years Away Bought Him the Land",
+      "body": "Filippo Strozzi was a child when his branch of the family was banished from Florence, punishment for a relative's opposition to Cosimo de' Medici. He served the exile in Naples, where he built a career as a banker successful enough that when the ban lifted in November 1466, he came home rich. He spent the next years buying up ground in the city centre, plot by plot, until by 1489 he owned enough of one block to clear it. Some fifteen houses came down. The foundation stone went in at dawn on 6 August 1489, and the finished bill ran past two hundred thousand florins — spent by one man, on one house, to announce that the family the Medici had once driven out was not just back but rich enough not to care who noticed.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stile_di_niccol%C3%B2_fiorentino%2C_filippo_strozzi_%281426-91%29%2C_1489%2C_recto.JPG/960px-Stile_di_niccol%C3%B2_fiorentino%2C_filippo_strozzi_%281426-91%29%2C_1489%2C_recto.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Elder"
+    },
+    {
+      "heading": "A Trench Nine Metres Deep, for a House That Outgrew Its Own Plans",
+      "body": "Scale was the entire argument. Strozzi wanted the largest private house in Florence — bigger than the Medici's own palace a short walk away — and his crews dug foundations nine metres down to carry it. Even the design grew as work went on: the finished building stands more than three and a half metres taller than the wooden model first approved. That model is usually credited to Giuliano da Sangallo, though Benedetto da Maiano is the architect named as breaking ground, and historians still argue over which of the two actually deserves the design. The rough grey stone facing three of its four sides, pietra forte, was quarried in part from what is now the Boboli Gardens, on the far bank of the Arno.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Piero_di_Cosimo_047.jpg/960px-Piero_di_Cosimo_047.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Giuliano_da_Sangallo"
+    },
+    {
+      "heading": "He Lived to See One Storey",
+      "body": "Strozzi died on 14 May 1491, not quite two years after the foundation stone, with the ground floor up and half the crowning cornice on the south side still bare. Simone del Pollaiolo, known as Il Cronaca, took over the site, is credited with the arcaded courtyard, and kept building until 1504. Even that wasn't the end of it. The palace Strozzi had set out to eclipse, the Medici's own, had stood finished for decades by the time his foundation stone went in. His would not be called done until 1538 — a house built to outpace a rival, finished forty-nine years after the man who ordered it was dead.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Palazzo_Medici_Riccardi-Florence.jpg/960px-Palazzo_Medici_Riccardi-Florence.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Palazzo_Medici_Riccardi"
+    },
+    {
+      "heading": "The Ironsmith Who Wouldn't Extend the Strozzi Credit",
+      "body": "The finishing ironwork came from Niccolò Grosso, a blacksmith Florentines nicknamed Il Caparra, the down payment, because he took money upfront from every customer, rich or poor, before he would light his forge. By one account, Strozzi first came across him selling onions near the building site and hired him regardless. Grosso forged the flag-holders, torch brackets and four corner lanterns that still hang on the palace, each lantern shaped like a small onion-domed temple. They were distinctive enough that Florentines started calling the square in front of the finished palace Piazza delle Cipolle, Onion Square, rather than its official name. Giorgio Vasari later called him the best ironsmith of the age. Even the richest family in the city paid him in advance.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Finished in 1538. Confiscated the Same Year.",
+      "body": "The year the palace was finally finished was also the year the Strozzi lost it. Filippo's grandson, also named Filippo, led an army of Florentine exiles against Duke Cosimo I de' Medici and was crushed at the Battle of Montemurlo in August 1537. He died in a Florence prison that December, by suicide or execution — accounts differ. Cosimo confiscated the finished palace along with the rest of the rebels' property, and it stayed out of Strozzi hands for thirty years. Even after it came back, the family's hold on it eventually ran out: they sold the palace to an insurance company in 1937, the Italian state took it over in 1999, and the City of Florence acquired it in 2024. Confiscation aside, it was a Strozzi house for close to four hundred years. It has been anyone else's for less than a hundred.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Battle_of_Montemurlo_and_the_Rape_of_Ganymede%2C_by_Battista_Franco_Veneziano_%28Palazzo_Pitti%2C_Galleria_Palatina%2C_Florence%29.jpg/960px-The_Battle_of_Montemurlo_and_the_Rape_of_Ganymede%2C_by_Battista_Franco_Veneziano_%28Palazzo_Pitti%2C_Galleria_Palatina%2C_Florence%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Battle_of_Montemurlo"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Palazzo Strozzi — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Palazzo_Strozzi"
+    },
+    {
+      "title": "History of Palazzo Strozzi — palazzostrozzi.org",
+      "url": "https://www.palazzostrozzi.org/en/history-palazzo-strozzi/"
+    },
+    {
+      "title": "A \"great house\": Palazzo Strozzi — palazzostrozzi.org",
+      "url": "https://www.palazzostrozzi.org/en/a-great-house-palazzo-strozzi/"
+    },
+    {
+      "title": "Filippo Strozzi the Elder — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Elder"
+    },
+    {
+      "title": "Filippo Strozzi the Younger — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Younger"
+    },
+    {
+      "title": "Niccolò Grosso — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Grosso"
+    },
+    {
+      "title": "Piazza delle Cipolle — Trattoria Zà Zà",
+      "url": "https://www.trattoriazaza.it/en/piazza-delle-cipolle/"
+    },
+    {
+      "title": "Palazzo Strozzi — teggelaar.com",
+      "url": "https://www.teggelaar.com/palazzo-stozzipalazzo-strozzi/"
+    },
+    {
+      "title": "Palazzo Strozzi — florence-on-line.com",
+      "url": "https://florence-on-line.com/palazzi/palazzo-strozzi.html"
+    }
+  ],
+  "generatedAt": "2026-09-30T04:16:18Z",
+  "model": "claude-sonnet-5"
+}
