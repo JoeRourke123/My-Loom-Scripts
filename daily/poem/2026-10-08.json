@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-10-08",
+  "subject": {
+    "id": "223256",
+    "title": "Anthem for Doomed Youth",
+    "author": "Wilfred Owen",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/47393/anthem-for-doomed-youth",
+    "text": "What passing-bells for these who die as cattle?\n      - Only the monstrous anger of the guns.\n      Only the stuttering rifles' rapid rattle\nCan patter out their hasty orisons.\nNo mockeries now for them; no prayers nor bells; \n      Nor any voice of mourning save the choirs,-\nThe shrill, demented choirs of wailing shells;\n      And bugles calling for them from sad shires.\n\nWhat candles may be held to speed them all?\n      Not in the hands of boys, but in their eyes\nShall shine the holy glimmers of goodbyes.\n      The pallor of girls' brows shall be their pall;\nTheir flowers the tenderness of patient minds,\nAnd each slow dusk a drawing-down of blinds.",
+    "excerpt": "What passing-bells for these who die as cattle?\n      - Only the monstrous anger of the guns.\n      Only the stuttering rifles' rapid rattle\nCan patter out their hasty orisons.\nNo mockeries now for them; no prayers nor bells; \n      Nor any voice of mourning save the choirs,-\nThe shrill, demented choirs of wailing shells;\n      And bugles calling for them from sad shires.\n\nWhat candles may be held to speed them all?\n      Not in the hands of boys, but in their eyes\nShall shine the holy glimmers of goodbyes.\n      The pallor of girls' brows shall be their pall;\nTheir flowers the tenderness of patient minds,\nAnd each slow dusk a drawing-down of blinds.",
+    "truncated": false
+  },
+  "title": "He Banned the Bells. They Rang for Him Anyway.",
+  "standfirst": "Owen's sonnet strips a soldier's death of every bell, prayer and candle the Church would normally give it — a refusal he had rehearsed once before, in a letter burning his own faith four years earlier. Real bells came back on the day news of his own death reached home.",
+  "sections": [
+    {
+      "heading": "A Checklist of Funeral Rites, and What Replaces Each One",
+      "body": "A sonnet earns its shape by raising a question in the octave and turning it over in the sestet. Owen's opens by raising a different kind of question first: what happens to every object a church funeral needs, once the church is taken away. Count what the first eight lines actually deny — no mockeries, no prayers, no bells, no voice of mourning, no choirs — and the poem reads less like an elegy than an inventory, crossing an item off a checklist in the same breath it names it.\n\n> What passing-bells for these who die as cattle?\n>       - Only the monstrous anger of the guns.\n>       Only the stuttering rifles' rapid rattle\n> Can patter out their hasty orisons.\n> No mockeries now for them; no prayers nor bells;\n>       Nor any voice of mourning save the choirs,-\n> The shrill, demented choirs of wailing shells;\n>       And bugles calling for them from sad shires.\n\nNothing here is simply denied; each rite gets a mechanised understudy instead. Prayers are answered by gunfire, bells by rifles, choirs by shells, and the bugle that would once have summoned mourners to church now calls the dead home to their own counties, unheard. The sestet runs the same trade indoors: a candle becomes the \"holy glimmers\" caught in the eyes of boys too young to hold one, a funeral pall becomes the paleness of girls' faces, flowers become an abstraction, \"the tenderness of patient minds.\" Only the last rite, \"each slow dusk a drawing-down of blinds,\" survives without being converted into anything martial at all. [Like a traditional Petrarchan sonnet](https://en.wikipedia.org/wiki/Anthem_for_Doomed_Youth), the poem splits into octave and sestet — except its rhyme scheme belongs to neither Petrarchan nor English form, an irregular ABABCDCD:EFFEGG that never settles into either inherited pattern. A poem arguing that the old shapes of mourning no longer fit is carried by a shape that does not quite fit its own tradition either.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Phrase Stolen From a Schoolbook Anthology",
+      "body": "Owen did not invent the phrase he opens with. In 1916 he owned a copy of [Poems of Today](https://en.wikipedia.org/wiki/Anthem_for_Doomed_Youth), an anthology got up, its anonymous preface explained, so that boys and girls already familiar with the great classics might also know the newer poetry of their own day. That preface ends on a list of the themes it claims run through the book — \"to the music of Pan's flute, and of Love's viol, and the bugle-call of Endeavour, and the passing-bells of Death\" — a single ornamental clause in a sentence written, it notes almost in passing, in the same year one of the book's own young contributors had already gone to lay down his life for his country.\n\nOwen's sonnet takes that clause and asks it a question it was never built to answer: what passing-bells, exactly, for the men who die like cattle? The bugle survives the theft — it turns up again four lines later, calling for the dead \"from sad shires\" — but everything decorative around it is stripped out. An anthology that could fold a dead poet into a sentence alongside a flute and a love-song without strain handed Owen the one phrase his own poem could not get through a stanza without converting into gunfire.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Pencil That Wasn't His",
+      "body": "Owen met Siegfried Sassoon on 18 August 1917, arriving at [Craiglockhart](https://en.wikipedia.org/wiki/Craiglockhart_Hydropathic), the Edinburgh hospital where both men were being treated — Owen for shell shock, Sassoon after publicly declaring the war unjustly prolonged, an act the Army chose to diagnose rather than court-martial. Within weeks Owen was bringing him drafts.\n\nWhat survives of that collaboration is not an anecdote but [a draft in both hands](https://poets.org/text/draft-wilfred-owens-anthem-doomed-youth), catalogued at the [British Library](https://www.bl.uk/stories/blogs/posts/wilfred-owen-the-poetry-is-in-the-pity) as Add MS 43720, pencilled over by both poets. It was Sassoon who supplied the title's decisive word, turning a draft titled \"Anthem for Dead Youth\" into \"Anthem for Doomed Youth\" — trading a fact for a sentence being handed down — and Sassoon's pencil again behind \"patient minds\" in the sestet's next-to-last line. When the [Friends of the National Libraries](https://grants.fnl.org.uk/manuscripts-poems) bought up most of Owen's surviving papers in 1933, it was the first time the organisation had ever paid for a modern author's manuscripts — this sheet, worked over in two hands at a hospital for officers the war had broken, among them.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Craiglockhart_Hydropathic_main_view.JPG/960px-Craiglockhart_Hydropathic_main_view.JPG",
+      "imagePage": "https://en.wikipedia.org/wiki/Craiglockhart_Hydropathic"
+    },
+    {
+      "heading": "Murder Will Out",
+      "body": "Four years before Craiglockhart, Owen had already put a funeral rite to death once — his own. Between 1911 and 1913 he worked as an unpaid lay assistant to [the vicar of Dunsden](https://www.um.edu.mt/library/oar/bitstream/123456789/130885/1/Walk%20the%20unchristian%20ways%20of%20Christendom%20the%20tragedy%20of%20Christianity%20in%20Wilfred%20Owen%20s%20poetry%202024.pdf), Oxfordshire, tending a parish whose poverty he came to feel no comfortable vicarage could answer for. He left in January 1913 and wrote to his mother in terms closer to a confession than a resignation letter: \"Murder will out, and I have murdered my false creed. If a true one exists, I shall find it. If no, adieu to the still falser creeds that hold the hearts of nearly all my fellow men.\" He called the vicarage, in the same letter, a hotbed of religion he could not escape fast enough.\n\nThat is the voice behind the sonnet's refusals five years later. \"No mockeries now for them; no prayers nor bells\" is not only a soldier's complaint that the Church cannot keep pace with mechanised killing. It is being said by a man who had already pronounced his own inherited creed murdered, in writing, to his own mother, long before a shell had anything to do with it.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Wilfred_Owen_%C3%A0_l%27Arrouaise.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Wilfred_Owen"
+    },
+    {
+      "heading": "The Bells That Rang Anyway",
+      "body": "Owen went back to France in August 1918, earned the Military Cross for an action that October, and was killed on the banks of the [Sambre–Oise Canal](https://www.britannica.com/biography/Wilfred-Owen) on 4 November 1918 — a week before the Armistice. His mother's telegram reached her on 11 November itself, with the real bells of the war's actual end ringing over the news: the exact ceremony his own sonnet had declared unavailable to men like him, performed in earnest on the day she learned he would not hear it.\n\nSassoon edited Owen's poems into print in 1920, two years after editing them in pencil at Craiglockhart. The fuller edition Cecil Day-Lewis assembled in 1963 was judged, [by one later account](https://www.britannica.com/biography/Wilfred-Owen), the finest poetry written by any English poet of that war. The sonnet that asked what passing-bells there could be for the doomed got its answer from the calendar rather than the Church: the only bells it was ever going to get rang for somebody else's peace, a week late, for a war Owen did not survive to hear ended.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Canal_sambre_lock_ors.jpg/960px-Canal_sambre_lock_ors.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Sambre%E2%80%93Oise_Canal"
+    }
+  ],
+  "sources": [
+    { "title": "Anthem for Doomed Youth — Wikipedia", "url": "https://en.wikipedia.org/wiki/Anthem_for_Doomed_Youth" },
+    { "title": "Wilfred Owen: 'The Poetry is in the pity' — British Library", "url": "https://www.bl.uk/stories/blogs/posts/wilfred-owen-the-poetry-is-in-the-pity" },
+    { "title": "A Draft of Wilfred Owen's \"Anthem for Doomed Youth\" — Poets.org", "url": "https://poets.org/text/draft-wilfred-owens-anthem-doomed-youth" },
+    { "title": "Manuscripts of Poems — Friends of the National Libraries", "url": "https://grants.fnl.org.uk/manuscripts-poems" },
+    { "title": "Craiglockhart Hydropathic — Wikipedia", "url": "https://en.wikipedia.org/wiki/Craiglockhart_Hydropathic" },
+    { "title": "\"Walk the Unchristian Ways of Christendom\": The Tragedy of Christianity in Wilfred Owen's Poetry — Warren James Borg Ebejer, Melita Theologica 74/1 (2024)", "url": "https://www.um.edu.mt/library/oar/bitstream/123456789/130885/1/Walk%20the%20unchristian%20ways%20of%20Christendom%20the%20tragedy%20of%20Christianity%20in%20Wilfred%20Owen%20s%20poetry%202024.pdf" },
+    { "title": "Wilfred Owen — Britannica", "url": "https://www.britannica.com/biography/Wilfred-Owen" },
+    { "title": "Sambre–Oise Canal — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sambre%E2%80%93Oise_Canal" },
+    { "title": "Wilfred Owen — Wikipedia", "url": "https://en.wikipedia.org/wiki/Wilfred_Owen" }
+  ],
+  "generatedAt": "2026-10-02T02:10:59Z",
+  "model": "claude-sonnet-5"
+}
