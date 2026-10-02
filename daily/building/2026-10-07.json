@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-07",
+  "subject": {
+    "id": "ch-teau-de-chambord",
+    "name": "Château de Chambord",
+    "architect": "Domenico da Cortona",
+    "year": 1547,
+    "location": "Loir-et-Cher, France",
+    "country": "France",
+    "city": "Loir-et-Cher",
+    "style": "French Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg/1920px-Aerial_image_of_Ch%C3%A2teau_de_Chambord_%28view_from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1200,
+    "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord",
+    "title": "Château de Chambord",
+    "author": "Domenico da Cortona"
+  },
+  "title": "Twenty-Eight Years to Build. Forty-Two Nights to Sleep In It.",
+  "standfirst": "Francis I taxed the church harder and melted down silver to keep building Chambord while his own captured sons sat waiting on a ransom he could barely raise. Nobody now agrees who drew its staircase, how its foundations actually hold, or even how few nights he spent there once it was done.",
+  "sections": [
+    {
+      "heading": "He Taxed a Kingdom to Build It and Slept There Forty-Two Nights",
+      "body": "Francis de Pontbriand was ordered to begin work at Chambord on 6 September 1519, and by the time Francis I died in 1547 the bill stood at [444,070 livres](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord). What it bought him was 440 rooms, 282 fireplaces and a keep 56 metres tall — and he used almost none of it. By one tally kept at the château itself, the king set down his trunks there on eight occasions across his reign, [seventy-two days in all, forty-two of them spent actually sleeping there](https://www.connexionfrance.com/magazine/welcome-to-chambord-the-fairytale-chateau-built-to-give-a-king-a-home-for-just-72-days/496681). Other accounts do not even agree on that modest number: Wikipedia rounds his lifetime residence down to \"barely seven weeks,\" while a separate history of the site gives a flat [forty-two days across his entire thirty-two-year reign](https://www.historyhit.com/locations/chateau-de-chambord/). The building itself explains why nobody bothered staying longer. Its windows were too open and its ceilings too high for 282 fireplaces to warm, and there was no food nearby beyond the game in the surrounding forest — a hunting lodge in the most literal sense, built at the cost of a kingdom's silver and slept in less than two months a year, in any given year he bothered to visit.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Paid for by Taxing the Church, While His Own Sons Sat in Ransom",
+      "body": "The money did not come easily. The Italian War of 1521–1526 interrupted the site so badly that by 1524 the walls were barely above ground, and when work resumed in September 1526 it took [1,800 workers](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord) to get the château moving again. Francis covered the gap by leaning harder on the church's own revenues and ordering silver melted down rather than touching his depleted general treasury. The timing made that an uncomfortable choice. He had been captured at Pavia in 1525 and bought his own release the following year by handing over his two eldest sons as hostages in Madrid; by one account of the period, [the money still going into Chambord left him short of the ransom](https://www.historyhit.com/locations/chateau-de-chambord/) he needed to bring the boys home, and the Dauphin and his brother spent roughly two more years as Spanish prisoners before the full sum was finally paid. A king who could not immediately ransom his own children kept a construction site on his family's hunting ground running the entire time.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/960px-Fran%C3%A7ois_Ier_Louvre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Francis_I_of_France"
+    },
+    {
+      "heading": "The Staircase No One Can Prove He Designed",
+      "body": "No construction drawings survive from Chambord's own building site, so the attribution of its most famous feature rests on inference rather than a signed plan. The documented designer is Domenico da Cortona, a Tuscan known chiefly through a wooden model of the château that nobody drew until André Félibien sketched it more than a century later; that early model is said to have shown two straight, parallel flights of stairs rather than the single helix that was actually built. Leonardo da Vinci had settled nearby at Clos Lucé at Francis's invitation and died there on [2 May 1519](https://en.wikipedia.org/wiki/Leonardo_da_Vinci), four months before Pontbriand's order to start building. He left nothing in his own hand tying him to Chambord, but the double-helix stair that replaced Cortona's plain one, together with the château's ventilation ducts and sealed terraces, resemble ideas scattered through [Leonardo's own notebooks](https://www.chambord.org/en/history/the-chateau/architecture/) closely enough that most historians now credit him with at least the concept, if not the drawing. A staircase two people can climb at once, in full view of each other, without ever meeting, is the one part of Chambord that is both its most celebrated feature and the one its own record cannot actually assign to anyone.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png/960px-Francesco_Melzi_-_Portrait_of_Leonardo_%28colour_correction%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "heading": "In 1550 a Visitor Said It Stood on Stilts. A 2007 Dig Found Something Else.",
+      "body": "Chambord sits on ground that was wetland long before anyone put a château on it, which is exactly why a Venetian diplomat's account from 1550 has puzzled historians ever since. Giovanni Soranzo reported that the foundations were [\"made like those of the houses of Veneto, placed on posts, with stones added afterward\"](https://artsandculture.google.com/story/chambord-renaissance-genius-domaine-national-de-chambord/EQWx_eW_nXCjKw?hl=en) — the same pile-driven technique Venice itself used to build on a lagoon. That claim stood unresolved for more than four hundred years, until an archaeological survey of the courtyard in 2007 found something closer to the opposite: a stone foundation sunk 5.2 metres down to reach solid limestone bedrock, built in part directly on top of the remains of an earlier medieval castle that had stood on the same spot. Excavating that deep through waterlogged ground was its own feat of engineering, just not the one the Venetian described. Nobody has reconciled the two accounts. The dig did not prove Soranzo wrong everywhere on the site, only that where archaeologists actually looked, the château was resting on cut stone and old masonry, not posts.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "For Six Years, the Mona Lisa Travelled Under a Three-Red-Circle Tag",
+      "body": "On 25 August 1939, the Louvre shut its doors to the public, officially for repairs, and spent three days emptying itself into trucks. Over that weekend, [203 vehicles carried 1,862 wooden crates](https://en.wikipedia.org/wiki/Evacuation_of_the_Louvre_collection_during_World_War_II) out of Paris, organised by Jacques Jaujard, director of the French national museums, and Chambord took in the bulk of them — more than five thousand crates from Paris's museums passed through the château before the war was over. Jaujard's staff colour-coded the cargo by importance: a yellow dot for a valuable piece, green for a major one, red for a world treasure. The Mona Lisa, which left the Louvre on 28 August 1939, travelled with three red circles on her crate, the highest mark the system had. She did not stay at Chambord for the duration. As German forces advanced in 1940 she was moved again by ambulance to Chauvigny, then on to the Musée Ingres in Montauban, and again in 1942 to the château at Montal — one painting, five further moves, after the first one had already delivered her to what was briefly the best-guarded building in France.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/960px-Mona_Lisa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+      "heading": "France Bought It While a Lawsuit Over Who Owned It Was Still Running",
+      "body": "The direct royal line that had inherited Chambord ran out in 1883 with the death of the childless Henri, Count of Chambord, and ownership passed sideways to his sister's family, the titular Dukes of Parma — first Robert, then, after Robert's death in 1907, [Elias, Prince of Parma](https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord). The Parma family lived in Austria-Hungary, which was reason enough for France to confiscate the château as enemy property once the First World War began; the family contested the seizure, and the resulting lawsuit dragged on for more than a decade after the fighting stopped, unresolved until 1932. The French state did not wait for the courts. It bought the estate outright in 1930, two years before a judge had actually settled whether the Parma heirs still had a claim to sell. Chambord has belonged to the French state ever since — a building whose ownership, like its foundations and its staircase, was apparently never going to be settled by the obvious authority first.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Château de Chambord — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord" },
+    { "title": "Architecture — Chambord Castle", "url": "https://www.chambord.org/en/history/the-chateau/architecture/" },
+    { "title": "Welcome to Chambord — the fairytale château built to give a king a home for just 72 days — Connexion France", "url": "https://www.connexionfrance.com/magazine/welcome-to-chambord-the-fairytale-chateau-built-to-give-a-king-a-home-for-just-72-days/496681" },
+    { "title": "Chateau de Chambord — History and Facts — History Hit", "url": "https://www.historyhit.com/locations/chateau-de-chambord/" },
+    { "title": "Chateau de Chambord — Britannica", "url": "https://www.britannica.com/topic/Chateau-de-Chambord" },
+    { "title": "Chambord, Renaissance Genius — Google Arts & Culture", "url": "https://artsandculture.google.com/story/chambord-renaissance-genius-domaine-national-de-chambord/EQWx_eW_nXCjKw?hl=en" },
+    { "title": "Evacuation of the Louvre collection during World War II — Wikipedia", "url": "https://en.wikipedia.org/wiki/Evacuation_of_the_Louvre_collection_during_World_War_II" },
+    { "title": "Leonardo da Vinci — Wikipedia", "url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci" }
+  ],
+  "generatedAt": "2026-10-02T04:15:08Z",
+  "model": "claude-sonnet-5"
+}
