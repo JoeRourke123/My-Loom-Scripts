@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-08",
+  "subject": {
+    "id": "suleymaniye-mosque",
+    "name": "Suleymaniye Mosque",
+    "architect": "Mimar Sinan",
+    "year": 1558,
+    "location": "Istanbul, Turkey",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "style": "Ottoman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg/1920px-S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1197,
+    "source": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque",
+    "title": "Suleymaniye Mosque",
+    "author": "Mimar Sinan"
+  },
+  "title": "He Built This to Answer a Church That Was Already a Thousand Years Old",
+  "standfirst": "Süleyman the Magnificent spent part of an empire swollen by conquest on a mosque meant to outdo Hagia Sophia, and stripped ancient temples from Lebanon to Egypt for the columns to do it. Nearly five centuries later, acoustic engineers are still working out how the clay jars Sinan built into the dome actually do their job.",
+  "sections": [
+    {
+      "heading": "An Empire's Conquered Wealth, Spent on Answering One Old Church",
+      "body": "Mehmed II had turned Hagia Sophia into a mosque in 1453, and for the century afterward it stood as the one building in Istanbul every sultan's own project was measured against. Süleyman the Magnificent, ruling an empire that had grown rich on decades of conquest, set out to answer it directly: [Wikipedia's account of the project](https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque) notes he \"represented himself at times as a 'second Solomon,'\" and gave the commission to his chief architect, Mimar Sinan, with Justinian's old church as the standard to beat. Foundations went in during 1550, the mosque itself was inaugurated in 1557, and the last recorded expenses — covering finishing work on the madrasas and on the tomb of Süleyman's own wife — were logged in 1559. The final bill for the complex came to 54,096,000 aspers, [according to the art historian Gülru Necipoğlu's accounting](https://libapps.luc.edu/digitalexhibits/s/honr212spring01/page/jackson-d2), a large part of it swallowed by simply quarrying and hauling the stone. Süleyman himself did not live to see his own tomb finished: construction on his mausoleum ran from 1566 to 1568, under his son and successor, Selim II.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/960px-EmperorSuleiman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Suleiman_the_Magnificent"
+    },
+    {
+      "heading": "The Columns Came from Temples Older Than Islam Itself",
+      "body": "Some of the mosque's granite pillars, [over nine metres tall](https://libapps.luc.edu/digitalexhibits/s/honr212spring01/page/jackson-d2), were not quarried for Süleyman at all — they were pulled out of older structures in Alexandria, in Baalbek, and in Constantinople itself and shipped or dragged to the building site, a logistical undertaking the historical record treats as being nearly as demanding as building the mosque around them. The French traveller Petrus Gyllius, in Istanbul at the time, left an eyewitness account of the scavenging in progress: he described [enormous porphyry columns being cut down to size and marble columns being hauled away from the old Hippodrome](https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque) to be reused in the new mosque. An empire that could raise fifty-four million aspers for new construction still chose, for some of its most prominent columns, to dismantle what earlier civilisations had already built rather than cut fresh stone.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg/960px-Temple_of_Bacchus%2C_Baalbek%2C_Lebanon_%2849890013476%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Baalbek"
+    },
+    {
+      "heading": "Solving the Structural Problem Hagia Sophia Never Fully Solved",
+      "body": "Hagia Sophia's dome had been patched, buttressed and partly rebuilt more than once in the thousand years since Justinian, and its exterior wears the evidence: heavy external buttresses bolted on over the centuries to stop the dome from pushing the walls apart. Sinan's answer at Süleymaniye, a dome [53 metres high and 26.5 metres across](https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque), was to solve the same problem without the visible scars. He surrounded the central dome with semi-domes to spread its thrust and, per the building's own structural description, \"dissimulated many of the load-bearing buttresses by incorporating them into the outer walls\" — burying the muscle of the building inside walls that could then be opened up with windows instead of left blank to take the load. The result reads, from the floor of the prayer hall, as open space held up by almost nothing, which was precisely the illusion Hagia Sophia's own repair history had never quite managed to maintain.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/960px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+    },
+    {
+      "heading": "Acousticians Are Still Checking Sinan's Working, Four Centuries Later",
+      "body": "Sinan built the mosque's dome with hollow clay jars set into the masonry, a detail long treated as folklore until acoustic researchers started testing it directly. A research project presented at the Acoustical Society of America examined Süleymaniye alongside several other Sinan mosques and concluded that in a prayer hall this large, reverberation time would otherwise badly degrade speech, and that [Sinan addressed exactly that problem by embedding clay water jugs that function as what acousticians now call cavity resonators](https://acoustics.org/pressroom/httpdocs/167th/2pAAa7_Kocyigit.html). A jar with a narrow neck and a hollow body behaves, acoustically, almost exactly like the resonating chambers engineers now build on purpose to damp unwanted low-frequency sound. Nobody has found a document in which Sinan explains the physics. The jars were simply there, built into a sixteenth-century dome, doing a job that took modern acoustics centuries to describe in its own terms.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Hospital and a Soup Kitchen, with Orders Against Gold on the Walls",
+      "body": "The mosque itself was only the centrepiece of a much larger charitable foundation. The surrounding külliye included four madrasas, a primary school, a school of medicine, a hospital, a public kitchen that fed the poor regardless of who they were, a guesthouse for travellers, and a public bathhouse — an entire welfare institution built around a single building's footprint. The complex's own waqf documents were explicit about restraint inside the mosque itself: [Wikipedia records that \"ostentatious ornamentation of gold or jewels was avoided in order to conform with the traditions of the Islamic prophet Muhammad\"](https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque), leaving monumental calligraphy, by the calligrapher Hasan Çelebi, to carry most of the decorative weight instead. Süleyman's wife, Hürrem Sultan, has her own octagonal mausoleum within the same grounds, faced in Iznik tile and dated to 1558 — a reminder that the complex was built as a family foundation and a public charity at once, not simply a monument to one man's reign.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Titian_-_Portrait_of_a_Woman_%28La_Sultana_Rossa%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/H%C3%BCrrem_Sultan"
+    },
+    {
+      "heading": "Burned, Shaken, and Turned Into an Ammunition Dump",
+      "body": "The building has not simply sat untouched since 1557. A major fire in 1660 forced Sultan Mehmed IV to order a restoration, and an earthquake in 1766 brought part of the dome down, with the repairs that followed altering some of the original sixteenth-century decoration rather than replicating it. During the First World War the mosque's own courtyard was pressed into use as a military ammunition depot, and a fire there caused still more damage, not fully addressed until a full restoration was completed in 1956. Even that was not the last word: a comprehensive restoration between 2007 and 2010 went back through the building removing cement-based repairs added in earlier campaigns and working to recover materials and decoration closer to Sinan's own. Each repair generation, in other words, left its own layer for the next one to eventually peel back off.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Süleymaniye Mosque — Wikipedia", "url": "https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque" },
+    { "title": "The Süleymaniye Mosque — Catalogue Entry — Loyola University Chicago Libraries Digital Exhibits", "url": "https://libapps.luc.edu/digitalexhibits/s/honr212spring01/page/jackson-d2" },
+    { "title": "Süleymaniye Mosque — Britannica", "url": "https://www.britannica.com/topic/Suleymaniye-Mosque" },
+    { "title": "Acoustical Society of America — 167th Meeting Lay Language Papers (Kocyigit)", "url": "https://acoustics.org/pressroom/httpdocs/167th/2pAAa7_Kocyigit.html" }
+  ],
+  "generatedAt": "2026-10-02T04:19:28Z",
+  "model": "claude-sonnet-5"
+}
