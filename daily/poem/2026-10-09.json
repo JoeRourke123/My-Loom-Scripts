@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-10-09",
+  "subject": {
+    "id": "189690",
+    "title": "The Flawed Bell",
+    "author": "Charles Baudelaire",
+    "strand": "european",
+    "strandLabel": "French Symbolist & European Romantic",
+    "source": "https://www.poetryfoundation.org/poetrymagazine/poems/28761/the-flawed-bell",
+    "text": "\nPropped on my footstool by the popping log\nand sitting out the winter night, I hear\nmy boyish falsetto crack and disappear\nto the sound of the bells jangling through the fog.\n\nLucky the carrying and loud-tongued bell,\nwhose metal fights the wear and rust of time\nto piously repeat its fractured chime,\nlike an old trooper playing sentinel!\n\nMy soul is flawed, and often when I try\nto shrug away my early decreptitude,\nand populate the night with my shrill cry,\n\nI hear the death-cough of mortality\nchoked under corpses by a lake of blood-\nmy rocklike, unhinging effort to die.\n\n",
+    "excerpt": "\nPropped on my footstool by the popping log\nand sitting out the winter night, I hear\nmy boyish falsetto crack and disappear\nto the sound of the bells jangling through the fog.\n\nLucky the carrying and loud-tongued bell,\nwhose metal fights the wear and rust of time\nto piously repeat its fractured chime,\nlike an old trooper playing sentinel!\n\nMy soul is flawed, and often when I try\nto shrug away my early decreptitude,\nand populate the night with my shrill cry,\n\nI hear the death-cough of mortality\nchoked under corpses by a lake of blood-\nmy rocklike, unhinging effort to die.\n\n",
+    "truncated": false
+  },
+  "title": "The Soul That Wasn't Entirely Baudelaire's",
+  "standfirst": "Robert Lowell called his English version of this sonnet an imitation rather than a translation, and said he wrote it in years when breakdown after breakdown left him unable to write a poem of his own. Set his lines beside Baudelaire's French and you can see exactly where Lowell's own story gets in.",
+  "sections": [
+    {
+      "heading": "A Voice That Cracks in English, Not in French",
+      "body": "Baudelaire's sonnet opens on a man by a winter fire, listening to church bells pull old memories up out of him. Nothing happens to his voice. The French, printed as poem LXXIV in the [Spleen et Idéal](https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/La_Cloche_f%C3%AAl%C3%A9e) section of *Les Fleurs du mal*, reads: \"Il est amer et doux, pendant les nuits d'hiver, / D'écouter, près du feu qui palpite et qui fume, / Les souvenirs lointains lentement s'élever / Au bruit des carillons qui chantent dans la brume\" — it is bitter and sweet, on winter nights, to listen, by the fire that flickers and smokes, as distant memories slowly rise to the sound of chimes singing in the fog. No footstool. No crack in anyone's throat.\n\nRobert Lowell's English, printed under Baudelaire's own name and title, opens somewhere else entirely: \"Propped on my footstool by the popping log / and sitting out the winter night, I hear / my boyish falsetto crack and disappear / to the sound of the bells jangling through the fog.\" The footstool is Lowell's invention. So is the popping log. And the poem's one real word — *fêlée*, cracked, flawed, the word the whole sonnet turns on — has been moved four lines early, out of the speaker's soul in stanza three and into an adolescent's voice in stanza one.\n\nIt keeps happening. Baudelaire's second stanza praises a bell that is explicitly not cracked: \"Bienheureuse la cloche au gosier vigoureux / Qui, malgré sa vieillesse, alerte et bien portante\" — blessed is the bell with the vigorous throat, which, despite its age, stays alert and in good health. Lowell gives that same healthy bell a \"fractured chime\" anyway, as though he could not get through a stanza without breaking something in it. By the time his version reaches the line that is supposed to be the poem's actual turn — \"My soul is flawed\" — the reader has already watched three other things crack that never cracked in French.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/%C3%89tienne_Carjat%2C_Portrait_of_Charles_Baudelaire%2C_circa_1862.jpg/960px-%C3%89tienne_Carjat%2C_Portrait_of_Charles_Baudelaire%2C_circa_1862.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Charles_Baudelaire"
+    },
+    {
+      "heading": "Imitation, Not Translation",
+      "body": "Lowell did not call this a translation. When he collected it in 1961 in a book titled simply *Imitations*, [his introduction](https://www.poetryfoundation.org/articles/69234/from-the-archive-robert-lowells-translations) said plainly what he had done to get there: \"I have dropped lines, moved lines, moved stanzas, changed images and altered meter and intent.\" He borrowed his justification from someone else's practice rather than his own, writing that Boris Pasternak had told him \"the usual reliable translator gets the literal meaning but misses the tone, and that in poetry tone is of course everything.\" Tone, by that logic, is what Lowell owed Baudelaire. The footstool, the falsetto, the fractured bell were the price of paying the debt.\n\n[T. S. Eliot had warned him](https://www.nybooks.com/online/2011/11/30/translating-dark/) off the other word before the book came out, telling Lowell that calling the collection a translation \"will attract all those meticulous little critics who delight in finding what seem to them mis-translations.\" Lowell followed the advice only halfway. He titled the book *Imitations* — and then went on printing Baudelaire's own name and Baudelaire's own title directly above sentences Baudelaire never wrote.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Fleurs_du_mal.jpg/960px-Fleurs_du_mal.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Les_Fleurs_du_mal"
+    },
+    {
+      "heading": "Volume 98, Number 6",
+      "body": "\"The Flawed Bell\" first reached readers in a magazine rather than a book. In September 1961, Poetry's editor Henry Rago, working with the poet John Frederick Nims as a visiting editor, built [an entire issue](https://www.poetryfoundation.org/articles/69235/from-the-archive-a-miscellany-of-translation) around translation: Robert Bly set against César Vallejo, Richard Wilbur against Molière, W. D. Snodgrass against Christian Morgenstern, and, among the rest, a selection of Robert Lowell's versions of Baudelaire. This sonnet was one of them. The issue was making, in miniature, the same argument Lowell's book would make a few months later — that a poem moving between languages is worth printing under its original author's name, liberties and all, rather than filed away as a private exercise.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Written When He Could Do Nothing Else",
+      "body": "Lowell came to Baudelaire straight out of *Life Studies* (1959), the book that had turned his own breakdowns into material for the first time, in a plain, confessional style a long way from a French sonnet. By [Poetry's own account](https://www.poetryfoundation.org/articles/69234/from-the-archive-robert-lowells-translations) of the work, the translations that followed were less a new direction than a retreat from one: Lowell worked on them, he said, \"when I was unable to do anything of my own.\" For a stretch of years before he could write a poem that was simply his, Baudelaire's cracked bell was the instrument he had left.\n\nThat incapacity had a clinical shape. [Lowell was hospitalized repeatedly](https://en.wikipedia.org/wiki/Robert_Lowell) through the 1950s for what doctors then called manic depression, including a stay at [Boston's McLean Hospital](https://poets.org/text/poetry-landmark-mclean-hospital-belmont-ma) beginning in 1958 — he would be admitted there four times over the following eight years. After his mother's death in 1954 he underwent [nearly twenty rounds](https://www.nybooks.com/articles/2017/04/20/the-two-robert-lowells/) of electroconvulsive therapy; the Thorazine prescribed afterward left him, by his own description, \"slow witted and helpless,\" as though he were \"carrying 150 lbs. of concrete in a race.\" A sonnet about a voice too weakened to finish its own cry was, for the man retranslating it in 1958, closer to a clinical note than to a literature assignment.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Robert-lowell-by-elsa-dorfman.jpg/960px-Robert-lowell-by-elsa-dorfman.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_Lowell"
+    },
+    {
+      "heading": "A Hospital With a Family History",
+      "body": "McLean was not new territory for the Lowells. Kay Redfield Jamison's biography of the poet opens with an earlier generation entirely — his great-great-grandmother, who, in [Jamison's account](https://www.nybooks.com/articles/2017/04/20/the-two-robert-lowells/), \"had been cared for at home until her manic behavior made hospitalization necessary.\" She spent three years at McLean Asylum and came home, the same account records, \"permanently depressed and inaccessible to all.\" Jamison traces the same pattern through several further generations of Lowells, their conditions euphemized at the time as \"nervous prostration\" — a family vocabulary for the condition Robert Lowell's own doctors, a century later, were calling manic depression.\n\nSet that family record against the poem's third stanza, the one Lowell translates most closely of the four: a soul that tries to fill the cold night with its cry and produces instead only, in his own words, \"the death-cough of mortality.\" Baudelaire wrote that line as a general figure for a damaged soul. Lowell, checking into the hospital that had already held one of his own ancestors, was translating it into something closer to a family medical record.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Reckless Translation, By Design",
+      "body": "Reception to *Imitations* was, in [Wikipedia's summary](https://en.wikipedia.org/wiki/Robert_Lowell) of the record, \"mixed and sometimes hostile.\" Readers who expected a Baudelaire translation got a Lowell poem wearing Baudelaire's title, and not everyone forgave the substitution. Lowell seems to have made his peace with the charge before publication. Writing to [Elizabeth Bishop](https://www.cprw.com/tricks-to-set-the-river-on-fire-feigned-eloquence-in-lowell) about the Baudelaire work in this period, he described only the labor, not the fidelity, telling her that he had \"just been doing some Baudelaire in meter as strict as his.\" The strictness was real — he kept the sonnet form, kept a rhyme scheme, kept the French poem's own turn from a healthy bell to a ruined one. What he did not keep was the distance between translator and subject.\n\nRead \"The Flawed Bell\" next to \"La Cloche fêlée\" and the difference is not a matter of better or worse French. Baudelaire wrote about a cracked soul as a general condition. Lowell, mid-breakdown, recently out of a hospital that had held his own family before him, could not get through the same fourteen lines without describing one in particular.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "The Flawed Bell — Charles Baudelaire, translated by Robert Lowell — Poetry Foundation (Poetry magazine)", "url": "https://www.poetryfoundation.org/poetrymagazine/poems/28761/the-flawed-bell" },
+    { "title": "La Cloche fêlée — Les Fleurs du mal (1861 edition), Wikisource", "url": "https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/La_Cloche_f%C3%AAl%C3%A9e" },
+    { "title": "From the Archive: Robert Lowell's Translations — Poetry Foundation", "url": "https://www.poetryfoundation.org/articles/69234/from-the-archive-robert-lowells-translations" },
+    { "title": "From the Archive: \"A Miscellany of Translation\" — Poetry Foundation", "url": "https://www.poetryfoundation.org/articles/69235/from-the-archive-a-miscellany-of-translation" },
+    { "title": "Translating in the Dark — Tim Parks, The New York Review of Books", "url": "https://www.nybooks.com/online/2011/11/30/translating-dark/" },
+    { "title": "The Two Robert Lowells — The New York Review of Books", "url": "https://www.nybooks.com/articles/2017/04/20/the-two-robert-lowells/" },
+    { "title": "Robert Lowell — Wikipedia", "url": "https://en.wikipedia.org/wiki/Robert_Lowell" },
+    { "title": "Poetry Landmark: McLean Hospital, Belmont, MA — Academy of American Poets", "url": "https://poets.org/text/poetry-landmark-mclean-hospital-belmont-ma" },
+    { "title": "Tricks to Set the River On Fire: Feigned Eloquence in Lowell — Cumberland Poetry Review", "url": "https://www.cprw.com/tricks-to-set-the-river-on-fire-feigned-eloquence-in-lowell" },
+    { "title": "Charles Baudelaire — Wikipedia", "url": "https://en.wikipedia.org/wiki/Charles_Baudelaire" },
+    { "title": "Les Fleurs du mal — Wikipedia", "url": "https://en.wikipedia.org/wiki/Les_Fleurs_du_mal" }
+  ],
+  "generatedAt": "2026-10-03T02:15:01Z",
+  "model": "claude-sonnet-5"
+}
