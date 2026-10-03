@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-09",
+  "subject": {
+    "id": "saint-basil-s-cathedral",
+    "name": "Saint Basil's Cathedral",
+    "architect": "Postnik Yakovlev",
+    "year": 1561,
+    "location": "Moscow, Russia",
+    "country": "Russia",
+    "city": "Moscow",
+    "style": "Russian Orthodox",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Saint_Basil%27s_Cathedral_in_Moscow.jpg/1920px-Saint_Basil%27s_Cathedral_in_Moscow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1774,
+    "source": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral",
+    "title": "Saint Basil's Cathedral",
+    "author": "Postnik Yakovlev"
+  },
+  "title": "It Looks Like One Church. It Is Nine War Memorials Fused Together.",
+  "standfirst": "Ivan the Terrible gave every victory of his war on Kazan its own church, then let the same architect keep building for thirty more years — good evidence, historians say, against the legend that he had the man blinded for building too well.",
+  "sections": [
+    {
+      "heading": "Ivan Marked Every Victory With Its Own Church — Then Fused Them Into One",
+      "body": "What stands on this spot is not a single building but a merger of several war memorials that nobody originally meant to combine. Starting in the early 1550s, Ivan IV marked each victory in his campaigns against the khanate of Kazan by raising a wooden memorial church next to the old, white-stone Trinity Church that already stood on the site; by the time his later campaign against Astrakhan ended, that church stood inside a cluster of seven of these wooden votive buildings. In the autumn of 1554, according to the Nikon Chronicle, Ivan ordered a further wooden Church of the Intercession added \"[on the moat](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)\" — a reference to the defensive ditch that once ran along the Kremlin wall. A year later he ordered the whole site rebuilt as a single stone and brick structure. The result keeps the logic of the wooden originals: eight side chapels, each carrying the dedication of one of those individual war churches, are arranged around a taller central one, so the building reads less like a single sanctuary than like a campaign calendar rendered in brick and colour.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A War Got a Church — Unheard Of in Moscow Before This",
+      "body": "Historians treat this as the real novelty in the commission. Building a church to commemorate a military campaign, rather than a saint or a miracle, was \"[a major innovation](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)\" for Muscovy. The chapels carry the proof of it. The northeast chapel is dedicated to the Three Patriarchs because 30 August, on the old calendar, was the feast day on which Russian troops broke the Tatar cavalry of Prince Yepancha outside the city walls. The northwest chapel went to [Gregory, the bishop credited with converting Armenia](https://www.rbth.com/articles/2012/08/13/inside_st_basils_on_red_square_17315.html), because his feast day, 30 September, was the day Ivan's forces blew up the Arsk Tower and overran the Arsk field beyond it. The tallest, central chapel took the one dedication that needed no substitute saint: the Intercession of the Virgin, whose feast, 1 October, was the day the final assault on the city began. Four years after the Kazan dedication, Ivan folded a second war into the same building: the 1556 conquest of the [khanate of Astrakhan](https://www.ebsco.com/research-starters/history/ivan-terrible-annexes-astrakhan), which gave Moscow control of the entire Volga and, through the Caspian, a trade route to Persia. Placing the finished church outside the Kremlin walls, among the merchants' stalls rather than behind the fortress, was itself read at the time as \"[a political statement](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)\" in favour of the common posad against the hereditary boyars.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Chronicle Names One Builder. Nobody Is Sure Who He Was.",
+      "body": "The documentary record of who actually designed the building is almost nothing. The Nikon Chronicle's account of the commission ends with a single line: \"the builder was Barma with company.\" No surname, no further description. Centuries later, Russia's official cultural heritage register hedged by crediting two architects, \"Barma and [Postnik Yakovlev](https://en.wikipedia.org/wiki/Postnik_Yakovlev)\" — but researchers have argued for decades that the register is listing one man twice. Postnik, they note, was not really a name but an epithet, \"the faster,\" applied to devout men; Barma may simply have been the nickname — \"the mumbler\" — attached to that same Postnik Yakovlev, or else his actual baptismal name. [Stonemasons from Pskov](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral) and from German lands are known to have worked the site, but the chronicle never thought to record which of them answered to which name.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Blinding Story Looks Borrowed From an Older Tsar and an Older Building",
+      "body": "The most famous story about the architect is also the least supported. Legend holds that [Ivan had him blinded](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral) once the church was finished, so that he could never design anything to equal it for anyone else. Historians now think the story was borrowed wholesale: an English traveller named Jerome Horsey told almost the same tale about Ivan III blinding the architect of the fortress at Ivangorod, built two generations earlier, and the anecdote appears to have migrated onto Ivan IV and his cathedral. The practical evidence runs the other way entirely. Whoever is meant by \"Barma and Postnik Yakovlev\" went on working through the 1560s on the walls and towers of the [Kazan Kremlin](https://en.wikipedia.org/wiki/Postnik_Yakovlev) and on Moscow's Cathedral of the Annunciation. In 1588 — four years after Ivan IV's death — the same name is recorded designing the cathedral's own tenth chapel, raised over the grave of the holy fool whose name the building would eventually take. A blinded man does not draw plans for a building thirty-four years after the alleged mutilation.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/IoannIV_reconstruction_by_Gerasimov02.jpg/960px-IoannIV_reconstruction_by_Gerasimov02.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Ivan_the_Terrible"
+    },
+    {
+      "heading": "The Man It Is Named For Never Saw It Finished",
+      "body": "None of this building's own names is \"Saint Basil's\" anything; its formal title is the Cathedral of the Intercession of the Most Holy Theotokos on the Moat. The popular name belongs to [Vasily Blazhenny](https://orthodoxwiki.org/Basil_the_Blessed), a Moscow holy fool who went naked through the streets year-round as a form of ascetic protest and who was, by multiple accounts, the one person in the city Ivan feared enough to leave alone. The best-known story has Basil handing the tsar raw meat during Great Lent and telling him it made no difference whether he kept the fast, given how much blood he had already spilled. Sources disagree on when he died — [1552](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral) by one account, [1557](https://orthodoxwiki.org/Basil_the_Blessed) by another — but they agree on what happened at the funeral: Ivan himself served as pallbearer and carried the coffin to the grave. A tenth chapel was built directly over that grave in 1588, the saint was formally glorified the same year, and the building has carried his name ever since, even though his is only one dedication among ten.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Vasily_blazh.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Basil_Fool_for_Christ"
+    },
+    {
+      "heading": "Napoleon's Men Set the Charges. The Charges Never Went Off.",
+      "body": "The French occupation of Moscow in 1812 turned the cathedral into a stable and stripped it of anything portable. Napoleon, by most accounts, ordered the building destroyed as his army withdrew; his troops [failed to carry it out](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral). Later retellings supply a cause — a sudden rainstorm, dousing fuses already lit — but the surviving record only confirms the failure, not the reason for it. The building survived the Fire of Moscow the same year by proximity alone: the blaze that gutted the merchant district of Kitai-gorod around it never reached the walls. Repairs to the interior were finished by 1813 and to the exterior by 1816, after which Moscow argued for years over what to do with the slum that had grown up around the cathedral; a Scottish city planner, William Hastie, wanted the ground cleared all the way to the river, and lost.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "A Telegram Nobody Has Ever Produced Is Credited With Saving It From Stalin's Planners",
+      "body": "Soviet power turned the cathedral into a museum in 1923 and ended services inside it by 1929; Bolshevik planners had already floated demolishing it outright after Lenin's funeral in January 1924. The real danger came a decade later. Lazar Kaganovich, running Stalin's reconstruction of Moscow, wanted Red Square cleared for tank columns and parades, and the cathedral stood directly in the way. In the autumn of 1933 it was struck from the heritage register and marked for demolition. The preservationist [Pyotr Baranovsky](https://www.rbth.com/history/326919-st-basil-cathedral-architect-stalin) was called in to perform a final survey before the wrecking crews arrived, objected, and was arrested for it; he served his sentence in the Gulag. His daughter has said for decades that he sent a telegram to Stalin asking him to intervene — a telegram that nobody, including her, has ever actually seen. A second, equally unverifiable story has Stalin snapping \"[Lazar, put it back!](https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral)\" at Kaganovich after catching him lifting a model of the church off a planning table to see how the square would look without it. Whichever version is closer to true, by 1937 even hardline planners had dropped the demolition. The building is now a branch of the State Historical Museum, part of the Kremlin and Red Square's UNESCO listing since 1990, with regular Orthodox liturgy restored since 1997.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Covers_of_Russia%2C_1992._%D0%91%D0%B0%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Pyotr_Baranovsky"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Saint Basil's Cathedral",
+      "url": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral"
+    },
+    {
+      "title": "Postnik Yakovlev",
+      "url": "https://en.wikipedia.org/wiki/Postnik_Yakovlev"
+    },
+    {
+      "title": "How did an architect convince Stalin to spare St. Basil's Cathedral from destruction?",
+      "url": "https://www.rbth.com/history/326919-st-basil-cathedral-architect-stalin"
+    },
+    {
+      "title": "Inside St. Basil's on Red Square",
+      "url": "https://www.rbth.com/articles/2012/08/13/inside_st_basils_on_red_square_17315.html"
+    },
+    {
+      "title": "Basil the Blessed",
+      "url": "https://orthodoxwiki.org/Basil_the_Blessed"
+    },
+    {
+      "title": "Ivan the Terrible Annexes Astrakhan",
+      "url": "https://www.ebsco.com/research-starters/history/ivan-terrible-annexes-astrakhan"
+    }
+  ],
+  "generatedAt": "2026-10-03T04:18:49Z",
+  "model": "claude-sonnet-5"
+}
