@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-10",
+  "subject": {
+    "id": "fatehpur-sikri",
+    "name": "Fatehpur Sikri",
+    "architect": "Various",
+    "year": 1571,
+    "location": "Agra, India",
+    "country": "India",
+    "city": "Agra",
+    "style": "Mughal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/1920px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1381,
+    "source": "https://en.wikipedia.org/wiki/Fatehpur_Sikri",
+    "title": "Fatehpur Sikri",
+    "author": "Various"
+  },
+  "title": "Every Guidebook Says This City Ran Dry. No One Who Lived There Wrote That Down.",
+  "standfirst": "Akbar built a new capital, a hall for arguing about God, and a Sufi's tomb at Fatehpur Sikri in under a decade, then left it after fourteen years. The reason every textbook gives — that the wells failed — appears in no document from his own reign, and the city he supposedly abandoned kept on living for decades after the court was gone.",
+  "sections": [
+    {
+      "heading": "No One Who Lived Through It Ever Wrote \"Water Shortage\"",
+      "body": "The standard line, repeated in guidebooks and more than a few serious histories, is that Akbar's capital died of thirst. [Nothing from his own reign backs that up](https://rezavisblastfromthepast.co.in/2019/04/23/demystifying-the-popular-myths-around-the-building-and-abandonment-of-fathpur-sikri/) — not the court chronicles, not his hostile critic Badauni, not a single surviving letter from anyone who lived there. When Babur camped at the site in 1527, decades before Akbar built anything, he recorded \"well-watered ground for a large camp was at Sikri.\" The Jesuit priest Henriques described a lake there in 1580, \"led in from somewhere,\" that was \"perennial.\" The city itself held at least thirteen step-wells and eight tanks, and one of them, the Hakim's Baoli, still holds water today. The first person on record to connect Fatehpur Sikri with a failing water supply is Jahangir, writing in 1619 — thirty-four years after the court had already left.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Jahangircrop.jpeg/960px-Jahangircrop.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Jahangir"
+    },
+    {
+      "heading": "A Sufi's Blessing Picked the Site, Not a Survey of the Ground",
+      "body": "Akbar did not choose Sikri for its engineering. In 1568 he rode out to ask a hermit named Salim Chishti to pray for a son — he had none living — and within a year his wife bore a boy he named Salim, after the saint. That child would become the emperor Jahangir. [Akbar began building at the site in 1571](https://en.wikipedia.org/wiki/Fatehpur_Sikri), first a religious compound, then, once the boy turned two, a walled city and palace around it. Masons and stone carvers worked a site more than two miles long in the local red sandstone, and by most accounts Akbar kept a close hand in the design himself. The main structures went up between 1572 and 1575; halls and courtyards kept being added for another ten years, for a court that would use the place as its base for only fourteen.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Built a Hall and Invited Every Faith in His Empire to Argue in It",
+      "body": "In 1575 Akbar had a meeting house built at Fatehpur Sikri for a single, specific purpose: [gathering rival religious authorities to debate each other in front of him](https://en.wikipedia.org/wiki/Ibadat_Khana). Every Thursday night, sometimes until dawn, the Ibadat Khana held Sunni and Shia scholars, Hindu pandits, Zoroastrian priests, and — after 1580 — Jesuit missionaries sent from Goa, among them Rodolfo Acquaviva and Francisco Henriques. Akbar, by most accounts, came away convinced that every tradition held some piece of the same truth, a position historians call sulh-i-kul, universal peace. By 1582 that conviction had hardened into Din-i-Ilahi, a small fellowship of his own devising rather than any attempt at a new mass religion. The hall that produced it stood a few hundred yards from the tomb of the saint whose blessing had started the whole project.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Jesuits_at_Akbar%27s_court.jpg/960px-Jesuits_at_Akbar%27s_court.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Rodolfo_Acquaviva"
+    },
+    {
+      "heading": "The Masons Mixed Faiths the Emperor Was Still Arguing About",
+      "body": "Akbar commissioned Salim Chishti's tomb in 1580, nearly a decade after the saint's death, and [the craftsmen who carved it came from Gujarat](https://www.penang-traveltips.com/india/fatehpur-sikri/tomb-of-sheikh-salim-chishti.htm), bringing a tomb style and lattice-screen technique from the sultanate the emperor had conquered less than ten years earlier — the same campaign the Buland Darwaza gate was raised to commemorate. The marble jali screens around Salim Chishti's grave mix a Hindu swastika and a lotus motif in among Arabic calligraphy, and pilgrims, mostly women hoping for children, still tie cotton threads to them today, the same way they are recorded doing generations ago. The Buland Darwaza itself, raised seven years earlier, [carries a Persian inscription attributed to Jesus](https://en.wikipedia.org/wiki/Buland_Darwaza): \"The world is a Bridge, pass over it, but build no houses upon it... the World endures but an hour.\" It was carved by Khwaja Hussain Chishti, a disciple of the saint buried a few yards away.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Sidi_Saiyyed_Mosque%2C_Ahmedabad.jpg/960px-Sidi_Saiyyed_Mosque%2C_Ahmedabad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Sidi_Saiyyed_Mosque"
+    },
+    {
+      "heading": "Leaving Did Not Mean the City Died",
+      "body": "Akbar left for Lahore in 1585, and the move looks far more like politics than plumbing: his half-brother Mirza Muhammad Hakim had just died, leaving Afghan unrest and Deccan pressure that needed the court closer to the frontier. The historian J. F. Richards has also pointed out that Akbar's departure lined up with a cooling of his earlier devotion to Chishti saints. And the Dutch merchant Pelsaert noted that Mughal nobles habitually built in mud brick and simply walked away from one residence for the next, which made an occupied city look abandoned long before it was. [Fatehpur Sikri kept functioning as a market town](https://livehistoryindia.com/story/monuments/fatehpur-sikri-after-akbar) making carpets and indigo; Jahangir stayed three and a half months in 1619 and marked his son Khurram's birthday there; Peter Mundy found a bazaar still doing business in 1633; and that same Khurram, ruling as Shah Jahan, visited repeatedly, built his own palace there in 1653, and drew on the same red sandstone quarries for the mosque and gatehouse at his Taj Mahal. The well the city was supposedly dying of thirst without is, by most accounts, still there.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/960px-Taj_Mahal_%28Edited%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Taj_Mahal"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Demystifying the Popular Myths Around the Building and Abandonment of Fatehpur Sikri — Syed Ali Nadeem Rezavi",
+      "url": "https://rezavisblastfromthepast.co.in/2019/04/23/demystifying-the-popular-myths-around-the-building-and-abandonment-of-fathpur-sikri/"
+    },
+    {
+      "title": "Fatehpur Sikri — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+    },
+    {
+      "title": "Fatehpur Sikri after Akbar — Live History India",
+      "url": "https://livehistoryindia.com/story/monuments/fatehpur-sikri-after-akbar"
+    },
+    {
+      "title": "Ibadat Khana — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ibadat_Khana"
+    },
+    {
+      "title": "Buland Darwaza — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buland_Darwaza"
+    },
+    {
+      "title": "The Tomb of Sheikh Salim Chishti — Penang Travel Tips",
+      "url": "https://www.penang-traveltips.com/india/fatehpur-sikri/tomb-of-sheikh-salim-chishti.htm"
+    },
+    {
+      "title": "Salim Chishti — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Salim_Chishti"
+    }
+  ],
+  "generatedAt": "2026-10-04T04:17:10Z",
+  "model": "claude-sonnet-5"
+}
