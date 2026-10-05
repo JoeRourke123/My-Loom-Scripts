@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-11",
+  "subject": {
+    "id": "humayun-s-tomb",
+    "name": "Humayun's Tomb",
+    "architect": "Mirak Mirza Ghiyas",
+    "year": 1572,
+    "location": "Delhi, India",
+    "country": "India",
+    "city": "Delhi",
+    "style": "Mughal",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Tomb_of_Humayun%2C_Delhi.jpg/1920px-Tomb_of_Humayun%2C_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 540,
+    "source": "https://en.wikipedia.org/wiki/Humayun%27s_tomb",
+    "title": "Humayun's Tomb",
+    "author": "Mirak Mirza Ghiyas"
+  },
+  "title": "She Paid for This Tomb Out of Grief. An Empire Ended Inside It Three Centuries Later.",
+  "standfirst": "Humayun's widow spent her own fortune and the better part of a decade on his mausoleum, raised within sight of a tomb built by the dynasty that had once driven her husband out of India. By 1857 the building she financed held the graves of over a hundred of his descendants, and the room where the last of them surrendered.",
+  "sections": [
+    {
+      "heading": "A Man Who Tripped on His Own Robe Got the First Great Mughal Tomb",
+      "body": "Humayun did not die in battle. On 24 January 1556, carrying an armful of books down the library stairs in Delhi, he heard the call to prayer, moved to kneel, and caught his foot in his own robe; he fell down the stone steps and died of the injury [three days later](https://en.wikipedia.org/wiki/Humayun). His chief consort, Bega Begum, afterward devoted herself to one project: a tomb grand enough to answer that ending. She [financed the mausoleum herself](https://en.wikipedia.org/wiki/Bega_Begum), reportedly spending 1.5 million rupees of her own money over roughly seven years, and chose the architect herself too — Mirak Mirza Ghiyas, brought in from Herat. Midway through construction she left for three years to make the Hajj, returning in 1567 with the honorific Haji Begum attached to her name; Akbar visited the site in 1571, with the building essentially finished the following year.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Possible_contemporary_depiction_of_Bik%C3%A4_Begim_%28Bega_Begum%29_in_1546%2C_Kabul._Dust_Muhammad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Bega_Begum"
+    },
+    {
+      "heading": "She Built It Within Sight of the Tomb of the Dynasty That Exiled Her Husband",
+      "body": "Sher Shah Suri had beaten Humayun twice — at Chausa in 1539 and again at [Kannauj in 1540](https://en.wikipedia.org/wiki/Humayun) — and driven him into fifteen years of exile in Persia before he fought his way back to the throne in 1555. The dynasty Sher Shah founded did not vanish from the ground Bega Begum chose for her husband's tomb. A few hundred yards from where she broke ground stood the tomb of [Isa Khan Niazi](https://en.wikipedia.org/wiki/Isa_Khan_Niazi), an Afghan noble who had served the Sur court and fought the Mughals, built in 1547–48 while that dynasty still held Delhi and the Mughals still didn't. Her architects did not ignore it. Isa Khan's tomb, with its sunken garden enclosure, is reckoned the earliest of its kind in India, and the same basic idea — a mausoleum set inside a walled garden — reappears a few hundred yards away a generation later, built at a scale the Sur noble's family could never have matched.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Man She Hired Died Before His Own Design Was Finished",
+      "body": "Mirak Mirza Ghiyas had already built in Herat and in Bukhara before Bega Begum brought him to Delhi, and what he designed for her was a building type India had not seen before: [first garden-tomb on the subcontinent](https://en.wikipedia.org/wiki/Humayun%27s_Tomb), the first Indian structure to use red sandstone at this scale, and the first in India to carry a Persian double dome on a tall neck drum. The thirty-acre charbagh around it — four quarters, each quartered again into eight plots, water channels meeting at the centre to stand for the four rivers of paradise in the Quran — gave Mughal architects a template they kept using for the next century, down to the Taj Mahal. Ghiyas did not live to see it finished. He died during construction, and his son, [Sayyid Muhammad, completed the mausoleum](https://en.wikipedia.org/wiki/Bega_Begum) in his place.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Herat_7452a.jpg/960px-Herat_7452a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Herat"
+    },
+    {
+      "heading": "Even the Building Next Door Can't Agree on Who It Housed",
+      "body": "Bega Begum also built a walled hostel at the edge of the complex around 1560, the Arab Serai. The usual account holds that it sheltered [three hundred Arab mullahs](https://en.wikipedia.org/wiki/Arab_Serai) she brought back with her from the Hajj to Mecca, and that this is where the building's name comes from. A different reading argues the name is a misnomer: local people, by this account, called any foreigner \"Arab,\" and the serai's real occupants were [Persian craftsmen and scholars](https://mrunal.org/2014/06/architecture-arab-serai-restoration-rani-ki-vaav-unesco-heritage-bara-imambara.html) working on the tomb itself, still housed there years later under Akbar. Nobody has reconciled the two. The hostel named for pilgrims from Mecca and the barracks for the labourers who cut Humayun's tomb out of red sandstone may, on the record, be the same building.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "It Became a Dormitory for an Entire Dynasty, Not Just One Emperor",
+      "body": "The tomb chamber was built to hold more than Humayun. [Its plinth alone contains fifty-six cells](https://en.wikipedia.org/wiki/Humayun%27s_Tomb) and over a hundred gravestones, and across the wider complex — on the terraces, in the side chambers — some counts put the true total at [more than 150 burials](https://livehistoryindia.com/story/amazing-india/humayuns-tomb), a discrepancy nobody seems to have settled by actually counting. Among the named dead: Hamida Banu Begum, Akbar's mother; Bega Begum herself, who died in 1582 and whom Akbar personally escorted to the grave; and Dara Shikoh, Shah Jahan's eldest son, executed in 1659 after losing the war of succession to his brother Aurangzeb. Later emperors who held the throne only briefly — Jahandar Shah, Farrukhsiyar, Rafi Ul-Darjat, Rafi Ud-Daulat, Alamgir II — are buried here too, most of their graves unmarked. Within a generation of its completion, the building Bega Begum had meant as one husband's memorial had become the dynasty's collective grave.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Young_Akbar_Recognizes_His_Mother_%28detail%29%2C_from_an_Akbarnama_%281596-1600%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Hamida_Banu_Begum"
+    },
+    {
+      "heading": "Three Centuries On, the Dynasty Surrendered Inside the Same Walls",
+      "body": "By September 1857, with British forces retaking Delhi, the last Mughal emperor, Bahadur Shah Zafar, fled the Red Fort for Humayun's Tomb — the same building his ancestor's widow had raised. Major William Hodson rode out with fifty troopers and negotiated the emperor's surrender on [20 September 1857](https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar) on the single condition that his life be spared. Hodson kept that promise and broke every other one: returning to the tomb the next day, he personally shot the emperor's sons Mirza Mughal and Mirza Khizr Sultan and his grandson Mirza Abu Bakht at Khooni Darwaza, an act that by the account that survives left the old emperor too shocked to respond. Zafar was shipped to Rangoon in a bullock cart in October 1858 and died there in 1862, the last of his line to rule anything. The building outlived the empire it buried: its gardens were regraded by the British in 1860, handed to refugee camps for five years after [Partition in 1947](https://en.wikipedia.org/wiki/Humayun%27s_Tomb), and only rewatered — channel by channel, to a fall of [one centimetre every forty metres](https://en.wikipedia.org/wiki/Humayun%27s_Tomb) — in a restoration the Aga Khan Trust completed in 2003.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bahadur_Shah_II_of_India.jpg/960px-Bahadur_Shah_II_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar"
+    }
+  ],
+  "sources": [
+    { "title": "Humayun's Tomb — Wikipedia", "url": "https://en.wikipedia.org/wiki/Humayun%27s_Tomb" },
+    { "title": "Humayun — Wikipedia", "url": "https://en.wikipedia.org/wiki/Humayun" },
+    { "title": "Bega Begum — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bega_Begum" },
+    { "title": "Isa Khan Niazi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Isa_Khan_Niazi" },
+    { "title": "Arab Serai — Wikipedia", "url": "https://en.wikipedia.org/wiki/Arab_Serai" },
+    { "title": "Bahadur Shah Zafar — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar" },
+    { "title": "Humayun's Tomb: In the Memory of an Emperor — Live History India", "url": "https://livehistoryindia.com/story/amazing-india/humayuns-tomb" },
+    { "title": "Humayun's Tomb, History, Architecture, Museum, UNESCO Heritage Site — Vajiram & Ravi", "url": "https://vajiramandravi.com/current-affairs/humayuns-tomb/" },
+    { "title": "Arab-Sarai — Indianetzone", "url": "https://www.indianetzone.com/arabsarai" },
+    { "title": "Architecture: Arab Serai, Restoration, Rani ki Vaav, UNESCO Heritage, Bara Imambara — Mrunal.org", "url": "https://mrunal.org/2014/06/architecture-arab-serai-restoration-rani-ki-vaav-unesco-heritage-bara-imambara.html" }
+  ],
+  "generatedAt": "2026-10-05T04:27:58Z",
+  "model": "claude-sonnet-5"
+}
