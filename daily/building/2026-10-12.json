@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-12",
+  "subject": {
+    "id": "villa-d-este",
+    "name": "Villa d'Este",
+    "architect": "Pirro Ligorio",
+    "year": 1572,
+    "location": "Tivoli, Italy",
+    "country": "Italy",
+    "city": "Tivoli",
+    "style": "Mannerist",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Villa_Deste_park_Rometta_2011_2.jpg/1920px-Villa_Deste_park_Rometta_2011_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1098,
+    "source": "https://en.wikipedia.org/wiki/Villa_d%27Este",
+    "title": "Villa d'Este",
+    "author": "Pirro Ligorio"
+  },
+  "title": "The Cardinal Who Lost the Papacy Five Times Spent the Consolation Prize on Someone Else's River",
+  "standfirst": "Ippolito II d'Este never became pope, however many times he tried. What Rome gave him instead — the governorship of a small hill town — he spent two decades turning into a garden funded by exile, a river tunnel dug under his own subjects' houses, and the stripped ruins of a dead emperor's villa next door.",
+  "sections": [
+    {
+      "heading": "He Took the Governorship of Tivoli Because Rome Wouldn't Give Him the Papacy",
+      "body": "Ippolito II d'Este rode into Tivoli on 9 September 1550 to take up a post the College of Cardinals had handed him nine months earlier as a consolation prize. He was the grandson of Pope Alexander VI through his mother, Lucrezia Borgia, and had been made [archbishop of Milan when he was only ten years old](https://en.wikipedia.org/wiki/Ippolito_II_d%27Este); a cardinal's hat and an annual income estimated at [120,000 scudi](https://en.wikipedia.org/wiki/Villa_d%27Este) followed before he turned thirty. None of it bought him the one office he actually wanted. His first candidacy for the papacy, in 1549, was [blocked by the Habsburg Emperor](https://en.wikipedia.org/wiki/Villa_d%27Este), and that December the cardinals rewarded him with the lifetime governorship of a hill town outside Rome instead. He would try for the papacy five times in all, and fail every time.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ippolito_II_d%27Este.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Ippolito_II_d%27Este"
+    },
+    {
+      "heading": "The House That Came With the Job Was a Converted Monastery. He Decided to Replace It.",
+      "body": "The official residence that came with the governorship stood inside a former convent — a Benedictine house built in the ninth century, handed to the Franciscans in 1256, raised in turn on the ruins of an [old Roman villa](https://en.wikipedia.org/wiki/Villa_d%27Este). For a man with Ippolito's income and his appetite for display, monks' quarters did not suffice. He hired Pirro Ligorio, a Neapolitan antiquarian who had spent the 1540s studying the classical ruins scattered across the Tiburtine hills, to design something larger. Ligorio had been [hired that same September to accompany Ippolito to Tivoli](https://en.wikipedia.org/wiki/Pirro_Ligorio), working first as keeper of his antiquities collection and as an adviser, before taking charge of the gardens once the rebuilding was decided.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Before He Could Build Anything, He Lost the Governorship Too",
+      "body": "Planning started at the end of 1550, but diplomatic missions kept pulling Ippolito away from Tivoli, and he did not properly return until the summer of 1555. The timing was disastrous: that same year Paul IV became pope, and he had Ippolito [accused of simony](https://en.wikipedia.org/wiki/Villa_d%27Este) and stripped of the post he had been given five years before. Ippolito spent the rest of Paul IV's reign in exile from his own governorship, and was rehabilitated only when [Pius IV took office in 1559](https://en.wikipedia.org/wiki/Villa_d%27Este). Active construction on the villa did not begin until July 1560 — a full decade after the job that was meant to fund it.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Pope_Paul_IV_%E2%80%93_Jacopino_Conte_%28Manner%29%2C_ca._1560.jpg/960px-Pope_Paul_IV_%E2%80%93_Jacopino_Conte_%28Manner%29%2C_ca._1560.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Pope_Paul_IV"
+    },
+    {
+      "heading": "The Water Had to Come From a River He Didn't Own, Through a Town He Did",
+      "body": "Tivoli sits on a hill with no river running across the top of it, so getting water to a garden of hundreds of fountains meant going and getting it. Starting in 1564, Ippolito's engineers drove a channel roughly [600 metres long underneath the town of Tivoli itself](https://en.wikipedia.org/wiki/Villa_d%27Este), tapping the Aniene river and carrying its flow — by gravity alone, without a single pump — into a reservoir that fed the garden below. It was serious engineering: the finished system eventually ran [51 fountains and nymphaeums, 398 spouts, 364 water jets, 64 waterfalls, and 220 basins](https://en.wikipedia.org/wiki/Villa_d%27Este). But a tunnel under an inhabited town does not stay invisible, and clearing ground for it meant demolishing houses, public buildings and roads belonging to people who had not asked for any of it. By 1568, Ippolito's own subjects had filed [twelve different lawsuits against](https://en.wikipedia.org/wiki/Villa_d%27Este) him over it — the governor of Tivoli, sued by the town he governed, for the water now running under their floors.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "He Furnished It by Stripping a Dead Emperor's Villa Bare",
+      "body": "The marble and statuary came from close by. A few hundred metres down the hill from Ippolito's building site stood the ruins of Hadrian's Villa, the vast second-century retreat of the Roman emperor Hadrian — the same ruins Pirro Ligorio had spent years [studying as an antiquarian](https://en.wikipedia.org/wiki/Pirro_Ligorio) before Ippolito ever hired him. That expertise now ran the other way: Ippolito [had much of the marbles and statues taken from](https://en.wikipedia.org/wiki/Ippolito_II_d%27Este) the nearby imperial ruin to decorate his own villa, leaving the fourteen-hundred-year-old residence, by one account, devoid of most of its original features. The man best placed to know what Hadrian's Villa had once held was the same man who helped empty it.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg/960px-Villa_Hadriana_%28Villa_Adriana_Tivoli%29_1000_03.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Hadrian%27s_Villa"
+    },
+    {
+      "heading": "His Garden Designer's Career Rose and Fell on the Same Wheel Ippolito's Did",
+      "body": "Ligorio's fortunes outside Tivoli tracked the same turning of papal favour that had cost Ippolito the papacy itself. In 1558, Paul IV — the same pope who had just exiled Ippolito — [hired Ligorio as Architect of the Vatican Palace](https://en.wikipedia.org/wiki/Pirro_Ligorio). His successor Pius IV favoured Ligorio even more: in December 1560 he received honorary Roman citizenship, an honour shared at the time by only [Michelangelo, Titian, and Fra Guglielmo della Porta](https://en.wikipedia.org/wiki/Pirro_Ligorio). Then Pius V took the papal throne in 1566 and froze Ligorio out within a year or two, the two men divided by what the record calls [deep-rooted ideological differences](https://en.wikipedia.org/wiki/Pirro_Ligorio) — a reforming pope with no patience for a court architect so devoted to pagan antiquity. By December 1568 Ligorio had left Rome for Ferrara, where Duke Alfonso II d'Este made him Ducal Antiquarian instead, a post with no popes to answer to.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Pirro_Ligorio_1.gif",
+      "imagePage": "https://en.wikipedia.org/wiki/Pirro_Ligorio"
+    },
+    {
+      "heading": "He Finished It, Bankrupted Himself, and Was Dead Within Months",
+      "body": "Pope Gregory XIII visited the nearly finished villa in the summer of 1572, bringing his full court of cardinals and princes with him. Hosting them cost Ippolito [more than five thousand scudi, forcing him to pawn his silver](https://en.wikipedia.org/wiki/Villa_d%27Este) and other precious objects to cover it. He died a few months later, on 2 December 1572, and was buried in a plain tomb in the church beside the villa he had spent twenty-two years and most of a fortune building. His nephew Cardinal Luigi kept it running for another fourteen years before the upkeep became too much for him as well; by 1695 the wider Este family had given up paying for it, and by 1751 its antique sculpture was being sold off to collectors piece by piece. None of that stopped the garden's influence from travelling. Its fountains and waterworks were, by one account, [admired and imitated over the next two centuries in gardens from Portugal to Saint Petersburg](https://en.wikipedia.org/wiki/Villa_d%27Este).",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Villa d'Este — Wikipedia", "url": "https://en.wikipedia.org/wiki/Villa_d%27Este" },
+    { "title": "Ippolito II d'Este — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ippolito_II_d%27Este" },
+    { "title": "Pirro Ligorio — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pirro_Ligorio" }
+  ],
+  "generatedAt": "2026-10-06T04:30:00Z",
+  "model": "claude-sonnet-5"
+}
