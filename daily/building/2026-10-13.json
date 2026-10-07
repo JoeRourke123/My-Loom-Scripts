@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-13",
+  "subject": {
+    "id": "longleat",
+    "name": "Longleat",
+    "architect": "Robert Smythson",
+    "year": 1580,
+    "location": "Wiltshire, UK",
+    "country": "UK",
+    "city": "Wiltshire",
+    "style": "Elizabethan",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Longleat_House_2012.jpg/1920px-Longleat_House_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 752,
+    "source": "https://en.wikipedia.org/wiki/Longleat",
+    "title": "Longleat",
+    "author": "Robert Smythson"
+  },
+  "title": "Someone Was Paid to Model a House That Didn't Exist Yet",
+  "standfirst": "A fire burned the first Longleat down to its walls, and the Frenchman hired to model its replacement in wood left no other mark on architecture. The money for what rose next came from three decades Sir John Thynne spent locked out of power after his patron's execution, and what he built broke the oldest rule of a nobleman's house: that it should be defensible.",
+  "sections": [
+    {
+      "heading": "A Model Was Commissioned Before the House Had a Design",
+      "body": "In December 1567, a French joiner named Adrian Gaunt was paid for \"making ye modell for ye house of Longleate\" — a wooden mock-up of a replacement for a house that had just burned to its walls, and [reportedly the first recorded instance](https://thecountryseat.org.uk/tag/longleat/) of an architectural model being commissioned in Britain. The fire itself is oddly hard to pin down: the house's own chroniclers date it to 21 April 1567, a blaze that burned for seventeen hours and left nothing standing but blackened stone, while [the record behind the site's priory history](https://en.wikipedia.org/wiki/Longleat_Priory) puts the same disaster a year later, in 1568. Whichever year is right, what burned had itself taken Sir John Thynne roughly twenty years to build — work had begun in 1546, on ground that had been [an Augustinian priory](https://en.wikipedia.org/wiki/Longleat_Priory) until the Dissolution — and no source says clearly how much of that earlier building, or of the priory before it, the burned house had actually incorporated. Fragments of the priory survive today only in Longleat's cellars.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Money Came From Three Decades Shut Out of Power",
+      "body": "Thynne did not start out rich. He entered service in 1536 as steward to [Edward Seymour](https://en.wikipedia.org/wiki/John_Thynne), rose with him as Seymour became Lord Protector and Duke of Somerset in 1547, and was knighted that same year after the Battle of Pinkie Cleugh. In 1541 Seymour sold his own steward the dissolved priory at Longleat for £53 — [land Seymour had just been granted by the Crown](https://en.wikipedia.org/wiki/Longleat_Priory) and no longer needed himself. Two years after Somerset's fall in 1549, Thynne was in the Tower of London for the second time, one of several men the record names as the Duke's \"principal instruments and counsellors... in the affairs of his ill government.\" After Somerset's execution for treason in 1552, [Thynne lost his offices, lost much of his land, and was heavily fined](https://en.wikipedia.org/wiki/John_Thynne). He retired to Longleat and, with no path back to court left open to him, spent most of the rest of his life building.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Edward_Seymour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "imagePage": "https://en.wikipedia.org/wiki/Edward_Seymour,_1st_Duke_of_Somerset"
+    },
+    {
+      "heading": "Who Actually Designed It Is Still Unsettled",
+      "body": "Who deserves credit for the replacement is unsettled, too. [Wikipedia's own account of Robert Smythson](https://en.wikipedia.org/wiki/Robert_Smythson) puts his first appearance in the historical record in 1556, as a stonemason on the house at Longleat — twelve years before [a different account](https://thecountryseat.org.uk/tag/longleat/) has him arriving fresh from London in March 1568, carrying a letter from Humphrey Lovell, the Queen's own Master Mason, recommending him as \"a man fit for your worship.\" No one has reconciled the gap. Whichever date is right, his title at Longleat was Chief Mason, a tradesman's rank, not a designer's — English building did not yet have a settled word for what he was becoming. He stayed almost eighteen years, carving much of the external detail with his own hands, before moving on to Wollaton Hall and then Hardwick Hall. [His memorial in the parish church at Wollaton](https://en.wikipedia.org/wiki/Robert_Smythson) calls him, in so many words, \"Architecter (sic) and Surveyor unto the most worthy house of Wollaton with divers others of great account\" — naming the house that came after this one, not the one that made his name.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Memorial_in_St_Leonard%27s_Church%2C_Wollaton_16.jpg/960px-Memorial_in_St_Leonard%27s_Church%2C_Wollaton_16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Robert_Smythson"
+    },
+    {
+      "heading": "A House With Almost No Walls Left to Defend",
+      "body": "What went up had four fronts faced in [Doric, Ionic, and Corinthian pilasters, with bay windows spaced evenly across each one](https://en.wikipedia.org/wiki/John_Thynne) — glass on a scale that had little precedent in an English private house. Glass was expensive in the 1570s, and [using this much of it was itself a display of wealth](https://en.wikipedia.org/wiki/Prodigy_house), one that only made sense once a nobleman's house had stopped needing to double as a fortress. For Thynne the choice reads almost like an answer to his own history: a man twice marched to the Tower built, a few years later, a house that could not have withstood an afternoon's siege, let alone armed men at the gate. The phrase people now reach for to describe this kind of glazing — \"more glass than wall\" — was never actually coined for this house. It describes [Hardwick Hall](https://en.wikipedia.org/wiki/Prodigy_house), the one Smythson built after it, once Longleat had given him the practice.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Hardwick_Hall_3_%287027835143%29.jpg/960px-Hardwick_Hall_3_%287027835143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Hardwick_Hall"
+    },
+    {
+      "heading": "The House Kept Changing Hands, and Kept Changing Shape",
+      "body": "[Longleat became, in the decades that followed, the centre of a new school of building](https://en.wikipedia.org/wiki/John_Thynne) — but the house itself kept being redesigned by the family that inherited it. In the seventeenth century, Christopher Wren added a long gallery, a library and a chapel; in the early nineteenth, Jeffry Wyatville tore out Wren's own staircase along with other rooms and replaced them with his own. [Capability Brown](https://en.wikipedia.org/wiki/Longleat), hired by the 1st Marquess of Bath, erased the formal gardens Thynne himself might have recognised and laid a landscaped park over them instead. By the twentieth century the money had reversed again: facing death duties after the Second World War, [the 6th Marquess opened the house to paying visitors in 1949](https://en.wikipedia.org/wiki/Longleat), the first stately home in Britain to do so commercially, and in 1966 the grounds became the first drive-through safari park outside Africa. In 1995 a Titian worth more than £5m was stolen from the drawing room; it surfaced seven years later in a plastic shopping bag in London. None of that was what Thynne built the house for. All of it happened because the house survived well enough, across four centuries, to still be worth repainting, rerouting, visiting, and robbing.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Longleat — Wikipedia", "url": "https://en.wikipedia.org/wiki/Longleat" },
+    { "title": "John Thynne — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Thynne" },
+    { "title": "Robert Smythson — Wikipedia", "url": "https://en.wikipedia.org/wiki/Robert_Smythson" },
+    { "title": "Longleat Priory — Wikipedia", "url": "https://en.wikipedia.org/wiki/Longleat_Priory" },
+    { "title": "Prodigy house — Wikipedia", "url": "https://en.wikipedia.org/wiki/Prodigy_house" },
+    { "title": "The first architect? 400 years on from death of Robert Smythson — The Country Seat", "url": "https://thecountryseat.org.uk/tag/longleat/" }
+  ],
+  "generatedAt": "2026-10-07T04:18:59Z",
+  "model": "claude-sonnet-5"
+}
