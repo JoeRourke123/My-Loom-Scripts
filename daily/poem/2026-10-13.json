@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "kind": "poem",
+  "date": "2026-10-13",
+  "subject": {
+    "id": "219126",
+    "title": "Truth",
+    "author": "Geoffrey Chaucer",
+    "strand": "british",
+    "strandLabel": "British & Irish",
+    "source": "https://www.poetryfoundation.org/poems/43940/truth-56d222d5bf80c",
+    "text": "Fle fro the pres, and dwelle with sothefastnesse,\nSuffise thin owen thing, thei it be smal;\nFor hord hath hate, and clymbyng tykelnesse,\nPrees hath envye, and wele blent overal.\nSavour no more thanne the byhove schal;\nReule weel thiself, that other folk canst reede;\nAnd trouthe schal delyvere, it is no drede.\n\n      Tempest the nought al croked to redresse,\nIn trust of hire that tourneth as a bal.\nMyche wele stant in litel besynesse;\nBywar therfore to spurne ayeyns an al;\nStryve not as doth the crokke with the wal.\nDaunte thiself, that dauntest otheres dede;\nAnd trouthe shal delyvere, it is no drede.\n\n      That the is sent, receyve in buxumnesse;\nThe wrestlyng for the worlde axeth a fal.\nHere is non home, here nys but wyldernesse.\nForth, pylgryme, forth! forth, beste, out of thi stal!\nKnow thi contré! loke up! thonk God of al!\nHold the heye weye, and lat thi gost the lede;\nAnd trouthe shal delyvere, it is no drede.\n\n      Therfore, thou Vache, leve thine olde wrechednesse;\nUnto the world leve now to be thral.\nCrie hym mercy, that of hys hie godnesse\nMade the of nought, and in espec{.i}al\nDraw unto hym, and pray in general\nFor the, and eke for other, hevenelyche mede;\nAnd trouthe schal delyvere, it is no drede.",
+    "excerpt": "Fle fro the pres, and dwelle with sothefastnesse,\nSuffise thin owen thing, thei it be smal;\nFor hord hath hate, and clymbyng tykelnesse,\nPrees hath envye, and wele blent overal.\nSavour no more thanne the byhove schal;\nReule weel thiself, that other folk canst reede;\nAnd trouthe schal delyvere, it is no drede.\n\n      Tempest the nought al croked to redresse,\nIn trust of hire that tourneth as a bal.\nMyche wele stant in litel besynesse;\nBywar therfore to spurne ayeyns an al;\nStryve not as doth the crokke with the wal.\nDaunte thiself, that dauntest otheres dede;\nAnd trouthe shal delyvere, it is no drede.\n\n      That the is sent, receyve in buxumnesse;\nThe wrestlyng for the worlde axeth a fal.\nHere is non home, here nys but wyldernesse.\nForth, pylgryme, forth! forth, beste, out of thi stal!\nKnow thi contré! loke up! thonk God of al!\nHold the heye weye, and lat thi gost the lede;\nAnd trouthe shal delyvere, it is no drede.\n\n      Therfore, thou Vache, leve thine olde wrechednesse;\nUnto the world leve now to be thral.\nCrie hym mercy, that of hys hie godnesse\nMade the of nought, and in espec{.i}al\nDraw unto hym, and pray in general\nFor the, and eke for other, hevenelyche mede;\nAnd trouthe schal delyvere, it is no drede.",
+    "truncated": false
+  },
+  "title": "The Nobody Who May Have Named Chaucer's Reader",
+  "standfirst": "Nearly every medieval copy of Chaucer's best-loved short poem agrees on three stanzas of plain advice. Exactly one adds a fourth, naming a disgraced courtier called Vache — and the hand that wrote it down left almost no other trace anywhere in the record.",
+  "sections": [
+    {
+      "heading": "A Name Written Down by Almost No One",
+      "body": "On a later leaf of a fifteenth-century book now catalogued at the British Library as Add MS 10340, someone wrote four words that have outlasted almost everything else known about them: \"Randull threbody wryt this.\" That inscription is the entire surviving record of the person responsible for the only medieval copy of Chaucer's \"Truth\" that carries its fourth stanza — the envoy, four lines that turn a general piece of counsel into an address to one person, named outright: *Therfore, thou Vache, leve thine olde wrechednesse.* Of the roughly two dozen manuscripts that preserve this poem, only [Add MS 10340](https://searcharchives.bl.uk/catalog/032-002108138) does that. Lose this one leaf, copied by a man nobody else in Chaucer scholarship has anything further to say about, and a famous poem goes back to being addressed to everyone and no one at once.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "What the Other Two Dozen Copies Actually Give You",
+      "body": "Strip away the envoy and \"Truth\" is a ballade built from three rhyme-royal stanzas — ababbcc — closing each time on the same refrain: *And trouthe shal delyvere, it is no drede.* [Representative Poetry Online](https://rpo.library.utoronto.ca/poems/truth) notes the line echoes John 8:32, the truth shall make you free, and that the poem's advice not to fight what cannot be changed — *Stryve not as doth the crokke with the wal* — carries a trace of Acts 9:5, the warning that it is hard to kick against the pricks. The poem itself had no fixed title for a century: one manuscript calls it *Balade de bone conseyl*, Caxton's early print called it *The good counceyl of Chawcer*, another *Moral balade of Chaucyre*; the title Truth, RPO notes, was Furnivall's addition, not Chaucer's. Sources even disagree on how many medieval copies exist at all — twenty-two, by RPO's count, against twenty-four by [another](https://chaucer.lib.utsa.edu/items/show/264279) — but they agree it is, in whichever count, the most copied of Chaucer's short poems. Caxton printed it around 1477 or 1478, within a century of Chaucer's death, and it never stopped being copied after.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Chaucer_manuscrit_portrait_%28d%C3%A9tail%29.jpeg",
+      "imagePage": "https://en.wikipedia.org/wiki/Geoffrey_Chaucer"
+    },
+    {
+      "heading": "The One Passage in Boethius That Might Be the Source — Maybe",
+      "body": "Everyone agrees the poem leans on Boethius's *Consolation of Philosophy*, which Chaucer himself translated into English prose as *Boece*. Pinning the debt to one passage has proved harder. The German scholar Koch argued for a specific source, Book 3, Metre 2 — the passage where a caged songbird, however much \"the pleiyng besines of men\" offers it honied drinks and rich food, still spots the shadow of the woods through its bars and \"sekeþ mournyng oonly þe wode,\" calling for it in its own voice, as Chaucer's own [translation](https://gutenberg.org/cache/epub/42083/pg42083-images.html) puts it. The connection has an odd, concrete footnote: that very passage of *Boece* survives on folios 3 to 40 of Add MS 10340, with *Truth* and its one-of-a-kind envoy following directly on folio 41. The two texts share a manuscript page before they share anything else — because Skeat, who edited both, judged the resemblance between the caged bird and the poem's own argument \"very slight.\"",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Boethius%2C_Consolatio_philosophiae_%28French%29.jpg/960px-Boethius%2C_Consolatio_philosophiae_%28French%29.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy"
+    },
+    {
+      "heading": "The Scribe Everyone Already Doubts",
+      "body": "John Shirley (c. 1366–1456) is a different, better-documented problem. Secretary for a time to the Earl of Warwick, later a customs comptroller, he spent his last two decades running what amounted to a copying-and-lending operation out of rented shops near [St Bartholomew's Hospital](https://en.wikipedia.org/wiki/John_Shirley_%28scribe%29) in London, filling anthologies with Chaucer and Lydgate and attaching his own headnotes to almost everything he copied. It is substantially on Shirley's authority that poems including the ABC, the Complaint unto Pity, Adam Scriveyn and Truth itself are known to be Chaucer's at all. He copied Truth three times across his own books, and in one of two copies bound into his anthology now at Trinity College, Cambridge, he headed it *Balade that Chaucier made on his deeth-bedde* — which would date the poem to 1400, the year Chaucer died. Skeat's judgement on that claim, recorded in his edition's [introduction](https://en.wikisource.org/wiki/Chaucer%27s_Works_%28ed._Skeat%29_Vol._I/Minor_Poems_-_Introduction), is blunt: \"probably a mere bad guess,\" repeated by later writers only because Shirley said it first. That manuscript is not the one with the envoy. It is a separate book entirely.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Houghton_Library_MS_Eng_530%2C_f._59.jpg/960px-Houghton_Library_MS_Eng_530%2C_f._59.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/John_Shirley_%28scribe%29"
+    },
+    {
+      "heading": "A Different, Stranger Kind of Doubt",
+      "body": "That matters because it means the envoy's single witness is not a known embroiderer caught in the act — it is a cipher. Add MS 10340 is no marginal copy: Skeat counted it among the four manuscripts he trusted most for establishing the poem's own text, alongside three others he labelled E, Gg and Ct, in his [Notes](https://en.wikisource.org/wiki/Chaucer%27s_Works_%28ed._Skeat%29_Vol._I/Notes_XIII) on the poem. Its reliability for the three stanzas everyone agrees on was never in question. Only the fourth stanza rests on it alone, and on a name, Randull threbody, that otherwise appears nowhere else in the sources consulted here. If the envoy is genuine, it names [Philip de la Vache](https://en.wikipedia.org/wiki/Philip_de_la_Vache) (c. 1346–1408): Knight of the Chamber in 1378, stripped of his positions at court between 1386 and 1389, then recovered — captain of Calais castle in 1388, a truce negotiator with France and Flanders in 1390, husband that same year to Elizabeth Clifford, daughter of Chaucer's friend Sir Lewis Clifford, and in 1399 a Knight of the Garter, the last appointed under a king who would be deposed before the year was out. Read as a letter to him, *Therfore, thou Vache, leve thine olde wrechednesse; / Unto the world leve now to be thral* is Chaucer nudging a friend's son-in-law through the exact years he had the least reason to feel secure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Sir_Philip_de_la_Vache%2C_KG.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Philip_de_la_Vache"
+    },
+    {
+      "heading": "Or Perhaps Not a Name at All",
+      "body": "A line of scholarship has argued the envoy was never really about Philip de la Vache in the first place. In 1973, David E. Lampe read *vache* — French for cow — as an [iconographic pun](https://chaucer.lib.utsa.edu/items/show/272023), tying it to the beast imagery already sitting in the poem's third stanza, where the pilgrim-soul is told *Forth, pylgryme, forth! forth, beste, out of thi stal!* On that reading Vache is less a man's surname than everyone's inner animal, ordered out of its pen. Alfred David answered in 1977 that Lampe had only counted the flattering half of the symbolism: Latin *vacca* carried [plenty of unflattering associations too](https://chaucer.lib.utsa.edu/items/show/265158), and a pun that cuts both ways proves less than it claims. Heiner Gillmeister went further still in 1980, proposing that the envoy's opening words echo a French herding cry, and that [read backwards](https://chaucer.lib.utsa.edu/items/show/264669), letter by letter, they spell out a French form of Chaucer's own surname — the poet, on this account, addressing himself rather than any courtier at all. None of the three has persuaded the others. The argument is over four words, and the one person who can be shown to have definitely written them down signed his name once, on a different page, and left nothing else behind.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "British Library catalogue record — Add MS 10340", "url": "https://searcharchives.bl.uk/catalog/032-002108138" },
+    { "title": "Chaucer's Works (ed. Skeat), Vol. I — Notes XIII", "url": "https://en.wikisource.org/wiki/Chaucer%27s_Works_%28ed._Skeat%29_Vol._I/Notes_XIII" },
+    { "title": "Chaucer's Works (ed. Skeat), Vol. I — Minor Poems, Introduction", "url": "https://en.wikisource.org/wiki/Chaucer%27s_Works_%28ed._Skeat%29_Vol._I/Minor_Poems_-_Introduction" },
+    { "title": "Truth — Representative Poetry Online", "url": "https://rpo.library.utoronto.ca/poems/truth" },
+    { "title": "Chaucer's Curial Satire: the 'Balade de bon Conseyl' — Chaucer Bibliography Online", "url": "https://chaucer.lib.utsa.edu/items/show/264279" },
+    { "title": "The Truth of a 'Vache': The Homely Homily of Chaucer's 'Truth' (Lampe) — Chaucer Bibliography Online", "url": "https://chaucer.lib.utsa.edu/items/show/272023" },
+    { "title": "The Truth about 'Vache' (Alfred David) — Chaucer Bibliography Online", "url": "https://chaucer.lib.utsa.edu/items/show/265158" },
+    { "title": "The Whole Truth about 'Vache' (Gillmeister) — Chaucer Bibliography Online", "url": "https://chaucer.lib.utsa.edu/items/show/264669" },
+    { "title": "The Project Gutenberg eBook of Chaucer's Translation of Boethius's 'De Consolatione Philosophiae'", "url": "https://gutenberg.org/cache/epub/42083/pg42083-images.html" },
+    { "title": "John Shirley (scribe) — Wikipedia", "url": "https://en.wikipedia.org/wiki/John_Shirley_%28scribe%29" },
+    { "title": "Philip de la Vache — Wikipedia", "url": "https://en.wikipedia.org/wiki/Philip_de_la_Vache" },
+    { "title": "On the Consolation of Philosophy — Wikipedia", "url": "https://en.wikipedia.org/wiki/On_the_Consolation_of_Philosophy" }
+  ],
+  "generatedAt": "2026-10-07T02:12:34Z",
+  "model": "claude-sonnet-5"
+}
