@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-14",
+  "subject": {
+    "id": "uffizi-gallery",
+    "name": "Uffizi Gallery",
+    "architect": "Giorgio Vasari",
+    "year": 1581,
+    "location": "Florence, Italy",
+    "country": "Italy",
+    "city": "Florence",
+    "style": "Mannerist",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Florence%2C_Italy_-_panoramio_%28125%29.jpg/1920px-Florence%2C_Italy_-_panoramio_%28125%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/Uffizi",
+    "title": "Uffizi Gallery",
+    "author": "Giorgio Vasari"
+  },
+  "title": "A Duke Flattened Part of Florence to Build an Office Block. A Bomb Nearly Flattened It Back.",
+  "standfirst": "Cosimo I de' Medici tore down part of medieval Florence, a church where Dante once held office included, to house thirteen bored magistracies under one roof. The architect died before it was finished, Francesco de' Medici turned its best floor into a picture gallery, and in 1993 a Mafia car bomb came closer to undoing the whole thing than four centuries of weather ever had.",
+  "sections": [
+    {
+      "heading": "A Working Parish Church Went Into the New Walls",
+      "body": "Before any office block stood here, there was a parish church. San Pietro Scheraggio is [documented from December 1066](https://sepoltuario.iath.virginia.edu/buildings/66), consecrated two years later, and for centuries doubled as a seat of city government: the Priors of the Arts, Florence's ruling council, were sworn in inside it, and Dante Alighieri held one of those priorships in 1300, [for roughly ten weeks](https://www.finestresullarte.info/de/antike-kunst/florenz-die-ausgrabungen-von-san-pier-scheraggio-die-kirche-von-dantes-schwur-offnen) according to one account. The building had already been shrinking by then: a chapel was lost in 1298, when the Palazzo della Signoria rose beside it, and the north aisle [followed in 1410](https://sepoltuario.iath.virginia.edu/buildings/66), when the street between them was widened. In 1560 what remained was [folded into Cosimo's new offices](https://sepoltuario.iath.virginia.edu/buildings/66), reduced to a single nave built into the new palace's own walls. It kept functioning as a parish church for two more centuries, deconsecrated only [in 1782](https://www.finestresullarte.info/de/antike-kunst/florenz-die-ausgrabungen-von-san-pier-scheraggio-die-kirche-von-dantes-schwur-offnen) on the order of Pietro Leopoldo. One of its three original naves still stands, under a glass floor the Uffizi [opened to visitors in 2020](https://www.finestresullarte.info/de/antike-kunst/florenz-die-ausgrabungen-von-san-pier-scheraggio-die-kirche-von-dantes-schwur-offnen).",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Clearing the Site Meant Clearing the People on It First",
+      "body": "At the end of 1559, Giorgio Vasari showed Cosimo I de' Medici [a wooden model](https://research.unipg.it/handle/11391/1539896) of a loggia, and construction began the following year to gather thirteen separate Florentine magistracies — tribunals, guilds, tax offices, courts — [under one roof](https://homepages.bluffton.edu/~SULLIVANM/italy/florence/vasariuffizi/vasari.html) for the first time. Clearing the ground meant clearing people first: a 2011 study of the surviving expropriation papers found the medieval housing in the way was [demolished quickly](https://research.unipg.it/handle/11391/1539896), with little regard for who was living in it, and that Cosimo invoked publica commoditas — the public good — to override individual owners' claims on projects built for the state, even as the same study found him [dealing more cautiously](https://research.unipg.it/handle/11391/1539896) with property he wanted for his own use. How many houses came down, and what their owners were paid, is not settled in anything available in English; what the study actually reconstructed were three expropriation cases, argued out property by property.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Agnolo_Bronzino_-_Cosimo_I_de%27_Medici_in_armour_-_Google_Art_Project.jpg/960px-Agnolo_Bronzino_-_Cosimo_I_de%27_Medici_in_armour_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici"
+    },
+    {
+      "heading": "An Office Block With No Wall to Hide Behind",
+      "body": "What Vasari built was unusual for a government palace of its time. The courtyard runs the length of two blocks and then simply stops — not against a wall, but [open to the Arno](https://en.wikipedia.org/wiki/Uffizi) through a screen of Doric columns, with a sightline straight through to the river. Architectural historians have called it [Europe's first regularized streetscape](https://en.wikipedia.org/wiki/Uffizi): a public passage of government built to be walked through and seen through, rather than approached across a defended threshold. Each of the thirteen magistracies got its own run of rooms climbing through [mezzanine and piano nobile](https://homepages.bluffton.edu/~SULLIVANM/italy/florence/vasariuffizi/vasari.html) above the ground floor, reached straight off the colonnade below, the whole facade organised into [repeating three-bay units](https://homepages.bluffton.edu/~SULLIVANM/italy/florence/vasariuffizi/vasari.html) of pier, niche and paired column, identical from one magistracy's door to the next.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The Architect Didn't Live to See His Own Building Finished",
+      "body": "Vasari died in Florence on [27 June 1574](https://en.wikipedia.org/wiki/Giorgio_Vasari), with the building still years from finished. Alfonso Parigi and Bernardo Buontalenti carried the design on without him, and the Uffizi [was not completed until 1581](https://en.wikipedia.org/wiki/Uffizi) — seven years into a commission its own architect never saw closed out. Buontalenti had trained under Vasari and stayed in Medici service for the rest of his career; it fell to him, finishing someone else's building, to decide where the original drawings ran out and his own judgment had to take over.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bernardo_Buontalenti_%28cropped%29.jpg/960px-Bernardo_Buontalenti_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Bernardo_Buontalenti"
+    },
+    {
+      "heading": "A Wedding Deadline Built a Kilometre of Corridor in Five Months",
+      "body": "In 1565 Cosimo ordered a second, separate commission from Vasari: an elevated passage [roughly a kilometre long](https://en.wikipedia.org/wiki/Vasari_Corridor), running from the Palazzo Vecchio through the Uffizi, over the Ponte Vecchio and on to the Palazzo Pitti, so the ducal family could cross the city without touching the street. The occasion was [Francesco de' Medici's wedding](https://uffizi.it/en/corridoio-vasariano/history) to Joanna of Austria that December, and the whole corridor — later measured at 760 metres with [73 windows](https://uffizi.it/en/corridoio-vasariano/history) — went up in about five months, a pace the gallery's own historians [credit to tight organisation](https://uffizi.it/en/corridoio-vasariano/history) of the building site rather than to any shortcut in the work. Not every obstacle bent to the deadline. Where the route met the medieval Torre dei Mannelli, the family that owned it [said no to demolition](https://en.wikipedia.org/wiki/Vasari_Corridor), and Vasari's crew built around the tower instead, carrying the passage past it on [projecting stone brackets](https://en.wikipedia.org/wiki/Vasari_Corridor) still visible today. The meat market on the Ponte Vecchio was moved off the bridge soon after, reportedly so its smell would not reach the corridor above; [goldsmiths took over by 1593](https://en.wikipedia.org/wiki/Vasari_Corridor) and have kept it since.",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Anonymous_-_Erzherzogin_Johanna_%281547-1578%29%2C_Gro%C3%9Fherzogin_von_Toskana_im_Alter_von_etwa_9_-_10_Jahren%2C_Brustbild_-_GG_4513_-_Kunsthistorisches_Museum.jpg/960px-Anonymous_-_Erzherzogin_Johanna_%281547-1578%29%2C_Gro%C3%9Fherzogin_von_Toskana_im_Alter_von_etwa_9_-_10_Jahren%2C_Brustbild_-_GG_4513_-_Kunsthistorisches_Museum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "imagePage": "https://en.wikipedia.org/wiki/Joanna_of_Austria,_Grand_Duchess_of_Tuscany"
+    },
+    {
+      "heading": "The Offices Became a Gallery, and a Bomb Nearly Took Both",
+      "body": "Once Francesco succeeded his father, the top floor stopped being bureaucratic overflow and became a showcase: Roman sculpture from the family's collection went up there, and Francesco [commissioned Buontalenti's Tribuna](https://en.wikipedia.org/wiki/Uffizi), an octagonal treasury room finished in 1584 that became a fixture of the Grand Tour. By 1769 the Uffizi had opened to the public outright, and the collection [formally became a museum](https://en.wikipedia.org/wiki/Uffizi) in 1865 rather than a private Medici hoard on semi-public view. It survived two centuries of that slow conversion from government office to picture gallery intact. It came far closer to not surviving a single night in 1993. At 1:04 a.m. on 27 May that year, a car bomb left on Via dei Georgofili by the Sicilian Mafia killed five people — [Fabrizio and Angela Nencioni](https://uffizi.it/en/artworks/documentation-damage-1993-bombing-georgofili), their two daughters, and the student Dario Capolicchio — destroyed the centuries-old tower next door, and tore through the Uffizi's own west wing and the Vasari Corridor above it. The gallery's own count puts the damage at [173 paintings and 56 sculptures](https://uffizi.it/en/artworks/documentation-damage-1993-bombing-georgofili); among the losses was Gerard van Honthorst's Adoration of the Shepherds, [among the most badly burned](https://www.theartnewspaper.com/2021/05/11/a-fatal-mafia-bombing-shook-florence-in-1993now-the-uffizi-is-fixing-damage-to-its-famous-vasari-corridor-with-memorials-of-the-attack). The Corridor itself stayed closed on safety grounds from 2016 until [December 2024](https://en.wikipedia.org/wiki/Vasari_Corridor) — longer, in the end, than the five months it took to build in the first place.",
+      "imageUrl": "",
+      "imagePage": ""
+    }
+  ],
+  "sources": [
+    { "title": "Uffizi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Uffizi" },
+    { "title": "Vasari Corridor — Wikipedia", "url": "https://en.wikipedia.org/wiki/Vasari_Corridor" },
+    { "title": "Giorgio Vasari — Wikipedia", "url": "https://en.wikipedia.org/wiki/Giorgio_Vasari" },
+    { "title": "San Pier Scheraggio — building record, Sepoltuario Fiorentino Digitale (University of Virginia)", "url": "https://sepoltuario.iath.virginia.edu/buildings/66" },
+    { "title": "Florenz: die Ausgrabungen von San Pier Scheraggio — Finestre sull'Arte", "url": "https://www.finestresullarte.info/de/antike-kunst/florenz-die-ausgrabungen-von-san-pier-scheraggio-die-kirche-von-dantes-schwur-offnen" },
+    { "title": "Expropriation records for the Uffizi, 1560–1568 (abstract) — Università di Perugia research archive", "url": "https://research.unipg.it/handle/11391/1539896" },
+    { "title": "Uffizi complex — Early Modern Europe (Carleton College)", "url": "https://earlymoderneurope.hist.sites.carleton.edu/items/show/27" },
+    { "title": "History — Corridoio Vasariano, Uffizi Galleries", "url": "https://uffizi.it/en/corridoio-vasariano/history" },
+    { "title": "A fatal Mafia bombing shook Florence in 1993 — The Art Newspaper", "url": "https://www.theartnewspaper.com/2021/05/11/a-fatal-mafia-bombing-shook-florence-in-1993now-the-uffizi-is-fixing-damage-to-its-famous-vasari-corridor-with-memorials-of-the-attack" },
+    { "title": "Documentation of the damage from the 1993 bombing in Via dei Georgofili — Uffizi Galleries", "url": "https://uffizi.it/en/artworks/documentation-damage-1993-bombing-georgofili" },
+    { "title": "Palazzo degli Uffizi — Digital Imaging Project, Bluffton University", "url": "https://homepages.bluffton.edu/~SULLIVANM/italy/florence/vasariuffizi/vasari.html" }
+  ],
+  "generatedAt": "2026-10-08T04:18:47Z",
+  "model": "claude-sonnet-5"
+}
