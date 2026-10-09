@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "building",
+  "date": "2026-10-15",
+  "subject": {
+    "id": "el-escorial",
+    "name": "El Escorial",
+    "architect": "Juan de Herrera",
+    "year": 1584,
+    "location": "San Lorenzo de El Escorial, Spain",
+    "country": "Spain",
+    "city": "San Lorenzo de El Escorial",
+    "style": "Renaissance",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monasterio_de_El_Escorial_en_Madrid.jpg/1920px-Monasterio_de_El_Escorial_en_Madrid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 1600,
+    "height": 1067,
+    "source": "https://en.wikipedia.org/wiki/El_Escorial",
+    "title": "El Escorial",
+    "author": "Juan de Herrera"
+  },
+  "title": "He Inherited a Monastery Designed in Michelangelo's Rome. He Spent Seventeen Years Erasing the Rome From It.",
+  "standfirst": "Juan Bautista de Toledo trained in the Rome of Michelangelo and Pope Paul III, and drew El Escorial as an Italian basilica of towers and a half-dome. He died with the walls barely up, and the king handed the site to a mathematician who had never designed a building — and who spent the rest of his career taking the Italy back out of it.",
+  "sections": [
+    {
+      "heading": "Toledo Learned to Build in the Rome That Was Building St Peter's",
+      "body": "Juan Bautista de Toledo's early career is patchy even by the standards of sixteenth-century biography. He may have [worked under Michelangelo](https://en.wikipedia.org/wiki/Juan_Bautista_de_Toledo) at the Palazzo Farnese in the 1530s; he may instead, or as well, have trained at St Peter's Basilica under Antonio da Sangallo the Younger. What Spain did with him afterward is clearer. The viceroy of Naples summoned him there as chief royal architect around 1548, and in 1559 Philip II recalled him to Madrid as Arquitecto Real, on a salary of 220 ducats, to design the monastery-palace rising in the Guadarrama foothills. Toledo laid out a Latin-cross basilica with six towers and a half-dome, and watched the cornerstone go in on 23 April 1563. He died four years later, on 19 May 1567, with the walls barely above the ground.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Museo_del_Prado-12-Toledo.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Juan_Bautista_de_Toledo"
+    },
+    {
+      "heading": "The Man Who Replaced Him Had Never Designed Anything",
+      "body": "Juan de Herrera's path to the job ran through a lecture hall, not a workshop. Trained in mathematics and the humanities at Valladolid, he had fought in Charles V's campaigns in Germany, Flanders and Italy, then simply stayed close to the king — accompanying Philip on his travels and drawing diagrams for an astronomy textbook, the [Libro del saber de astronomía](https://en.wikipedia.org/wiki/Juan_de_Herrera), in 1562. His only building credit before El Escorial was work begun at the Royal Palace of Aranjuez in 1561. He joined Toledo's team in 1563 as a subordinate, and when Toledo died, Philip handed him the whole project. The historian Hugh Trevor-Roper put it plainly: Herrera, he wrote, \"had not been trained as an architect at all.\"",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "His First Changes Removed Everything That Looked Italian",
+      "body": "Herrera did not finish Toledo's design; he rewrote it. The six towers anchoring the façade came out. The basilica's Latin cross became a Greek one. The half-dome Toledo had drawn became a full dome, raised on four plain granite piers to nearly 100 metres. None of this contradicted the brief Philip had given his first architect — \"simplicity in the construction, severity in the whole, nobility without arrogance, majesty without ostentation\" — it simply took that brief further than a man trained in Rome had been willing to go. What stands today runs 224 metres by 153, bare granite with a tower and spire at each corner, built to a design finished by a king's mathematician who had spent his twenties as a soldier.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "Even the Floor Plan Became a Legend Nobody Can Confirm",
+      "body": "The popular story ties the whole project to a battlefield vow. Philip's forces beat the French at the [Battle of Saint-Quentin](https://en.wikipedia.org/wiki/Battle_of_St._Quentin_%281557%29) on 10 August 1557 — Saint Lawrence's feast day — and the traditional account has the king ordering a palace built in the shape of a gridiron, the instrument of Lawrence's martyrdom, in thanks. That story is itself disputed. Grid-plan courtyards were not unique to El Escorial — similar layouts appear at buildings like King's College, Cambridge — and the gridiron reading only fully holds once Herrera's six towers were gone from the façade. The explanation now reckoned more persuasive is that the plan echoes descriptions of the Temple of Solomon by the historian Josephus, which would suit a king whose library frescoes dwell on Solomon's wisdom. Both survive because neither can be ruled out.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Emanuele_Filiberto_vince_i_Francesi_a_San_Quintino.png",
+      "imagePage": "https://en.wikipedia.org/wiki/Battle_of_St._Quentin_%281557%29"
+    },
+    {
+      "heading": "Fifteen Hundred Workers, One Foreman, Granite From the Mountain Next Door",
+      "body": "The stone came from the Sierra de Guadarrama, the same range the building backs onto. At its peak the site carried some 1,500 workmen — stonecutters, masons, slate-cutters, carpenters, cabinetmakers — and while Philip II dropped by to make suggestions and occasionally supervise in person, running the site day to day fell to a friar. Antonio de Villacastín, called \"the greater worker of the Monastery,\" handled schedules, materials and accounts alongside Herrera and the carpentry foreman García de Quesada. From the first stone in 1563 to completion in 1584, the job took a little under twenty-one years — long enough that \"la obra de El Escorial,\" the work of the Escorial, became Spanish shorthand for anything that drags on forever.",
+      "imageUrl": "",
+      "imagePage": ""
+    },
+    {
+      "heading": "The One Room Herrera Never Finished Came Out Baroque",
+      "body": "Herrera planned the complex as a necropolis for Charles I, for Philip, and for the dynasty after them, but the crypt beneath the basilica's high altar — now holding twenty-six marble sepulchres — was still unbuilt when he died in 1597. What eventually filled that space is an octagonal Baroque mausoleum, decorated in exactly the manner Herrera had spent his career refusing everywhere else in the building. The library fared worse before it fared better: a fire in 1671 destroyed roughly 5,280 handwritten manuscripts, among them the Visigothic council records and Francisco Hernández's nineteen-volume natural history of the Indies, though the hall of printed books survived. A monk named Antonio de San José then spent twenty-five years reclassifying what was left, some 45,000 items. The severe style Herrera imposed on El Escorial outlived both disasters — he reused it himself at Valladolid Cathedral, and Spanish architects kept building in it for the next century.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Valladolid_Cathedral_2023_-_Main_Fa%C3%A7ade.jpg",
+      "imagePage": "https://en.wikipedia.org/wiki/Valladolid_Cathedral"
+    }
+  ],
+  "sources": [
+    { "title": "El Escorial", "url": "https://en.wikipedia.org/wiki/El_Escorial" },
+    { "title": "Juan de Herrera", "url": "https://en.wikipedia.org/wiki/Juan_de_Herrera" },
+    { "title": "Juan Bautista de Toledo", "url": "https://en.wikipedia.org/wiki/Juan_Bautista_de_Toledo" },
+    { "title": "Battle of St. Quentin (1557)", "url": "https://en.wikipedia.org/wiki/Battle_of_St._Quentin_%281557%29" },
+    { "title": "El Escorial. History, Content, Significance.", "url": "https://spainthenandnow.com/spanish-architecture/el-escorial-history-content-significance" },
+    { "title": "Carpenters and cabinetmakers of the Monastery of San Lorenzo El Real in El Escorial", "url": "https://revistamirabilia.com/node/394" }
+  ],
+  "generatedAt": "2026-10-09T04:19:06Z",
+  "model": "claude-sonnet-5"
+}
